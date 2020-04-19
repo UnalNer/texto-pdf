@@ -1,24 +1,7 @@
 Antiviral Research 177 (2020) 104762
-
-Contents lists available at ScienceDirect
-
-Antiviral Research
-journal homepage: www.elsevier.com/locate/antiviral
-
-Commentary
-
 Of chloroquine and COVID-19
 Franck Touret, Xavier de Lamballerie
 
-T
-
-∗
-
-Unité des Virus Emergents, UVE: Aix Marseille Univ, IRD 190, INSERM 1207, IHU Méditerranée Infection, 13005, Marseille, France
-
-A R T I C LE I N FO
-
-A B S T R A C T
 
 Keywords:
 SARS-CoV-2
@@ -59,9 +42,6 @@ randomized, double-blind, placebo-controlled clinical trial (Paton et al.,
 2011), and had no eﬀect on dengue-infecteds patient in a randomized
 controlled trial in Vietnam (Tricou et al., 2010). Chloroquine was also
 active ex vivo but not in vivo in the case of ebolavirus in mice (Dowall
-
-∗
-
 et al., 2015; Falzarano et al., 2015), Nipah (Pallister et al., 2009) and
 inﬂuenza virus (Vigerust and McCullers, 2007) in ferrets.
 The case of chikungunya virus (CHIKV) is of speciﬁc interest:
@@ -89,167 +69,3 @@ pegylated interferon plus ribavirin (Helal et al., 2016) and, in a small
 sample size pilot trial in non-responder HCV patients, a transient viral
 load reduction (Peymani et al., 2016) were observed. This was not
 enough to include chloroquine in the standardised therapeutic
-
-Corresponding author.
-E-mail addresses: franck.touret@univ-amu.fr (F. Touret), xavier.de-lamballerie@univ-amu.fr (X. de Lamballerie).
-
-https://doi.org/10.1016/j.antiviral.2020.104762
-Received 29 February 2020; Received in revised form 2 March 2020; Accepted 2 March 2020
-Available online 05 March 2020
-0166-3542/ © 2020 Elsevier B.V. All rights reserved.
-
-Antiviral Research 177 (2020) 104762
-
-F. Touret and X. de Lamballerie
-
-protocols for hepatitis C patients.
-Recently, Wang and colleagues (Wang et al., 2020) evaluated in vitro
-ﬁve FDA-approved drugs and two broad spectrum antivirals against a
-clinical isolate of SARS-CoV-2. One of their conclusions was that
-"chloroquine (is) highly eﬀective in the control of 2019-nCoV infection
-in vitro" and that its "safety track record suggests that it should be assessed in human patients suﬀering from the novel coronavirus disease".
-At least 16 diﬀerent trials for SARS-CoV-2 already registered in the
-Chinese
-Clinical
-Trial
-Registry
-(ChiCTR2000029939,
-ChiCTR2000029935,
-ChiCTR2000029899,
-ChiCTR2000029898,
-ChiCTR2000029868,
-ChiCTR2000029837,
-ChiCTR2000029826,
-ChiCTR2000029803,
-ChiCTR2000029762,
-ChiCTR2000029761,
-ChiCTR2000029760,
-ChiCTR2000029741,
-ChiCTR2000029740,
-ChiCTR2000029609, ChiCTR2000029559, ChiCTR2000029542) propose to use chloroquine or hydroxychloroquine in the treatment of
-COVID-19 ("Chinese Clinical Trial Register" (ChiCTR)). In a recent
-publication (Gao et al., 2020), Gao and colleagues indicate that, "according to the news brieﬁng", "results from more than 100 patients have
-demonstrated that chloroquine phosphate is superior to the control
-treatment in inhibiting the exacerbation of pneumonia, improving lung
-imaging ﬁndings, promoting a virus negative conversion, and shortening the disease course".
-This would represent the ﬁrst successful use of chloroquine in humans for the treatment of an acute viral disease, and is undoubtedly
-excellent news, since this drug is cheap and widely available. However,
-it should be considered carefully before drawing deﬁnitive conclusions,
-since no data has been provided yet to support this announcement.
-Results were produced in ten diﬀerent hospitals and possibly from a
-number of diﬀerent clinical protocols among those listed above, which
-include various designs for control groups (none, diﬀerent antivirals,
-placebo, etc.) and various outcome primary indicators. The ﬁnal interpretation is therefore technically demanding, and in the absence of
-published data, it is diﬃcult to reach any ﬁrm conclusion. It will be of
-the utmost importance to know if the observed eﬃcacy is associated
-speciﬁcally with chloroquine phosphate, or if this includes other salts
-(e.g., sulfate) of chloroquine, and hydroxychloroquine. It is also necessary to determine if the beneﬁt of chloroquine therapy depends on
-the age class, the clinical presentation or the stage of the disease.
-In conclusion, the option of using chloroquine in the treatment of
-SARS-CoV-2 should be examined with attention in light of the recent
-promising announcements, but also of the potential detrimental eﬀect
-of the drug observed in previous attempts to treat acute viral diseases.
-We urge Chinese scientists to report the interim trial results currently
-running in China as soon as they are available. This should be preferentially done in a peer-reviewed publication with detailed information to allow the international scientiﬁc community to analyse the results, to conﬁrm in prospective trials the eﬃcacy of the proposed
-treatment and to guide future clinical practice.
-
-0049.
-Delogu, I., de Lamballerie, X., 2011. Chikungunya disease and chloroquine treatment. J.
-Med. Virol. 83, 1058–1059. https://doi.org/10.1002/jmv.22019.
-Dowall, S.D., Bosworth, A., Watson, R., Bewley, K., Taylor, I., Rayner, E., Hunter, L.,
-Pearson, G., Easterbrook, L., Pitman, J., Hewson, R., Carroll, M.W., 2015.
-Chloroquine inhibited Ebola virus replication in vitro but failed to protect against
-infection and disease in the in vivo Guinea pig model. J. Gen. Virol. 96, 3484–3492.
-https://doi.org/10.1099/jgv.0.000309.
-Falzarano, D., Safronetz, D., Prescott, J., Marzi, A., Feldmann, F., Feldmann, H., 2015.
-Lack of protection against ebola virus from chloroquine in mice and hamsters. Emerg.
-Infect. Dis. 21, 1065–1067. https://doi.org/10.3201/eid2106.150176.
-Frisk-Holmberg, M., Bergqvist, Y., Englund, U., 1983. Chloroquine intoxication [letter].
-Br. J. Clin. Pharmacol. 15, 502–503. https://doi.org/10.1111/j.1365-2125.1983.
-tb01540.x.
-Gao, J., Tian, Z., Yang, X., 2020. Breakthrough: chloroquine phosphate has shown apparent eﬃcacy in treatment of COVID-19 associated pneumonia in clinical studies.
-Biosci. Trends. https://doi.org/10.5582/bst.2020.01047.
-Helal, G.K., Gad, M.A., Abd-Ellah, M.F., Eid, M.S., 2016. Hydroxychloroquine augments
-early virological response to pegylated interferon plus ribavirin in genotype-4 chronic
-hepatitis C patients. J. Med. Virol. 88, 2170–2178. https://doi.org/10.1002/jmv.
-24575.
-Inglot, A.D., 1969. Comparison of the antiviral activity in vitro of some non-steroidal antiinﬂammatory drugs. J. Gen. Virol. 4, 203–214. https://doi.org/10.1099/0022-13174-2-203.
-Katz, S.J., Russell, A.S., 2011. Re-evaluation of antimalarials in treating rheumatic diseases: re-appreciation and insights into new mechanisms of action. Curr. Opin.
-Rheumatol. 23, 278–281. https://doi.org/10.1097/BOR.0b013e32834456bf.
-Keyaerts, E., Li, S., Vijgen, L., Rysman, E., Verbeeck, J., Van Ranst, M., Maes, P., 2009.
-Antiviral activity of chloroquine against human coronavirus OC43 infection in
-newborn mice. Antimicrob. Agents Chemother. 53, 3416–3421. https://doi.org/10.
-1128/AAC.01509-08.
-Keyaerts, E., Vijgen, L., Maes, P., Neyts, J., Ranst, M.V., 2004. In vitro inhibition of severe
-acute respiratory syndrome coronavirus by chloroquine. Biochem. Biophys. Res.
-Commun. 323, 264–268. https://doi.org/10.1016/j.bbrc.2004.08.085.
-Li, C., Zhu, X., Ji, X., Quanquin, N., Deng, Y.-Q., Tian, M., Aliyari, R., Zuo, X., Yuan, L.,
-Afridi, S.K., Li, X.-F., Jung, J.U., Nielsen-Saines, K., Qin, F.X.-F., Qin, C.-F., Xu, Z.,
-Cheng, G., 2017. Chloroquine, a FDA-approved drug, prevents Zika virus infection
-and its associated congenital microcephaly in mice. EBioMedicine 24, 189–194.
-https://doi.org/10.1016/j.ebiom.2017.09.034.
-Maheshwari, R.K., Srikantan, V., Bhartiya, D., 1991. Chloroquine enhances replication of
-Semliki Forest virus and encephalomyocarditis virus in mice. J. Virol. 65, 992–995.
-Miller, D.K., Lenard, J., 1981. Antihistaminics, local anesthetics, and other amines as
-antiviral agents. Proc. Natl. Acad. Sci. U.S.A. 78, 3605–3609. https://doi.org/10.
-1073/pnas.78.6.3605.
-Pallister, J., Middleton, D., Crameri, G., Yamada, M., Klein, R., Hancock, T.J., Foord, A.,
-Shiell, B., Michalski, W., Broder, C.C., Wang, L.-F., 2009. Chloroquine administration
-does not prevent Nipah virus infection and disease in ferrets. J. Virol. 83,
-11979–11982. https://doi.org/10.1128/JVI.01847-09.
-Paton, N.I., Lee, L., Xu, Y., Ooi, E.E., Cheung, Y.B., Archuleta, S., Wong, G., Wilder-Smith,
-A., Smith, A.W., 2011. Chloroquine for inﬂuenza prevention: a randomised, doubleblind, placebo controlled trial. Lancet Infect. Dis. 11, 677–683. https://doi.org/10.
-1016/S1473-3099(11)70065-2.
-Peymani, P., Yeganeh, B., Sabour, S., Geramizadeh, B., Fattahi, M.R., Keyvani, H.,
-Azarpira, N., Coombs, K.M., Ghavami, S., Lankarani, K.B., 2016. New use of an old
-drug: chloroquine reduces viral and ALT levels in HCV non-responders (a randomized, triple-blind, placebo-controlled pilot trial). Can. J. Physiol. Pharmacol. 94,
-613–619. https://doi.org/10.1139/cjpp-2015-0507.
-Roques, P., Thiberville, S.-D., Dupuis-Maguiraga, L., Lum, F.-M., Labadie, K., Martinon,
-F., Gras, G., Lebon, P., Ng, L.F.P., de Lamballerie, X., Le Grand, R., 2018. Paradoxical
-eﬀect of chloroquine treatment in enhancing chikungunya virus infection. Viruses 10.
-https://doi.org/10.3390/v10050268.
-Savarino, A., Boelaert, J.R., Cassone, A., Majori, G., Cauda, R., 2003. Eﬀects of chloroquine on viral infections: an old drug against today's diseases. Lancet Infect. Dis. 3,
-722–727. https://doi.org/10.1016/S1473-3099(03)00806-5.
-Seth, P., Mani, H., Singh, A.K., Banaudha, K.K., Madhavan, S., Sidhu, G.S., Gaddipati, J.P.,
-Vogel, S.N., Maheshwari, R.K., 1999. Acceleration of viral replication and up-regulation of cytokine levels by antimalarials: implications in malaria-endemic areas.
-Am. J. Trop. Med. Hyg. 61, 180–186. https://doi.org/10.4269/ajtmh.1999.61.180.
-Shimizu, Y., Yamamoto, S., Homma, M., Ishida, N., 1972. Eﬀect of chloroquine on the
-growth of animal viruses. Arch. Gesamte Virusforsch. 36, 93–104. https://doi.org/10.
-1007/bf01250299.
-Tan, Y.W., Yam, W.K., Sun, J., Chu, J.J.H., 2018. An evaluation of chloroquine as a broadacting antiviral against hand, foot and mouth disease. Antivir. Res. 149, 143–149.
-https://doi.org/10.1016/j.antiviral.2017.11.017.
-Tricou, V., Minh, N.N., Van, T.P., Lee, S.J., Farrar, J., Wills, B., Tran, H.T., Simmons, C.P.,
-2010. A randomized controlled trial of chloroquine for the treatment of dengue in
-Vietnamese adults. PLoS Neglected Trop. Dis. 4, e785. https://doi.org/10.1371/
-journal.pntd.0000785.
-Vigerust, D.J., McCullers, J.A., 2007. Chloroquine is eﬀective against inﬂuenza A virus in
-vitro but not in vivo. Inﬂuenza Other Respir. Viruses 1, 189–192. https://doi.org/10.
-1111/j.1750-2659.2007.00027.x.
-Wang, M., Cao, R., Zhang, L., Yang, X., Liu, J., Xu, M., Shi, Z., Hu, Z., Zhong, W., Xiao, G.,
-2020. Remdesivir and chloroquine eﬀectively inhibit the recently emerged novel
-coronavirus (2019-nCoV) in vitro. Cell Res. 1–3. https://doi.org/10.1038/s41422020-0282-0.
-Yan, Y., Zou, Z., Sun, Y., Li, X., Xu, K.-F., Wei, Y., Jin, N., Jiang, C., 2013. Anti-malaria
-drug chloroquine is highly eﬀective in treating avian inﬂuenza A H5N1 virus infection in an animal model. Cell Res. 23, 300–302. https://doi.org/10.1038/cr.2012.
-165.
-
-References
-Chauhan, A., Tikoo, A., 2015. The enigma of the clandestine association between chloroquine and HIV-1 infection. HIV Med. 16, 585–590. https://doi.org/10.1111/hiv.
-12295.
-Chinese Clinical Trial Register (ChiCTR) The world health organization international
-clinical trials registered organization registered platform. accessed 3.1.20. http://
-www.chictr.org.cn/enIndex.aspx.
-Colson, P., Rolain, J.-M., Raoult, D., 2020. Chloroquine for the 2019 novel coronavirus
-SARS-CoV-2. Int. J. Antimicrob. Agents. https://doi.org/10.1016/j.ijantimicag.2020.
-105923. 105923.
-Connolly, K.M., Stecher, V.J., Danis, E., Pruden, D.J., LaBrie, T., 1988. Alteration of interleukin-1 activity and the acute phase response in adjuvant arthritic rats treated
-with disease modifying antirheumatic drugs. Agents Actions 25, 94–105. https://doi.
-org/10.1007/bf01969100.
-Coombs, K., Mann, E., Edwards, J., Brown, D.T., 1981. Eﬀects of chloroquine and cytochalasin B on the infection of cells by Sindbis virus and vesicular stomatitis virus. J.
-Virol. 37, 1060–1065.
-De Lamballerie, X., Boisson, V., Reynier, J.-C., Enault, S., Charrel, R.N., Flahault, A.,
-Roques, P., Le Grand, R., 2008. On chikungunya acute infection and chloroquine
-treatment. Vector Borne Zoonotic 8, 837–839. https://doi.org/10.1089/vbz.2008.
-
-2
-
-

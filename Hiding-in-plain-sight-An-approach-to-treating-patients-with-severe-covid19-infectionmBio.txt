@@ -1,32 +1,19 @@
-﻿COMMENTARY
-Therapeutics and Prevention
+﻿Therapeutics and Prevention
 
 crossm
 Hiding in Plain Sight: an Approach to Treating Patients with
 Severe COVID-19 Infection
 David S. Fedson,a Steven M. Opal,b Ole Martin Rordamc
-a
-
-Downloaded from http://mbio.asm.org/ on April 11, 2020 by guest
-
 57, chemin du Lavoir, Sergy Haut, France
-
-b
-
 Department of Medicine, Warren Alpert Medical School of Brown University, Providence, Rhode Island, USA
 
-
-Fyordgata 59, Trondheim, Norway
-
-ABSTRACT Patients with COVID-19 infection are at risk of acute respiratory disease
+Patients with COVID-19 infection are at risk of acute respiratory disease
 syndrome (ARDS) and death. The tissue receptor for COVID-19 is ACE2, and higher
 levels of ACE2 can protect against ARDS. Angiotensin receptor blockers and statins
 upregulate ACE2. Clinical trials are needed to determine whether this drug combination might be used to treat patients with severe COVID-19 infection.
 KEYWORDS COVID-19, endothelial dysfunction, generic drugs, host response
 
-treatment
-
-The severe respiratory disease that has recently emerged in China is caused by a
+treatment The severe respiratory disease that has recently emerged in China is caused by a
 novel coronavirus (COVID-19) (1). The virus is similar to the SARS coronavirus that
 spread internationally in 2003, infected more than 8,000 people, and killed almost 800.
 Infection with COVID-19 has now spread throughout the world, causing widespread
@@ -58,138 +45,3 @@ expensive vaccines are being used. Investigational monoclonal antibody preparati
 (12), but not inexpensive generic drug treatments (13), have been tested. There are
 March/April 2020 Volume 11 Issue 2 e00398-20
 
-Citation Fedson DS, Opal SM, Rordam OM.
-2020. Hiding in plain sight: an approach to
-treating patients with severe COVID-19
-infection. mBio 11:e00398-20. https://doi.org/
-10.1128/mBio.00398-20.
-Copyright © 2020 Fedson et al. This is an
-open-access article distributed under the terms
-of the Creative Commons Attribution 4.0
-International license.
-Address correspondence to David S. Fedson,
-davidsfedson@gmail.com.
-The views expressed in this article do not
-necessarily reﬂect the views of the journal or
-of ASM.
-Published 20 March 2020
-
-
-ACKNOWLEDGMENT
-We declare no conﬂicts of interest. No funding was provided to support the
-preparation of this article.
-
-REFERENCES
-1. Chen Y, Liu Q, Guo D. 2020. Emerging coronaviruses: genome structure,
-replication, and pathogenesis. J Med Virol 92:418 – 423. https://doi.org/
-10.1002/jmv.25681.
-2. Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z,
-Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. 7 February 2020. Clinical
-characteristics of 138 hospitalized patients with 2019 novel coronavirusinfected pneumonia in Wuhan, China. JAMA https://doi.org/10.1001/
-jama.2020.1585.
-3. The Novel Coronavirus Pneumonia Emergency Response Epidemiology
-Team. 2020. The epidemiological characteristics of an outbreak of 2019
-novel coronavirus diseases (COVID-19)—China, 2020. China CDC Weekly
-2:113–122. http://weekly.chinacdc.cn/en/article/id/e53946e2-c6c4-41e9
--9a9b-fea8db1a8f51. Accessed 18 February 2020.
-4. Fedson DS. 2015. A practical treatment for patients with Ebola virus
-disease. J Infect Dis 21:661– 662. https://doi.org/10.1093/infdis/jiu474.
-5. Shyamsundar M, McKeown STW, O’Kane CM, Craig TR, Brown V, Thickett
-DR, Matthay MA, Taggart CC, Backman JT, Elborn JS, McAuley DF. 2009.
-Simvastatin decreases lipopoly-saccharide-induced pulmonary inﬂammation in healthy volunteers. Am J Respir Crit Care Med 179:1107–1114.
-https://doi.org/10.1164/rccm.200810-1584OC.
-6. Chen W, Sharma R, Rizzo AN, Siegler JH, Garcia JG, Jacobson JR. 2014.
-Role of claudin-5 in the attenuation of murine acute lung injury by
-simvastatin. Am J Respir Cell Mol Biol 50:328 –336. https://doi.org/10
-.1165/rcmb.2013-0058OC.
-7. Shen L, Mo H, Cai L, Kong T, Zheng W, Ye J, Qi J, Xiao Z. 2009. Losartan
-prevents sepsis-induced acute lung injury and decreases activation of
-nuclear factor kappaB and mitogen-activated protein kinases. Shock
-3:500 –506. https://doi.org/10.1097/SHK.0b013e318189017a.
-8. Li Y, Cao Y, Zeng Z, Liang M, Xue Y, Xi C, Zhou M, Jiang W. 2015.
-Angiotensin-converting enzyme 2/angiotensin-(1–7)/Mas axis prevents
-lipopolysaccharide-induced apoptosis of pulmonary microvascular endothelial cells by inhibiting JNK/NF-␬B pathways. Sci Rep 5:8209. https://
-doi.org/10.1038/srep08209.
-9. Fedson DS. 2016. Treating the host response to emerging virus diseases:
-March/April 2020 Volume 11 Issue 2 e00398-20
-
-lessons learned from sepsis, pneumonia, inﬂuenza and Ebola. Ann Transl
-Med 4:421. https://doi.org/10.21037/atm.2016.11.03.
-Fedson DS, Jacobson JR, Rordam OM, Opal SM. 2015. Treating the host
-response to Ebola virus disease with generic statins and angiotensin receptor blockers. mBio 6:e00716-15. https://doi.org/10.1128/mBio.00716-15.
-Fedson DS, Rordam OM. 2015. Treating Ebola patients: a ‘bottom up’
-approach using generic statins and angiotensin receptor blockers. Int J
-Infect Dis 36:80 – 84. https://doi.org/10.1016/j.ijid.2015.04.019.
-Mulangu S, Dodd LE, Davey RT, Jr, Tshiani Mbaya O, Proschan M, Mukadi
-D, Lusakibanza Manzo M, Nzolo D, Tshomba Oloma A, Ibanda A, Ali R,
-Coulibaly S, Levine AC, Grais R, Diaz J, Lane HC, Muyembe-Tamfum JJ,
-PALM Writing Group, Sivahera B, Camara M, Kojan R, Walker R, DigheroKemp B, Cao H, Mukumbayi P, Mbala-Kingebeni P, Ahuka S, Albert S,
-Bonnett T, Crozier I, Duvenhage M, Profﬁtt C, Teitelbaum M, Moench T,
-Aboulhab J, Barrett K, Cahill K, Cone K, Eckes R, Hensley L, Herpin B,
-Higgs E, Ledgerwood J, Pierson J, Smolskis M, Sow Y, Tierney J, Sivapalasingam S, Holman W, Gettinger N, Vallée D, Nordwall J, PALM
-Consortium Study Team. 2019. A randomized, controlled trial of Ebola
-virus disease therapeutics. N Engl J Med 381:2293–2303. https://doi.org/
-10.1056/NEJMoa1910993.
-Fedson DS. 2019. Treating Ebola in eastern DRC. Lancet Infect Dis
-19:1059 –1060. https://doi.org/10.1016/S1473-3099(19)30484-0.
-Wösten-van Asperen RM, Lutter R, Specht PA, Moll GN, van Woensel JB,
-van der Loos CM, van Goor H, Kamilic J, Florquin S, Bos AP. 2011. Acute
-respiratory distress syndrome leads to reduced ratio of ACE/ACE2 activities and is prevented by angiotensin-(1–7) or an angiotensin II receptor
-antagonist. J Pathol 225:618 – 627. https://doi.org/10.1002/path.2987.
-Tikoo K, Patel G, Kumar S, Karpe PA, Sanghavi M, Malek V, Srinivasan K. 2015.
-Tissue speciﬁc up regulation of ACE2 in rabbit model of atherosclerosis by
-atorvastatin: role of epigenetic histone modiﬁcations. Biochem Pharmacol
-93:343–351. https://doi.org/10.1016/j.bcp.2014.11.013.
-Wösten-van Asperen RM, Bos AP, Bem RA, Dierdorp BS, Dekker T, van
-Goor H, Kamilic J, van der Loos CM, van den Berg E, Bruijn M, van
-Woensel JB, Lutter R. 2013. Imbalance between pulmonary angiotensinmbio.asm.org 2
-
-Downloaded from http://mbio.asm.org/ on April 11, 2020 by guest
-
-preliminary signs that the DRC outbreak is coming under control, although the case
-fatality rate is still 66%.
-An approach to treating patients with severe COVID-19 infection might be hiding in
-plain sight. The tissue receptor for the virus is ACE2, which is also the receptor for the
-SARS coronavirus (1). Several years ago, investigators in the Netherlands and elsewhere
-showed that ARBs and statins upregulate the activity of ACE2 (14, 15), and higher levels
-of ACE2 are associated with a reduced severity of ARDS (16). Both statins and ARBs
-target the host response to infection, not the virus (9). They act largely (although not
-exclusively) on endothelial dysfunction, which is a common feature of many virus
-infections (17). Both drugs counter endothelial dysfunction by affecting the ACE2/
-angiotensin-(1–7)/Mas and angiopoietin/Tie-2 signaling axes (9). Combination treatment with these two drugs appears to accelerate a return to homeostasis, allowing
-patients to recover on their own.
-The host response is a major determinant of the pathogenesis of infectious diseases
-(18). We believe that investigators in China and elsewhere should undertake studies of
-patients with severe COVID-19 infection to determine whether targeting the host
-response with widely available and inexpensive generic drugs, like ARBs and statins, will
-improve their chances of survival. The studies would not have to be large; a successful
-clinical trial might require only 100 patients (9). Convincing evidence of the effectiveness of this treatment would suggest a syndromic approach to treating patients with
-other emerging infectious diseases, like Ebola and pandemic inﬂuenza, as well as
-everyday illnesses, like sepsis and pneumonia (19). The long-term beneﬁts of these
-ﬁndings for global public health could be immense.
-
-®
-
-Commentary
-
-converting enzyme and angiotensin-converting enzyme 2 activity in
-acute respiratory distress syndrome. Pediatr Crit Care Med 14:
-e438 – e441. https://doi.org/10.1097/PCC.0b013e3182a55735.
-17. Steinberg BE, Goldenberg NM, Lee WL. 2012. Do viral infections mimic
-bacterial sepsis? The role of microvascular permeability: a review of
-mechanisms and methods. Antiviral Res 93:2–15. https://doi.org/10
-.1016/j.antiviral.2011.10.019.
-
-18. Pirofski LA, Casadevall A. 2018. The Damage-Response Framework as a
-tool for the physician-scientist to understand the pathogenesis of infectious diseases. J Infect Dis 218(Suppl 1):S7–S11. https://doi.org/10.1093/
-infdis/jiy083.
-19. Fedson DS. 2018. Clinician-initiated research on treating the host response to pandemic inﬂuenza. Hum Vaccin Immunother 14:790 –795.
-https://doi.org/10.1080/21645515.2017.1378292.
-
-Downloaded from http://mbio.asm.org/ on April 11, 2020 by guest
-
-March/April 2020 Volume 11 Issue 2 e00398-20
-
-mbio.asm.org 3
-
-
