@@ -1,21 +1,7 @@
-Current Medical Science
-Current
-Medical Science 40(2):2020
-DOI
-https://doi.org/10.1007/s11596-020-2173-5
-
-40(2):1-4,2020
-
-1
-
-Preliminary Recommendations for Surgical Practice of Neurosurgery
-Department in the Central Epidemic Area of 2019 Coronavirus Infection
+Preliminary Recommendations for Surgical Practice of Neurosurgery Department in the Central Epidemic Area of 2019 Coronavirus Infection
 Yu-tang TAN, Jun-wen WANG, Kai ZHAO, Lin HAN, Hua-qiu ZHANG, Hong-quan NIU, Kai SHU#, Ting LEI#
-Department of Neurosurgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology,
-Wuhan 430030, China
-Huazhong University of Science and Technology 2020
 
-Summary: Since December 2019, an outbreak of coronavirus disease 2019 (COVID-19) has
+Since December 2019, an outbreak of coronavirus disease 2019 (COVID-19) has
 posed significant threats to the public health and life in China. Unlike the other 6 identified
 coronaviruses, the SARS-Cov-2 has a high infectious rate, a long incubation period and a variety
 of manifestations. In the absence of effective treatments for the virus, it becomes extremely urgent
@@ -25,9 +11,7 @@ and drafted several recommendations based on the latest relevant guidelines and 
 These recommendations have helped us until now to achieve ‘zero infection’ of doctors and nurses
 in our department, we would like to share them with other medical staff of neurosurgery to fight
 2019-nCoV infection.
-Key words: SARS-CoV-2; Neurosurgery; Diagnosis; Treatment; Prevention
 
-1 INTRODUCTION
 Since December 2019, several cases of atypical
 pneumonia have been reported in Wuhan. On January
 2020, a novel coronavirus was identified by the Chinese
@@ -52,9 +36,6 @@ Retrospective studies revealed that the typical
 clinical manifestations were fever, cough, and dyspnea.
 However, a number of patients only presented initially
 Yu-tang TAN, E-mail: 5364478@qq.com
-#
-Corresponding authors, Kai SHU, E-mail: Kshu@tjh.tjmu.
-edu.cn; Ting LEI, E-mail: tlei@tjh.tjmu.edu.cn
 
 with gastrointestinal symptoms. Evidence has shown
 that human-to-human transmission of SARS-CoV-2
@@ -85,8 +66,6 @@ on the basis of conventional treatment guidelines and
 clinical experiences. These recommendations have
 helped us until now to achieve ‘zero infection’ of
 doctors and nurses in our department, we would like to
-
-2
 share with other medical staff of neurosurgery to fight
 novel coronavirus infection.
 2 Recommendations for the management of patients
@@ -108,172 +87,3 @@ tumors. These patients were documented and followedup through phone call.
 A pulmonary computed tomography (CT) scan
 and nucleic acid sequencing of throat swab were
 recommended for preliminary diagnosis of COVID-19
-
-Current Medical Science 40(2):2020
-
-infection before hospitalization. Patients with positive
-results were identified to be confirmed cases and patients
-with preliminary negative results were considered to be
-suspected cases. However, these examinations should
-be canceled and a direct emergency surgery should be
-performed for patients under life-threating condition.
-Patients without immediate life-threating were
-transferred to the neurosurgery ward through special
-lane to avoid cross infection.
-The neurosurgery ward was divided into several
-areas: patient rooms were regarded as infected area,
-while nurse station and doctor office were considered
-to be clean area. Patient rooms were further divided
-into two partitions for suspected cases and confirmed
-cases. Individual accommodation was recommended
-for all patients and rigorous quarantine should be
-applied to the confirmed cases. Daily sterilization was
-performed for each single room. Doctors and nurses
-must take strict third level protection before entering
-patient rooms. Regular preoperative neuroimaging
-and laboratory examinations were performed after
-hospitalization. We must emphasize that a consultation
-from anesthesiologists and perioperative nurses was
-necessary to decide the date of operation and the intraoperative cooperation strategies (fig. 1).
-
-Fig. 1 Preoperative evaluation and management for patients with CNS diseases under COVID-19 situation
-
-3
-
-Current Medical Science 40(2):2020
-
-2.2 Intraoperative management
-As mentioned above, the surgical strategies
-were decided preoperatively. Operations should be
-performed in special negative pressure suction room.
-The operation room was assumed to be polluted/infected
-area. On that day of surgery, neurosurgeons performed
-strict sterilization and wore third level protection, then
-entered the operative room with anesthesiologists and
-perioperative nurses for preparation of subsequent
-surgical procedures. Meanwhile, patients were applied
-to necessary protection by special medical assistant and
-then transferred to the waiting room of operative unit,
-where the patients were handed over to perioperative
-nurses.
-After anesthetic intubation, surgical sterilization
-was performed by neurosurgeons. All surgical clothes,
-surgical kit and surgical shields should be disposable
-
-items. Senior neurosurgeons were preferred to shorten
-the operation duration. For complicated operations,
-one or two neurosurgeons should be backed up for
-rotation. Double surgical gloves were recommended
-for neurosurgeons to avoid infection due to glove
-ruptures. We suggested that the speed of drilling
-should be slowed to reduce skull bone aerosols. All
-surgical procedures should be accomplished according
-to preoperative strategies to reduce intraoperative
-bleeding and to shorten the operation duration.
-After the operations were finished, the patients
-were transferred to the waiting room of operative
-unit, where the special medical assistant took over
-and subsequently transferred the patients back to the
-neurosurgery ward. All postoperative patients should be
-regarded as suspected cases and should be quarantined
-for at least 2 weeks (fig. 2).
-
-Fig. 2 Intraoperative management of patients with CNS disease under COVID-19 situation
-
-2.3 Postoperative management
-All postoperative patients should be assumed to be
-suspected cases and quarantined for at least 2 weeks.
-Pulmonary CT scan and nucleic acid sequencing
-of throat swab should be repeated at least 3 times
-(in 2 weeks) after operation. The conditions of most
-postoperative patients of neurosurgery were critical. The
-monitoring and ventilator were necessary equipment
-for postoperative supportive care. The air ducts of
-ventilator should be daily replaced. Nutrition support
-
-was important for maintaining immunological function
-and reducing the possibility of virus and bacterial
-infection. If the pulmonary CT scan and nucleic acid
-sequencing of throat swab were negative for COVID-19
-after 2 weeks, the quarantine could be terminated and
-patients were transferred to patient rooms of suspected
-cases. The recovery patients without COVID-19 would
-be transferred to neurosurgery recovery ward located
-on another floor.
-
-4
-
-Current Medical Science 40(2):2020
-
-3 CONCLUSIONS
-The outbreak of COVID-19 raises great challenges
-for medical work. Currently there is a lack of definite
-and effective treatment. The medical workers and
-public should be cautious in preventing and controlling
-the disease. The condition of patients with CNS
-emergency diseases is usually critical. As the largest
-neurosurgery department in central epidemic area, we
-integrate and redistribute the present resources to adapt
-the crisis situation. The recommendations above are
-drafted on the basis of our clinical experience and the
-latest relevant guidelines. We hope these proposals will
-be helpful to other neurosurgery staff. The suggestions
-and corrections from colleagues will be welcomed.
-With all the efforts, I do believe that we will finally
-win in this ‘white war’ against COVID-19.
-Conflict of Interest Statement
-None.
-
-REFERENCES
-1
-
-2
-3
-
-Chen N, Zhou M, Dong X, et al. Epidemiological
-and clinical characteristics of 99 cases of 2019 novel
-coronavirus pneumonia in Wuhan, China: a descriptive
-study. Lancet, 2020,395(10223):507-513
-Wu F, Zhao S, Yu B, et al. A new coronavirus associated
-with human respiratory disease in China. Nature, 2020.
-[Epub ahead of print].
-Pan X, Ojcius DM, Gao T, et al. Lessons learned from
-the 2019-nCoV epidemic on prevention of future
-infectious diseases. Microbes Infect, 2020. [Epub ahead
-
-of print].
-Sun P, Lu X, Xu C, et al. Understanding of COVID-19
-based on current evidence. J Med Virol, 2020. [Epub
-ahead of print].
-5 Zhao WM, Song SH, Chen ML, et al. The 2019 novel
-coronavirus resource. Yi Chuan, 2020,42(2):212-221
-6 Lu R, Zhao X, Li J, et al. Genomic characterisation and
-epidemiology of 2019 novel coronavirus: implications
-for virus origins and receptor binding. Lancet, 2020,
-395(10224):565-574
-7 Ralph R, Lew J, Zeng T, et al. 2019-nCoV (Wuhan virus),
-a novel Coronavirus: human-to-human transmission,
-travel-related cases, and vaccine readiness. J Infect Dev
-Ctries, 2020,14(1):3-17
-8 Wang D, Hu B, Hu C, et al. Clinical Characteristics of
-138 Hospitalized Patients With 2019 Novel CoronavirusInfected Pneumonia in Wuhan, China. JAMA, 2020.
-[Epub ahead of print].
-9 Lai CC, Shih TP, Ko WC, et al. Severe acute respiratory
-syndrome coronavirus 2 (SARS-CoV-2) and coronavirus
-disease-2019 (COVID-19): The epidemic and the
-challenges. Int J Antimicrob Agents, 2020:105924
-10 Ai T, Yang Z, Hou H, et al. Correlation of Chest CT
-and RT-PCR Testing in Coronavirus Disease 2019
-(COVID-19) in China: A Report of 1014 Cases.
-Radiology, 2020:200642
-11 Shanmugaraj B, Malla A, Phoolcharoen W.Emergence
-of Novel Coronavirus 2019-nCoV: Need for Rapid
-Vaccine and Biologics Development. Pathogens,
-2020,9(2):148-150
-12 Kwok KO, Wong V, Wei VWI, et al. Novel coronavirus
-(2019-nCoV) cases in Hong Kong and implications for
-further spread. J Infect, 2020. [Epub ahead of print].
-(Received Feb. 29, 2020; revised Mar. 3, 2020)
-4
-
-

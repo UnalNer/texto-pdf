@@ -1,53 +1,6 @@
-ARTICLE IN PRESS
-
-JID: ANTAGE
-
-[m5G;March 29, 2020;18:1]
-
-International Journal of Antimicrobial Agents xxx (xxxx) xxx
-
-Contents lists available at ScienceDirect
-
-International Journal of Antimicrobial Agents
-journal homepage: www.elsevier.com/locate/ijantimicag
-
-Hot topic
-
 Teicoplanin: an alternative drug for the treatment of COVID-19?
 Sophie Alexandra Baron a, Christian Devaux b, Philippe Colson a, Didier Raoult a,c,
 Jean-Marc Rolain a,c,∗
-a
-
-Aix-Marseille Université, IRD, APHM, MEPHI, Faculté de Médecine et de Pharmacie, 19–21 boulevard Jean Moulin, 13385 Marseille Cedex 05, France
-Aix-Marseille Université, IRD, APHM, VITROME, Faculté de Médecine et de Pharmacie, 19–21 boulevard Jean Moulin, 13385 Marseille Cedex 05, France
-c
-IHU–Méditerranée Infection, 19–21 boulevard Jean Moulin, 13385 Marseille Cedex 05, France
-b
-
-a r t i c l e
-
-i n f o
-
-Article history:
-Received 4 March 2020
-Accepted 9 March 2020
-Available online xxx
-Keywords:
-SARS-CoV-2
-Drug repurposing
-Teicoplanin
-COVID-19
-
-a b s t r a c t
-In December 2019, a novel coronavirus, named severe acute respiratory syndrome coronavirus 2 (SARSCoV-2), emerged from China causing pneumonia outbreaks, ﬁrst in the Wuhan region of China and then
-spread worldwide because of its probable high transmission eﬃciency. Owing to the lack of eﬃcient and
-speciﬁc treatments and the need to contain the epidemic, drug repurposing appears to be the best tool to
-ﬁnd a therapeutic solution. Chloroquine, remdesivir, lopinavir, ribavirin and ritonavir have shown eﬃcacy
-to inhibit coronavirus in vitro. Teicoplanin, an antibiotic used to treat staphylococcal infections, previously
-showed eﬃcacy to inhibit the ﬁrst stage of the Middle East respiratory syndrome coronavirus (MERS-CoV)
-viral life cycle in human cells. This activity is conserved against SARS-Cov-2, thus placing teicoplanin as
-a potential treatment for patients with this virus.
-© 2020 Elsevier B.V. and International Society of Chemotherapy. All rights reserved.
 
 In December 2019, a novel coronavirus emerged from China
 causing pneumonia outbreaks, ﬁrst in the Wuhan region of China
@@ -68,7 +21,6 @@ identify therapeutic drugs with a known safety proﬁle to treat
 an emerging disease. Chloroquine/hydroxychloroquine, a front-line
 drug used in the treatment and prophylaxis of malaria as well
 
-∗
 Corresponding author. Present address: Aix-Marseille Université, IRD, APHM,
 MEPHI, IHU–Méditerranée Infection, Faculté de Médecine et de Pharmacie, 19–21
 boulevard Jean Moulin, 13385 Marseille Cedex 05, France. Tel.: +33 4 13 73 24 01.
@@ -93,74 +45,3 @@ preventing the release of genomic viral RNA and continuation of
 the virus replication cycle [8]. A recent study by the same authors
 showed that this activity was conserved against SARS-Cov-2 (the
 target sequence that serves as the cleavage site for cathepsin L is
-
-https://doi.org/10.1016/j.ijantimicag.2020.105944
-0924-8579/© 2020 Elsevier B.V. and International Society of Chemotherapy. All rights reserved.
-
-Please cite this article as: S.A. Baron, C. Devaux and P. Colson et al., Teicoplanin: an alternative drug for the treatment of COVID-19?
-International Journal of Antimicrobial Agents, https://doi.org/10.1016/j.ijantimicag.2020.105944
-
-ARTICLE IN PRESS
-
-JID: ANTAGE
-2
-
-[m5G;March 29, 2020;18:1]
-
-S.A. Baron, C. Devaux and P. Colson et al. / International Journal of Antimicrobial Agents xxx (xxxx) xxx
-
-conserved among SARS-CoV spike protein) [7]. The concentration
-of teicoplanin required to inhibit 50% of viruses (IC50 ) in vitro was
-1.66 μM, which is much lower than the concentration reached in
-human blood (8.78 μM for a daily dose of 400 mg) [7]. These preliminary results now need to be conﬁrmed in a randomised clinical
-trial.
-Based on our experience of teicoplanin use in the treatment
-of infectious diseases, we encourage further investigation of the
-antiviral effect of this molecule on SARS-CoV-2 and suggest teicoplanin as another potential alternative for the treatment of
-COVID-19.
-Declarations
-Funding: This work was supported by the French Government
-under the ‘Investissements d’avenir’ (Investments for the Future)
-programme managed by the Agence Nationale de la Recherche
-(ANR) [reference: Méditerranée Infection 10-IAHU-03]. This work
-was supported by Région Provence Alpes Côte d’Azur and European
-funding FEDER PRIMI.
-Competing Interests: None declared.
-
-[2] Lai C-C, Shih T-P, Ko W-C, Tang H-J, Hsueh P-R. Severe acute respiratory
-syndrome coronavirus 2 (SARS-CoV-2) and coronavirus disease-2019 (COVID19): the epidemic and the challenges. Int J Antimicrob Agents 2020:105924.
-doi:10.1016/j.ijantimicag.2020.105924.
-[3] Devaux CA, Rolain J-M, Colson P, Raoult D. New insights on the antiviral effects of chloroquine against coronavirus: what to expect for COVID-19? Int J
-Antimicrob Agents 2020 Forthcoming.
-[4] Wang M, Cao R, Zhang L, Yang X, Liu J, Xu M, et al. Remdesivir and chloroquine
-effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro.
-Cell Res 2020;30:269–71. doi:10.1038/s41422- 020- 0282- 0.
-[5] Colson P, Rolain J-M, Raoult D. Chloroquine for the 2019 novel coronavirus
-SARS-CoV-2. Int J Antimicrob Agents 2020:105923. doi:10.1016/j.ijantimicag.
-2020.105923.
-[6] Ko W-C, Rolain J-M, Lee N-Y, Chen P-L, Huang C-T, Lee P-I, et al. Remdesivir
-for SARS-CoV-2 pneumonia. Int J Antimicrob Agents 2020 Forthcoming.
-[7] Zhang J, Ma X, Yu F, Liu J, Zou F, Pan T, et al. Teicoplanin potently blocks the
-cell entry of 2019-nCoV. bioRxiv 2020 Feb 13. doi:10.1101/2020.02.05.935387.
-[8] Zhou N, Pan T, Zhang J, Li Q, Zhang X, Bai C, et al. Glycopeptide antibiotics
-potently inhibit cathepsin L in the late endosome/lysosome and block the entry of Ebola virus, Middle East respiratory syndrome coronavirus (MERS-CoV),
-and severe acute respiratory syndrome coronavirus (SARS-CoV). J Biol Chem
-2016;291:9218–32. doi:10.1074/jbc.M116.716100.
-[9] Colson P, Raoult D. Fighting viruses with antibiotics: an overlooked path. Int J
-Antimicrob Agents 2016;48:349–52. doi:10.1016/j.ijantimicag.2016.07.004.
-[10] Pan T, Zhou N, Zhang H. Use of teicoplanin anti-Middle East respiratory
-syndrome coronavirus. WIPO PatentScope; 2015. Publication number:
-WO/2016/201692 https://patentscope.wipo.int/search/en/detail.jsf;jsessionid=
-50F31F08D2ACF24BD9AFE0C123BF028B.wapp2nC?docId=WO2016201692&tab=
-PCTBIBLIO [accessed 14 March 2020].
-
-Ethical Approval: Not required.
-References
-[1] Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A novel coronavirus
-from patients with pneumonia in China, 2019. N Engl J Med 2020;382:727–
-33. doi:10.1056/NEJMoa2001017.
-
-Please cite this article as: S.A. Baron, C. Devaux and P. Colson et al., Teicoplanin: an alternative drug for the treatment of COVID-19?
-International Journal of Antimicrobial Agents, https://doi.org/10.1016/j.ijantimicag.2020.105944
-
-
