@@ -1,18 +1,6 @@
-Cell & Bioscience
-
-(2020) 10:40
-Yuen et al. Cell Biosci
-https://doi.org/10.1186/s13578-020-00404-4
-
-Open Access
-
-RESEARCH HIGHLIGHT
-
-SARS‑CoV‑2 and COVID‑19: The most
-important research questions
+SARS‑CoV‑2 and COVID‑19: The most important research questions
 Kit‑San Yuen1, Zi ‑Wei Ye2, Sin‑Yee Fung1, Chi‑Ping Chan1 and Dong‑Yan Jin1*
 
-Abstract
 Coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is
 an ongoing global health emergency. Here we highlight nine most important research questions concerning virus
 transmission, asymptomatic and presymptomatic virus shedding, diagnosis, treatment, vaccine development, origin
@@ -39,10 +27,6 @@ concrete evidence for human-to-human transmission of
 SARS-CoV-2 [1]. This is an excellent example of how a
 high-quality clinical study can make a major difference
 *Correspondence: dyjin@hku.hk
-1
-School of Biomedical Sciences, The University of Hong Kong, 3/F
-Laboratory Block, 21 Sassoon Road, Pokfulam, Hong Kong
-Full list of author information is available at the end of the article
 
 in policy setting. Several important clinical features of
 COVID-19 have also been documented in this study.
@@ -67,19 +51,6 @@ SARS-CoV-2 before January 20, 2020.
 Several interesting papers on SARS-CoV-2 and
 COVID-19 have been published in the past few weeks
 to report on the evolutionary reservoir [3], possible intermediate host [4] and genomic sequence [5] of
-
-© The Author(s) 2020. This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing,
-adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and
-the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material
-in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material
-is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the
-permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creat​iveco​
-mmons​.org/licen​ses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creat​iveco​mmons​.org/publi​cdoma​in/
-zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
-
-Yuen et al. Cell Biosci
-
-(2020) 10:40
 
 SARS-CoV-2 as well as clinical characteristics of COVID19 [6, 7]. In view of these findings and the urgent needs in
 the prevention and control of SARS-CoV-2 and COVID19, in this commentary we highlight the most important research questions in the field from our personal
@@ -121,8 +92,6 @@ spreading within humans. Continued transmission of
 SARS-CoV-2 in Wuhan suggests that tertiary and quaternary spreading has occurred. Compared to the primary
 and secondary spreading during which SARS-CoV-2 was
 transmitted from animal to human and from human to
-
-Page 2 of 5
 
 human, has the transmission rate increased and has the
 pathogenicity decreased? Alternatively, is the virus less
@@ -166,11 +135,6 @@ fecal–oral route in SARS-CoV-2 transmission. In addition to transmission via d
 fecal–oral transmission of SARS-CoV has been shown
 to be important in certain circumstances. Gastrointestinal involvement of SARS-CoV-2 infection and isolation of SARS-CoV-2 from fecal samples of patients are in
 support of the importance of fecal–oral route in SARSCoV-2 transmission. Although diarrhea was rarely seen in
-
-Yuen et al. Cell Biosci
-
-(2020) 10:40
-
 studies with large cohorts [6, 7], the possibility of SARSCoV-2 transmission via sewage, waste, contaminated
 water, air condition system and aerosols cannot be underestimated, particularly in cases such as the Diamond
 Princess cruise ship with 3,700 people, among whom at
@@ -210,9 +174,6 @@ do not have any specific anti-SARS-CoV-2 agents but an
 anti-Ebola drug, remdesivir, may hold the promise. As a
 nucleotide analog, remdesivir was shown to be effective
 in preventing MERS-CoV replication in monkeys. Severity of disease, viral replication, and lung damage were
-
-Page 3 of 5
-
 reduced when the drug was administered either before or
 after infection with MERS-CoV [10]. These results provide the basis for a rapid test of the beneficial effects of
 remdesivir in COVID-19. Other antiviral agents worthy
@@ -253,11 +214,6 @@ vaccine in all types of animal experiments, but there are
 concerns about antibody-dependent enhancement of
 viral infection and other safety issues. While inactivated
 vaccines should still be tested, alternative approaches
-
-Yuen et al. Cell Biosci
-
-(2020) 10:40
-
 include live attenuated vaccines, subunit vaccines and
 vectored vaccines. All of these merit further investigations and tests in animals.
 The eighth question relates to the origins of SARSCoV-2 and COVID-19. To make a long story short, two
@@ -293,9 +249,6 @@ see how SARS-CoV-2 might be different from SARS-CoV
 in interferon-antagonizing and inflammasome-activating
 properties. It is noteworthy that some interferon antagonists and inflammasome activators encoded by SARSCoV are not conserved in SARS-CoV-2. Particularly,
 ORF3 and ORF8 in SARS-CoV-2 are highly divergent
-
-Page 4 of 5
-
 from ORF3a and ORF8b in SARS-CoV that are known
 to induce NLRP3 inflammasome activation. ORF3 of
 SARS-CoV-2 is also significantly different from the interferon antagonist ORF3b of SARS-CoV. Thus, these viral
@@ -339,109 +292,3 @@ critical reading of the manuscript.
 Authors’ contributions
 KSY and DYJ wrote the manuscript with inputs from ZWY, SYF and CPC. All
 authors read and approved the final manuscript.
-
-Yuen et al. Cell Biosci
-
-(2020) 10:40
-
-Funding
-Coronavirus research in our laboratory was funded by the Hong Kong Health
-and Medical Research Fund (HKM-15-M01) and Hong Kong Research Grants
-Council (T11-707/15-R).
-Availability of data and materials
-Not applicable.
-Ethics approval and consent to participate
-Not applicable.
-Consent for publication
-Not applicable.
-Competing interests
-No potential conflict of interest was reported by the authors.
-Author details
-1
-School of Biomedical Sciences, The University of Hong Kong, 3/F Laboratory
-Block, 21 Sassoon Road, Pokfulam, Hong Kong. 2 Department of Microbiology,
-The University of Hong Kong, Pokfulam, Hong Kong.
-Received: 26 February 2020 Accepted: 7 March 2020
-
-References
-1. Chan JFW, Yuan S, Kok KH, To KKW, Chu H, Yang J, Xing F, Liu J, Yip CCY,
-Poon RWS, Tsoi HW, Lo SKF, Chan KH, Poon VKM, Chan WM, Ip JD, Cai JP,
-Cheng VCC, Chen H, Hui CKM, Yuen KY. A familial cluster of pneumonia
-associated with the 2019 novel coronavirus indicating person-to-person
-transmission: a study of a family cluster. Lancet. 2020;395(10223):514–23.
-2. Bai Y, Yao L, Wei T, Tian F, Jin DY, Chen L, Wang M. Presumed asymptomatic
-carrier transmission of COVID-19. JAMA. 2020. https​://doi.org/10.1001/
-jama.2020.1585.
-3. Zhou P, Yang XL, Wang XG, Hu B, Zhang L, Zhang W, Si HR, Zhu Y, Li B,
-Huang CL, Chen HD, Chen J, Luo Y, Guo H, Jiang RD, Liu MQ, Chen Y, Shen
-XR, Wang X, Zheng XS, Zhao K, Chen QJ, Deng F, Liu LL, Yan B, Zhan FX,
-Wang YY, Xiao GF, Shi ZL. A pneumonia outbreak associated with a new
-coronavirus of probable bat origin. Nature. 2020. https​://doi.org/10.1038/
-s4158​6-020-2012-7.
-4. Lam TTY, Shum MHH, Zhu HC, Tong YG, Ni XB, Liao YS, Wei W, Cheung
-WYM, Li WJ, Li LF, Leung GM, Holmes EC, Hu YL, Guan Y. Identification
-of 2019-nCoV related coronaviruses in Malayan pangolins in southern
-China. BioRxiv. 2020. https​://doi.org/10.1101/2020.02.13.94548​5.
-
-Page 5 of 5
-
-5.
-
-Lu R, Zhao X, Li J, Niu P, Yang B, Wu H, Wang W, Song H, Huang B, Zhu N,
-Bi Y, Ma X, Zhan F, Wang L, Hu T, Zhou H, Hu Z, Zhou W, Zhao L, Chen J,
-Meng Y, Wang J, Lin Y, Yuan J, Xie Z, Ma J, Liu WJ, Wang D, Xu W, Holmes
-EC, Gao GF, Wu G, Chen W, Shi W, Tan W. Genomic characterisation and
-epidemiology of 2019 novel coronavirus: implications for virus origins
-and receptor binding. Lancet. 2020. https​://doi.org/10.1016/S0140​
--6736(20)30251​-8.
-6. The Novel Coronavirus Pneumonia Emergency Response Epidemiol‑
-ogy Team. Vital surveillances: the epidemiological characteristics of an
-outbreak of 2019 novel coronavirus diseases (COVID-19)—China. China
-CDC Weekly. 2020;2(8):113–22.
-7. Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng
-Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical characteristics of 138
-hospitalized patients with 2019, novel coronavirus–infected pneumonia
-in Wuhan China. JAMA. 2020. https​://doi.org/10.1001/jama.2020.1585.
-8. Wu JT, Leung K, Leung GM. Nowcasting and forecasting the potential
-domestic and international spread of the 2019-nCoV outbreak originat‑
-ing in Wuhan, China: a modelling study. Lancet. 2020;395(10225):689-97.
-https​://doi.org/10.1016/S0140​-6736(20)30260​-9.
-9. Heimdal I, Moe N, Krokstad S, Christensen A, Skanke LH, Nordbø SA,
-Døllner H. Human coronavirus in hospitalized children with respiratory
-tract infections: a 9-year population-based study from Norway. J infect
-Dis. 2019;219(8):1198–206.
-10. de Wit E, Feldmann F, Cronin J, Jordan R, Okumura A, Thomas T, Scott D,
-Cihlar T, Feldmann H. Prophylactic and therapeutic remdesivir (GS-5734)
-treatment in the rhesus macaque model of MERS-CoV infection. PNAS.
-2020. https​://doi.org/10.1073/pnas.19220​83117​.
-11. Gao R, Cao B, Hu Y, Feng Z, Wang D, Hu W, Chen J, Jie Z, Qiu H, Xu K, Xu
-X, Lu H, Zhu W, Gao Z, Xiang N, Chen Y, He Z, Gu Y, Zhang Z, Yang Y, Zhao
-X, Zhou L, Li X, Zou S, Zhang Y, Li X, Yang L, Guo J, Dong J, Li Q, Dong L,
-Zhu Y, Bai T, Wang S, Hao P, Yang W, Zhang Y, Han J, Yu H, Li D, Gao GF, Wu
-G, Wang YU, Yuen Z, Shu Y. Human infection with a novel avian-origin
-influenza virus. N Engl J Med. 2013;368:1888–977.
-12. Yu XJ, Liang MF, Zhang SY, Liu Y, Li JD, Sun YL, Zhang L, Zhang QF, Popov
-VL, Li C, Qu J, Li Q, Zhang YP, Hai R, Wu W, Wang Q, Zhan FX, Wang XJ, Kan
-B, Wang SW, Wan KL, Jing HQ, Lu JX, Yin WW, Zhou H, Guan XH, Liu JF, Bi
-ZQ, Liu GH, Ren J, Wang H, Zhao Z, Song JD, He JR, Wan T, Zhang JS, Fu XP,
-Sun LN, Dong XP, Feng ZJ, Yang WZ, Hong T, Zhang Y, Walker DH, Wang Y,
-Li DX. Fever with thrombocytopenia associated with a novel bunyavirus
-in China. N Engl J Med. 2011;364(16):1523–32.
-
-Publisher’s Note
-
-Springer Nature remains neutral with regard to jurisdictional claims in pub‑
-lished maps and institutional affiliations.
-
-Ready to submit your research ? Choose BMC and benefit from:
-
-• fast, convenient online submission
-• thorough peer review by experienced researchers in your field
-• rapid publication on acceptance
-• support for research data, including large and complex data types
-• gold Open Access which fosters wider collaboration and increased citations
-• maximum visibility for your research: over 100M website views per year
-At BMC, research is always in progress.
-Learn more biomedcentral.com/submissions
-
-
