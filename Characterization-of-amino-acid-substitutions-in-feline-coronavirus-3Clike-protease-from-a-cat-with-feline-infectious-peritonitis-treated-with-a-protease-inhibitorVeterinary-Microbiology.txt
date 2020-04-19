@@ -1,0 +1,120 @@
+Veterinary Microbiology 237 (2019) 108398
+
+Contents lists available at ScienceDirect
+
+Veterinary Microbiology
+journal homepage: www.elsevier.com/locate/vetmic
+
+Characterization of amino acid substitutions in feline coronavirus 3C-like
+protease from a cat with feline infectious peritonitis treated with a protease
+inhibitor
+
+Krishani Dinali Pereraa, Athri D. Rathnayakeb, Hongwei Liuc, Niels C. Pedersenc,
+William C. Groutasb, Kyeong-Ok Changa, Yunjeong Kima,
+Department of Diagnostic Medicine and Pathobiology, College of Veterinary Medicine, Kansas State University, Manhattan, KS, USA
+Department of Chemistry, Wichita State University, Wichita, KS, USA
+Center for Companion Animal Health, School of Veterinary Medicine, University of California, Davis, CA, USA
+
+Keywords:
+Feline infectious peritonitis virus
+3C-like protease
+Antivirals
+Genetic barrier
+Feline coronavirus
+Resistance
+Feline infectious peritonitis (FIP) is a highly fatal disease caused by a virulent feline coronavirus in domestic and
+wild cats. We have previously reported the synthesis of potent coronavirus 3C-like protease (3CLpro) inhibitors
+and the efficacy of a protease inhibitor, GC376, in client-owned cats with FIP. In this study, we studied the effect
+of the amino acid changes in 3CLpro of feline coronavirus from a feline patient who received antiviral treatment
+for prolonged duration. We generated recombinant 3CLpro containing the identified amino acid changes (N25S,
+A252S or K260 N) and determined their susceptibility to protease inhibitors in the fluorescence resonance energy
+transfer assay. The assay showed that N25S in 3CLpro confers a small change (up to 1.68-fold increase in the
+50% inhibitory concentration) in susceptibility to GC376, but other amino acid changes do not affect susceptibility. Modelling of 3CLpro carrying the amino acid changes was conducted to probe the structural basis for
+these findings. The results of this study may explain the observed absence of clinical resistance to the long-term
+antiviral treatment in the patients.
+Coronaviruses are a group of diverse RNA viruses that can cause a
+number of diseases in animals and humans. Coronaviruses have a
+single-stranded, positive-sense RNA genome and belong to the family
+Coronaviridae, which are further classified into four genera, Alpha-,
+Beta-, Gamma-, and Deltacoronaviruses (King et al., 2011). Feline coronaviruses belong to the genus Alphacoronavirus and are the causative
+agent of enteritis in cats. Feline enteric coronavirus infections are quite
+common in multi-cat environments, such as shelters, rescues and catteries. Since more than a third of the affected cats chronically shed
+viruses in the stool and feline coronaviruses are relatively stable in the
+environment, it is difficult to eliminate feline coronaviruses from the
+affected cat populations (Addie et al., 2019; Pedersen et al., 2008). Cats
+infected with feline coronaviruses may show mild to severe enteritis,
+but they usually recover without complications. However, a small
+number of cats may develop feline infectious peritonitis (FIP), a highly
+fatal, systemic disease, following enteric coronavirus infection (Pedersen, 2009, 2014). The detailed mechanism of FIP development is
+still elusive, but it is believed that FIP arises in individual cats through
+altered viral tropism that allows viral replication in the macrophages
+(Barker et al., 2013; Chang et al., 2012; Licitra et al., 2013; Pedersen
+et al., 2009, 2012) in the presence of inadequate cellular immunity of
+the affected cats (Pedersen, 2014). FIP are commonly described as wet
+or dry forms based on the presence or absence of effusion, respectively,
+but these forms may switch as the disease progresses in some cats. The
+clinical signs of FIP are variable and depend on the affected organs and
+may include fever, jaundice, effusion, weight loss or neurological signs
+and ocular lesions (Pedersen, 2014). Although FIP is almost invariably
+fatal once cats develop clinical signs, there is no commercially available
+treatment licensed for FIP with only supportive treatment being available.
+Following viral entry into host cells, coronaviruses produce viral
+polyproteins composed of non-structural viral proteins, which are
+subsequently cleaved into mature, functional viral proteins by virallyencoded 3C-like protease (3CLpro) and papain-like protease. The
+released viral proteins form the replicase-transcriptase complex, which
+is required for RNA replication and transcription of the subgenomic
+RNAs, thus inhibition of viral proteases blocks viral replication. We
+have previously reported the synthesis of protease inhibitors for feline
+coronavirus (Kim et al., 2012a, 2013; Kim et al., 2015), and showed the
+efficacy of one of the inhibitors, GC376, in cats with experimentally
+induced FIP (Kim et al., 2016) and naturally-occurring FIP in a field
+trial (Pedersen et al., 2018). We have also reported the amino acid
+changes (N25S, A252S and K260 N) in the 3CLpro of feline coronavirus
+collected from a patient who was treated with GC376 but did not show
+clinical resistance to multiple rounds of treatment in the field trial
+(Pedersen et al., 2018).
+In this study, we assessed the effects of the amino acid changes in
+the feline coronavirus 3CLpro against GC376 in florescence resonance
+energy transfer (FRET) assay by generating 3CLpro carrying the amino
+acid changes. We also conducted modelling of 3CLpro carrying the
+amino acid changes and compared them with wild-type (pre-treatment)
+3CLpro to probe the structural basis for these findings. The results
+showed that N25S, but not A252S and K260 N, confers a statistically
+significant but small reduction in susceptibility to GC376 with up to
+1.68-fold increase in the 50% inhibitory concentration (IC50), compared
+to that of wild-type 3CLpro. Interestingly, none of these amino acid
+changes in 3CLpro decreased susceptibility to another 3CLpro inhibitor
+(NPI52) that shares the similar structure with GC376. The results of this
+study may explain the observed absence of clinical resistance to the
+long-term antiviral treatment in the patients in the field trial.
+
+(K260N) or triple (N25S, A252S and K260N) mutations were introduced
+into WT 3CLpro gene using a QuickChange II site-directed mutagenesis
+kit (Agilent Technologies, Santa Clara, CA) following the manufacturer’s instructions. The WT and mutant clones were verified by
+sequence analysis, and the clones were transformed into BL21 cells
+(Invitrogen, Carlsbad, CA) for expression. Protein expression was induced in Luria Bertani broth with 1 mM isopropyl β-D-thiogalactopyranoside for 4–6 h at 37 °C. The 3CLpros were purified using Ni-NTA
+affinity columns (QIAGEN, Valencia, CA) and stored at −80 °C.
+2.2.1. FRET assay
+The activities of the expressed WT and mutant 3CLpros were determined in the FRET assay as described previously (Kim et al., 2012a).
+Each 3CLpro in 25 μl of assay buffer was mixed with 25 μl of assay
+buffer containing fluorogenic substrate (dabacyl-KTSAVLQ/SGFRKMEedans) in a 96-well imaging microplate. The assay buffer consists of
+120 mM NaCl, 4 mM DTT, 50 mM HEPES and 30% Glycerol at pH 6.0.
+Following the incubation of the plate at 37 °C for 30 min, fluorescence
+was measured on a fluorescence microplate reader (FLx800, Biotek,
+Winnooski, VT). Background (substrate only) was subtracted from the
+fluorescence readings and the readings were compared among the
+3CLpro using one-way analysis of variance (ANOVA) with Tukey’s post
+hoc test in GraphPad Prism version 6.07 (GraphPad Software, La Jolla,
+CA).
+After confirmation of the activity of the recombinant 3CLpros, inhibition assays using GC376 or NPI52 were conducted as previously
+described (Kim et al., 2016, 2012a). Serial dilutions of GC376 or NPI52
+in assay buffer were incubated with 25 μl of assay buffer containing
+3CLpro at 37 °C for 30 min. The mixture was then added to 25 μl of
+assay buffer containing fluorogenic substrate in a 96 well plate. The
+plate was further incubated at 37 °C for 30 min and the fluorescence
+readings were measured on a florescence microplate reader. Relative
+fluorescence was calculated by subtracting background fluorescence
+from each fluorescence reading. The IC50 of each compound was calculated by non-linear regression analysis (four-parameter variable
+slope) using GraphPad Prism software. At least four independent experiments were conducted to determine the IC50 values, and a twotailed student’s t-test was used for statistical comparison between the
+IC50 values.
+

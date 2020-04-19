@@ -1,0 +1,674 @@
+Clinical Review & Education
+
+JAMA Otolaryngology–Head & Neck Surgery | Special Communication
+
+Safety Recommendations for Evaluation and Surgery
+of the Head and Neck During the COVID-19 Pandemic
+Babak Givi, MD; Bradley A. Schiff, MD; Steven B. Chinn, MD, MPH; Daniel Clayburgh, MD, PhD;
+N. Gopalakrishna Iyer, MBBS, PhD; Scharukh Jalisi, MD; Michael G. Moore, MD;
+Cherie-Ann Nathan, MD; Lisa A. Orloff, MD; James P. O’Neill, MD, MBA; Noah Parker, MD;
+Chad Zender, MD; Luc G. T. Morris, MD, MSc; Louise Davies, MD, MS
+Author Audio Interview
+IMPORTANCE The rapidly expanding novel coronavirus disease 2019 (COVID-19) pandemic,
+
+caused by severe acute respiratory syndrome coronavirus 2, has challenged the medical
+community to an unprecedented degree. Physicians and health care workers are at added risk
+of exposure and infection during the course of patient care. Because of the rapid spread of
+this disease through respiratory droplets, health care workers who come in close contact with
+the upper aerodigestive tract during diagnostic and therapeutic procedures, such as
+otolaryngologists–head and neck surgeons, are particularly at risk. A set of safety
+recommendations was created based on a review of the literature and communications with
+physicians with firsthand knowledge of safety procedures during the COVID-19 pandemic.
+OBSERVATIONS A high number of health care workers were infected during the first phase of
+the pandemic in the city of Wuhan, China. Subsequently, by adopting strict safety
+precautions, other regions were able to achieve high levels of safety for health care workers
+without jeopardizing the care of patients. The most common procedures related to the
+examination and treatment of upper aerodigestive tract diseases were reviewed. Each
+category was reviewed based on the potential risk imposed to health care workers. Specific
+recommendations were made based on the literature, when available, or consensus best
+practices. Specific safety recommendations were made for performing tracheostomy in
+patients with COVID-19.
+CONCLUSIONS AND RELEVANCE Preserving a highly skilled health care workforce is a top
+priority for any community and health care system. Based on the experience of health care
+systems in Asia and Europe, by following strict safety guidelines, the risk of exposure and
+infection of health care workers could be greatly reduced while providing high levels of care.
+The provided recommendations, which may evolve over time, could be used as broad
+guidance for all health care workers who are involved in the care of patients with COVID-19.
+JAMA Otolaryngol Head Neck Surg. doi:10.1001/jamaoto.2020.0780
+Published online March 31, 2020.
+
+T
+
+he coronavirus disease 2019 (COVID-19) pandemic has put
+unprecedented challenges on the medical community. Physicians and other health care workers who perform and participate in examinations and procedures within the head and neck
+region and airway are at particularly high risk of exposure and infection from aerosol and droplet contamination. Specific data on the
+risk of infection in otolaryngologists–head and neck surgeons are not
+available. However, one of the earliest reports from Wuhan, China,
+where severe acute respiratory syndrome coronavirus 2 (SARSCoV-2) was first identified, found 40 health care workers among the
+first consecutive 138 patients hospitalized.1 During the severe acute
+respiratory syndrome (SARS) outbreak of 2003 in Canada, 51% of
+the 438 cases were health care workers, and 3 died from SARSrelated causes.2 While the figures are worrying, other data suggest
+that through the use of careful hygiene, health care workers can stay
+safe. A case report of early COVID-19 experience from Singapore3
+revealed that none of the 41 health care workers who took care of a
+jamaotolaryngology.com
+
+Author Affiliations: Author
+affiliations are listed at the end of this
+article.
+Corresponding Author: Babak Givi,
+MD, Department of Otolaryngology–
+Head and Neck Surgery, NYU
+Langone Health, 160 E 34th St,
+7th Floor, New York, NY 10016
+(babak.givi@nyulangone.org).
+
+patient with severe pneumonia before their diagnosis of COVID-19
+became infected themselves or developed symptoms. These health
+care workers had been present during intubation and extubation of
+the patient; they were present for at least 10 minutes at a distance
+of less than 2 m from the patient, with 85% wearing a surgical mask
+and the remainder wearing N95 masks.
+The preservation of this highly skilled, limited workforce should
+be a top priority of health care officials and policy makers. At the time
+of this writing, to our knowledge, no unified, widely agreed-on protocols exist on how to perform a routine examination of the head and
+neck; office-based rigid and flexible endoscopy of the nose, sinuses,
+andlarynx;tracheostomy;andothercommonoperations.Somehealth
+authorities and societies have developed separate guidelines.4
+This article was prepared in consultation with otolaryngologists–
+head and neck surgeons and other health care workers in the US,
+Asia, and Europe, applying existing guidance from the infection control specialty to physicians potentially at risk from exposure to the
+
+(Reprinted) JAMA Otolaryngology–Head & Neck Surgery Published online March 31, 2020
+
+© 2020 American Medical Association. All rights reserved.
+
+Downloaded From: https://jamanetwork.com/ on 04/17/2020
+
+E1
+
+Clinical Review & Education Special Communication
+
+Safety Recommendations for Evaluation and Surgery of the Head and Neck During the COVID-19 Pandemic
+
+head and neck of infected patients. As the available information
+evolves, we expect to modify these guidelines. We expect that each
+health authority or organization will make specific decisions appropriate to their community. These recommendations have been developed to give broad guidance to practitioners. Per the US Centers for Medicare & Medicaid Services, the following factors should
+be considered when determining whether a planned examination
+or surgical procedure should proceed: current and projected
+COVID-19 cases in the facility and region; supply of personal protective equipment (PPE), beds, ventilators, and staff in the facility and
+system; health and age of the patients, especially given the risks of
+SARS-CoV-2 infection during recovery; and urgency of the
+procedure.5 Here, we highlight common procedures that should be
+considered and provide a framework on which to base decisions
+using the best available evidence. As this is a highly fluid situation,
+it is likely that these recommendations will change based on emerging evidence, the infection burden, availability of the health care
+workforce, and medical infrastructure.
+
+General Considerations
+General Care of Otolaryngologic Patients
+Head and neck examinations are considered high risk in patients with
+suspected or confirmed COVID-19; therefore, we recommend the
+following guidelines. Depending on the current circumstances of the
+local setting, such as the rate of community spread and case doubling time, routine, nonurgent appointments should be postponed
+to limit the chance of SARS-CoV-2 infection of patients or health care
+workers during their visit to the facility. This may include postponing appointments for patients with benign disease (eg, benign salivary or thyroid tumors, hyperparathyroidism) or patients undergoing routine surveillance visits after treatment for head and neck
+cancer. In all instances, patients should be queried by telephone
+about any new or concerning signs or symptoms that may suggest
+disease recurrence and/or pending issues, such as severe dysphagia or airway compromise, as well as current symptoms suggestive
+of COVID-19. Patients thought to be at risk for significant negative
+outcomes without evaluation should be offered an in-person clinic
+visit. Those with symptoms suggesting possible COVID-19 should be
+directed to the appropriate self-care or triage mechanism. The use
+of telephone, video, or telemedicine visits should be considered to
+maintain relationships with patients and to support assessments that
+can be made without an in-person physical examination. Only patients who need a thorough head and neck examination should be
+seen in person.
+
+Use of Powered Air-Purifying Respirators vs N95 Masks
+In the literature, conflicting practices can be seen regarding the use
+of N95 masks and tight-fitting goggles or the use of powered airpurifying respirators (PAPRs).6,7 PAPRs reduce the risk of exposure
+more than N95 masks, but how much more they reduce the risk depends on the airflow setting. The assigned protection factor range
+is 25 to 1000 for PAPRs and 10 for N95 masks.8 The most common
+concern about using PAPRs is their effect on the sterile field during
+surgery, as they do not filter the discharged air, but there are few
+data on the infection risk compared with other methods or in combination with the use of a mask. Nearly as important, they are also
+E2
+
+cumbersome to use. They can limit visibility if they fog up, make using
+a headlight impossible, and, if the hooded type is used, render the
+use of a stethoscope impossible. Donning and doffing are opportunities for self-exposure. However, ill-fitting N95 masks also increase the risk of exposure and thus carry their own disadvantages. Decisions about which protection to use may depend on the
+settings, risks, and logistics.9 Practicing the planned tasks in the use
+of PAPRs if they are to be used is important.
+
+The Otolaryngology–Head and Neck Physical
+Examination and Associated Procedures
+General Examination
+Head and neck examination that will include the mucous membranes should be performed by maintaining the suggested level of
+precaution (Table). The examination preferably should be performed in a separate room away from other patients, and only the
+necessary personnel should be present. The examination should be
+performed by the most experienced person present and might be
+a more focused assessment, based on the judgment of the examining physician. Proper doffing and disposal of PPE are of utmost
+importance.
+
+Endoscopic Examinations of the Mucosa of the Head and Neck
+Endoscopic examinations of the nose, sinuses, oropharynx, hypopharynx, and larynx are among the most common head and neck diagnostic procedures and are routinely performed by a wide variety of
+practitioners and trainees. They are considered aerosol-generating
+procedures.10 Moreover, the nose and nasopharynx have been shown
+to be reservoirs for high concentrations of the SARS-CoV-2 virus,11 and
+after manipulation, viral particles have been shown to be airborne for
+3 hours or more.12 Therefore, we recommend the same precautions
+be adopted for mucosal surface endoscopic examinations of the head
+and neck as for other aerosol-generating procedures.
+Examinations should be limited to patients who have a clear indication and need. Again, the examination should be performed by
+the most experienced personnel available in an expedient fashion.
+Routine or lower-priority examinations should be deferred during
+the pandemic. Patients should be placed in private rooms with negative pressure, if available, and the use of PPE should follow the guidance of the Table.
+Specific recommendations additionally include the following:
+1. In awake patients, adequate topical preparation to make the examination more comfortable is important. However, use of sprays
+should be avoided. Carefully placed pledgets should be used to
+provide decongestion and anesthesia.
+2. Topical anesthesia for any office-based intervention of the larynx under the guidance of a laryngoscope or strobolaryngoscope is performed through application of a spray. This is considered high risk; therefore, office-based biopsy, injection, laser,
+or other procedures should be delayed if possible.
+3. If a video screen is available to project the examination, it should
+be used to keep the patient’s and health care worker’s faces apart.
+4. Disposable endoscopes may be considered.
+5. After completion of the examination, the endoscope must be appropriately handled. The endoscope should not be removed from
+the examination room without a protective cover.
+
+JAMA Otolaryngology–Head & Neck Surgery Published online March 31, 2020 (Reprinted)
+
+© 2020 American Medical Association. All rights reserved.
+
+Downloaded From: https://jamanetwork.com/ on 04/17/2020
+
+jamaotolaryngology.com
+
+Safety Recommendations for Evaluation and Surgery of the Head and Neck During the COVID-19 Pandemic
+
+Special Communication Clinical Review & Education
+
+Table. Summary of Head and Neck Examination and Procedure Recommendationsa
+Risk and definition
+
+Patient wears
+
+Clinician/staff wear
+
+High risk to clinician: any examination in:
+• Patients with active SARS-CoV-2 infection
+• Patients with influenzalike symptoms
+• Patients under evaluation for SARS-CoV-2 infection
+
+Surgical mask
+
+• Single-use N95 mask
+• Goggles or face shield
+• Gown
+• Gloves
+
+Moderate risk to clinician: examination of ear, nose, mouth, or throat
+in asymptomatic patients
+
+Nothingb
+
+• Surgical mask with face shield to allow for reuse of mask
+• Gloves
+
+Low risk to clinician: other examination in asymptomatic patients
+
+Nothingb
+
+• Mask optional
+• Gloves
+
+Nonprocedure encounters in non–immune-compromised patients
+
+Aerosol-generating interventional procedures
+Procedures including but not limited to the following: Intubation, extubation, office-based nasal and laryngeal endoscopy, bronchoscopy, gastrointestinal
+endoscopy, drainage of peritonsillar abscess, placement of nasal packing, foreign body management in the nose or airway, tracheostomy, tracheostomy care,
+powered instrumentation in mucosal head and neck surgery, possibly laparoscopic surgery
+High risk to clinician: consider delaying or discussing the following:
+• Patients with active SARS-CoV-2 infection
+• Patients with influenzalike symptoms
+• Patients under evaluation for SARS-CoV-2 infection
+
+Surgical mask
+
+• PAPR or single-use N95 mask and goggles or face shield
+• Gown
+• Double gloves
+
+Low risk to clinician:
+• Patients who are asymptomatic and untested or SARS-CoV-2
+negative in 48 h preceding surgery
+• If possible, test patients within 48 h of procedure
+
+Nothingb
+
+• N95 mask and eye protection (may be appropriate to reuse;
+must use face shield to allow reuse)
+• If unavailable, surgical mask with goggles or face shield
+• Gown
+• Double gloves
+
+Non–aerosol-generating interventional procedures
+Soft tissue surgery exposes blood, which can have a viral count, but unless the blood is aerosolized by the use of energy devices, it would be expected to be lower
+risk. Suctioning away smoke and aerosolized tissue is recommended. To our knowledge, the infectiousness of aerosolized blood with SARS-CoV-2 is not yet known.
+High risk to clinician: consider delaying or discussing in:
+• Patients with active SARS-CoV-2 infection
+• Patients with influenzalike symptoms
+• Patients under evaluation for SARS-CoV-2 infection
+
+Surgical mask
+
+• Single-use N95 mask
+• Goggles or face shield
+• Gown
+• Gloves
+
+Low risk to clinician: patients who are asymptomatic
+or SARS-CoV-2 negative in last 48 h
+
+Nothingb
+
+• Surgical mask
+• Goggles or face shield
+• Gown
+• Gloves
+
+Abbreviations: PAPR, powered air-purifying respirator; SARS, severe acute
+respiratory syndrome; SARS-CoV-2, SARS coronavirus 2.
+a
+
+Adapted and updated with permission from Stanford Health Care.
+Recommendations are subject to change as more data become available.
+
+b
+
+If the patient is immune compromised (receiving active chemotherapy,
+
+Commonly Performed Otolaryngology Procedures
+Procedures Commonly Performed
+Outside the Operating Room
+These inpatient, emergency department, and outpatient otolaryngology procedures should be handled differently during the pandemic. Adequate education of health care workers is essential. The
+following are examples of procedures that in this setting are considered high risk:
+• Routine suctioning of patients with a tracheotomy.
+• Nasal packing placement, removal, or manipulation.
+• Drainage of peritonsillar abscesses. Consider avoiding through the
+use of antibiotic management or needle drainage instead of open
+drainage.
+• Attempted foreign body removal. Deferring may not be possible.
+If the location is such that it will be particularly challenging to access in an awake patient or if the individual is particularly intolerant of manipulation, performing the removal under general anesthesia may be necessary.
+
+Operative Procedures—General Considerations
+A number of head and neck, otolaryngologic, and oral surgery procedures are high risk owing to exposure of airway and mucosal
+jamaotolaryngology.com
+
+radiotherapy, or immunotherapy; <1 y after solid organ transplant; receiving
+chronic immunosuppression therapy; pregnant), both the patient and clinician
+should wear a surgical mask unless the patient is high risk. Clinicians and staff
+should wear a face shield over a surgical mask to allow reuse of the mask.
+
+surfaces and the possibility of generating aerosols. During the pandemic, based on the guidelines of national and state authorities, all
+elective procedures that can be safely postponed should be delayed. If an operative procedure involving the mucosa of the head
+and neck is planned, the following considerations are recommended.
+COVID-19 Status
+
+If possible, determine the COVID-19 status of the patient beforehand. If a patient tests positive, a careful assessment of risk to the
+patient and health care workers should be performed by a multidisciplinary team before the operation is recommended. Operating on mucosal surfaces in a patient who is actively infected generates a great risk for the entire operating room and recovery units
+and may compromise the patient’s ability to recover from the
+infection.
+Operating Room Setting
+
+High-risk operations or operations in patients with known COVID-19
+should be performed in a designated operating room with negative pressures.13 Unprotected health care personnel should not be
+allowed in a room where an aerosol-generating procedure is being
+or has been conducted. If a patient is known or suspected to have
+COVID-19, appropriate PPE must be worn by all.
+
+(Reprinted) JAMA Otolaryngology–Head & Neck Surgery Published online March 31, 2020
+
+© 2020 American Medical Association. All rights reserved.
+
+Downloaded From: https://jamanetwork.com/ on 04/17/2020
+
+E3
+
+Clinical Review & Education Special Communication
+
+Safety Recommendations for Evaluation and Surgery of the Head and Neck During the COVID-19 Pandemic
+
+High-Risk Procedures
+
+Ear Surgery
+
+Considering the high viral titers in nasal mucosal, oral, pharyngeal,
+and pulmonary secretions, any operation that involves these surfaces is high risk to the entire operating room personnel. To our
+knowledge, bloodborne transmission has not been documented, but
+aerosolization of blood through the use of energy devices used for
+control of bleeding and in dissection has been documented.14 These
+procedures should be considered higher risk. This includes the use
+of powered devices (eg, drills, microdebriders, saws) or ultrasonic
+shears, such as the Harmonic scalpel (Ethicon) or Thunderbeat scalpel (Olympus).
+If a high-risk operation is indicated during the pandemic in a
+SARS-CoV-2–negative patient or a patient without symptoms or contact, appropriate PPE for all operating room staff is strongly recommended. Observed levels of community disease will not reflect the
+full prevalence.
+
+It is not known if the respiratory mucosa lining the middle ear and
+mastoid air cell system is involved in COVID-19. But because the rest
+of the airway is involved, it appears likely that the lining of the eustachian tube, middle ear, and mastoid air cell system are all
+contaminated.18,19 Drilling through the mastoid creates droplets and
+aerosols in significant clouds that, if the virus is present, could risk
+infecting everyone in the operating room environment. As contaminated mists harbor viable virus for several hours, especially in enclosed spaces, caution is warranted. Mastoidectomy therefore is considered a high-risk procedure. Ideally, any patient undergoing any
+ear surgery should be tested for COVID-19 preoperatively. If a patient is positive, surgery should be delayed until the patient has
+cleared the disease.
+
+Intubation and Extubation
+
+In all operations, coordination with the anesthesia team is critical.
+It is advisable that during intubation, all nonessential staff leave the
+room and only return after the airway is secured. Additionally, all nonessential staff should be out of the room during extubation. Anybody who is present should maintain appropriate PPE. In some centers, an interval equivalent to known air exchange times for that
+operating room is practiced before other personnel are allowed to
+enter. Jet ventilation procedures pose a particularly high risk and
+should be performed only under absolute necessity and with appropriate PPE, preferably in a negative-pressure room.
+Patient Transport
+
+Adequate protection during the transfer of SARS-CoV-2–positive
+patients or patients of unknown infection status after a high-risk procedure is critical. Clear protocols should be established with the nursing staff, recovery unit personnel, anesthesia department, and infection control personnel. Nonintubated patients could be
+transferred while wearing a surgical mask (not an N95 mask) if tolerated. If oxygen is required, it can be administered by face mask
+over the surgical mask. Intubated patients should be transported with
+an intensive care unit ventilator (dry circuit, filter in place) and not
+with a bag-valve mask, which breaks the closed circuit. Appropriate PPE should be maintained by all health care workers participating in the transfer.
+
+Operative Procedures—Specific Procedures and Scenarios
+Endoscopic Sinonasal and Skull Base Surgery
+
+Endoscopic nasal operations, including sinus surgery and transsphenoidal pituitary surgery, are very high-risk procedures. In general, these procedures should be postponed in patients with
+COVID-19 or those who cannot be tested. In negative patients, PPE
+for all operating room staff is recommended as per the Table.15
+Thyroidectomy and Neck Procedures
+
+Procedures that do not expose mucosal surfaces are lower risk, with
+the caveat that the use of energy devices can result in aerosolization of the virus from the bloodstream or other gastrointestinal secretions. Patients with COVID-19 are likely to have the virus in their
+bloodstream and feces, based on the experience with SARS, which
+is also caused by a coronavirus.16,17
+E4
+
+Management of Facial Trauma
+
+Management of trauma patients should be led by the trauma management team. Physicians who are called to assess trauma patients or perform specific procedures in areas of high community
+spread should be equipped with adequate PPE based on the trauma
+center policies. After following the trauma triage protocol, if assessment and treatment of facial trauma is needed, our recommendation is to treat patients of unknown COVID-19 status as COVID-19
+positive. Lacerations that involve mucosal surfaces should be treated
+as high risk. For injuries that require operative intervention (for example, reduction of fractures), the infection status of the patient
+should be confirmed first and then definitive treatment initiated if
+at all possible. In areas with significant shortage of medical capacity and personnel, nonoperative approaches should be considered
+as much as medically acceptable.
+Tracheostomy
+
+Performing tracheostomy on patients with suspected or confirmed COVID-19 imposes unique challenges on not only otolaryngologists–head and neck surgeons but the entire health care team.20
+In nonemergency situations, all cases should be reviewed by a multidisciplinary team, and the risks vs benefits of the procedure for the
+patient and the entire health care team should be carefully assessed. Additionally, a detailed postprocedure care plan should be
+established to ascertain the protection of other patients and health
+care workers. The accompanying article by Tay et al6 outlines many
+of these considerations. In general, most tracheostomy procedures should be avoided or delayed (even beyond 14 days) because of the high infectious risks of the procedure and subsequent
+care until such time as the acute phase of infection has passed, when
+the likelihood of recovery is high, and when ventilator weaning has
+become the primary goal of care. Avoiding early tracheostomy in patients with COVID-19 is suggested because of the higher viral load
+that may be present at this time. In addition, early tracheostomy was
+not found to be associated with improved mortality or reduced
+length of intensive care unit stay in a randomized clinical trial of patients on mechanical ventilation.21
+We suggest the following additional guidelines:
+1. Select the patients carefully. If the tracheostomy is assessed as
+difficult because of anatomy, history, comorbidities, or other factors, consider postponing the procedure.
+2. Consideration may be given to percutaneous dilatational tracheostomy if the patient’s anatomy and proceduralist expertise
+
+JAMA Otolaryngology–Head & Neck Surgery Published online March 31, 2020 (Reprinted)
+
+© 2020 American Medical Association. All rights reserved.
+
+Downloaded From: https://jamanetwork.com/ on 04/17/2020
+
+jamaotolaryngology.com
+
+Safety Recommendations for Evaluation and Surgery of the Head and Neck During the COVID-19 Pandemic
+
+3.
+
+4.
+
+5.
+6.
+
+allow it to be done safely with minimal or no bronchoscopy, endotracheal suctioning, and disruption of the ventilator circuit.
+Provide adequate sedation including paralysis to eliminate the
+risk of coughing during the procedure. Ventilation should be
+paused (apnea) at end-expiration when the trachea is entered and
+any time the ventilation circuit is disconnected.
+Choose a nonfenestrated, cuffed, tracheostomy tube on the
+smaller side to make the tracheostomy hole smaller overall (Shiley
+size 6 for both men and women is adequate). Keep the cuff
+inflated to limit the spread of virus through the upper airway.
+Perform tracheostomy suctioning using a closed suction system
+with a viral filter.
+Use a heat moisture exchanger device instead of tracheostomy collarduringweaningtopreventvirusspreadorreinfectionofpatients.
+
+ARTICLE INFORMATION
+Accepted for Publication: March 24, 2020.
+Published Online: March 31, 2020.
+doi:10.1001/jamaoto.2020.0780
+Author Affiliations: Department of
+Otolaryngology, NYU Langone Health, New York,
+New York (Givi); Department of Otolaryngology,
+Montefiore Medical Center, New York, New York
+(Schiff); Department of Otolaryngology, University
+of Michigan, Ann Arbor (Chinn); Department of
+Otolaryngology, Oregon Health & Science
+University, Portland (Clayburgh); Department of
+Head and Neck Surgery, Singapore General Hospital
+and National Cancer Centre, Singapore (Iyer);
+Department of Otolaryngology, Beth Israel
+Deaconess Medical Center, Boston, Massachusetts
+(Jalisi); Department of Otolaryngology, Indiana
+University School of Medicine, Indianapolis (Moore,
+Parker); Department of Otolaryngology, Louisiana
+State University, Shreveport (Nathan); Department
+of Otolaryngology, Stanford University, Palo Alto,
+California (Orloff); Department of Otolaryngology,
+Beaumont Hospital, Royal College of Surgeons in
+Ireland, Dublin, Ireland (O’Neill); Department of
+Otolaryngology, University of Cincinnati, Cincinnati,
+Ohio (Zender); Head and Neck Service, Memorial
+Sloan Kettering Cancer Center, New York, New York
+(Morris); Department of Veterans Affairs, White
+River Junction, Vermont (Davies).
+Conflict of Interest Disclosures: Dr Morris
+reported receiving grants from Illumina, Inc. and
+AstraZeneca outside the submitted work. No other
+disclosures were reported.
+Additional Contributions: We thank our physician,
+nursing, advanced practice provider, respiratory
+therapy, administrative, and environmental services
+colleagues for their extraordinary professionalism
+and dedication. We gratefully acknowledge the
+expertise provided by colleagues around the world,
+including Dr Hui Chen (Department of
+Otolaryngology–Head and Neck Surgery, Eye and
+ENT Hospital, Fudan University, Shanghai, China),
+Dr Filippo Marchi (Department of
+Otorhinolaryngology–Head and Neck Surgery,
+Ospedale Policlinico San Martino, University of
+Genoa, Genoa, Italy), Dr Giacomo Sollini
+(Department of Otorhinolaryngology–Head and
+Neck Surgery, Ospedale Bellaria, Bologna, Italy),
+Dr Nevill Shine (Department of Otolaryngology–
+Head and Neck Surgery, Royal College of Surgeons
+in Ireland, Dublin, Ireland), Dr Jason Y.K. Chan
+(Department of Otorhinolaryngology–Head and
+
+jamaotolaryngology.com
+
+Special Communication Clinical Review & Education
+
+7. Avoid changing the tracheostomy tube until viral load is as low
+as possible.
+
+Conclusions
+We acknowledge that these challenging times require extraordinary efforts. Maintaining the health and strength of our clinical workforce is critical to avoiding collapse of our health care system. However, the experience of our colleagues in Singapore and Hong Kong
+in protecting their health care workers is quite reassuring.22 By
+following carefully planned routines and procedures, we will be
+able to provide excellent care and help protect the safety and health
+of our colleagues.
+
+Neck Surgery, Chinese University of Hong Kong),
+Dr Woei Shyang Loh (Department of
+Otolaryngology–Head and Neck Surgery, National
+University Hospital, Singapore), and Drs Mini
+Kamboj, Richard Wong, and Robert Lee (Memorial
+Sloan Kettering Cancer Center, New York,
+New York).
+REFERENCES
+1. Wang D, Hu B, Hu C, et al. Clinical characteristics
+of 138 hospitalized patients with 2019 novel
+coronavirus-infected pneumonia in Wuhan, China
+[published online February 7, 2020]. JAMA.
+doi:10.1001/jama.2020.1585
+2. Moore D, Gamage B, Bryce E, Copes R, Yassi A;
+BC Interdisciplinary Respiratory Protection Study
+Group. Protecting health care workers from SARS
+and other respiratory pathogens: organizational
+and individual factors that affect adherence to
+infection control guidelines. Am J Infect Control.
+2005;33(2):88-96. doi:10.1016/j.ajic.2004.11.003
+3. Ng K, Poon BH, Kiat Puar TH, et al. COVID-19 and
+the risk to health care workers: a case report. Ann
+Intern Med. 2020. doi:10.7326/L20-0175
+4. ENT UK. Guidance for ENT during the COVID-19
+pandemic. Accessed March 23, 2020. https://www.
+entuk.org/guidance-ent-during-covid-19-pandemic
+5. Siddiqui S. CMS adult elective surgery and
+procedures recommendations [version 3.15.20].
+Accessed March 23, 2020. https://www.cms.gov/
+files/document/31820-cms-adult-elective-surgeryand-procedures-recommendations.pdf
+6. Tay JK, Khoo ML-C, Loh WS. Surgical
+considerations for tracheostomy during the
+COVID-19 pandemic: lessons learned from the
+severe acute respiratory syndrome outbreak
+[published online March 31, 2020]. JAMA
+Otolaryngol Head Neck Surg. doi:10.1001/jamaoto.
+2020.0764
+7. Roberts V. To PAPR or not to PAPR? Can J Respir
+Ther. 2014;50(3):87-90.
+8. Institute of Medicine. The Use and Effectiveness
+of Powered Air Purifying Respirators in Health Care:
+Workshop Summary. National Academies Press; 2015.
+9. Wax RS, Christian MD. Practical
+recommendations for critical care and
+anesthesiology teams caring for novel coronavirus
+(2019-nCoV) patients [published online February
+12, 2020]. Can J Anaesth. doi:10.1007/s12630-02001591-x
+
+10. US Centers for Disease Control and Prevention.
+Interim infection prevention and control
+recommendations for patients with suspected or
+confirmed coronavirus disease (COVID-19) in
+healthcare settings. Accessed March 23, 2020.
+https://www.cdc.gov/coronavirus/2019-ncov/
+infection-control/control-recommendations.html
+11. Zou L, Ruan F, Huang M, et al. SARS-CoV-2 viral
+load in upper respiratory specimens of infected
+patients. N Engl J Med. 2020;382(12):1177-1179.
+doi:10.1056/NEJMc2001737
+12. van Doremalen N, Bushmaker T, Morris DH,
+et al. Aerosol and surface stability of SARS-CoV-2 as
+compared with SARS-CoV-1 [published online
+March 17, 2020]. N Engl J Med. doi:10.1056/
+NEJMc2004973
+13. American College of Surgeons. COVID-19:
+guidance for triage of non-emergent surgical
+procedures. Accessed March 23, 2020. https://
+www.facs.org/covid-19/clinical-guidance/triage
+14. Zheng MH, Boni L, Fingerhut A. Minimally
+invasive surgery and the novel coronavirus
+outbreak: lessons learned in China and Italy
+[published online March 15, 2020]. Ann Surg.
+Accessed March 23, 2020. https://journals.lww.com/
+annalsofsurgery/Documents/Minimally%
+20invasive%20surgery%20and%20the%20novel
+%20coronavirus%20outbreak%20-%20lessons
+%20learned%20in%20China%20and%20Italy.
+pdf
+15. Patel ZM, Hwang PH, Nayak JV, et al.
+[Statement from Stanford University School of
+Medicine Departments of Otolaryngology–Head
+and Neck Surgery and Neurosurgery]. Accessed
+March 23, 2020. https://www.docdroid.net/
+AyUBOji/covid-19-information.pdf
+16. Isakbaeva ET, Khetsuriani N, Beard RS, et al;
+SARS Investigation Group. SARS-associated
+coronavirus transmission, United States. Emerg
+Infect Dis. 2004;10(2):225-231. doi:10.3201/
+eid1002.030734
+17. Ding Y, He L, Zhang Q, et al. Organ distribution
+of severe acute respiratory syndrome (SARS)
+associated coronavirus (SARS-CoV) in SARS
+patients: implications for pathogenesis and virus
+transmission pathways. J Pathol. 2004;203(2):622630. doi:10.1002/path.1560
+18. Pitkäranta A, Virolainen A, Jero J, Arruda E,
+Hayden FG. Detection of rhinovirus, respiratory
+syncytial virus, and coronavirus infections in acute
+otitis media by reverse transcriptase polymerase
+
+(Reprinted) JAMA Otolaryngology–Head & Neck Surgery Published online March 31, 2020
+
+© 2020 American Medical Association. All rights reserved.
+
+Downloaded From: https://jamanetwork.com/ on 04/17/2020
+
+E5
+
+Clinical Review & Education Special Communication
+
+chain reaction. Pediatrics. 1998;102(2, pt 1):291-295.
+doi:10.1542/peds.102.2.291
+
+online March 11, 2020]. JAMA. doi:10.1001/jama.
+2020.3633
+
+19. Heikkinen T, Thint M, Chonmaitree T.
+Prevalence of various respiratory viruses in the
+middle ear during acute otitis media. N Engl J Med.
+1999;340(4):260-264. doi:10.1056/
+NEJM199901283400402
+
+21. Young D, Harrison DA, Cuthbertson BH, Rowan
+K; TracMan Collaborators. Effect of early vs late
+tracheostomy placement on survival in patients
+receiving mechanical ventilation: the TracMan
+randomized trial. JAMA. 2013;309(20):2121-2129.
+doi:10.1001/jama.2013.5154
+
+20. Murthy S, Gomersall CD, Fowler RA. Care for
+critically ill patients with COVID-19 [published
+
+E6
+
+Safety Recommendations for Evaluation and Surgery of the Head and Neck During the COVID-19 Pandemic
+
+22. Gawande A. Keeping the coronavirus from
+infecting health-care workers: what Singapore’s and
+Hong Kong’s success is teaching us about the
+pandemic. The New Yorker. March 21, 2020.
+Accessed March 23, 2020. https://www.newyorker.
+com/news/news-desk/keeping-the-coronavirusfrom-infecting-health-care-workers
+
+JAMA Otolaryngology–Head & Neck Surgery Published online March 31, 2020 (Reprinted)
+
+© 2020 American Medical Association. All rights reserved.
+
+Downloaded From: https://jamanetwork.com/ on 04/17/2020
+
+jamaotolaryngology.com
+
+

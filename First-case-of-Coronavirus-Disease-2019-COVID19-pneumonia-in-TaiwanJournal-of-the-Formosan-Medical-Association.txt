@@ -1,0 +1,322 @@
+﻿Journal of the Formosan Medical Association (2020) 119, 747e751
+
+Available online at www.sciencedirect.com
+
+ScienceDirect
+journal homepage: www.jfma-online.com
+
+Case Report
+
+First case of Coronavirus Disease 2019
+(COVID-19) pneumonia in Taiwan
+Shao-Chung Cheng a,1, Yuan-Chia Chang b,1,
+Yu-Long Fan Chiang c,1, Yu-Chan Chien b, Mingte Cheng d,
+Chin-Hua Yang b,e,f, Chia-Husn Huang g,*,2, Yuan-Nian Hsu h,**,2
+a
+Division of Pulmonary Medicine, Department of Internal Medicine, Sinwu Branch, Taoyuan General
+Hospital, Ministry of Health and Welfare, Taoyuan, Taiwan
+b
+Department of Radiology, Taoyuan General Hospital, Ministry of Health and Welfare, Taoyuan,
+Taiwan
+c
+Department of Internal Medicine, Sinwu Branch, Taoyuan General Hospital, Ministry of Health and
+Welfare, Taoyuan, Taiwan
+d
+Department of Orthopedic Surgery, Sinwu Branch, Taoyuan General Hospital, Ministry of Health and
+Welfare, Taoyuan, Taiwan
+e
+Department of Medical Imaging, National Taiwan University Hospital, Taipei, Taiwan
+f
+Department of Biomedical Engineering and Environmental Science, National Tsing Hua University,
+Hsinchu, Taiwan
+g
+Division of Gastroenterology and Hepatology, Department of Internal Medicine, Sinwu Branch,
+Taoyuan General Hospital, Ministry of Health and Welfare, Taoyuan, Taiwan
+h
+Department of Family Medicine, Taoyuan General Hospital, Ministry of Health and Welfare, Taoyuan,
+Taiwan
+
+Received 16 February 2020; received in revised form 17 February 2020; accepted 18 February 2020
+
+KEYWORDS
+COVID-19;
+First case;
+Pneumonia;
+Taiwan
+
+An outbreak of respiratory illness proved to be infected by a 2019 novel coronavirus, officially
+named Coronavirus Disease 2019 (COVID-19), was notified first in Wuhan, China, and has spread
+rapidly in China and to other parts of the world. Herein, we reported the first confirmed case of
+novel coronavirus pneumonia (NCP) imported from China in Taiwan. This case report revealed a
+natural course of NCP with self-recovery, which may be a good example in comparison with
+medical treatments.
+Copyright ª 2020, Formosan Medical Association. Published by Elsevier Taiwan LLC. This is an
+open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/bync-nd/4.0/).
+
+* Corresponding author.
+** Corresponding author.
+E-mail addresses: 4719@mail.tygh.gov.tw (C.-H. Huang), kingjen@mail.tygh.gov.tw (Y.-N. Hsu).
+1
+These three authors contributed equally.
+2
+No. 1492, Zhongshan Rd., Taoyuan Dist., Taoyuan City 33004, Taiwan (R.O.C.).
+https://doi.org/10.1016/j.jfma.2020.02.007
+0929-6646/Copyright ª 2020, Formosan Medical Association. Published by Elsevier Taiwan LLC. This is an open access article under the CC
+BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+
+Introduction
+On December 31, 2019, an outbreak of respiratory illness
+later proved to be caused by a novel coronavirus, officially
+named Coronavirus Disease 2019 (COVID-19), was notified
+first in Wuhan, a city of Hubei province, People’s Republic
+of China (PRC). COVID-19 rapidly spreads in China and to
+other parts of the world. Currently more than 70,000
+laboratory-confirmed cases in China have been reported,
+and the case count has been rising daily. Some travelersrelated transmission were also identified in many countries, including Taiwan, Singapore, Vietnam, Republic of
+Korea, Malaysia, Thailand, Japan, Germany, France, United
+States (U.S.), Australia, etc. through an international
+conveyance, and raised a global health emergency.1 As of
+February 18, 2020, there were 22 confirmed cases in
+Taiwan. Herein we presented the first case identified in
+Taiwan on January 21, 2020.
+
+Case report
+On January 20, 2020, a 55-year-old woman who worked in
+Wuhan, China, arrived at Taiwan Taoyuan International
+Airport and presented to quarantine officials immediately,
+with a history of sore throat, dry cough, fatigue, and lowgrade subjective fever since January 11, 2020. Owing to the
+outbreak of COVID-19 in Wuhan city and the announcement
+of related symptoms, she was immediately placed in
+quarantine ward and underwent examination. Although the
+patient denied spending time at the Huanan Seafood
+Wholesale Market and reported no known contact with ill
+people during her stay in Wuhan, specimens including
+oropharyngeal swab and sputum were collected for severe
+acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+real-time reverse-transcriptase-polymerase-chain-reaction
+(rRT-PCR) in accordance with the Taiwan Centers for Disease Control (TCDC) guidance.
+Apart from a history of hypothyroidism with regular
+medical follow-up, she had no other underlying disease
+before this onset. According to the records of quarantine
+officials, the vital sign of the patient showed body temperature (BT) of 38.0  C and oxygen saturation (SPO2) of
+88e90% under ambient air. Before seeking medical treatment in Taiwan, she bought over-the-counter medicine to
+release the symptoms. After admission to our hospital, her
+vital signs remained stable, apart from the exertional dyspnea, intermittent dry cough and sore throat (Fig. 1). The
+initial physical examination revealed a BT of 36.4  C, blood
+pressure of 93/53 mm Hg, pulse of 87 bpm, respiratory rate
+of 20 breath/min, and SPO2 of 91% while the patient was
+breathing supplement oxygen by nasal cannula at 3 L/min.
+The breathing sound was normal initially. The laboratory
+results reflected lymphopenia (531 cells/ul), and elevated
+aspartate aminotransferase (AST, 78 U/L), alanine aminotransferase (ALT, 41 U/L), C-reactive protein (CRP, 7.8 mg/
+L), and lactate dehydrogenase (LDH, 295 U/L) (Fig. 1). A
+rapid screening test for influenza A and B showed negative.
+The chest X-ray revealed bilateral perihilar infiltration and
+ill-defined patchy opacities. On January 21, 2020, the TCDC
+confirmed that the patient’s oropharyngeal swab and
+sputum tested positive for SARS-CoV-2 by rRT-PCR assay.
+
+S.-C. Cheng et al.
+The results of serial chest X-rays performed on illness
+day 10 (hospital day 1), 13, 17, and 25 coincided with the
+changes in SPO2 and revealed slowing remission of worsening patches infiltrating at first (Fig. 2). These radiographic findings and a subsequent chest computed
+tomography (CT) indicated the tenacious COVID-19 pneumonia and sequelae (Fig. 3). Antitussive agent, O2 supplement, careful saline infusion and empiric antibiotic with
+ceftriaxone (2 gm loading and 2 gm everyday intravenously)
+were administered at first. Subsequently, antibiotics were
+replaced by oral amoxicillin/clavulanate 875/125 mg every
+12 h on illness day 17 for another 1 week. Her urine culture
+showed Streptococcus gallolyticus spp pasteurianus, which
+was susceptible to above antibiotics. Other cultures showed
+non-significance.
+On illness day 17, her sputum turned undetectable for
+SARS-CoV-2 by rRT-PCR assay. The results of subsequent
+rRT-PCR of oropharyngeal swabs and sputum on illness day
+21 and 23, respectively, were repeatedly negative. Supplemental oxygen was discontinued on illness day 27, and
+her SPO2 improved to 92%e98% under ambient air. The
+patient’s clinical condition improved, apart from intermittent exertional dyspnea. Furthermore, the final results of
+rRT-PCR of stool and urine tests, which were not sent for
+tests in the beginning, were negative on illness day 25. She
+was then discharged on illness day 28 (February 07, 2020).
+
+Discussion
+We reported the first confirmed case of novel coronavirus
+pneumonia (NCP) in Taiwan. In accordance with the first
+report from China, the major symptoms of COVID-19
+infection were mainly cough, fever and dyspnea.2 Our
+case presented with mild fever, dyspnea and mild hypoxemia on day 10 of initial illness. At the same time, the chest
+X-ray showed bilateral infiltrating pneumonia, which progressed diffusely later. The progression of symptoms in this
+case also coincided with the first confirmed COVID-19 case
+in the U.S., with fever on day 5 of illness, dyspnea with mild
+hypoxemia and radiographical pneumonia on day 9 of
+illness.3 Furthermore, reports from China showed all patients had bilateral pneumonia on high resolution CT with
+different severity even in mild cases.2,4 These findings
+suggested that lower respiratory tract seems to be an
+important location for the replication of SARS-CoV-2. Our
+case turned afebrile since admission (illness day 10), even
+without antiviral treatment. Despite pneumonia on chest Xrays worsen in the following seven days, respiratory failure
+did not occur eventually. Even though ceftriaxone was
+used, the evidence of negative culture and the worsening
+chest X-ray findings under antibiotic treatment were not
+compatible with the clinical picture of bacterial pneumonia. The effective medical treatment against COVID-19
+remains unknown. In spite of the first-reported case in
+the U.S. showing promptly-subsided fever after Remdesivir
+used on day 12 of illness, with well-improved clinical
+symptoms later, the effectiveness of Remdesivir was still
+questioned.3 The randomized-controlled trial of treating
+Middle East respiratory syndrome coronavirus by the combination of lopinavir/ritonavir/interferon-beta-1b is
+ongoing, more evidence-based data are needed.5
+
+First Case of COVID-19 in Taiwan
+
+Figure 1
+
+749
+
+Vital sign, symptoms, and examination by the day of illness and day of hospitalization, January 11 to February 07, 2020.
+
+Figure 2 Chest X-ray showed progression of prominent bilateral perihilar infiltration and ill-defined patchy opacities at bilateral
+lungs, which slowly resolved on the follow-up image. (a: January 20; b: Jan. 23; c: Jan. 27; d: February 04).
+
+Some laboratory abnormalities in our case, such as
+elevated CRP, LDH, ALT and AST, were also observed in
+influenza virus pandemic.6 Lymphopenia has been considered as a poor prognostic factor for severe hospitalized
+influenza (H1N1) pandemic 2009,7 as well as severe acute
+
+respiratory syndrome (SARS).8 These findings may explain
+common biomarker presentation in viral pneumonia,
+including COVID-19. The quarantine period for potentially
+COVID-19 infected individuals was challenging by our case’s
+laboratory results, her sputum specimens remained positive
+
+750
+
+S.-C. Cheng et al.
+
+Figure 3 Chest CT in convalescent stage showed persistent multifocal GGOs with or without superimposed reticulation and mild
+fibrotic change at bilateral lungs, including peripheral subpleural regions of both lower lobes. Two small irregular opacities at the
+RUL and RML were probably partially resolved consolidations (arrows).
+
+for SARS-CoV-2 on day 15 and turned negative on day 17 of
+illness.
+Similar to viral pneumonia due to other etiologies,
+ground-glass opacities (GGOs) are the main CT findings of
+the patients with COVID-19.9e12 Reticular and/or interlobular septal thickening, and consolidation are common
+associated findings.9 Crazy-paving pattern was also detected in some cases.10,13 Pure consolidation without GGO is
+less common.10 These lesions usually involve bilateral
+lungs.9,10 Peripheral distribution of disease was noted in
+33% and 85% of patients, respectively.9,10 However, normal
+scan at the early stage of COVID-19 can be found in a few
+patients when the disease is diagnosed.10
+As the NCP progresses, increasing size and density of
+these GGOs or crazy paving pattern were reported.9,10,13,15
+On the contrary, the GGOs will decrease in size and the
+consolidations, if present, will decrease in density when
+patients gradually recover.9,15,16 Fibrotic change may be
+left as a sequela after recovery as was seen in patients
+recovering from SARS.14,15
+Our case demonstrated a typical NCP without progression to ARDS. The worst status of her pneumonia was on
+illness day 17 (Fig. 2c) and then gradually resolved. Given
+the negative rRT-PCR of SARS-CoV-2 on illness day 21 and
+23, there were persistent milder bilateral lung opacities on
+the chest radiograph on illness day 25 (Fig. 2d) which were
+corresponding to bilateral ill-defined GGO patches with or
+without reticulation, and mild fibrotic change on CT two
+days later (Fig. 3). Chest CT might be a tool to assist
+diagnosis accompanying with symptoms and traveling history, because the chest radiograph could be normal in those
+patients with mild or no symptoms.3
+
+In summary, our case revealed a natural course of NCP
+with self-recovery. Rapid diagnostic assays, effective
+treatment and wide use of chest CT will be crucial to
+contain the worldwide outbreak of COVID-19 in the future.
+
+Conflict of Interest
+The authors have no conflicts of interest relevant to this
+article.
+
+Acknowledgments
+The authors thank the dedicated medical team, Hsiu-Hsueh
+Tseng, PhD and Shu-Hsing Cheng, MD for manuscript preparation, professor Yeun-Chung Chang and professor ShanChwen Chang for expert opinions.
+
+References
+1. World Health Organization. Novel coronavirus situation report
+-28. Geneva, Switzerland: World Health Organization; 2020.
+https://www.who.int/docs/default-source/coronaviruse/
+situation-reports/20200217-sitrep-22-ncov.pdf?
+sfvrsnZfb6d49b1_2. [Accessed 18 February 2020].
+2. Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical
+features of patients infected with 2019 novel coronavirus in
+Wuhan, China. Lancet 2020;S0140e6736(20):30183e5.
+3. Holshue ML, DeBolt C, Lindquist S, Lofy KH, Wiesman J,
+Bruce H, et al. First case of 2019 novel coronavirus in the
+United States. N Englera J Med 2020:1e9. https:
+//doi.org/10.1056/NEJMoa2001191 [Epub ahead of print].
+
+First Case of COVID-19 in Taiwan
+4. Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, et al. Clinical
+characteristics of 138 hospitalized patients with 2019 novel
+coronavirus-infected pneumonia in Wuhan, China. J Am Med
+Assoc 2020:E1e9. https://doi.org/10.1001/jama.2020.1585
+[Epub ahead of print].
+5. Arabi YM, Alothman A, Balkhy HH, Al-Dawood A, AlJohani S, Al
+Harbi S, et al. Treatment of Middle East respiratory syndrome
+with a combination of lopinavir-ritonavir and interferonbeta1b (MIRACLE trial): study protocol for a randomized
+controlled trial. Trials 2018;19:81e93.
+6. Song JY, Cheong HJ, Heo JY, Noh JY, Yong HS, Kim YK, et al.
+Clinical, laboratory and radiologic characteristics of 2009
+pandemic influenza A/H1N1 pneumonia: primary influenza
+pneumonia versus concomitant/secondary bacterial pneumonia. Influenza Other Respir Viruses 2011;5:e535e43.
+7. Zhou F, Li H, Gu L, Liu M, Xue CX, Cao B, et al. Risk factors for
+nosocomial infection among hospitalised severe influenza
+A(H1N1) pandemic 2009 patients. Respir Med 2018;134:86e91.
+8. Leung GM, Hedley AJ, Ho LM, Chau P, Wong IO, Thach TQ, et al.
+The epidemiology of severe acute respiratory syndrome in the
+2003 Hong Kong epidemic: an analysis of all 1755 patients. Ann
+Intern Med 2004;141:662e73.
+9. Song F, Shi N, Shan F, Zhang Z, Shen J, Lu H, et al. Emerging
+coronavirus 2019-nCoV pneumonia. Radiology 2020:200274.
+https://doi:
+10.1148/radiol.2020200274.
+[Accessed
+15
+February 2020].
+
+751
+10. Chung M, Bernheim A, Mei X, Zhang N, Huang M, Zeng X, et al.
+CT imaging features of 2019 novel coronavirus (2019-nCoV).
+Radiology
+2020:200230.
+https://doi:
+10.1148/radiol.
+2020200230. [Accessed 15 February 2020].
+11. Lei J, Li J, Li X, Qi X. CT Imaging of the 2019 novel coronavirus
+(2019-nCoV) pneumonia. Radiology 2020:200236. https://doi:
+10.1148/radiol.2020200236. [Accessed 15 February 2020].
+12. Liu P, Tan XZ. 2019 novel coronavirus (2019-nCoV) pneumonia.
+Radiology
+2020:200257.
+https://doi:
+10.1148/radiol.
+2020200257. [Accessed 15 February 2020].
+13. Fang Y, Zhang H, Xu Y, Xie J, Pang P, Ji W. CT manifestations of
+two cases of 2019 novel coronavirus (2019-nCoV) pneumonia.
+Radiology
+2020:200280.
+https://doi:
+10.1148/radiol.
+2020200280. [Accessed 15 February 2020].
+14. Chang YC, Yu CJ, Chang SC, Galvin JR, Liu HM, Hsiao CH, et al.
+Pulmonary sequelae in convalescent patients after severe
+acute respiratory syndrome: evaluation with thin-section CT.
+Radiology 2005;236:1067e75.
+15. Pan Y, Guan H. Imaging changes in patients with 2019-nCov.
+Eur Radiol 2020. https://doi.org/10.1007/s00330-020-06713-z.
+[Accessed 15 February 2020].
+16. Shi H, Han X, Zheng C. Evolution of CT manifestations in a
+patient recovered from 2019 novel coronavirus (2019-nCoV)
+pneumonia in Wuhan, China. Radiology 2020:200269. https://
+doi: 10.1148/radiol.2020200269. [Accessed 15 February
+2020].
+
+

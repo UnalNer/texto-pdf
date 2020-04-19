@@ -1,0 +1,113 @@
+﻿Eco-Virological Preliminary Study of Potentially
+Emerging Pathogens in Hedgehogs
+(Erinaceus europaeus) Recovered at a Wildlife
+Treatment and Rehabilitation Center in Northern Italy
+Mauro Delogu 1 , Claudia Cotti 1 , Davide Lelli 2 , Enrica Sozzi 2 , Tiziana Trogu 2 ,
+Antonio Lavazza 2 , Giacomo Garuti 1 , Maria Rita Castrucci 3 , Gabriele Vaccari 4 ,
+Maria Alessandra De Marco 5, *,† and Ana Moreno 2,†
+
+Most of the newly emerging infections arise from animal reservoirs, frequently
+represented by wildlife species. Western European hedgehogs (Erinaceus europaeus) are mammalian
+hibernators, mainly nocturnal and insectivorous, living in natural open and green spaces as well as
+artificial, rural and urban, areas. They are generalist predators of macro-invertebrates, but they may
+also eat meat, bird eggs and on occasion pet food. These ecological and feeding habits, along with their
+high population densities, notable synanthropic attitudes, frequent contacts with sympatric wild and
+domestic species, including humans, implicate the possibility of intra- and interspecies interactions
+accounting for the possible involvement of E. europaeus in the ecology of several potentially emerging
+pathogens, including coronaviruses. Using PCR-based and virus isolation methods, we found that
+58.3% of 24 hedgehogs’ fecal samples were PCR-positive for Erinaceus coronaviruses (EriCoVs).
+We did not observe any clinical disease related to the EriCoV infection in hedgehogs. However,
+the high mutation rates characterizing members of the Coronaviridae family and their potential
+successful interspecies host jumps—as that likely occurred in the Novel coronavirus (2019-nCoV)
+emergence—should be considered in the management of hedgehogs admitted to multi-species wildlife
+rehabilitation centers, recommending their return back to the original recovery areas.
+Abstract: The Western European Hedgehog (Erinaceus europaeus) is one of the four hedgehog species
+belonging to the genus Erinaceus. Among them, E. amurensis is extant in East Asia’s areas only,
+whereas E. europaeus, E. roumanicus and E. concolor are mainly found in Europe. E. europaeus is
+endemically distributed from western to central and southern Europe, including Italy. Western
+European hedgehogs’ ecological and feeding habits, along with their high population densities, notable
+synanthropic attitudes, frequent contacts with sympatric wild and domestic species, including humans,
+implicate the possible involvement of E. europaeus in the ecology of potentially emerging viruses,
+
+such as coronaviruses, influenza A and influenza D viruses, canine distemper virus, pestiviruses and
+Aujeszky’s disease virus. We examined 24 E. europaeus individuals found injured in urban and rural
+areas of Northern Italy. Of the 24 fecal samples collected and tested for the above-mentioned pathogens
+by both PCR-based and virus isolation methods, 14 were found PCR-positive for betacoronaviruses
+belonging to lineage C and related to the known Erinaceus coronaviruses (EriCoVs), as determined by
+partial sequencing of the virus genome. Our findings suggest that hedgehogs could be considered
+natural reservoirs of CoVs, and also act as chronic shedding carriers of these potentially emerging
+RNA viruses.
+Keywords: wild animals; hedgehogs; public health; coronaviruses; Erinaceus coronavirus (EriCoV);
+Betacoronavirus infection
+
+Western European Hedgehog (Erinaceus europaeus) is one of the four hedgehog species belonging
+to the genus Erinaceus, biologically classified in the order Eulipotyphla [1]. Among them, E. amurensis is
+extant in East Asia’s areas only, whereas E. europaeus, E. roumanicus and E. concolor are mainly found
+in Europe. In particular, E. europaeus—from here on also simply called hedgehog—is a terrestrial
+mammal endemically distributed from western to central and southern Europe; this species is also
+present in parts of Fennoscandia, in north-western European Russia, the British Isles, Azores and
+several Mediterranean islands [2]. E. europaeus, protected by the Italian law 157/92 [3], is abundantly
+distributed throughout the Italian peninsula, in Sicily, in Sardinia and in some smaller islands, without
+any reported evidence of a rapid decline [4].
+Hedgehogs are mammalian hibernators, with different plesiomorphic features in their morphology,
+physiology and behavior. They are mainly nocturnal and insectivorous, build nests and use hearing and
+smell as a dominant sense, and possess peculiar specializations such as spines and highly developed
+back muscles allowing them to roll up [5]. Hedgehogs’ suitable habitats include natural open and
+green spaces as well as artificial, rural and urban, areas with marked preference for lowlands and
+hilly areas providing abundant food supply and plenty of grass, trees and fallen leaves. They also
+need diversity of habitats as those found in edges of deciduous woodlands or in man-made ecotonal
+interfaces (i.e., parks and garden with hedges) [6]. Despite its solitary lifestyle [7], E. europaeus has
+a highly variable home range, ranging in Italy from 5.5 to 102.5 ha [8]. As generalist predators of
+macro-invertebrates, hedgehogs consume most frequently caterpillars, earthworms, earwigs, slugs,
+millipedes and beetles (including coprophagous species); they may also eat meat (e.g., in the form
+of carrion or preyed small vertebrates such as mice, snakes and birds), bird eggs and pet food that is
+frequently found in gardens and shared with dogs and cats.
+The above-mentioned ecological and feeding habits, along with their high population densities,
+notable synanthropic attitudes and frequent contacts with sympatric wild and domestic species,
+including humans [5], implicate intra- and interspecies interactions [9] accounting for the potential
+involvement of E. europaeus (e.g., as a maintenance host, bridge host or dead-end host) in the ecology
+of several potentially emerging pathogens, as those reported below.
+Coronaviruses (CoVs) can infect productively a wide range of animal species and cause respiratory,
+enteric and neurological diseases of variable severity. As shown during the last two decades, potentially
+zoonotic CoVs can pose massive public health threats such as those related to the Severe Acute
+Respiratory Syndrome Coronavirus (SARS-CoV) [10], Middle East Respiratory Syndrome Coronavirus
+(MERS-CoV) [11] and 2019 Novel Coronavirus (2019-nCoV) [12] emergences. Two of the four
+recognized genera of CoVs (i.e., Alphacoronavirus and Betacoronavirus) are probably perpetuated
+in bat populations [13,14], recently recognized as the evolutionary origins of the MERS-CoV, emerged
+in 2012 in humans [15]. The recent detection of MERS-related CoVs in hedgehogs from Germany [16],
+
+
+France [17] and Great Britain [18] suggests that E. europaeus, which is belonging to a Chiroptera-related
+order [19], represents a wild reservoir of betacoronaviruses known as Erinaceus CoVs (EriCoVs).
+The wild bird Influenza A virus (IAV) gene pool poses significant risks for both animal and human
+health because of its ability to colonize a wide variety of animal species (included in the Mammalia,
+Aves and Reptilia classes) in which IAV can cause variable outcomes of infection, with possible high
+morbidity and fatality rates [20]. The newly identified Influenza D virus (IDV), also circulating in Italian
+livestock [21], is known to infect cattle, which are the main reservoir of the virus, and small ruminants,
+swine, horses, camels, ferrets and humans. Both IAV and IDV exhibit respiratory and fecal shedding
+and the broad IAV host range includes wild and pet species sympatric or potentially sympatric with E.
+europaeus (e.g., dogs, cats, ferrets, land-based birds) [22].
+Canine morbillivirus (canine distemper virus, CDV) causes a highly contagious and systemic
+disease often involving the respiratory, gastro-intestinal and nervous systems of canids and poses
+worldwide a relevant health risk for domestic and wild species of carnivores [23–25]. Its wide range of
+naturally infected hosts includes Rodentia, Primates, Artiodactyla, Proboscidea and Eulipotyphla species,
+and a morbillivirus antigenically related to CDV was also isolated in fecal samples obtained from a
+sick E. europaeus [26].
+Pestiviruses include eleven known Pestivirus species along with related unclassified emerging
+viruses that can infect domestic and wild ruminants, pigs and wild boars [27], rats and bats. Pestiviruses
+can cause a wide variety of symptoms ranging from mild to severe disease and even death. Transmission
+of pestivirus infection can occur through nasal secretion, urine, feces, contact with fomites and by
+vertical routes [28]. To the best of our knowledge, no pestivirus infection has been ever reported
+in hedgehogs.
+Suid alphaherpesvirus 1 (SHV-1) is the etiological agent of the Aujeszky’s disease and may infect
+a very broad range of domestic and wild mammalian species, including hedgehogs [29], but not
+humans and tailless apes. SHV-1 replicates in the central nervous system and other organs, such as
+the respiratory tract, and only pigs and wild boars can survive productive infections, thus playing
+the role of a natural reservoir in which the virus can persist latently after clinical recovery [30].
+Occasional consumption of wild boar carrions could expose hedgehogs to SHV-1 infection, which is
+quite frequently detected in populations of this wild suid species in Italy [31].
+The aim of this study is to investigate the presence of the above-mentioned viral pathogens in
+fecal samples of hedgehogs to better clarify the role of E. europaeus in the ecology of such viruses.
+This research could also provide epidemiological information useful for the health management of
+hedgehogs admitted to wildlife rescue centers, where different animal species, including humans,
+can interact.

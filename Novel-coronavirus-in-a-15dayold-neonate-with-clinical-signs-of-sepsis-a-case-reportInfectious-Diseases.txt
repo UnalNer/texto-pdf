@@ -1,0 +1,236 @@
+﻿Infectious Diseases
+
+ISSN: 2374-4235 (Print) 2374-4243 (Online) Journal homepage: https://www.tandfonline.com/loi/infd20
+
+Novel coronavirus in a 15-day-old neonate with
+clinical signs of sepsis, a case report
+Mojtaba Kamali Aghdam, Nahid Jafari & Kambiz Eftekhari
+To cite this article: Mojtaba Kamali Aghdam, Nahid Jafari & Kambiz Eftekhari (2020): Novel
+coronavirus in a 15-day-old neonate with clinical signs of sepsis, a case report, Infectious Diseases,
+DOI: 10.1080/23744235.2020.1747634
+To link to this article: https://doi.org/10.1080/23744235.2020.1747634
+
+Published online: 01 Apr 2020.
+
+Submit your article to this journal
+
+Article views: 1975
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=infd20
+
+INFECTIOUS DISEASES,
+2020; VOL. 0,
+NO. 0, 1–3
+
+https://doi.org/10.1080/23744235.2020.1747634
+
+CASE REPORT
+
+Novel coronavirus in a 15-day-old neonate with
+clinical signs of sepsis, a case report
+Mojtaba Kamali Aghdama
+
+, Nahid Jafarib
+
+and Kambiz Eftekharic
+
+a
+
+Pediatric Department, Mousavi Hospital, Zanjan University of Medical Sciences, Zanjan, Iran; bNeonatology Department, Mousavi
+Hospital, Zanjan University of Medical Sciences, Zanjan, Iran; cPediatric Gastroenterology and Hepatology Research Center,
+Tehran University of Medical Sciences, Tehran, Iran
+ABSTRACT
+
+Introduction: Novel coronavirus or coronavirus disease (COVID-19) can affect all age groups. The clinical course of the disease in children and infants is milder than in adults. It should be noted that, although typical symptoms may be present in
+children, non-specific symptoms could be noted in the neonate. The disease is rare in the neonate, so, its suspicion in this
+group can help to make a quick diagnose.
+Case report: A 15-day-old neonate was admitted with fever, lethargy, cutaneous mottling, and respiratory distress without
+cough. His mother had symptoms of Novel coronavirus. So Reverse-Transcription Polymerase Chain Reaction (RT-PCR) assay
+was done for the neonate and showed to be positive. The newborn was isolated and subjected to supportive care.
+Antibiotic and antiviral treatment was initiated. Eventually, the baby was discharged in good general condition.
+Conclusion: When a newborn presents with non-specific symptoms of infection with an added history of COVID-19 in his/
+her parents, it indicates the need for PCR testing for Novel coronavirus.
+
+KEYWORDS
+
+Neonates
+novel coronavirus
+COVID-19
+sepsis
+
+ARTICLE HISTORY
+
+CONTACT
+
+Received 17 March 2020
+Revised 22 March 2020
+Accepted 23 March 2020
+
+Kambiz Eftekhari
+dr_k_eftekhary@yahoo.com
+Pediatric Department, Bahrami Children’s
+Hospital, Kiaee Street, Tehran, Iran.
+
+ß 2020 Society for Scandinavian Journal of Infectious Diseases
+
+2
+
+M. KAMALI AGHDAM ET AL.
+
+Introduction
+
+Case presentation
+
+Coronavirus is one of the most important common
+human and animal pathogens [1]. In December 2019,
+new coronavirus 2019 (SARS-CoV-2) appeared in China.
+It spreaded rapidly in China and worldwide within a
+short time [1]. It is now referred to as Coronavirus disease (COVID-19). It is a highly contagious [2]. The disease is secondary to the coronavirus b family; it has
+already led to severe epidemics, including SARS-CoV
+(Sever Acute Respiratory Syndrome- Corona Virus) and
+MERS-CoV (Middle East Respiratory Syndrome- Corona
+Virus). The mortality rate of SARS-CoV was about 10%
+and MERS-CoV was up to 37%. Over the past two decades, SARS-CoV and MERS-CoV have resulted in more
+than 10,000 deaths [3,4]. Some articles have considered
+pregnant women as a high-risk group of COVID- 19 [5].
+But the latest data in UptoDate suggest that pregnancy
+is not an additional risk factor for the infection, and
+the risk of disease, treatment and prognosis is similar
+to that of nonpregnants [1]. There is currently no information on foetal maternal or vertical transmission [5].
+Although the COVID-19 can affect all age groups, the
+disease is usually milder in children than in adults, and
+may be accompanied by non-specific symptoms, especially in neonates [6]. The presentation of COVID-19 in
+children and neonate can range from asymptomatic
+infection to severe respiratory distress [6]. The most
+common clinical symptoms include fever, fatigue and
+dry cough. Some patients have upper respiratory manifestations such as nasal obstruction, nasal discharge
+and sore throat, and others have gastrointestinal symptoms such as abdominal discomfort, vomiting, abdominal pain, and diarrhoea [6]. So far, no mortality has
+been reported in children [7]. The diagnosis of COVID19 is based on the contact, travel history and related
+laboratory tests [6]. Symptomatic and supportive measures, including oxygen, are the main treatment for
+these patients. Intravenous therapy, correction of water,
+electrolyte, acid-base imbalances are extremely important as well [6]. Only three newborns have been
+reported with COVID-19 [1,6]. These neonates were
+36 h, 5 and 17 days old. Their mothers had COVID-19.
+The disease is rare in neonates, so its suspicioncan
+help for a quick diagnose.
+Our aim is to introduce the case. We want to inform
+about the likelihood of COVID-19 infection in infants
+presenting with non-specific clinical manifestations of
+the disease. Especially in the current epidemic, the disease ought to be suspected.
+
+The 15-day-old term neonate was admitted to the neonatal ward of Mousavi Hospital in Zanjan (Iran) due to
+fever and lethargy. He was the third child of non-consanguineous parents; he was born by caesarean section
+with a birth weight of 3460. His parents recently
+reported fever and cough. His mother also had sweating, weakness, and malaise. The infant had no history of
+hospitalisation. At admission, he had fever (38.2 axillaries) and mottling. There were no cough, runny nose or
+gastrointestinal symptoms. On examination, he was
+completely alert, with tachycardia (heart rate of
+170 min), tachypnoea (respiratory rate of 66), and mild
+subcostal retraction, O2 saturation was 93% (without
+oxygen). He was transferred to the Neonatal Intensive
+Care Unit (NICU) due to illness and respiratory distress.
+There, he was isolated. The supportive and therapeutic
+care began. Proper fluid therapy, oxygen therapy, antibiotic therapy by Vancomycin (10 mg/kg/q8h made by
+Exir Pharmaceutical Co., Iran) and Amikacin (10 mg/kg/
+q8h made by Caspian Tamin Pharmaceutical Co., Iran)
+and Oseltamivir (3 mg/kg/12h made by John Lee
+Pharmaceutical Co., India) started. Blood tests were
+done. Then pharyngeal swab specimens were taken to
+evaluate for coronavirus and influenza by ReverseTranscription Polymerase Chain Reaction (RT-PCR) assay.
+Chest X-ray was performed. Consultation with paediatric
+cardiologist was requested. According to the Iranian
+Ministry of Health guidelines for Novel coronavirus, cases
+of COVID-19 that do not require hospitalisation, PCR
+testing is not recommended, so no tests were sent to
+his parents. The results of the patient’s test were:
+WBC ¼ 6700/mL (L: 36%, N: 42%), Hb ¼ 14.4 g/dL,
+PLT ¼ 351,000/mL, BS ¼ 59 mg/dL, BUN ¼ 16 mg/dL,
+Cr ¼ 0.3 mg/dL, CRP ¼ 1 mg/L, ABG: PH ¼ 7.42, PCo2 ¼
+28.5 mmHg, PO2 ¼ 74 mmHg, HCo3 ¼ 22 meq/L, BE ¼
+1.5 mmol/L, O2 Sat ¼ 93%.
+These results were normal for neonate. Blood glucose
+(BS) more than 45 mg/dl is considered normal for this
+age. Arterial blood gases (ABG) were also in the normal
+range. The chest X-ray was normal. The echocardiography showed the patent foramen ovale (PFO). Blood,
+urine and stool culture were negative. RT-PCR for coronavirus was positive and negative for influenza. The
+recovery began gradually after the second day of admission. Respiratory distress and mottling resolved. Oral
+feeding began and tolerated. Finally, on the sixth day,
+he was discharged from hospital in good general condition. He and his parents were quarantined and
+
+INFECTIOUS DISEASES
+
+3
+
+monitored for fourteen days. In the follow-up, they
+were recovering.
+
+Informed consent
+
+Conclusion
+
+ORCID
+
+The clinical course of COVID-19 in children is milder
+than in adults. The most common clinical symptoms
+include fever, fatigue, and cough [6]. Only three newborns with the Novel coronavirus were reported, by 1
+March 2020 [6]. Case one was 17-day-old with fever,
+cough and vomiting [8], the second case was 5-day-old
+with fever [6], and the third case was 36-h asymptomatic
+[5]. These neonates had a positive history of COVID-19
+in their mothers. All three infants had stable vital signs
+and no serious complications were reported [6]. An
+important finding of our neonate, consistent with the
+others, was the presence of fever and a positive history
+of COVID-19 in their parents. But our case had no vomiting and cough despite respiratory distress and mottling.
+Mottling was not reported in any neonatal case. The
+uncomplicated discharge of these neonates, like ours,
+indicates a good prognosis of COVID-19 in the neonatal
+age group. Therefore, in neonates with non-specific
+symptoms of infection, and history of COVID-19 symptoms in their parents, performance of PCR testing for
+Novel coronavirus seems reasonable. Especially at this
+age, clinical and laboratory symptoms can vary.
+
+Mojtaba Kamali Aghdam
+http://orcid.org/0000-0002-1966-5702
+Nahid Jafari
+http://orcid.org/0000-0001-5255-824X
+Kambiz Eftekhari
+http://orcid.org/0000-0003-3471-2498
+
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+
+Patient consent for publication Obtained.
+
+References
+
+McIntosh K, Hirsch MS, Bloom A. Coronavirus disease 2019
+(COVID-19). UpToDate 2020 Mar 13.
+Data from the official website of the National Health
+Commission. Available from: http://www.nhc.gov.cn/
+Ksiazek TG, Erdman D, Goldsmith CS, et al. A novel coronavirus associated with severe acute respiratory syndrome.
+N Engl J Med. 2003; 348(20):1953–1966.
+Zaki AM, van Boheemen S, Bestebroer TM, et al. Isolation
+of a novel coronavirus from a man with pneumonia in
+Saudi Arabia. N Engl J Med. 2012;367(19):1814–1820.
+Wang S, Guo L, Chen L, et al. A case report of neonatal
+COVID-19 infection in China. Clinical Infectious Diseases.
+ciaa225. [12 March 2020]. Available from: 10.1093/cid/
+ciaa225.
+Lu Q, Shi Y. Coronavirus disease (COVID-19) and neonate:
+what neonatologist needs to know. J Med Virol. 2020. DOI:
+10.1002/jmv.25740
+[Recommendation for the diagnosis and treatment of novel
+coronavirus infection/pneumonia in children in Hubei (Trial
+version 1)]. Zhongguo Dang Dai Er Ke Za Zhi.
+2020;22(2):96–99.
+Lingkong Z, Xuwei T, Wenhao Y, et al. First case of neonate
+infected with novel coronavirus pneumonia in China. Chin
+J Pediatr. 2020;58:E009.
+
+

@@ -1,0 +1,50 @@
+﻿REVIEW PAPERS
+
+DOI: https://doi.org/10.5114/ait.2020.93756
+
+COVID-19 – what should anaethesiologists
+and intensivists know about it?
+Magdalena A. Wujtewicz1, Anna Dylczyk-Sommer1, Aleksander Aszkiełowicz1,
+Szymon Zdanowski2, Sebastian Piwowarczyk2, Radosław Owczuk1
+Department of Anaesthesiology and Intensive Therapy, Medical University of Gdańsk, Gdańsk, Poland
+Students’ Scientific Society at the Medical University of Gdańsk, Gdańsk, Poland
+
+Anaesthesiol Intensive Ther 2020; 52, 1: 34–41
+
+Over the past three months, the world has faced an unprecedented health hazard.
+The World Health Organization has announced a pandemia infection with an unknown
+species of coronavirus called SARS-CoV-2. Spreading mainly through the droplet route,
+the virus causes mild symptoms in the majority of cases, the most common being: fever
+(80%), dry cough (56%), fatigue (22%) and muscle pain (7%); less common symptoms
+include a sore throat, a runny nose, diarrhea, hemoptysis and chills. A life-threatening
+complication of SARS-CoV-2 infection is an acute respiratory distress syndrome (ARDS),
+which occurs more often in older adults, those with immune disorders and co-morbidities. Severe forms of the infection, being an indication for treatment in the intensive
+care unit, comprise acute lung inflammation, ARDS, sepsis and septic shock. The article
+presents basic information about etiology, pathogenesis and diagnostics (with particular emphasis on the importance of tomocomputer imaging), clinical picture, treatment
+and prevention of the infection. It goes on to emphasize the specific risks of providing
+anesthesiology and intensive care services. Due to the fact that effective causal treatment is not yet available and the number of infections and deaths increases day by
+day, infection prevention and strict adherence to recommendations of infection control
+organizations remain the basis for fighting the virus.
+Key words: viruses, SARS-CoV-2, infection, COVID-19, acute pneumonia, acute
+respiratory distress syndrome (ARDS).
+
+In the last months of 2019, disturbing news from
+China began to spread around the world about the
+increased incidence of viral infections, which turned
+out to be caused by a coronavirus. It was originally
+referred to as 2019-nCov, now as SARS-CoV-2; the
+disease it caused has been named COVID-19 by the
+World Health Organization (WHO) (11 February 2020).
+At present it is known that the virus has reached
+Europe (including Poland) and the highest number
+of cases has been recorded in the northern part of
+Italy. The knowledge regarding epidemiology is
+changing dynamically, so is the scope of information about the virus. This paper aims to provide upto-date information on COVID-19, which should be
+important for anaesthetists, intensivists and trainees in this specialty. We are aware that new findings
+are reported every day; therefore, it is essential to
+keep track of online sources of information, including websites of the Ministry of Health and the Chief
+Sanitary Inspector. The most important guidelines
+and updates on COVID-19 are being translated into
+
+
+

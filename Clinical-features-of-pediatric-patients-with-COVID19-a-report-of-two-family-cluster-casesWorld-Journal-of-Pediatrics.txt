@@ -1,0 +1,43 @@
+﻿World Journal of Pediatrics
+https://doi.org/10.1007/s12519-020-00356-2
+
+BRIEF REPORT
+
+Clinical features of pediatric patients with COVID‑19: a report of two
+family cluster cases
+Li‑Na Ji1 · Shuang Chao1 · Yue‑Jiao Wang1 · Xue‑Jun Li1 · Xiang‑Dong Mu2 · Ming‑Gui Lin3 · Rong‑Meng Jiang4
+Received: 24 February 2020 / Accepted: 5 March 2020
+© Children’s Hospital, Zhejiang University School of Medicine 2020
+
+Background Coronovirus disease 2019 (COVID-19) has spread rapidly across the globe. People of all ages are susceptible
+to COVID-19. However, literature reports on pediatric patients are limited.
+Methods To improve the recognition of COVID-19 infection in children, we retrospectively reviewed two confirmed pediatric cases from two family clusters. Both clinical features and laboratory examination results of the children and their family
+members were described.
+Results The two confirmed children only presented with mild respiratory or gastrointestinal symptoms. Both of them had
+normal chest CT images. After general and symptomatic treatments, both children recovered quickly. Both families had
+travel histories to Hubei Province.
+Conclusions Pediatric patients with COVID-19 are mostly owing to family cluster or with a close contact history. Infected
+children have relatively milder clinical symptoms than infected adults. We should attach importance to early recognition,
+early diagnosis, and early treatment of infected children.
+Keywords Children · Coronavirus · COVID-19 · Wuhan
+
+
+Since the outbreak of the coronovirus disease 2019
+(COVID-19) in Wuhan City, China, a total of 82,488 confirmed cases have been reported globally as of February
+27, 2020 [1]. Of these cases, 78,824 were from China and 3664 were from 46 other countries [1]. Among the confirmed cases, 2788 died in China and 57 died in other countries [1]. The novel coronavirus has been named severe
+acute respiratory syndrome coronavirus 2 (SARS-CoV-2),
+whereas the disease associated with it is referred to as
+COVID-19 [2].
+A series of recent published articles have reported the
+epidemiological and clinical characteristics of the hospitalized patients in Wuhan with COVID-19 [3–5]. Most
+patients reported in the literature were adults, and adult
+patients commonly presented as pneumonia with abnormal findings on chest CT [3–6]. Elderly men with comorbidities were more likely to exacerbate with severe and
+even fatal respiratory diseases such as acute respiratory
+distress syndrome (ARDS) [3–5]. The Chinese Center
+for Disease Control and Prevention reported 72,314
+COVID-19 patients as of February 11, 2020. Among the
+44,672 confirmed cases, 416 cases were aged 0–10 years
+[7]. However, literature reports on pediatric patients are
+limited [8, 9]. Herein, we report two children with confirmed COVID-19 from two family clusters. This paper
+will help pediatricians early recognize pedaitric cases with
+COVID-19.

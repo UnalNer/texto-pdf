@@ -1,0 +1,84 @@
+pathogens
+Article
+
+Antiviral Effect of Lithium Chloride and
+Diammonium Glycyrrhizinate on Porcine
+Deltacoronavirus In Vitro
+Xiaofeng Zhai, Shilei Wang, Mengyan Zhu, Wei He, Zhongzhou Pan and Shuo Su *
+MOE International Joint Collaborative Research Laboratory for Animal Health & Food Safety, Jiangsu
+Engineering Laboratory of Animal Immunology, Institute of Immunology, College of Veterinary Medicine,
+Nanjing Agricultural University, Nanjing 210095, China
+* Correspondence: shuosu@njau.edu.cn
+
+Porcine deltacoronavirus (PDCoV) is an emerging global swine virus that has a propensity
+for interspecies transmission. It was identified in Hong Kong in 2012. Given that neither specific
+antiviral drugs nor vaccines are available for newly emerging porcine deltacoronavirus, searching for
+effective antiviral drugs is a high priority. In this study, lithium chloride (LiCl) and diammonium
+glycyrrhizinate (DG), which are host-acting antivirals (HAAs), were tested against PDCoV. We found
+that LiCl and DG inhibited PDCoV replication in LLC-PK1 cells in a dose-dependent manner.
+The antiviral effects of LiCl and DG occurred at the early stage of PDCoV replication, and DG also
+inhibited virus attachment to the cells. Moreover, both drugs inhibited PDCoV-induced apoptosis in
+LLC-PK1 cells. This study suggests LiCl and DG as new drugs for the treatment of PDCoV infection.
+Keywords: PDCoV; lithium chloride; diammonium glycyrrhizinate; apoptosis
+PDCoV, first discovered in Hong Kong in 2012, broke out in the United States in early 2014 and
+then spread to China, Thailand, and Canada. As a novel coronavirus, PDCoV can cause severe diarrhea
+and vomiting, with high mortality in piglets, which can lead to serious economic loss in the swine
+industry [1–3]. Coronaviruses (CoVs) are enveloped positive-stranded RNA viruses that are classified
+into four genera including Alpha, Beta, Gamma, and Deltacoronavirus. CoVs are prone to interspecies
+transmission [4]. In particular, Betacoronaviruses include SARS-CoV and MERS-CoV, which can cause
+lethal respiratory infections in humans and are notable examples of interspecies transmission [5,6].
+Cross-species transmission, facilitated by the widespread prevalence of CoV in mammals and birds,
+and genetic diversity, driven by high mutation rates and high frequency of recombination, increase the
+chance of successful adaptation to a new host [7].
+PDCoV, belonging to the genus Deltacoronavirus and the family Coronaviridae within the order
+Nidovirales, is a recently discovered CoV of unknown origin, which has a wide host range, including
+wild birds, swine, and other mammals [8,9]. The PDCoV genome is approximately 25 kb and has seven
+open reading frames, i.e., open reading frame 1a/1b (ORF1a/1b), spike (S), envelope (E), membrane (M),
+nucleocapsid (N), NS6, and NS7. As an emerging swine enteropathogenic coronavirus, PDCoV has
+strong pathogenicity and can cause watery diarrhea, vomiting, and high mortality in piglets, posing
+a potential threat to the swine husbandry. The post-infection mortality of suckling piglets can reach
+30% to 40%, causing serious economic losses to the pork industry [10]. PDCoV efficiently infects cells of
+several species, including swine, human, and chicken. Ectopic expression of porcine aminopeptidase
+N (APN) rendered non-susceptible cells susceptible to PDCoV infection and greatly enhance PDCoV
+infection in HeLa cells [11]. This suggests that PDCoV has the potential to spread between species
+and may be a threat to humans, as closely related viruses have led to outbreaks of deadly diseases
+such as SARS and MERS [12,13]. PDCoV global distribution in swine and its potential for transmission
+to multiple hosts are alarming. Pigs are the second largest livestock species and act as intermediate
+hosts for multiple zoonotic transmissions, emphasizing the need for studying the zoonotic potential of
+PDCoV and the development of antiviral drugs [14].
+Given the lack of specific antiviral therapies to control PDCoV infection, searching for effective
+small-molecule inhibitors active against PDCoV is a high research priority. Antiviral reagents include
+directly acting antivirals (DAAs), which can directly act on viral components (proteins or genomes), and
+host-acting antivirals (HAAs), which can act on hosts [15–17]. Although DAAs are more virus-specific,
+viruses quickly develop resistance [18]. Antiviral methods based on host cellular mechanisms have
+potential advantages in reducing virus drug resistance and dealing with viral emergencies. Therefore,
+the search and development of HAAs has aroused more and more interest. An interesting feature of
+HAAs is their broad-spectrum antiviral activity, which allows for immediate treatment without a lead
+time being required to develop a specific therapy [19]. With the emergence of new viruses threatening
+human health, the discovery of new functions in existing clinical drugs is often used in the screening of
+modern emergency therapies. Traditional broad-spectrum antiviral drugs have shown antiviral activity
+against many types of viruses [17]. For example, ribavirin has antiviral activity against Hantavirus [20],
+H1N1 influenza virus [21], Dengue virus [22], and Chikungunya virus [23]. Therefore, the discovery of
+new antiviral functions for existing clinical drugs is still an important strategy against PDCoV infection.
+Here, the antiviral activities of LiCl and DG, which are both HAAs, were studied against PDCoV.
+LiCl can inhibit the replication of a variety of viruses, including Herpesvirus type 1 (HSV-1) [24],
+transmissible gastroenteritis virus (TGEV) [25], porcine reproductive and respiratory syndrome virus
+(PRRSV) [26], pseudorabies virus (PRV) [27], and porcine epidemic diarrhea virus (PEDV) [28]. LiCl
+can also regulate apoptosis and promote resumption of the synthesis of host proteins in infected
+cells [25,26]. Recent studies showed that LiCl could effectively inhibit the entry and replication of PEDV
+in Vero cells in a dose-dependent manner [28]. In addition, LiCl can inhibit early and late apoptosis
+induced by PEDV. PDCoV and PEDV belong to the family Coronaviridae and have similar genomic
+structure. However, antiviral drugs against PDCoV have not been researched. Therefore, we explored
+whether LiCl could inhibit infection by PDCoV. The licorice extract isolated from the rhizome of
+Glycyrrhiza uralensis has a strong antiviral activity [29]. In recent years, licorice extracts have been
+shown to have antiviral effects on many viruses including human immunodeficiency virus (HIV) [30],
+hepatitis B virus (HBV) [31], hepatitis A virus (HAV) [32], SARS-CoV [33], infectious bronchitis virus
+(IBV) [34], PRRSV [29], and PRV [27]. According to previous studies, DG pre-treatement inhibited
+PRV infection in a dose-dependent manner and reduced apoptosis [27]. Glycyrrhizin and DG have
+antiviral effect against SARS-CoV and IBV. Additionally, the water solubility of DG is better than that
+of glycyrrhizin, so we chose to verify the effect of DG on PDCoV.
+Here, we report that LiCl and DG inhibit the replication of the PDCoV strain SD2018/10 in
+LLC-PK1 cells in a dose-dependent manner. The antiviral activity of LiCl mainly occurs at the early
+stage of viral infection, while the antiviral activity of DG mainly occurs at the stage of viral attachment.
+In addition, both drugs inhibited PDCoV-induced apoptosis in LLC-PK1 cells. Therefore, the potential
+and theoretical bases of the two drugs as therapeutic drugs for PDCoV were validated.

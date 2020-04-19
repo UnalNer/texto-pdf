@@ -1,0 +1,49 @@
+J Pharm Pharm Sci (www.cspsCanada.org) 23, 58 - 64, 2020
+
+Current Drugs with Potential for Treatment of COVID-19: A Literature Review
+
+SARS-CoV-2 first emerged in China in December 2019 and rapidly spread worldwide.
+No vaccine or approved drug is available to eradicate the virus, however, some drugs that are indicated for other
+afflictions seems to be potentially beneficial to treat the infection albeit without unequivocal evidence. The aim
+of this article is to review the published background on the effectiveness of these drugs against COVID-19
+Methods: A thorough literature search was conducted on recently published studies which have published
+between January 1 to March 25, 2020. PubMed, Google Scholar and Science Direct databases were searched
+Results: A total 22 articles were found eligible. 8 discuss about treatment outcomes from their applied drugs
+during treatment of COVID-19 patients, 4 report laboratory tests, one report animal trial and other 9 articles
+discuss recommendations and suggestions based on the treatment process and clinical outcomes of other diseases
+such as malaria, ebola, severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS).
+The data and/or recommendations are categorized in 4 classes: (a) anti-viral and anti-inflammatory drugs, (b)
+anti-malaria drugs, (c) traditional Chinese drugs and (d) other treatments/drugs. Conclusion: All examined
+treatments, although potentiality effective against COVID-19, need either appropriate drug development or
+clinical trial to be suitable for clinical use.
+
+The world has experienced various dangerous
+outbreaks of various intensities such as ebola,
+cholera, Spanish flu, American seasonal flu. Now
+we are facing an arguably a more dangerous viral
+endemic with COVID-19. This severe acute
+respiratory syndrome coronavirus 2 (SARS-CoV-2),
+formerly known as the 2019 novel Coronavirus
+(2019nCoV or COVID-19), is a single-stranded
+RNA beta-coronavirus whose genome encodes are
+structural proteins, non-structural proteins and
+accessory proteins (1). It has globally already
+infected 413467 people and killed 18,433 people by
+25 March, 2020 (2) and the casualties are growing
+exponentially. In the meantime, only 113453
+patients have recovered which is 27.45% of total
+affected population (2). The characteristics of the
+infected population is already published (3, 4).
+Various treatments have been suggested and applied
+to control COVIDE-19 based on previous
+experiences with other viral infections such as
+malaria, ebola and cholera (6). In addition, a
+systematic review of the effect of chloroquine on
+COVID-19 infection has appeared (5). However,
+these treatments have resulted in controversy as are
+not based on data generated from direct conventional
+
+clinical trials albeit, a list of ongoing registered
+clinical trials have been reported by Zhang et al (7).
+Herein, a thorough literature review on these
+treatments are presented.

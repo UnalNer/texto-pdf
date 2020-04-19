@@ -1,0 +1,334 @@
+G Model
+JOGOH 101729 No. of Pages 3
+
+Journal of Gynecology Obstetrics and Human Reproduction xxx (2019) xxx–xxx
+
+Available online at
+
+ScienceDirect
+www.sciencedirect.com
+
+Guidelines for clinical practice
+
+Recommendations for the surgical management of gynecological
+cancers during the COVID-19 pandemic - FRANCOGYN group for the
+CNGOF$
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Article history:
+Available online xxx
+
+Introduction: In the context of the COVID-19 pandemic, speciﬁc recommendations are required for the
+management of patients with gynecologic cancer.
+Materials and method: The FRANCOGYN group of the National College of French Gynecologists and
+Obstetricians (CNGOF) convened to develop recommendations based on the consensus conference
+model.
+Results: If a patient with a gynecologic cancer presents with COVID-19, surgical management should be
+postponed for at least 15 days. For cervical cancer, radiotherapy and concomitant radiochemotherapy
+could replace surgery as ﬁrst-line treatment and the value of lymph node staging should be reviewed on a
+case-by-case basis. For advanced ovarian cancers, neoadjuvant chemotherapy should be preferred over
+primary cytoreduction surgery. It is legitimate not to perform hyperthermic intraperitoneal
+chemotherapy during the COVID-19 pandemic. For patients who are scheduled to undergo interval
+surgery, chemotherapy can be continued and surgery performed after 6 cycles. For patients with early
+stage endometrial cancer of low and intermediate preoperative ESMO risk, hysterectomy with bilateral
+adnexectomy combined with a sentinel lymph node procedure is recommended. Surgery can be
+postponed for 1–2 months in low-risk endometrial cancers (FIGO Ia stage on MRI and grade 1–2
+endometrioid cancer on endometrial biopsy). For patients of high ESMO risk, the MSKCC algorithm
+(combining PET-CT and sentinel lymph node biopsy) should be applied to avoid pelvic and lumbar-aortic
+lymphadenectomy.
+Conclusion: During the COVID-19 pandemic, management of a patient with cancer should be adapted to
+limit the risks associated with the virus without incurring loss of chance.
+© 2020 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BYNC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Keywords:
+Gynaecological cancer
+COVID-19
+Guideline
+Management
+
+These recommendations are based on current knowledge but
+may evolve as new data emerges.
+In the current pandemic context of COVID-19 and the
+subsequent saturation of resuscitation services, over the next 2–
+3 months we must not only reconsider our therapeutic indications
+but also limit the risk of infection in our cancer patients. To reduce
+the risk of infections two priorities are crucial: to limit high risk
+situations such as surgery and chemotherapy; and to limit the
+patient’s contact with healthcare workers and, in particular, with
+places of care.
+While bearing in mind that the main objective for our patients
+with pelvic gynecologic cancer remains therapeutic management,
+all alternatives to surgery must be considered. In particular, the
+risk-beneﬁt ratio for surgical procedures must be analyzed on a
+case-by-case basis and in multidisciplinary meeting, taking into
+
+$
+Groupe FRANCOGYN (Groupe de Recherche en chirurgie Oncologique et
+Gynécologique), Groupe D’intérêt du CNGOF (Collège National des Gynécologues
+Obstétriciens Français). 91, boulevard de Sébastopol. 75002 P.
+
+account the risk of loss of chance that could result from an
+alternative strategy that has not been proven. The main objective is
+to avoid postoperative complications and the need for ensuing
+postoperative intensive care and in particular the occupation of a
+resuscitation bed. However, in as far as it is possible according to
+the saturation of the structure of care related to COVID-19, it is
+advisable to apply traditional recommendations.
+If a patient presents with COVID-19, surgical management and
+all other oncological treatment should be postponed for at least 15
+days.
+Cancer patients are 4–8 times more likely than the general
+population to develop severe respiratory complications related to
+COVID-19 marked by rapid onset and often fatal outcome. The risk
+is more acute if they have undergone surgery or chemotherapy in
+the preceding weeks. These patients’ vital prognosis is at risk in
+addition to the risk linked to cancer. They should be provided with
+a mask and use hand sanitizers on arrival at the hospital.
+Preamble
+Management of the oncology patient is conventionally based on
+two strategies:
+
+http://dx.doi.org/10.1016/j.jogoh.2020.101729
+2468-7847/© 2020 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/bync-nd/4.0/).
+
+Please cite this article in press as: C. Akladios, et al., Recommendations for the surgical management of gynecological cancers during the
+COVID-19 pandemic - FRANCOGYN group for the CNGOF, J Gynecol Obstet Hum Reprod (2020), https://doi.org/10.1016/j.jogoh.2020.101729
+
+G Model
+JOGOH 101729 No. of Pages 3
+
+2
+
+C. Akladios et al. / J Gynecol Obstet Hum Reprod xxx (2019) 101729
+
+1) Curative: for localized diseases, or for certain advanced /
+metastatic cancers characterized by a particular sensitivity to
+treatments or a disease course which makes them curable by
+medical, surgical or radiotherapeutic treatment
+2) Palliative (non-curative): for diseases too advanced to be
+curable.
+In the current COVID-19 context, patient prioritization should
+integrate the nature of the therapeutic strategy (curative versus
+palliative), their age, estimated life expectancy, and whether the
+diagnosis is recent or not.
+Taking into account the duration of incubation and the high
+percentage of asymptomatic patients, all pathologic samples
+should be considered as potentially infected. A recent publication
+has shown that ﬁxation in formalin can inactivate the COVID-19
+virus. The risk of toxicity linked to formalin exposure appears to be
+less serious than that linked to the handling of fresh, non-ﬁxed
+tissue potentially carrying COVID-19. If necessary, operating
+samples from patients included in clinical trials can be sent fresh
+to the laboratory but all the necessary precautions should be
+applied.
+Imaging tests should be maintained or postponed according to
+their importance and the impact on the choice of treatment
+strategy.
+1. All multidisciplinary meetings
+All multidisciplinary meetings should be organized following
+the recommendations of the ONCORIF group (https://www.
+oncorif.fr/2020/03/coronavirus-recommandations-et-contenusﬁables/). As far as possible, multidisciplinary meetings should be
+held with a triple objective: not to delay the care of patients who
+need it; not to unnecessarily mobilize doctors who are not
+absolutely necessary for the discussion; not to promote the
+transmission of the virus between cardiopulmonary resuscitation
+(CPR) doctors. It is strongly advised to hold dematerialized
+meetings when possible based on video or teleconferencing even
+if the doctors practice in the same establishment.
+2. We propose the following adaptations for the management of
+patients with gynecologic pelvic cancer during the COVID-19
+pandemic period
+2.1. For cervical cancer
+Radiotherapy and concomitant radiochemotherapy should
+replace surgery as ﬁrst-line treatment whenever possible. In
+particular, the value of lymph node staging surgeries must be
+reviewed on a case-by-case basis depending on the site, the results
+of imaging tests and the disease stage. Hysterectomy after
+concomitant radiochmotherapy is only indicated if a posttherapeutic tumor residue is identiﬁed.
+
+new cycles of chemotherapy after their closing surgery (in
+agreement with INCa recommendations https://www.e-cancer.
+fr/Expertises-et-publications/Catalogue-des-publications/Summary-Initial-management-of-epithelial-ovarian-cancer-cases).
+For presumed early stage ovarian cancers according to
+adnexectomy, restaging surgery can be deferred from 1–2 months
+if access to anesthesia-resuscitation is saturated.
+Furthermore, in case of saturation of access to anesthesiaresuscitation, a 2-step strategy is recommended for images
+suggestive of ovarian cancer on an isolated ovarian mass:
+adnexectomy of the suspect mass, and decision to perform
+complete staging surgery on ﬁnal histologic analysis and decision
+of a CPR doctor.
+2.3. For endometrial cancer
+Early stage cancers
+Surgical treatment remains the gold standard for early stage
+endometrial cancer. The minimally invasive laparoscopic robotassisted or non-assisted route is the preferred option. Total
+hysterectomy with bilateral adnexectomy associated with a
+sentinel node procedure should be performed in patients of
+low and intermediate preoperative ESMO risk. Surgery can be
+postponed for 1–2 months for low-risk endometrial cancers (FIGO
+Ia stage on MRI and grade 1–2 endometrioid cancer on
+endometrial biopsy) if there is no element of discrepancy on
+the initial assessment, especially if the patient is elderly and / or
+with comorbidities, without loss of oncological chance for the
+patient.
+For patients at high ESMO risk according to pelvic and lumbaraortic lymphadenectomy staging, comorbidities and the terrain
+(obesity, anticoagulant treatment, diabetes, age) should be taken
+into account. In this context, it would be legitimate to apply the
+MSKCC algorithm (associating PET CT and GS procedure) to avoid
+lymphadenectomy which increases the risk of per- and postoperative complications and the subsequent risk of requiring postoperative resuscitation.
+For advanced endometrial cancers (stages III and IV), ﬁrst-line
+medical treatment should be administered.
+For suspected endometrial cancer
+For a patient who presents postmenopausal metrorrhagia and
+endometrial thickening on ultrasound, endometrial pipelle
+sampling should be performed in consultation. Diagnostic
+hysteroscopy in consultation should be avoided unless performed
+at the same time (to limit the number of patient trips). In the
+event of a non-contributory diagnostic assessment, the date of
+the diagnostic hysteroscopy and biopsy curettage should be
+adjusted according to the degree of suspicion of endometrial
+cancer and the constraints of access to the operating room. If the
+risk of cancer appears low and the patient is elderly, the
+procedure under general anesthesia can be postponed until after
+the conﬁnement period for COVID-19.
+
+2.2. For ovarian cancer
+2.4. For vulvar cancers
+For advanced cancers which may require the use of postoperative resuscitation for cytoreduction surgery, neoadjuvant chemotherapy should be the preferred option even if primary
+cytoreduction surgery could be envisaged. It is legitimate not to
+offer hyperthermic intraperitoneal chemotherapy (HIPEC) to
+patients during the COVID-19 pandemic period when resuscitation
+resources are saturated. If access to the operating theater is
+restricted due to the crisis, patients scheduled to undergo interval
+surgery after 3 or 4 cycles of chemotherapy could continue their
+chemotherapy and surgery be performed after 6 cycles of
+chemotherapy. The patient should then undergo at least two
+
+The management of vulvar cancers, for which surgery remains
+the standard and often the only treatment option, should not
+change. However, this cancer often affects the elderly and if a
+tumor has not progressed much in an elderly patient, treatment
+may be postponed for a few weeks. The patient should be
+discharged as early as possible and cared for at home to reduce the
+duration of hospitalization.
+When surgical management involves heavy surgery (amputation), the use of concomitant radiochemotherapy should be
+discussed in CPR.
+
+Please cite this article in press as: C. Akladios, et al., Recommendations for the surgical management of gynecological cancers during the
+COVID-19 pandemic - FRANCOGYN group for the CNGOF, J Gynecol Obstet Hum Reprod (2020), https://doi.org/10.1016/j.jogoh.2020.101729
+
+G Model
+JOGOH 101729 No. of Pages 3
+
+C. Akladios et al. / J Gynecol Obstet Hum Reprod xxx (2019) 101729
+
+2.5. For vaginal cancer
+Most patients presenting with vaginal cancer are at an
+advanced stage and will require exclusive radio- / chemo- /
+brachytherapy treatment. The value of lymph node staging surgery
+must be reviewed on a case-by-case basis depending on the
+location, the results of imaging tests, and the disease stage.
+2.6. For trophoblastic tumors
+Trophoblastic tumors are considered curable but have a high
+metastatic potential. This justiﬁes maintaining the care of these
+young patients without delay.
+ Patients with low risk trophoblastic tumors (FIGO score 6)
+should be administered methotrexate at home to avoid the four
+injections of each cure in an outpatient setting.
+ Patients with high-risk tumors should be administered multidrug regimens without delay given the generally multimetastatic nature from the outset.
+Finally, hydatidiform moles should be managed by the standard
+treatment of curettage suction under ultrasound control and not by
+medicinal evacuation which carries a high risk of retention.
+The French Reference Center for Trophoblastic Diseases is
+available for case-by-case discussion and can provide the
+treatment protocol with methotrexate at home if necessary
+(touria.hajri@chu-lyon.fr).
+3. Post-therapeutic follow-up
+Post-therapeutic oncological follow-up consultations should be
+postponed for 2 months (i.e., after the COVID-19 conﬁnement
+period), because there is no obvious loss of chance. Follow-up can
+be performed by teleconsultation when the technical tools are
+available. However, follow-up of endometrial and / or cervical
+cancer is based on clinical examination, which cannot be replaced
+by teleconsultation, and avoid a follow-up consultation 2 months
+later.
+Cherif Akladiosa
+Henri Azaisb
+Marcos Ballesterc
+Soﬁane Bendifallahd
+Pierre-Adrien Bolzee
+Nicolas Bourdelf
+Alexandre Bricouc
+Geoffroy Canlorbeb
+
+3
+
+Xavier Carcopinog
+Pauline Chauvetf
+Pierre Collineth
+Charles Coutanti
+Yohann Dabid
+Ludivine Dionj
+Tristan Gauthierk
+Olivier Graesslinl
+Cyrille Huchonm
+Martin Koskasn
+Frederic Kridelkao
+Vincent Lavouej,*
+Lise Lecointrea
+Matthieu Mezzadrip
+Camille Mimounp
+Lobna Ouldamerq
+Emilie Raimondl
+Cyril Toubould
+a
+Service de gynécologie, CHU de Hautepierre, 67000 Strasbourg,
+France
+b
+Service de gynécologie, Hopital la Pitié Salpetriee, 75013 Paris,
+France
+c
+Service de gynécologie, Dioconessess Croix Saint Simon, 75012 Paris,
+France
+d
+Service de gynécologie obstétrique, HôpitalTenon, 75020 Paris,
+France
+e
+Service de gynécologie Obstétrique, CHU Lyon Sud, 69000 Lyon,
+France
+f
+Service de gynécologie obstétrique, Chu Clermont Ferrand, 63000
+Clermont Ferrand, France
+g
+Service de gyécologie, La Timone, 13000 Marseille, France
+h
+Service de gynécologie, Hôpital Jeanne de Flandres, 59 000 Lille,
+France
+i
+Centre de Lutte Contre le Cancer, 21 000 Dijon, France
+j
+Service de gynécologie, CHU Hôpital Sud, 35000 Rennes, France
+k
+Service de gynécologie obstétrique, CHU, 87000 Limoges, France
+l
+Service de gynécologie obstétrique, CHU 51000 Reims, France
+m
+Service de gynécologie obstétrique, CHI Poissy, 78300 Poissy, France
+n
+Service de gynécologie obstétrique, Hopital Bichat, 75018 Paris,
+France
+o
+Service de chirurgie oncologique, CHU, Liege, Belgique, France
+p
+Service de gynécologie, Hôpital Lariboisière, 75010 Paris, France
+q
+Service de gynécologie, CHU Tours, 37000 Tours, France
+* Corresponding author at: Service de gynécologie, Hôpital sud, 16
+BD de Bulgarie, 35000 Rennes, France.
+E-mail address: Vincent.lavoue@gmail.com (V. Lavoue).
+
+Please cite this article in press as: C. Akladios, et al., Recommendations for the surgical management of gynecological cancers during the
+COVID-19 pandemic - FRANCOGYN group for the CNGOF, J Gynecol Obstet Hum Reprod (2020), https://doi.org/10.1016/j.jogoh.2020.101729
+
+

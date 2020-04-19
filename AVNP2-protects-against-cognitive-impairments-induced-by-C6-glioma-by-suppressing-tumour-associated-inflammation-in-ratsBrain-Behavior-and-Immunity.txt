@@ -1,0 +1,134 @@
+Brain, Behavior, and Immunity xxx (xxxx) xxx–xxx
+
+Contents lists available at ScienceDirect
+
+Brain, Behavior, and Immunity
+journal homepage: www.elsevier.com/locate/ybrbi
+
+AVNP2 protects against cognitive impairments induced by C6 glioma by
+suppressing tumour associated inflammation in rats
+Junyang Lia,1, Meicen Liua,1, Jin Gaoa, Yu Jianga, Limin Wub, Yuen-Ki Cheongc, Guogang Renc,
+⁎
+Zhuo Yanga,
+
+Medical School, State Key Laboratory of Medicinal Chemical Biology, Key Laboratory of Bioactive Materials for Ministry of Education, Nankai University, Tianjin
+300071, China
+Institute of Laser and Optoelectronics, School of Precision Instruments and Optoelectronics Engineering, Tianjin University, Tianjin 300072, China
+Science and Technology Research Institute, University of Hertfordshire, Hatfield, Herts AL10 9AB, UK
+
+Keywords:
+C6 glioma
+AVNP2
+Cognitive function
+Inflammation
+
+Glioblastoma is a kind of malignant tumour and originates from the central nervous system. In the last century,
+some researchers and clinician have noticed that the psychosocial and neurocognitive functioning of patients
+with malignant gliomas can be impaired. Many clinical studies have demonstrated that part of patients, adults or
+children, diagnosed with glioblastoma will suffer from cognitive deficiency during their clinical course, especially in long-term survivors. Many nanoparticles (NPs) can inhibit the biological functions of tumours by
+modulating tumour-associated inflammation, which provokes angiogenesis and tumour growth. As one of the
+best antiviral nanoparticles (AVNPs), AVNP2 is the 2nd generation of AVNP2 that have been conjugated to
+graphite-graphene for improving physiochemical performance and reducing toxicity. AVNP2 inactivates viruses,
+such as the H1N1 and H5N1influenza viruses and even the SARS coronavirus, while it inhibits bacteria, such as
+MRSA and E. coli. As antimicrobials, nanoparticles are considered to be one of the vectors for the administration
+of therapeutic compounds. Yet, little is known about their potential functionalities and toxicities to the neurotoxic effects of cancer. Herein, we explored the functionality of AVNP2 on inhibiting C6 in glioma-bearing rats.
+The novel object-recognition test and open-field test showed that AVNP2 significantly improved the neurobehaviour affected by C6 glioma. AVNP2 also alleviated the decline of long-term potentiation (LTP) and the
+decreased density of dendritic spines in the CA1 region induced by C6. Western blot assay and immunofluorescence staining showed that the expressions of synaptic-related proteins (PSD-95 and SYP) were increased,
+and these findings were in accordance with the results mentioned above. It revealed that the sizes of tumours in
+C6 glioma-bearing rats were smaller after treatment with AVNP2. The decreased expression of inflammatory
+factors (IL-1β, IL-6 and TNF-α) by Western blotting assay and ELISA, angiogenesis protein (VEGF) by Western
+blotting assay and other related proteins (BDNF, NF-ĸB, iNOS and COX-2) by Western blotting assay in peritumour tissue indicated that AVNP2 could control tumour-associated inflammation, thus efficiently ameliorating
+the local inflammatory condition and, to some extent, inhibiting angiogenesis in C6-bearing rats. In conclusion,
+
+Abbreviations: NPs, nanoparticles; AVNPs, antiviral-nanoparticles; AMNPs, antimicrobial nanoparticles; SARS, severe acute respiratory syndrome; MRSA, methicillin-resistant staphylococcus aureus; LTP, long-term potentiation; PSD-95, postsynaptic density-95; SYP, synaptophysin; IL-1β, interleukin-1β; IL-6, interleukin-6;
+TNF-α, tumour necrosis factor-α; ELISA, enzyme linked immunosorbent assay; WB, western blot; VEGF, vascular endothelial growth factor; BDNF, brain derived
+neurotrophic factor; NF-ĸB, nuclear factor kappa-light-chain-enhancer of activated B cells; iNOS, inducible nitric oxide synthase; COX-2, cyclooxygenase-2; GBM,
+glioblastoma; TAMs, tumour associated macrophages; TME, tumour micro-environment; THz, terahertz; ATR, attenuated total reflection; DMEM, Dulbecco’s modified Eagle’s medium; PBS, phosphate buffered saline; XPS, X-ray photoelectron spectroscope; FTIR, Fourier transform infrared spectroscopy; SD, Sprague-Dawley;
+NS, normal saline; NOFT, novel object recognition test; RI, recognition index; DI, discrimination index; T1, time 1; T2, time 2; OFT, open field test; CA1, cornu
+ammonis 1; TBS, theta burst stimulation; DPX, distyrene, plasticizer and xylene; BCA, bicinchoninic acid; SDS-PAGE, sodium dodecyl sulfate polyacrylamide gel
+electrophoresis; PDVF, polyvinylidene fluoride; TBST, tris buffered saline tween; RT, room temperature; DAPI, 4,6-diamidino-2-phenylindole; SEM, standard error of
+the mean; ANOVA, analysis of variance; fEPSPs, field excitatory postsynaptic potentials; LSD analysis, least significant difference; ECs, endothelial cells; AD,
+Alzheimer disease our results suggested that AVNP2 could have an effect on the peri-tumor environment, obviously restraining the
+growth progress of gliomas, and eventually improving cognitive levels in C6-bearing rats.
+
+The nano-intermetallics (i.e., AVNP2) can especially effectively
+inactivate bacteria and inhibit bacterial biofilm formation through ionic
+releases (0.1–5 ppm of [Cu2+-[Ag+]) enhanced by their surface charge
+(Zeta protentional (< −40 mv (Nan et al., 2016; Nan et al., 2015; Ren,
+2015, 2016) and surface free energy (> 70 mJ/m2) (Nan et al., 2015)
+Terahertz (THz) radiation (He et al., 2018) is useful for a number of
+scientific and industrial applications, such as molecular spectroscopy,
+high data-rate communication, and material studies. In particular, terahertz (THz) imaging as one of the candidate technologies for medical
+imaging has attracted great attention in recent years due to its properties of fingerprint spectrum, safety, and water sensitivity. The research on THz biological imaging has been used in various medical
+fields, such as dermatology and oncology (Sim et al., 2013; Woodward
+et al., 2003; Reid et al., 2011; Park et al., 2017). In the field of neurosurgery, investigations of gliomas using THz spectrum and THz reflection imaging have also been reported for post-processed, fresh ex
+vivo and in vivo brain tissues (Park et al., 2017; Oh et al., 2014; Meng
+et al., 2014; Wu et al., 2019). However, reflection imaging is always
+affected by diffusive reflections because of the uneven surface of the
+sample. Attenuated total reflection (ATR) can provide information on
+the interaction between the sample and evanescent waves traveling
+along a prism’s surface. Thus, ATR imaging can obtain the precise absorption information of the tissue without inevitable noises.
+In this paper, we focused on exploring THz ATR imaging to discriminate tumour from normal brain tissue. We demonstrated that tumours in freshly excised whole brain tissue could be clearly differentiated from normal brain tissue using this imaging system.
+Antiviral nanoparticle 2(AVNP2) is an antiviral nanomaterial,
+which has been shown to kill the SARS virus in vitro (Ren et al., 2013).
+With increasing studies on the application of nanomaterials in the immunotherapy of tumours, a great deal of reports have been published
+suggesting that nanomaterials can inhibit TAMs to detain the release of
+related inflammatory factors to achieve the inhibition of tumour growth
+(Ovais et al., 2019; Gong et al., 2019; Reichel et al., 2019). Thus, we
+hypothesised that AVNP2 can inhibit the proliferation of C6 glioma
+cells in rats and can in turn further improve the cognitive impairment of
+C6 model rats in terms of tumour cell reduction.
+As a result, in this study, we proved that AVNP2 could rescued the
+cognitive impairment of C6 glioma-bearing rats by restraining peri-tumour inflammation and impede the growth of tumour cells.
+
+Glioblastoma (GBM), a kind of tumour originating from neural stem
+cells, glial progenitors and astrocytes in the central nervous system, is
+the most malignant subtype of glioma (Zong et al., 2012; Ohgaki and
+Kleihues, 2005). It has attracted the attention of researchers all over the
+world for its highly aggressive characteristics, high recurrence rate and
+high mortality (Graus et al., 2013; Tanaka et al., 2013). At present,
+surgery combined with radiotherapy and chemotherapy is the most
+common treatment strategy in clinic (Stupp et al., 2017; Okada et al.,
+2017). However, the tolerance of tumour cells to therapy makes some
+residual lesions regrow, so the outcomes have not been satisfactory
+(Stupp et al., 2009). Furthermore, it has been found that cognitive
+impairment is one of the most important clinical symptoms and complications of craniocerebral disease in both patients and animal models
+with gliomas (Solanki et al., 2017; Wang et al., 2011; Weitzner and
+Meyers, 1997; Van Dyk and Ganz, 2019). Cognitive function occupies
+an essential position in predicting the prognosis of glioma patients and
+may even be the first indicator of tumour recurrence after treatment
+(Crossen et al., 1994; Janelsins et al., 2011; Vecht et al., 2017; Jacob
+et al., 2018). In addition, metabolic disorders and tumour regeneration
+may have a negative impact on cognitive function (Williams et al.,
+2015; Quant et al., 2009). The cognitive impairment caused by the side
+effects of radiotherapy and chemotherapeutic drugs is prone to the
+whole cerebral hemisphere (Froklage et al., 2014; Hilverda et al.,
+2010). Thus, it is important to create some new therapies and develop
+some new drugs to repair patients' cognitive impairment.
+The micro-environment of glioma consists of various types of cells,
+of which microglia and tumour-associated macrophages (TAMs) are
+two important cells. They aggregate in and around glioma tissue and
+participate in the proliferation and invasion of tumour cells (Noy and
+Pollard, 2014; Wu and Watabe, 2017). There exists a positive correlation between the level of inflammatory cytokines inside the tumour
+micro-environment (TME) and the poor clinical prognosis of patients
+(Sorensen et al., 2018). Modulating the local inflammatory response has
+become a new strategy for immunotherapy due to its vital role in the
+development of tumours (Graf et al., 2002; Mineharu et al., 2011). Proinflammatory cytokines, including interleukin-6 (IL)-6, IL-1β and tumour necrosis factor-α (TNF)-α that promote tumour proliferation and
+migration and NF-ĸB pathway play important roles in this process
+(Mostofa et al., 2017; McFarland et al., 2013; Myung et al., 2010).
+Therefore, drugs and related therapies devoted to modulating peri-tumour inflammation in the treatment of glioblastoma have massive potential both now and in the future.
+Some metallic nanoparticles (NPs) and their intermetallics can form
+graphite-graphene conjugates to produce strong antiviral/antimicrobial
+abilities and they are considered to be antiviral and antimicrobial nanoparticles (AVNPs/AMNPs) (Cheong et al., 2017). These AVNPs/
+AMNPs offer promising biomedical applications, including as antimicrobial agents in the environment (e.g, inactivating the H1N1 and
+H5N1 influenza viruses and the SARS coronavirus) or as vectors for the
+administration of therapeutic compounds or for the delivery of specific
+drug (Ren, 2010, 2013). Yet, little is known about the potential and
+wider spectrum of neuronal cell function, neurotoxic effects to cells or
+specifically to neuronal cancer cells (Yang et al., 2010).
+It has been proved that AMNPs and AVNPs, such as Ag(Ag+), Cu
+(Cu2+) and Zn(Zn2+), have been developed with proven efficacy
+(99.999%) against both Gram-positive (G+) and Gram-negative (G−)
+bacteria (Cheong et al., 2017; Ren et al., 2009; Bankier et al., 2018),
+which is similar or close to antibiotic properties in-vitro
+

@@ -1,0 +1,134 @@
+﻿DOI:10.31557/APJCP.2020.21.3.569
+Cancer Care Delivery Challenges Amidst COVID-19 Outbreak
+
+EDITORIAL
+
+Editorial Process: Submission:03/20/2020 Acceptance:03/23/2020
+
+Cancer Care Delivery Challenges Amidst Coronavirus
+Disease – 19 (COVID-19) Outbreak: Specific Precautions for
+Cancer Patients and Cancer Care Providers to Prevent Spread
+Abhishek Shankar1*, Deepak Saini2, Shubham Roy3, Alireza Mosavi Jarrahi4,
+Abhijit Chakraborty5, Sachidanand Jee Bharati6, Farzad Taghizadeh-Hesary7
+
+Coronavirus outbreak has affected thousands of people in at least 186 countries which has affected the cancer care
+delivery system apart from affecting the overall health system. Cancer patients are more susceptible to coronavirus
+infection than individuals without cancer as they are in an immunosuppressive state because of the malignancy and
+anticancer treatment. Oncologists should be more attentive to detect coronavirus infection early, as any type of advanced
+cancer is at much higher risk for unfavorable outcomes. Oncology communities must ensure that cancer patients should
+spend more time at home and less time out in the community. Oncologists and other health care professionals involved
+in cancer care have a critical opportunity to communicate to their patients to pass on right information regarding practice
+modifications in view of COVID-19 outbreaks. Countries must isolate, test, treat and trace to control the coronavirus
+pandemic. There is a paucity of information on novel coronavirus infection and its impact on cancer patients and cancer
+care providers. To date, there is no scientific guideline regarding management of cancer patients in a background of
+coronavirus outbreak.
+Keywords: Cancer- coronavirus- COVID-19- patients
+Asian Pac J Cancer Prev, 21 (3), 569-573
+Overview of COVID – 19 outbreak
+Coronavirus disease 2019 (COVID-19), caused by
+SARS-CoV-2, is a novel coronavirus first detected in
+Wuhan, China in December, 2019. (CDC, 2020, March
+21; WHO, 2020, January 12). Since then, around 12,784
+people have died and more than 2,92,142 confirmed cases
+have been reported in at least 186 countries, territories
+or areas, according to the World Health Organization
+(WHO) by 21st March, 2020. Europe has emerged as a
+new epicenter for COVID-19 with mortality and morbidity
+increasing daily. Highest number of deaths reported in a
+single day in Italy was 793 followed by Spain (285), Iran
+(123), France (112) on 21st March 2020. Daily increase
+in number of cases and associated mortality has forced
+lockdown in various countries to check the spread of
+virus. Iran reported its single biggest rise in number of
+deaths from the coronavirus as another 147 people died,
+raising the country’s overall death toll to 1,135 out of
+17,361 confirmed cases in Iran on 18th March 2020 (WHO,
+2020, March 21).
+
+In the United States, the virus has now spread to all 50
+states, infecting a total of 15219 people with death being
+reported in 201 patients by 21st March, 2020. India has
+confirmed infection in 396 patients with mortality reported
+in 6 patients by 22nd March 2020 (ICMR, 2020, March 22).
+Indian authorities did not recommend to expand
+coronavirus testing initially, unlike most affected nations.
+In view of increasing COVID-19 positive cases, Indian
+Council of Medical Research (ICMR) revised testing
+guidelines on 20th March, 2020 (ICMR, 2020, March 20)
+as this was well predicted that limited testing could leave
+many of the COVID-19 cases undetected and unnoticed
+in the world’s second-most populous country.
+These numbers are changing every minute and
+incidence and mortality figures will be changed when this
+publication goes online. This alarming trend has made
+the whole world on lockdown mode. According to WHO,
+the new coronavirus so far has an average R0 (contagion
+metric) between 2 and 2.5, which means a person infected
+with COVID-19 can pass it on to more than two people,
+
+Department of Radiation Oncology, Lady Hardinge Medical College, Directorate General of Health Services, Ministry of
+Health and Family Welfare, Government of India, 2Indian Society of Clinical Oncology, 3Sitaram Bhartia Institute of Science and
+Research, 6Department of Oncoanaesthesia & Palliative Medicine, Dr BR Ambedkar Institute Rotary Cancer Hospital, All India
+Institute of Medical Sciences, Delhi, India, 4Department of Social Medicine, Medical School, 7Department of Radiation Oncology,
+Shaheed Beheshti University of medical Sciences, Tehran, 5Baylor College of Medicine, Houston, USA. *For Correspondence:
+doc.abhishankar@gmail.com
+
+which is more than a seasonal flu (R0 at 1.3), Influenza A
+virus subtype H1N1 (R0 at 1.2 and 1.6) and Ebola (R0 at
+1.6 to 2), but less than Severe Acute Respiratory Syndrome
+(SARS) (R0 at 4) and Middle East Respiratory Syndrome
+(MERS) (R0 at 2.5 and 7.2) (Zhao, 2020).
+Self- initiated quarantine for 14 days by people
+with mild symptoms remains most important public
+health intervention, but testing of all suspected cases,
+symptomatic contacts of probable and confirmed cases,
+would still be required (WHO, 2020, February 11).
+Oncological determinants of COVID-19
+Cancer patients are more susceptible to COVID-19
+in future, than individuals without cancer because of
+their systemic immunosuppressive state caused by
+the malignancy and anticancer treatments, such as
+chemotherapy, targeted therapy and immunotherapy.
+There will likely be more detailed studies of COVID-19
+in future as currently a lot is still unknown about this
+disease and how it is spreading. In addition, there has not
+been any specific information regarding cancer patients
+and COVID-19. However, one study suggested a small
+percentage of patients had preexisting conditions including
+diabetes (6.4%), hypertension (12.8%), cardiovascular
+disease (3.7%), liver diseases (2.7%), malignancy (1.4%),
+and others (3.7%) (Cai et al., 2020).
+Liang et al., (2020) reported a significantly higher
+incidence of severe events i.e. death or ICU admission
+requiring invasive ventilation among individuals with a
+cancer history than those without (39% vs. 8%; P = .0003),
+in 2,007 Chinese patients hospitalized with COVID-19.
+However, cancer history was present in only 18 patients,
+some of them were long term survivors while others had
+active disease. The smaller sample size and associated
+co-morbidities in cancer patients contributing to increase
+infection susceptibility, made the findings difficult to
+interpret. There is no guidelines on care of cancer patients
+with cancer types (e.g. breast, lung), therapy types (e.g.
+immunotherapy, targeted therapy), or subpopulation of
+cancer patients (e.g. children, elderly).
+The major risk for cancer patients is the inability
+to receive necessary medical services (both in terms
+of getting to hospital and provision of normal medical
+care once there) because of the outbreak. As per the
+Report of the WHO-China Joint Mission on COVID-19,
+cancer patients had an estimated 2-fold increased risk of
+COVID-19 than the general population. Patients with
+comorbid conditions had much higher rates: 13.2% for
+those with cardiovascular disease, 9.2% for diabetes, 8.4%
+for hypertension, 8.0% for chronic respiratory disease, and
+7.6% for cancer (WHO, 2020, February 28).
+In a study by Yu et al., (2020) a total of 1,524 cancer
+patients at tertiary cancer Institution of Wuhan University
+were reviewed in which cancer patients were estimated to
+have a 2-fold increased risk of COVID-19 in comparison
+to the general population. Study results suggested that
+hospital visit was a likely factor contributing to the
+increased incidence in cancer patients, but incidence
+of severe events was not higher than in the general
+population.

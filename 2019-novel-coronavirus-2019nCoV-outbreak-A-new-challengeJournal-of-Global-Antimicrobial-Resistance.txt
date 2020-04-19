@@ -1,0 +1,68 @@
+﻿Journal of Global Antimicrobial Resistance 21 (2020) 22–27
+
+Contents lists available at ScienceDirect
+
+Journal of Global Antimicrobial Resistance
+journal homepage: www.elsevier.com/locate/jgar
+
+2019 novel coronavirus (2019-nCoV) outbreak: A new challenge
+Tommaso Lupia* , Silvia Scabini, Simone Mornese Pinna, Giovanni Di Perri,
+Francesco Giuseppe De Rosa, Silvia Corcione
+Department of Medical Sciences, Unit of Infectious Diseases, University of Turin, Turin, Italy
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Article history:
+Received 5 February 2020
+Received in revised form 17 February 2020
+Accepted 21 February 2020
+Available online 7 March 2020
+
+Objectives: Following the public-health emergency of international concern (PHEIC) declared by the
+World Health Organization (WHO) on 30 January 2020 and the recent outbreak caused by 2019 novel
+coronavirus (2019-nCoV) [ofﬁcially renamed severe acute respiratory syndrome coronavirus 2 (SARSCoV-2)] in China and 29 other countries, we aimed to summarise the clinical aspects of the
+novelBetacoronavirus disease (COVID-19) and its possible clinical presentations together with suggested
+therapeutic algorithms for patients who may require antimicrobial treatment.
+Methods: The currently available literature was reviewed for microbiologically conﬁrmed infections by
+2019-nCoV or COVID-19 at the time of writing (13 February 2020). A literature search was performed
+using the PubMed database and Cochrane Library. Search terms included ‘novel coronavirus’ or ‘2019nCoV’ or ‘COVID-19’.
+Results: Published cases occurred mostly in males (age range, 8–92 years). Cardiovascular, digestive and
+endocrine system diseases were commonly reported, except previous chronic pulmonary diseases [e.g.
+chronic obstructive pulmonary disease (COPD), asthma, bronchiectasis] that were surprisingly
+underreported. Fever was present in all of the case series available, ﬂanked by cough, dyspnoea,
+myalgia and fatigue. Multiple bilateral lobular and subsegmental areas of consolidation or bilateral
+ground-glass opacities were the main reported radiological features of 2019-nCoV infection, at least in
+the early phases of the disease.
+Conclusion: The new 2019-nCoV epidemic is mainly associated with respiratory disease and few
+extrapulmonary signs. However, there is a low rate of associated pre-existing respiratory co-morbidities.
+© 2020 Published by Elsevier Ltd on behalf of International Society for Antimicrobial Chemotherapy. This
+is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/
+4.0/).
+
+Keywords:
+Coronavirus
+2019-nCoV
+COVID-19
+Pneumonia
+SAR-CoV-2
+Outbreak
+
+During December 2019, a novel Betacoronavirus provisionally
+named 2019 novel coronavirus (2019-nCoV), and subsequently
+ofﬁcially renamed severe acute respiratory syndrome coronavirus
+2 (SARS-CoV-2) by the International Committee on Taxonomy of
+Viruses (ICTV), causing coronavirus disease 2019 (or COVID-19),
+was associated with a cluster of respiratory tract infections in
+Wuhan, Hubei Province, China [1] and has rapidly spread across
+continents [2,3]. At 17 February 2020, according to surveillance by
+the European Centre for Disease Prevention and Control (ECDC)
+and the US Centers for Disease Control and Prevention (CDC) [2,3],
+71 333 cases have been reported among 29 countries on ﬁve main
+continents, and the number of deaths was 1775, almost all
+occurring in China (N = 1770; with 1 case in each of the Philippines,
+Hong Kong, France, Taiwan and Japan), with a currently reported
+fatality rate of between 2–2.3% [2,3]. In this short report, we aimed
+to summarise the clinical aspects of the novel Betacoronavirus
+infection and its possible manifestations.

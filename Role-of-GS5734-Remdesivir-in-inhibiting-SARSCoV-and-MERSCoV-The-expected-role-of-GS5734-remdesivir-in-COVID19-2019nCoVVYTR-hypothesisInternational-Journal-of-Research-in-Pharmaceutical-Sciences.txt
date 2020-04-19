@@ -1,0 +1,345 @@
+Vityala Yethindra, Int. J. Res. Pharm. Sci., 2020, 11(SPL)(1), 1-6
+
+SHORT COMMUNICATION
+
+INTERNATIONAL JOURNAL OF RESEARCH IN
+PHARMACEUTICAL SCIENCES
+Published by JK Welfare & Pharmascope Foundation
+
+Journal Home Page: www.pharmascope.org/ijrps
+
+Role of GS-5734 (Remdesivir) in inhibiting SARS-CoV and MERS-CoV: The
+expected role of GS-5734 (Remdesivir) in COVID-19 (2019-nCoV) - VYTR
+hypothesis
+Vityala Yethindra*
+International School of Medicine, International University of Kyrgyzstan, 1F, Intergelpo street,
+Bishkek, Kyrgyzstan, 720054.
+Article History:
+
+ABSTRACT
+
+Received on: 05 Jan 2020
+Revised on: 11 Feb 2020
+Accepted on: 12 Feb 2020
+
+Coronaviruses (CoVs) are enveloped RNA viruses related to the family Coronaviridae, the order Nirdovales, and observed in humans and other mammals. In December 2019, many pneumonia cases reported by patients with
+unknown causes, mainly associated with seafood and wet animal market in
+Wuhan, China, and where clinically resembled viral pneumonia. At present,
+there is no existence of antiviral drugs for the treatment of CoV infections. The
+results of our study are GS-5734 strongly inhibits SARS-CoV and MERS-CoV in
+HAE cells, GS-5734 inhibits CoVs at early stages in replication by inhibiting
+viral RNA synthesis, the absence of ExoN-mediated proofreading in viruses
+sensitive to treatment with GS-5734. Protease inhibitors can show improved
+outcomes in some coronaviruses, but mostly 99% of protease inhibitors bind
+to proteins present in the human body, and only 1% attacks on existed viruses.
+The expected role of GS-5734 (Remdesivir) in COVID-19 (2019-nCoV) - VYTR
+hypothesis explained. As broad-spectrum drugs are capable of inhibiting CoV
+infections, GS-5734 is a broad-spectrum drug and may show inhibition on
+CoV infections and COVID-19. GS-5734 will show desired results regarding
+antiviral activity against 2019-nCoV as it showed potent antiviral activity in
+other CoVs. More clinical trials and experiments needed to prove that GS-5734
+(Remdesivir) is a potential and effective drug to treat COVID-19.
+
+Keywords:
+Remdesivir,
+GS-5734,
+VYTR hypothesis,
+SARS-CoV,
+MERS-CoV,
+2019-nCoV (2019 novel
+coronavirus),
+Anti-viral drugs
+
+*
+
+Corresponding Author
+
+Name: Vityala Yethindra
+Phone: +91 9121925658
+
+ISSN: 0975-7538
+DOI: https://doi.org/10.26452/ijrps.v11iSPL1.1973
+Production and Hosted by
+
+Pharmascope.org
+
+© 2020 | All rights reserved.
+
+INTRODUCTION
+Coronaviruses (CoVs) are enveloped RNA viruses
+related to the family Coronaviridae, the order Nirdovales, and observed in humans and other mammals (Richman et al., 2016). Six coronavirus
+species are cause for disease in humans. Preva-
+
+lent four viruses are 229E, OC43, NL63, and HKU1
+cause common cold symptoms in immunocompetent people (Su et al., 2016). Remaining two
+viruses are severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory
+syndrome coronavirus (MERS-CoV), zoonotic in origin, and cause fatal illness sometimes (Su et al.,
+2016). CoVs causes cold and pneumonia before
+SARS-CoV in 2002 and MERS-CoV in 2012 from
+zoonotic sources (Ksiazek et al., 2003; Zaki et al.,
+2012). In December 2019, many pneumonia cases
+reported by patients with unknown causes, mainly
+associated with seafood and wet animal market in
+Wuhan, China, and where clinically resembled viral
+pneumonia (Wuhan Municipal Health Commission,
+2019). The antiviral drugs, protease inhibitors such
+as indinavir, saquinavir, and lopinavir/ritonavir, in
+the research. Remdesivir, interferon beta are also
+
+© International Journal of Research in Pharmaceutical Sciences
+
+1
+
+Vityala Yethindra, Int. J. Res. Pharm. Sci., 2020, 11(SPL)(1), 1-6
+
+examined as possible treatments.
+At present, there is no existence of antiviral drugs for
+the treatment of CoV infections. In our study, CoV
+resistance to the 5- luorouracil (5-FU) and ribavirin
+(RBV) in vitro is attributed to their removal by the
+proofreading ExoN (Smith et al., 2013), supporting
+this potent nucleoside analog must avoid proofreading to intervene with CoV RNA synthesis.
+GS-5734 (Monophosphoramidate prodrug), inhibits
+SARS-CoV, MERS-CoV, and bat CoV strains which in
+replicating in primary human airway epithelial cells
+(HAE) and mediate entry using human CoV receptors (Sheahan et al., 2017; Cho et al., 2012; Warren
+et al., 2014).
+The three objectives of our study are,
+1. Role of GS-5734 in inhibiting SARS-CoV and
+MERS-CoV in HAE cells.
+2. Role of GS-5734 in CoVs inhibition at early
+stages in replication by inhibiting viral RNA synthesis.
+3. The expected role of GS-5734 (Remdesivir) in
+the 2019-nCoV (COVID-19) – VYTR hypothesis
+Role of GS-5734 (Remdesivir)
+Inhibition of MHV replication
+To describe if GS-5734 inhibits the model B-2aCoV,
+in this study, delayed brain tumor (DBT) cells
+are infected with murine hepatitis virus (MHV).
+Treating with elevating concentrations of GS-5734
+showed a reduced viral titer till 6-log10, and concentrations of more than 0.7 µM GS-5734 (Figure 1 (A))
+did not detect the virus by plaque assay. GS-5734
+strongly inhibited MHV with IC50 of 0.05 µM (Figure 1 (B)), maintained consistency with more permeability in cells, and well-organized metabolism
+to active triphosphate (TP) by avoiding the ratelimiting irst phosphorylation step.
+In our study, low cellular toxicity at required concentrations for antiviral activity of GS-5734, formerly delineated study of cytotoxicity extensively in
+human cells, with a CC50 of 41 µm (Figure 1 (C)) and
+showing in a selectivity index of >1000. The above
+results determine that GS-5734 inhibits MHV replication.
+Inhibition in HAE cells
+HAE cell cultures are in the biologically pertinent in
+vitro lung models, summarizing the complexity of
+cells and epithelium physiology in the human conducting airway (Sims et al., 2005). Our research
+study described the IC50 values after treatment with
+2
+
+GS-5734 in SARS-CoV- infected HAE cultures and
+MERS-CoV-infected HAE cultures. Mean IC50 for
+two viruses is 0.076 µM for GS-5734 (Figure 2 (A)).
+Delaying the addition of GS-5734 until 48 hours (h)
+post-infection showed reduced viral titer in HAE cultures for SARS-CoV and MERS-CoV (Figure 2 (B)) at
+72 and 96 h post-infection. Cytotoxicity in HAE cultures are not measurable (Table 1).
+The above results determine that GS-5734 strongly
+inhibits SARS-CoV and MERS-CoV in HAE cells.
+Inhibition of viral RNA synthesis
+In our study, cells infected with MHV at a multiplicity of infection (MOI) of 1 PFU/cell, MHV shows in
+a single-cycle disease and treated with 2 µM GS5734 at 2-h intervals from 4 h preinfection to 10
+h post-infection. Our study showed, optimal inhibition of if GS-5734 included between 4 h preinfection and 4 h post-infection. Lower inhibition of
+GS-5734 if it was included between 6 and 8 h postinfection, and no inhibition of GS-5734 if it included
+after 10 h post-infection (Figure 3 (A)). This description clearly shows GS-5734 inhibits CoVs at early in
+infection, due to synthesis of viral RNA early in infection and GS-5734 is involved in inhibition of viral
+RNA synthesis (Warren et al., 2014; Fehr and Perlman, 2015), after this explained the viral RNA cellular level by real-time PCR (RT-PCR) after treatment
+with GS-5734. Treatment with elevating concentrations of GS-5734 showed reduced viral RNA levels
+associated with the reduction in titer (Figure 3 (B)).
+The above results determine that GS-5734 inhibits
+CoVs at early stages in replication by inhibiting viral
+RNA synthesis.
+ExoN-mediated proofreading
+In our study, the resistance of CoVs to the RBV and
+5-FU because nsp14 has proofreading ExoN, as prepared ExoN(—) mutant MHV and SARS-CoV are sensitive (Smith et al., 2013). In our study, we made a
+comparison of the sensitivity of WT and ExoN(—)
+MHV to GS-5734. ExoN(—) MHV described a 100fold more signi icant reduction in viral titer at 0.27
+µM GS-5734 compared to WT virus (Figure 4 (A)),
+and the measured IC50 for ExoN(—) virus in this
+study was 0.021 µM, a 4.5-fold reduced compared
+to the WT IC50 of 0.089 µM (Figure 4 (B)). This elevated sensitivity of the ExoN(—) virus to GS-5734 is
+the same as other nucleoside analogs and proposes
+that GS-5734 is included in viral RNA and separated
+by ExoN. Different associations of GS-5734 with the
+CoV replicase and template RNA compared with
+RBV and 5-FU, with intact proofreading GS-5734,
+inhibits CoVs (Smith et al., 2013). The mechanism
+is by introducing TP into viral RNA. In our study,
+
+© International Journal of Research in Pharmaceutical Sciences
+
+Vityala Yethindra, Int. J. Res. Pharm. Sci., 2020, 11(SPL)(1), 1-6
+
+Figure 1: (A) Change in viral titer compared after treatment with GS-5734. (B) Viraltiter
+presented as the uninhibited control.
+(C) Cell viability comparedafter treatment with GS-5734.
+
+Figure 2: (A) Mean IC50 of SARS-CoV and MERS-CoV if treated by GS-5734. (B) Viraltiters of
+SARS-CoV and MERS-CoV if treated by GS-5734.
+
+Table 1: EC50 and CC50 of GS-5724 in MERS-CoV and SARS-CoV.
+GS-5734
+SARS-CoV
+MERS-CoV
+
+IC50 (µM)
+0.071 + 0.038
+0.76 + 0.025
+
+© International Journal of Research in Pharmaceutical Sciences
+
+CC50 (µM)
+> 10
+> 10
+
+3
+
+Vityala Yethindra, Int. J. Res. Pharm. Sci., 2020, 11(SPL)(1), 1-6
+
+Figure 3: (A) Viral titer and treatment with GS-5734. (B) Change in viral titer and levels of viral
+RNA when treated withGS-5734.
+
+Figure 4: (A) Change in viral titer of WT and ExoN(—) viruses when treated by GS-5734. (B) Viral
+titer reduction showing WT IC50 value 0.089 µM and an ExoN(—)IC50 of 0.021 µM.
+GS-5734 acts early in infection and reduces RNA
+levels in a dose-dependent manner, which impairs
+viral titer. Results clearly explain the absence of
+ExoN-mediated proofreading in viruses is sensitive
+if treated by GS-5734. GS-5734 identi ied and eliminated by ExoN not in a well-organized manner, and
+even future studies are required to know the ExoN
+role in GS-5734.
+
+When there is a dangerous new virus emerging in
+humans, scientists fetch many months and years
+developing, testing, and perfect functioning of a drug
+and vaccine.
+
+With the boutade of COVID-19, the use of antiHIV drugs in the treatment of COVID-19 got prominence. An anti-HIV drug combination of lopinavir
+and ritonavir and this drug combination mainly tarShort description of anti-viral drugs on Coron- get protease during the process of producing new
+aviruses
+copies of HIV and coronavirus slash proteins by
+4
+
+© International Journal of Research in Pharmaceutical Sciences
+
+Vityala Yethindra, Int. J. Res. Pharm. Sci., 2020, 11(SPL)(1), 1-6
+
+using protease enzyme.
+
+and may show inhibition on CoV infections and
+Protease inhibitors can show improved outcomes COVID-19.
+in some coronaviruses, but mostly 99% of pro- But GS-5734 (Remdesivir) is not approved and not
+tease inhibitors bind to proteins present in the determined to be safe or effective at present; more
+human body, and only 1% attacks on existed viruses. clinical trials and experiments needed to prove that
+Mainly, protease inhibitors show practical actions GS-5734 (Remdesivir) is a potential and effective
+against HIV due to as it is having considerably more Drug to treat COVID-19.
+sensitivity to the drug. If it comes to coronavirus
+protease inhibitors shows insensitivity to the drug. CONCLUSIONS
+It is not possible to get a free level of drugs that allow
+Viral diseases can be catastrophic like COVID-19,
+working in the human body.
+and they may have both social and economic issues.
+Anti-viral drugs like ribavirin and lopinavirStrict, well-organized, structured, and scheduled
+ritonavir, immune modulators like corticosteroids
+infection control policies should be made national
+and interferon treated both SARS-CoV and MERSand international wide. To prevent outbreaks, hosCoV and all didn’t show desired results in a
+pitals should be ready with control measures and
+trial (Zumla et al., 2016). Multiple cell lines showed
+protocols during handling cases. Many clinical trianti-viral effects of FDA approved drugs (ribavirin
+als and experiments needed to ind effective drugs
+and lopinavir, ritonavir, nel inavir, and mycopheand vaccines to treat 2019-nCoV.
+nolic acid) where results and experimental issues
+make explanations dif icult (Zumla et al., 2016).
+ACKNOWLEDGEMENT
+In mouse, Prophylactic treatment and Therapeutic treatment with GS-5734 decreased virus lung Being an undergraduate am proud and lucky to contiters improved pulmonary function and symptoms duct research and propose a hypothesis. As Vityala
+Yethindra, I am very thankful to my parents Vityala
+in SARS-CoV (Sheahan et al., 2017).
+The expected role of GS-5734 (Remdesivir) in Anitha and Vityala Thirupathi, for their valuable
+support in continuing research. I wish to thank
+COVID-19 (2019-nCoV) - VYTR hypothesis.
+Dr. Tugolbai Tagaev, Dr. Cholpon Dzhumakova, Dr.
+Genetic sequence of 2019-nCoV has resemblance Elmira Mainazarova, and Dr. Melis Sholpanbai Uulu
+with SARS-CoV (79.5%) and bat CoV (96%) (Zhou for their help in carrying out research and useful
+et al., 2020). 2019-nCoV related to SARS-CoV, criticisms of this manuscript. I am highly disheartfrom the subgenus Sarbecovirus (Beta-CoV lineage ened with the deaths of people, and our article is
+B) (Hui et al., 2020). In a study, the novel CoV resem- only a drop in the ocean, and more indings are yet
+bled SARS-CoV by utilizing a similar cell entry recep- to come. This article is dedicated people who died
+tor called ACE2 (Zhou et al., 2020).
+with 2019-nCoV, and my inspiration late Dr. Liang
+In this study, we showed that GS-5734 was valid Wudong and Dr. Li Wenliang, doctors, and scientists.
+towards SARS-CoV and MERS-CoV, and possibly this
+Will have the same effect even on COVID-19. Treat- REFERENCES
+ing in elevating concentrations of GS-5734 may
+show a reduction in viral titer for 2019-nCoV. Mostly, Cho, A., Zhang, L., Xu, J., Babusis, D., Butler, T., Lee,
+R., Kim, C. U. 2012. Synthesis and characterization
+delaying the addition of GS-5734 from 24 h – 48
+of 2’-C-Me branched C-nucleosides as HCV polyh postinfection may show reduced viral titer for
+merase inhibitors. Bioorganic & Medicinal Chem2019-nCoV, this result may determine that GS-5734
+istry Letters, 22(12):4127–4132.
+strongly inhibits 2019-nCoV. Treating in elevating
+concentrations of GS-5734 may reduce levels of viral Fehr, A. R., Perlman, S. 2015. Coronaviruses: An
+Overview of Their Replication and Pathogenesis.
+RNA associated with the reduction of titer. As our
+Coronaviruses: Methods and Protocols, pages 1–23.
+results conclude that GS-5734 inhibits CoVs at early
+stages in replication by inhibition of synthesis of Hui, D. S., Azhar, E., Madani, T. A., Ntoumi, F., Kock,
+viral RNA and the same as in remaining CoVs, GSR., Dar, O., Petersen, E. 2020. The continuing 20195734 may inhibit even 2019-nCoV at early stages.
+nCoV epidemic threat of novel coronaviruses to
+I expect and irmly believe that GS-5734 will show
+global health - The latest 2019 novel coronavirus
+desired results regarding anti-viral activity against
+outbreak in Wuhan. China. International Journal of
+COVID-19.
+Infectious Diseases, 91:264–266.
+As broad-spectrum drugs are capable of inhibiting Ksiazek, T. G., Erdman, D., Goldsmith, C. S., Zaki,
+CoV infections, GS-5734 is a broad-spectrum drug
+S. R., Peret, T., Emery, S., Anderson, L. J. 2003. A
+© International Journal of Research in Pharmaceutical Sciences
+
+5
+
+Vityala Yethindra, Int. J. Res. Pharm. Sci., 2020, 11(SPL)(1), 1-6
+
+Novel Coronavirus Associated with Severe Acute
+Respiratory Syndrome. New England Journal of
+Medicine, 348(20):1953–1966.
+Richman, D. D., Whitley, R. J., Hayden, F. G. 2016.
+Clinical virology. ASM Press. Washington.
+Sheahan, T. P., Sims, A. C., Graham, R. L., Menachery, V. D., Gralinski, L. E., Case, J. B., Baric, R. S.
+2017. Broad-spectrum antiviral GS-5734 inhibits
+both epidemic and zoonotic coronaviruses. Science Translational Medicine, 9(396).
+Sims, A. C., Baric, R. S., Yount, B., Burkett, S. E., Collins,
+P. L., Pickles, R. J. 2005. Severe Acute Respiratory
+Syndrome Coronavirus Infection of Human Ciliated Airway Epithelia: Role of Ciliated Cells in Viral
+Spread in the Conducting Airways of the Lungs.
+Journal of Virology, 79(24):15511–15524.
+Smith, E. C., Blanc, H., Vignuzzi, M., Denison, M. R.
+2013. Coronaviruses Lacking Exoribonuclease
+Activity Are Susceptible to Lethal Mutagenesis:
+Evidence for Proofreading and Potential Therapeutics. PLoS Pathogens, 9(8).
+Su, S., Wong, G., Shi, W., Liu, J., Lai, A. C. K., Zhou, J.,
+Gao, G. F. 2016. Epidemiology, Genetic Recombination, and Pathogenesis of Coronaviruses. Trends in
+Microbiology, 24(6):490–502.
+Warren, T. K., Wells, J., Panchal, R. G., Stuthman, K. S.,
+Garza, N. L., Tongeren, S. A. V., Bavari, S. 2014. Protection against ilovirus diseases by a novel broadspectrum nucleoside analogue BCX4430. Nature,
+508(7496):402–405.
+Wuhan Municipal Health Commission 2019. Report
+of clustering pneumonia of unknown etiology in
+Wuhan city.
+Zaki, A. M., Boheemen, S. V., Bestebroer, T. M., Osterhaus, A. D. M. E., Fouchier, R. A. M. 2012. Isolation of a Novel Coronavirus from a Man with Pneumonia in Saudi Arabia. New England Journal of
+Medicine, 367(19):1814–1820.
+Zhou, P., Yang, X. L., Wang, X. G., Hu, B., Zhang, L.,
+Zhang, W., Shi, Z. L. 2020. Discovery of a novel
+coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin.
+Zumla, A., Chan, J. F. W., Azhar, E. I., Hui, D. S. C., Yuen,
+K. Y. 2016. Coronaviruses - drug discovery and
+therapeutic options. Nature Reviews. Drug Discovery, 15(5):327–347.
+
+6
+
+© International Journal of Research in Pharmaceutical Sciences
+
+

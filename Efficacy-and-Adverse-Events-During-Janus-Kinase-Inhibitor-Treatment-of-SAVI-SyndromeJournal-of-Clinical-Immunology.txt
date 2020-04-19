@@ -1,0 +1,53 @@
+
+Efficacy and Adverse Events During Janus Kinase Inhibitor Treatment of SAVI Syndrome
+Stefano Volpi 1,2,3,4 & Antonella Insalaco 5 & Roberta Caorsi 1,2 & Elettra Santori 6 & Virginia Messia 5 & Oliviero Sacco 7 &
+Suzanne Terheggen-Lagro 8 & Fabio Cardinale 9 & Alessia Scarselli 10 & Claudia Pastorino 2 & Gianmarco Moneta 5 &
+Giuliana Cangemi 11 & Chiara Passarelli 12 & Margherita Ricci 1 & Donata Girosi 7 & Maria Derchi 13 & Paola Bocca 2 &
+Andrea Diociaiuti 14 & May El Hachem 14 & Caterina Cancrini 10 & Paolo Tomà 15 & Claudio Granata 16 & Angelo Ravelli 1,3 &
+Fabio Candotti 6 & Paolo Picco 1 & Fabrizio DeBenedetti 5 & Marco Gattorno 1,2
+Received: 12 November 2018 / Accepted: 10 May 2019 / Published online: 29 May 2019
+
+Objectives Mutations affecting the TMEM173 gene cause STING-associated vasculopathy with onset in infancy (SAVI). No
+standard immunosuppressive treatment approach is able to control disease progression in patients with SAVI. We studied the
+efficacy and safety of targeting type I IFN signaling with the Janus kinase inhibitor, ruxolitinib.
+Methods We used DNA sequencing to identify mutations in TMEM173 in patients with peripheral blood type I IFN signature.
+The JAK1/2 inhibitor ruxolitinib was administered on an off-label basis.
+Results We identified three patients with SAVI presenting with skin involvement and progressive severe interstitial lung disease.
+Indirect echocardiographic signs of pulmonary hypertension were present in one case. Following treatment with ruxolitinib, we
+observed improvements of respiratory function including increased forced vital capacity in two patients, with discontinuation of
+oxygen therapy and resolution of echocardiographic abnormalities in one case. Efficacy was persistent in one patient and only
+transitory in the other two patients. Clinical control of skin complications was obtained, and one patient discontinued steroid
+
+Emma Children’s Hospital, Amsterdam UMC,
+Amsterdam, Netherlands
+
+treatment. One patient, who presented with kidney involvement, showed resolution of hematuria. One patient experienced
+increased recurrence of severe viral respiratory infections. Monitoring of peripheral blood type I interferon signature during
+ruxolitinib treatment did not show a stable decrease.
+Conclusions We conclude that targeting type I IFN receptor signaling may represent a promising therapeutic option for a subset
+of patients with SAVI syndrome and severe lung involvement. However, the occurrence of viral respiratory infection might
+represent an important cautionary note for the application of such form of treatment.
+Keywords Recurrent fever . pulmonary fibrosis . JAK inhibitor
+
+Type I interferonopathies are a new class of disorders linked to
+the upregulation of type I interferon (IFN) [1, 2]. Stimulator of
+IFN genes (STING)-associated vasculopathy with onset in
+infancy (SAVI) is caused by gain of function mutations in
+TMEM173 [3], which lead to a constitutive production of
+high levels of type I IFNs without infectious triggers [3–5].
+SAVI is characterized by systemic inflammation, chronic anemia, growth failure, cutaneous necrotic lesions, and interstitial
+lung disease [3, 6]. Low-titer autoantibodies (i.e., anti-nuclear
+antibody, anti-cardiolipin antibodies) can also be present.
+Therapeutic management is challenging: steroids are partially
+effective; patients respond poorly to disease-modifying therapies, such as methotrexate, mycophenolate mofetil, antimalarials, infliximab, and rituximab [3, 6, 7]. Prognosis is
+poor especially in patients with a severe lung involvement,
+with a high mortality in the first two decades of life [3].
+In light of the encouraging results obtained with the use of
+JAK inhibitors in other interferonopathies [8], and the ability
+of blocking type I IFN pathway activation in SAVI PBMC
+in vitro [3], a few SAVI patients have been treated with
+JAK1/2 inhibitors with good responses [9, 10].
+We describe three SAVI patients with severe pulmonary
+involvement in which treatment with the JAK1/2 inhibitor,
+ruxolitinib, led to marked amelioration of disease manifestations that was sustained in one patient, but only transient in the
+other two.

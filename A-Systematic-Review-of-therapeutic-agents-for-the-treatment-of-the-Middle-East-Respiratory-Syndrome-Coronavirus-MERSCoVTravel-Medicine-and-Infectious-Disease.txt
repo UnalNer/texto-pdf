@@ -1,0 +1,56 @@
+Travel Medicine and Infectious Disease 30 (2019) 9–18
+
+Contents lists available at ScienceDirect
+
+Travel Medicine and Infectious Disease
+journal homepage: www.elsevier.com/locate/tmaid
+
+A Systematic Review of therapeutic agents for the treatment of the Middle
+East Respiratory Syndrome Coronavirus (MERS-CoV)
+
+Hisham Momattina, Anfal Y. Al-Alib, Jaﬀar A. Al-Tawﬁqc,d,e,∗
+
+Department of Pharmacy Services, King Khalid Hospital, Najran, Saudi Arabia
+Department of Pharmacy Services, Dhahran Eye Specialist Hospital, Dhahran, Saudi Arabia
+Infectious Disease Unit, Specialty Internal Medicine Department, Johns Hopkins Aramco Healthcare, Dhahran, Saudi Arabia
+Department of Medicine, Indiana University School of Medicine, Indianapolis, IN, USA
+Department of Medicine, Johns Hopkins University School of Medicine, Baltimore, MD, USA
+
+Keywords:
+MERS
+Therapy
+Middle east respiratory syndrome coronavirus
+
+The Middle East Respiratory Syndrome Coronavirus (MERS-CoV) was ﬁrst described in 2012 and
+attracted a great international attention due to multiple healthcare associated outbreaks. The disease carries a
+high case fatality rate of 34.5%, and there is no internationally or nationally recommended therapy.
+Method: We searched MEDLINE, Science Direct, Embase and Scopus databases for relevant papers published till
+March 2019 describing in vitro, in vivo or human therapy of MERS.
+Results: Initial search identiﬁed 62 articles: 52 articles were from Medline, 6 from Embase, and 4 from Science
+Direct. Based on the inclusions and exclusions criteria, 30 articles were included in the ﬁnal review and comprised: 22 in vitro studies, 8 studies utilizing animal models, 13 studies in humans, and one study included both
+in vitro and animal model. There are a few promising therapeutic agents on the horizon. The combination of
+lopinavir/ritonavir and interferon-beta- 1b showed excellent results in common marmosets and currently is in a
+randomized control trial. Ribavirin and interferon were the most widely used combination and experience comes
+from a number of observational studies. Although, the data are heterogenous, this combination might be of
+potential beneﬁt and deserve further investigation. There were no randomized clinical trials to recommend
+speciﬁc therapy for the treatment of MERS-CoV infection. Only one such study is planned for randomization and
+is pending completion. The study is based on a combination of lopinavir/ritonavir and interferon-beta- 1b. A
+fully human polyclonal IgG antibody (SAB-301) was safe and well tolerated in healthy individuals and this agent
+may deserve further testing for eﬃcacy.
+Conclusion: Despite multiple studies in humans there is no consensus on the optimal therapy for MERS-CoV.
+Randomized clinical trials are needed and potential therapies should be evaluated only in such clinical trials. In
+order to further enhance the therapeutic aroma for MERS-CoV infection, repurposing old drugs against MERSCoV is an interesting strategy and deserves further consideration and use in clinical settings.
+Middle East Respiratory Syndrome Coronavirus (MERS-CoV) was
+ﬁrst identiﬁed in 2012 and since then the disease has attracted an increasing international interest to resolve issues related to the epidemiology, clinical features, and therapy. This interest is further enhanced
+by the fact that MERS-CoV infection resulted in 2428 cases in 27
+countries around the world as of June 23, 2019 [1] and most of the
+cases are linked to the Middle East [2]. So far there have been three
+patterns of the transmission of MERS-CoV virus mainly: sporadic cases
+[3], intra-familial transmissions [4–6] and healthcare-associated
+transmission [3,7–26]. The disease carries a high case fatality rate of
+34.5% [1] and so far there has been no proven eﬀective therapy and no
+approved therapies for MERS-CoV infection by international or national
+societies. Few therapeutic agents were reported in the literature but all
+were based on retrospective analysis. In this study, we review available
+literature on the current therapeutic options for the disease including in
+vitro, animal studies, and studies in human.

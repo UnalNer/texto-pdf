@@ -1,0 +1,95 @@
+Diabetes & Metabolic Syndrome: Clinical Research & Reviews 14 (2020) 241e246
+
+Contents lists available at ScienceDirect
+
+Diabetes & Metabolic Syndrome: Clinical Research & Reviews
+journal homepage: www.elsevier.com/locate/dsx
+
+Chloroquine and hydroxychloroquine in the treatment of COVID-19
+with or without diabetes: A systematic search and a narrative review
+with a special reference to India and other developing countries
+Awadhesh Kumar Singh a, *, Akriti Singh b, Altamash Shaikh c, Ritu Singh a,
+Anoop Misra d, e, f
+a
+
+G. D Hospital & Diabetes Institute, Kolkata, India
+College of Medicine & JNM Hospital, Kalyani, Nadia, West Bengal, India
+Saifee Hospital, Mumbai, India
+Fortis CDOC Hospital for Diabetes and Allied Sciences, Chirag Enclave, New Delhi, India
+National Diabetes, Obesity and Cholesterol Foundation, New Delhi, India
+Diabetes Foundation (India), New Delhi, India
+
+Background and aims: No drugs are currently approved for Coronavirus Disease-2019 (COVID-19),
+although some have been tried. In view of recent studies and discussion on chloroquine and hydroxychloroquine (HCQ), we aimed to review existing literature and relevant websites regarding these drugs
+and COVID-19, adverse effects related to drugs, and related guidelines.
+Aims and methods: We systematically searched the PubMed database up till March 21, 2020 and
+retrieved all the articles published on chloroquine and HCQ and COVID-19.
+Results: Two small human studies have been conducted with both these drugs in COVID-19, and have
+shown signiﬁcant improvement in some parameters in patients with COVID-19.
+Conclusion: Considering minimal risk upon use, a long experience of use in other diseases, costeffectiveness and easy availability across India, we propose that both these drugs are worthy of fast
+track clinical trial for treatment, and may be carefully considered for clinical use as experimental drugs.
+Since HCQ has been approved for treatment of diabetes in India, it should be further researched in
+diabetes and COVID-19, a subgroup where signiﬁcant mortality has been shown.
+© 2020 Diabetes India. Published by Elsevier Ltd. All rights reserved.
+
+Keywords:
+COVID-19
+Chloroquine
+Hydroxychloroquine
+Diabetes
+
+Novel coronavirus (2019-nCoV), ofﬁcially known as severe acute
+respiratory syndrome coronavirus 2 (SARS-CoV-2), the etiological
+agent of the (Corona Virus Disease 2019) COVID-19, emerged in
+Wuhan, Hubei province, China. On 11th March 2020, The World
+Health Organization (WHO) declared this disease as pandemic [1].
+Chinese Centre for Disease Control and Prevention showed an
+increased mortality in people with diabetes (2.3% vs. 7.3%; overall
+vs. in patients with diabetes respectively) from a report of 72,314
+cases of COVID-19 [2]. People with diabetes and COVID-19 may
+need special attention and clinical care [3]. In the absence of any
+known efﬁcient therapy and because of the situation of a “publichealth emergency”, many drugs have been tried recently in the
+treatment for COVID-19 that includes a low-cost antimalarial drug
+chloroquine and its derivative hydroxychloroquine (HCQ), along
+with several other antiviral drugs. Because HCQ has been approved
+in the treatment of type 2 diabetes in India since 2014 as a third- or
+fourth-line drug, it would be interesting to research its impact in
+patients with diabetes, infected with COVID-19.
+Reports gathered so far have suggested that a number of drugs
+could be potential candidates for the treatment of COVID-19, although
+the clinical effectiveness of these drugs have not yet been fully evaluated. The list of these drugs has been summarized in Table 1 [4e6].
+In this review article, we have systematically searched the
+medical data base until March 21, 2020 and collated all the available
+evidences that have emerged so far on the efﬁcacy of chloroquine
+and hydroxychloroquine, in the treatment of patients with COVID-
+4Not clearly known, changes the pH of endosomes and
+aminoquinoline believed to prevent viral entry, transport and postentry events
+Hydroxychloroquine 4Not clearly known, changes the pH of endosomes and
+aminoquinoline believed to prevents viral entry, transport and postentry events
+Inhibits viral application
+Remdesivir
+Adenosine
+nucleotide
+analogues
+Ribavirin
+Nucleoside
+Inhibits viral RNA synthesis and mRNA capping
+analogue
+Ribavirin plus
+Inhibits viral replication
+Interferon
+Camostat Mesilate Protease
+Blocks viral maturation and entry to cells
+inhibitors
+Lopinavir/Ritonavir Protease
+Blocks viral cellular entry
+inhibitors
+Darunavir/Cobicistat Protease
+Blocks viral cellular entry
+inhibitors
+Inhibits infection of cells by SARS-CoV-2 in vitro, approved for malaria
+treatment and prophylaxis
+Inhibits infection of cells by SARS-CoV-2 in vitro, approved for malaria
+prophylaxis and autoimmune disease (e.g. rheumatic diseases). Approved for
+treatment of T2DM in India
+Effective against SARS and MERS

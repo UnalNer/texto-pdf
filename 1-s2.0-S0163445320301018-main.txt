@@ -1,0 +1,145 @@
+﻿Journal of Infection 80 (2020) 401–406
+
+Contents lists available at ScienceDirect
+
+Journal of Infection
+journal homepage: www.elsevier.com/locate/jinf
+
+Characteristics of COVID-19 infection in Beijing
+Sijia Tian a,1, Nan Hu b,1, Jing Lou a,1, Kun Chen c,1, Xuqin Kang a, Zhenjun Xiang b, Hui Chen b,
+Dali Wang d, Ning Liu e, Dong Liu f, Gang Chen g, Yongliang Zhang h, Dou Li b, Jianren Li b,
+Huixin Lian a, Shengmei Niu a, Luxi Zhang a, Jinjun Zhang a,∗
+a
+
+Beijing Emergency Medicine Research Institute, Beijing Emergency Medical Center, Beijing, China
+Beijing Emergency Medical Center, Beijing, China
+c
+Beijing Chao Yang District Emergency Medical Center, Beijing, China
+d
+Beijing Haidian District Medical Rescue Center, Beijing, China
+e
+Beijing Luhe Hospital, Capital Medical University, Beijing, China
+f
+Beijing Dongcheng District Emergency Medical Center, Beijing, China
+g
+Beijing Shijingshan District Hospital, Beijing, China
+h
+Beijing Daxing District People’s Hospital, Beijing, China
+b
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Accepted 21 February 2020
+Available online 27 February 2020
+Keywords:
+COVID-19
+2019-nCoV
+Characteristics
+Beijing
+
+
+s u m m a r y
+Background: Since the ﬁrst case of a novel coronavirus (COVID-19) infection pneumonia was detected
+in Wuhan, China, a series of conﬁrmed cases of the COVID-19 were found in Beijing. We analyzed the
+data of 262 conﬁrmed cases to determine the clinical and epidemiological characteristics of COVID-19 in
+Beijing.
+Methods: We collected patients who were transferred by Beijing Emergency Medical Service to the designated hospitals. The information on demographic, epidemiological, clinical, laboratory test for the COVID19 virus, diagnostic classiﬁcation, cluster case and outcome were obtained. Furthermore we compared the
+characteristics between severe and common conﬁrmed cases which including mild cases, no-pneumonia
+cases and asymptomatic cases, and we also compared the features between COVID-19 and 2003 SARS.
+Findings: By Feb 10, 2020, 262 patients were transferred from the hospitals across Beijing to the designated hospitals for special treatment of the COVID-19 infected by Beijing emergency medical service.
+Among of 262 patients, 46 (17.6%) were severe cases, 216 (82.4%) were common cases, which including
+192 (73.3%) mild cases, 11(4.2%) non-pneumonia cases and 13 (5.0%) asymptomatic cases respectively. The
+median age of patients was 47.5 years old and 48.5% were male. 192 (73.3%) patients were residents of
+Beijing, 50 (26.0%) of which had been to Wuhan, 116 (60.4%) had close contact with conﬁrmed cases, 21
+(10.9%) had no contact history. The most common symptoms at the onset of illness were fever (82.1%),
+cough (45.8%), fatigue (26.3%), dyspnea (6.9%) and headache (6.5%). The median incubation period was
+6.7 days, the interval time from between illness onset and seeing a doctor was 4.5 days. As of Feb 10,
+17.2% patients have discharged and 81.7% patients remain in hospital in our study, the fatality of COVID-19
+infection in Beijing was 0.9%.
+Interpretation: On the basis of this study, we provided the ratio of the COVID-19 infection on the severe
+cases to the mild, asymptomatic and non-pneumonia cases in Beijing. Population was generally susceptible, and with a relatively low fatality rate. The measures to prevent transmission was very successful at
+early stage, the next steps on the COVID-19 infection should be focused on early isolation of patients and
+quarantine for close contacts in families and communities in Beijing.
+Funding: Beijing Municipal Science and Technology Commission and Ministry of Science and Technology.
+© 2020 The British Infection Association. Published by Elsevier Ltd. All rights reserved.
+
+
+Evidence before this study
+We searched PubMed on Feb 10, 2020, using the terms
+“2019-nCoV” and “characteristics” for articles in English. We
+found six studies on the characteristics of patients infected
+with COVID-19. Huang C reported the features of 41 cases in
+Wuhan in the Lancet on Jan 24, 21,020. Li Q reported the dynamics of 425 cases in Wuhan in the New England Journal
+Medicine on Jan 29,2020. Chen N reported characteristics of
+99 cases in Wuhan in the Lancet on Jan 30, 21,020.Wang D
+reported characteristics of 138 cases in Wuhan in the JAMA
+on Feb 7, 2020. Other two studies were case reports. Our
+search did not reveal any report on the characteristics of patients with COVID-19 infection in other imported city except
+Wuhan.
+Added value of this study
+We reported the characteristics of 262 cases infected with
+COVID-19 from 57 hospitals across Beijing and provided the
+proportion of the COVID-19 infection on the severe cases to
+mild, asymptomatic and non-pneumonia cases. We compared
+the epidemic features between COVID-19 and 2003 SARS for
+learn lessons and control the outbreak.
+Implications of all the available evidence
+The COVID-19 infection was generally susceptible, and
+with a relatively low fatality rate. The measures to prevent
+transmission was very successful at early stage, the next
+steps on the COVID-19 infection should be focused on early
+isolation of patients and quarantine for close contacts in families and communities in Beijing and China.
+
+to Feb 10, 2020. We compared the characteristics between severe and common conﬁrmed cases which including mild cases,
+no-pneumonia cases and asymptomatic cases. The features were
+compared between COVID-19 and 2003 SARS. The study was approved by Ethics Committee of Beijing Emergency Medical Center
+(No.2020-01) and the written informed consent was waived because of the retrospective nature of the study and belongs to emergency medical service.
+
+A conﬁrmed case was deﬁned as a suspected case with the laboratory test for the COVID-19 from the respiratory specimens show
+positive result by the real-time reverse-transcription-polymerasechain-reaction (RT-PCR) assay, while a suspected case was deﬁned
+as a case that fulﬁlled both the following criteria: have fever, radiographic evidence of pneumonia, low or normal white-cell count
+or low lymphocyte count in clinic; and have a travel to Wuhan or
+direct contact with patients from Wuhan who have fever or respiratory symptoms within 14 days before illness in the epidemic
+history according to the new coronavirus pneumonial prevention
+and control program, and the new coronavirus pneumonial diagnosis and treatment program which were published by the National
+Health Commission of China.8–10
+A mild case was deﬁned as a conﬁrmed case with fever, respiratory symptoms and radiographic evidence of pneumonia, while
+a severe case was deﬁned as a mild case with dyspnea or respiratory failure. A non-pneumonia case was deﬁned as a conﬁrmed
+case with fever and/or respiratory symptoms, but no radiographic
+evidence of pneumonia, while an asymptomatic case was deﬁned
+as a conﬁrmed case with normal body temperature or minor discomfort.
+
+As of February 10, 2020, a total of 40,554 cases with laboratoryconﬁrmed COVID-19 infection have been detected in the world
+reported by the World Health Organization (WHO).1 There have
+been 42,638 accumulated conﬁrmed cases of COVID-19 infections,
+of them 1016 patients has died, 3996 have been discharged and
+88% remain in hospital in mainland of China,2 and 342 conﬁrmed
+cases were found in Beijing.3 The infected cases were also reported
+in Thailand, Japan, South Korea, Singapore, Vietnam, the US, and
+other 24 countries around the world.4–5 Given that the current
+COVID-19 outbreak is moving rapidly, the recently published literatures on the epidemic features of COVID-19 mainly focus on
+Wuhan, China,6–7 but the information on the imported city or region is exceedingly rare.
+In this study, we provide an analysis of data on the characteristics of patients with conﬁrmed COVID-19 infection throughout Beijing as an imported metropolis, and unravel the proportion on the
+severe cases to the mild, asymptomatic and non-pneumonia cases.
+Additionally, Beijing experienced the outbreak of SARS in 2003. For
+learn lessons and control the outbreak, we compare the epidemic
+features between COVID-19 and 2003 SARS.
+
+We modiﬁed the medical record form for the COVID-19 infection, which including demographic, epidemiological, clinical, laboratory test for the COVID-19, diagnostic classiﬁcation, cluster case
+and outcome etc. Laboratory conﬁrmation of COVID-19 was detected in the ﬁrst admission hospital and veriﬁed by the Beijing
+Center for Disease Control and Prevention (CDC). Clinical outcomes
+were followed up to February 10, 2020. If the data missing from
+the records was needed, we obtained data by direct communication with EMS providers. A double-extraction method in which
+two independent reviewers extract data and evaluate the eligibility of the original data was applied. All differences were resolved through discussion prior to the ﬁnal analysis. All data were
+checked by another two researchers.
+Data on the COVID-19 infection in China and Beijing obtained
+from National Health Commission of the People’s Republic of China
+and Beijing Health Commission respectively between Jan 20 to Feb
+10, 2020. The data of SARS in 2003 searched from the oﬃce of the
+Ministry of Health, which started on April 21, 2003, both including
+accumulative and daily new conﬁrmed cases of the SARS outbreak
+in China.
+

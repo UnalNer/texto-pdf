@@ -1,0 +1,43 @@
+G Model
+
+ARTICLE IN PRESS
+
+MEDMAL-4280; No. of Pages 3
+
+Médecine et maladies infectieuses xxx (2020) xxx–xxx
+
+Department of Intensive Care Unit, People’s hospital of Qiandongnan Miao and Dong Autonomous Prefecture, Kaili Guizhou 556000, China
+
+Keywords :
+COVID-19
+C-reactive protein
+Lung CT scan
+
+COVID-19 is a new infectious disease, for which there is currently no treatment. It is
+therefore necessary to explore biomarkers to determine the extent of lung lesions and disease severity.
+Objective. – We aimed to assess the usefulness of CRP levels in the early stage of COVID-19 and to correlate
+them with lung lesions and severe presentation.
+Methods. – Conﬁrmed cases of COVID-19 were selected at the Fever Unit in two regions of Guizhou, China.
+On admission CRP levels were collected, and the diameter of the largest lung lesion was measured in the
+most severe lung lesion by lung CT scan. Differences in the diameter and CRP levels were compared in
+the following groups of patients: mild group, moderate group, severe group, and critical group.
+Result. – CRP levels and the diameter of the largest lung lesion in the moderate group were higher than
+those in the mild group (Mann-Whitney test = −2.647, −2.171, P < 0.05), those in the severe group were
+higher than those in the moderate group (Mann-Whitney test = 0.693, −2.177, P < 0.05), and those in the
+critical group were higher than those in the severe group (Mann-Whitney test = −0.068, −1.549, P < 0.05).
+The difference was statistically signiﬁcant. CRP levels were positively correlated with the diameter of lung
+lesion and severe presentation (correlation coefﬁcient = 0.873, 0.734, P < 0.001).
+Conclusion. – In the early stage of COVID-19 CRP levels were positively correlated with lung lesions and
+could reﬂect disease severity.
+
+New coronavirus pneumonia (COVID-19) is a health emergency
+due to its high infectiousness [1] and high case fatality in critically ill
+patients. The pathological and physiological processes and diagnostic methods of COVID-19 are still in the exploratory stage. Clinical
+monitoring and appropriate treatment strategies were essential to
+improve case fatality. CT scan played an important role in assessing
+the disease [2]. Other sensitive indicators able to reﬂect lung lesion
+changes and disease severity had to be explored. C-reactive protein
+(CRP) levels can be used in the early diagnosis of pneumonia [3], and
+patients presenting with severe pneumonia had high CRP levels.
+We assessed the correlation between CRP levels, lung lesions, and
+disease severity to provide reference for clinical treatment.

@@ -1,0 +1,1848 @@
+VI06CH25_Golovkina
+
+ARjats.cls
+
+August 22, 2019
+
+13:16
+
+Annual Review of Virology
+
+Mapping Viral Susceptibility
+Loci in Mice
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+Melissa Kane1 and Tatyana V. Golovkina2
+1
+
+Center for Microbial Pathogenesis, Department of Pediatrics, Children’s Hospital
+of Pittsburgh, University of Pittsburgh School of Medicine, Pittsburgh,
+Pennsylvania 15224, USA
+
+2
+
+Department of Microbiology, University of Chicago, Chicago, Illinois 60637, USA;
+email: tgolovki@bsd.uchicago.edu
+
+Annu. Rev. Virol. 2019. 6:525–46
+
+Keywords
+
+The Annual Review of Virology is online at
+virology.annualreviews.org
+
+virus, infection, positional cloning, genes, innate and adaptive immunity
+
+https://doi.org/10.1146/annurev-virology-092818015544
+
+Abstract
+
+Copyright © 2019 by Annual Reviews.
+All rights reserved
+
+Genetic alleles that contribute to enhanced susceptibility or resistance to
+viral infections and virally induced diseases have often been first identified
+in mice before humans due to the significant advantages of the murine system for genetic studies. Herein we review multiple discoveries that have revealed significant insights into virus-host interactions, all made using genetic
+mapping tools in mice. Factors that have been identified include innate and
+adaptive immunity genes that contribute to host defense against pathogenic
+viruses such as herpes viruses, flaviviruses, retroviruses, and coronaviruses.
+Understanding the genetic mechanisms that affect infectious disease outcomes will aid the development of personalized treatment and preventive
+strategies for pathogenic infections.
+
+525
+
+VI06CH25_Golovkina
+
+ARjats.cls
+
+August 22, 2019
+
+13:16
+
+INTRODUCTION
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+Host genetics dramatically influence the course of viral infections and virally induced diseases.
+The discovery of genetic factors linked to virus susceptibility and/or disease outcome requires the
+selection of individuals who exhibit unique responses to infections, such as an unusually rapid or
+slow progression of disease, or multiple documented exposures to a virus that result in no disease
+phenotype. The study of candidate genes is one strategy that has proven successful for identifying
+disease susceptibility loci among such individuals. Another approach is an unbiased one in which
+DNA from individuals with opposing phenotypes is subjected to genome-wide association studies
+(GWASs) to find a correlation between specific genetic loci and the phenotype under study (1).
+GWASs take advantage of single nucleotide polymorphisms (SNPs) that, on average, occur every
+300 nucleotides throughout a person’s genome. Once a linkage is identified, a candidate gene
+approach is used to test genes in the vicinity of the critical SNP as responsible for the phenotype.
+The expectation is that individuals with opposing phenotypes will have allelic variants of the gene.
+If a polymorphism is determined, larger genetic screens are undertaken to verify the linkage.
+However, these types of investigations have significant limitations. First, GWASs rarely identify coding alleles, as most variants identified by GWASs are within noncoding sequences and thus
+may influence genes located some distance from them. Second, GWASs cannot identify causative
+variants, only nonrecombinant loci, which typically contain multiple genes. Of the many loci associated with susceptibility to infectious diseases in humans revealed by GWASs, a large fraction
+have been mapped to the major histocompatibility (MHC) locus (2). This finding is not surprising since the highly polymorphic MHC locus contains numerous genes that affect the adaptive
+immune response to infections. However, due to the low level of recombination within the generich MHC locus (3), SNP-defined linkages within this region are generally spread over a relatively
+wide area (1–2 Mb), making it difficult to definitively identify a candidate gene. Finally, significant difficulties remain in providing functional proof that a candidate gene within a given locus
+encodes for a susceptibility factor because it is impossible to conduct such experiments in humans.
+The mouse is by far the most commonly used model organism for in vivo viral pathogenesis studies as it allows for reduced complexity through standardized environmental and genetic conditions
+and is cost efficient. In addition, the genome sequences of several strains, as well as many speciesspecific immunologic, molecular, and biochemical reagents, are widely available to the research
+community, making it easier to map genes in the mouse (4).
+Modern mouse genetics began at the turn of the twentieth century with two major contributors,
+pet mouse breeder Abbie Lathrop and mammalian geneticist William Castle. Lathrop generated
+several mouse colonies that varied in their coat color or tumor susceptibility, thereby generating
+many progenitors of currently used mouse stocks. Castle and his students, in particular Clarence
+C. Little, recognized the value of homozygous mice for studying inheritance and established the
+first inbred strains by brother/sister mating of Lathrop’s mice for over 20 generations (5). Each
+mouse within the inbred line is homozygous throughout the genome, and each inbred strain is
+also isogenic (genetically identical) because all individuals trace back to a common ancestor. Since
+Lathrop’s mice were generated by breeding mice captured in Japan, China, and Europe, all original
+inbred strains were a mosaic of Mus musculus domesticus, Mus musculus musculus, and Mus musculus
+casteneus, with the largest genetic component derived from M. m. domesticus (6).
+Mouse breeders possessed mutant mice even before the onset of modern genetics, and these
+mice have been instrumental in the expansion of the discipline. However, since all commonly used
+inbred mice were derived from only three subspecies, their genomes are relatively nonpolymorphic (7). The relative lack of genetic polymorphisms in classical inbred strains can be overcome by
+breeding these strains with mice from wild-derived strains. These wild-derived strains have been
+
+526
+
+Kane
+
+•
+
+Golovkina
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+VI06CH25_Golovkina
+
+ARjats.cls
+
+August 22, 2019
+
+13:16
+
+recently established by inbreeding mice belonging to different species of Mus caught in nature.
+These wild mice can be crossed with classical laboratory strains to produce viable and fertile offspring with a large number of polymorphisms of natural origin. In addition, various approaches
+have been used to increase the frequency of spontaneous mutations in classical inbred mouse
+lines. These approaches include treating male mice with mutagens such as N-ethyl-N-nitrosourea
+(ENU) (8), which leads to point mutations, and using transposons such as Sleeping Beauty (9) or
+piggyBac (10), which result in the insertion of specific DNA sequences randomly throughout the
+genome.
+The screening of mice from polymorphic backgrounds allows for the selection of those with
+an altered phenotype, such as resistance to viral infection or virally induced disease. Once an individual or strain with an altered phenotype is identified, it is then used to define the mutation
+conferring the phenotype. Of the multiple approaches for identifying genes responsible for a given
+phenotype, mapping them by virtue of their chromosomal position (i.e., positional cloning or forward genetics) is the most straightforward. There are three major steps in positional cloning. The
+first step is to map the resistance locus (assuming that the phenotype is controlled by a single
+locus) to a specific chromosome and to define the region of the chromosome that can confer
+the phenotype upon transfer to a susceptible genetic background. To accomplish this step, the
+genomes of the susceptible and resistant mice used in the cross must have sufficient polymorphisms to distinguish specific regions between them. Positional cloning begins with producing
+F1 mice and determining their phenotype. If F1 mice exhibit the resistant phenotype, the trait is
+defined as dominant, and F1 mice are backcrossed to susceptible mice to generate N2 mice. If F1
+mice exhibit the susceptible phenotype, the trait is defined as recessive, and N2 mice are generated
+by backcrossing F1 mice to resistant mice (Figure 1). Alternatively, F1 mice (irrespective of their
+phenotype) can also be intercrossed to generate F2 animals for subsequent phenotyping. N2 or
+F2 mice are then phenotyped and subsequently genotyped, using either SNPs or microsatellite
+markers (specific repeats that differ in length between strains), to determine the minimum region
+from the resistant mouse genome that correlates with the resistant phenotype. Classical linkage
+analysis, as well as fine mapping of the gene responsible for a given phenotype, is based on meiotic
+recombination events that occur in the sperm and egg precursor cells. Meiotic recombination is
+a very frequent event and occurs approximately 30 times in each individual germ cell. It has been
+estimated that there is a 1% chance that two markers separated by ∼0.5–2 Mb will cross over in
+a single generation. Therefore, the nonrecombinant region can be reduced to as small as 0.5 Mb
+simply using genetic crosses.
+Depending on the chromosomal location of the resistance gene, the nonrecombinant region
+may be gene rich. Therefore, the second step in positional cloning is to reduce the size of the
+chromosomal segment containing the resistance gene to a region containing the smallest number
+of genes. This step requires additional genetic manipulation, such as the production of congenic
+mouse lines and/or bacterial artificial chromosome (BAC) transgenic lines. A congenic line is produced by repeated backcrosses of mice from the resistant strain to mice from the susceptible strain
+with selection for various overlapping chromosomal regions derived from the resistant mice. BAC
+transgenic mice are generated by inserting overlapping fragments of DNA (from 100 to 300 kb)
+from resistant mice into the genome of susceptible mice as transgenes. The end goal is to identify the smallest DNA fragment that can reverse the phenotype from susceptible to resistant in
+infected mice.
+The final step of positional cloning is the identification of the gene. This requires comparing
+the sequence of the minimal region between resistant and susceptible animals. Mutations may be
+obvious, such as deletions, frame shifts, or premature stop codons, or they may be less striking,
+such as point mutations or mutations within a noncoding region. Therefore, providing functional
+www.annualreviews.org
+
+•
+
+Mapping Viral Susceptibility Loci in Mice
+
+527
+
+VI06CH25_Golovkina
+
+ARjats.cls
+
+August 22, 2019
+
+13:16
+
+Identify phenotype
+
+Genetic crosses
+
+Physical mapping
+
+×
+RR
+
+Linkage
+
+SS
+
+Dominant
+RR
+
+Recessive
+
+SS
+
+F1
+
+×
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+SS
+
+Connect to
+phenotype
+
+Backcross
+
+F1
+
+RS
+
+×
+RS
+
+N2
+
+Backcross
+
+Narrow region/
+increase resolution
+
+RR
+
+N2
+RS
+
+RS
+
+SS
+
+SS
+
+RR
+
+RR
+
+RS
+
+RS
+
+• Candidate gene selection
+• Polymorphism detection
+SS
+
+Identify
+candidate genes
+
+Functional
+analysis
+RR
+
+Figure 1
+Positional cloning in mice. First, a strain with unique resistance to infection or disease is identified. Genetic crosses between resistant
+and susceptible mice are then used to determine if the phenotype is dominant or recessive. Backcrosses are then conducted to generate
+N2 animals; F1 mice are crossed to the susceptible strain if the phenotype is dominant or to the resistant strain if the phenotype is
+recessive. The N2 animals are then used for physical mapping using SNPs or microsatellite markers to identify the region of the
+genome linked to the phenotype. Linkage is determined by identifying a genomic region in which inheritance of the susceptible or
+resistant genotype correlates with the appropriate phenotype (e.g., for a recessive phenotype, a region in which resistant animals are
+homozygous for the genotype of the resistant parent strain and susceptible animals are heterozygous). The region is then narrowed (by
+breeding approaches or testing larger numbers of N2 animals), and candidate genes (which transcripts are indicated by purple arrows
+above the narrowed critical region) are selected for investigation of polymorphisms and for functional analysis. Finally, the gene must
+be validated as causative of the phenotype (e.g., via a transgenic approach by introducing the dominant resistant allele of the candidate
+gene onto the susceptible background and confirming that the transgene confers resistance in infected mice). Abbreviations: R, resistant
+allele; S, susceptible allele; SNP, single nucleotide polymorphism.
+
+proof that a candidate gene is responsible for conferring the phenotype is essential. One method to
+accomplish this is via a transgenic approach by generating mice engineered to express the resistant
+allele of the gene on the virus-susceptible background. Alternatively, a knock-in approach—the
+replacement of one allele with another of the gene suspected to control the resistant phenotype—
+can also be used to confirm the candidate gene.
+Positional cloning can be a long journey, especially if the phenotype is recessive, as, at each step
+of the cloning, mice must be bred to homozygosity prior to phenotyping. In addition, positional
+cloning is best used in the cases of monogenic traits but can be overly burdensome for multigenic traits. To overcome this problem, in 2002, the members of the Complex-Trait Consortium
+528
+
+Kane
+
+•
+
+Golovkina
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+VI06CH25_Golovkina
+
+ARjats.cls
+
+August 22, 2019
+
+13:16
+
+proposed the development of a new mouse genetics resource, called the Collaborative Cross (CC).
+The CC combines the genomes of five classical laboratory lines (A/J, C57BL/6J, 129S1/SvImJ,
+NOD/LtJ, and NZO/HlLtJ) and three wild-derived genetically diverse inbred mouse strains
+(CAST/EiJ, PWK/PhJ, and WSB/EiJ) (11). More than 500 individual inbred strains have been
+produced from the CC. Since the genomes of each of the eight inbred strains that contributed to
+the CC have been sequenced, the molecular genetic contribution of each chromosomal region of
+each CC strain is known. Therefore, phenotyping each strain for a trait such as virus resistance allows the determination of a chromosomal location for a locus conferring a given phenotype faster
+than traditional positional cloning. However, functional proof would still be required to confirm
+a candidate gene.
+Genes for which polymorphic alleles either increase or decrease susceptibility to viral infection or virally induced diseases may be grouped into five categories: (a) genes that block virus
+entry (changes in receptors and/or coreceptors or receptor-modifying enzymes); (b) genes that
+affect innate immune responses to viral infections, such as virus sensing or natural killer (NK)
+cell responses; (c) genes that alter adaptive immune responses such as T, NK T cell, and B cell
+responses; (d) genes encoding for restriction factors or intrinsic immune effectors; and (e) genes
+that control viral pathogenesis. This review discusses examples of the successful identification
+of genes belonging to the latter four categories using the approaches outlined above. Table 1
+presents specific examples of genes in each of the categories and the mechanisms by which they
+affect virus replication. However, this review does not serve as an exhaustive list of antiviral genes
+identified using these approaches; it is instead intended to provide readers with an appreciation of
+the astounding diversity and the common themes of defense to viral infection.
+
+GENES THAT AFFECT INNATE IMMUNE RESPONSES
+TO VIRAL INFECTIONS
+Pathogen-specific immune responses require the recognition of pathogen-associated molecular
+patterns, highly conserved microbial structures that are not found in host cells, by pattern recognition receptors (PRRs) (12). Viral infections are recognized by cytosolic or endocytic PRRs that
+detect viral genomes or replication intermediates (e.g., nucleic acids) (13), by inflammasomes that
+detect the activities of virally encoded proteins (14), or by cytoplasmic factors sensing higherorder molecular structures such as a capsid lattice (15, 16). This detection activates innate immune effectors, stimulates inflammatory responses, and directs the pathogen-specific adaptive response. While some variability in innate immune function can be measured in vitro (e.g., PRR
+signaling), in general, the role of the innate immune system in viral infection must be measured
+in vivo.
+
+Innate Immune Detection of Herpesvirus Infection
+Mouse cytomegalovirus (MCMV) is widespread among wild mice (17), where it is initially contained by innate immune responses and then held in check by the adaptive immune response,
+despite persisting in the salivary epithelium (18). Usually asymptomatic in immunocompetent
+individuals, human cytomegalovirus (HCMV) infections cause severe disease in immunocompromised patients (19). Although the vast majority of wild mice are infected with MCMV, the infection is generally contained (17), suggesting that the mouse genome has evolved to cope with
+this pathogen. To identify the mechanisms that are required for resistance to MCMV infection,
+researchers performed a large-scale ENU mutagenesis screen using C57BL6/J (B6) mice (20, 21).
+
+www.annualreviews.org
+
+•
+
+Mapping Viral Susceptibility Loci in Mice
+
+529
+
+VI06CH25_Golovkina
+
+ARjats.cls
+
+August 22, 2019
+
+13:16
+
+Table 1 Mouse genes affecting susceptibility to viral infection
+Virus(es)
+
+Gene(s)
+
+Method
+
+Mechanism/note(s)
+
+Reference(s)
+
+Genes that control viral pathogenesis
+Ebola virus
+
+Tie1 and Tie2
+
+Collaborative
+Cross
+
+Proposed role in preventing vascular
+leakage and pathology
+
+125
+
+SARS-CoV
+
+Trim55
+
+Collaborative
+Cross
+
+Control of airway vascular cuffing and
+immune cell infiltration
+
+134
+
+MLV
+
+Stk (Fv2)
+
+Positional cloning
+
+Receptor tyrosine kinase, control of
+Friend virus–induced splenomegaly
+
+49
+
+Positional cloning
+
+Direct block to replication, mechanism
+unknown
+
+97–99
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+Genes that block viral replication
+WNV
+
+Oas1b (Flv)
+
+Influenza A
+
+Mx1
+
+Positional cloning
+
+Blocks viral transcription
+
+80, 138
+
+MLV
+
+Fv4
+
+Positional cloning
+
+Endogenous retroviral Env, receptor
+interference
+
+106–108
+
+MLV
+
+Fv1
+
+Positional cloning
+
+Endogenous retroviral Gag, direct capsid
+targeting
+
+116–119
+
+MMTV
+
+Endogenous Mtvs
+
+Positional cloning
+
+Endogenous Mtv-mediated clonal
+deletion of subsets of T cells required
+for infection with exogenous MMTV
+
+139, 140
+
+Genes that affect innate immune responses
+MCMV
+
+Tlr9
+
+ENU mutagenesis
+
+Detection of viral DNA
+
+22
+
+MCMV
+
+Unc93b1
+
+ENU mutagenesis
+
+Defect in traffics of nucleotide-sensing
+Toll-like receptors
+
+23
+
+SARS-CoV
+
+Ticam2
+
+Collaborative
+Cross
+
+Mechanism unknown
+
+136
+
+Genes affecting NK cell function
+ECTV
+
+NKG2 genes (Rmp1)
+
+Positional cloning
+
+Specific gene(s) still not definitively
+determined
+
+141, 142
+
+MAV-1
+
+Ly6 genes (Msq1)
+
+Positional cloning
+
+Polymorphisms identified, no functional
+data
+
+143
+
+MLV
+
+Qa1 (Rfv2)
+
+Positional cloning
+
+MHC class Ib, affects NK activation
+
+49
+
+MCMV
+
+Ly49h (Cmv1)
+
+Positional cloning
+
+NK-activating receptor specific for viral
+MHC homolog m157
+
+38, 39, 41, 42
+
+Genes affecting adaptive immune responses
+MLV
+
+Apobec3 (Rfv3)
+
+Positional cloning
+
+Cytidine deaminase, inhibits viral
+replication, controls antiviral Ab
+production via an unknown mechanism
+
+50
+
+MLV and
+MMTV
+
+H2-Ob (Vic1)
+
+Positional cloning
+
+Negative regulator of MHC class II
+presentation, controls antiviral Ab
+production
+
+58
+
+Classical MHC genes demonstrated to affect antiviral adaptive responses
+LCMV
+
+Class I
+
+Linkage analysis
+
+Specific MHC I alleles direct antivirus
+CTL responses
+
+65, 144
+
+ECTV
+
+Class I
+
+Linkage analysis
+
+Specific MHC class I alleles direct
+antivirus CTL responses
+
+66
+
+TMEV
+
+Class I
+
+Linkage analysis
+
+Specific MHC class I alleles direct
+antivirus CTL responses
+
+67
+(Continued)
+
+530
+
+Kane
+
+•
+
+Golovkina
+
+VI06CH25_Golovkina
+
+ARjats.cls
+
+August 22, 2019
+
+13:16
+
+Table 1 (Continued)
+Virus(es)
+
+Gene(s)
+
+Method
+
+Mechanism/note(s)
+
+Reference(s)
+
+MCMV
+
+Class I
+
+Linkage analysis
+
+Specific MHC class I alleles direct
+antivirus CTL responses
+
+68, 69
+
+MLV
+
+Class I
+
+Linkage analysis
+
+Specific MHC haplotypes direct
+virus-specific CTL responses
+
+49
+
+MLV
+
+Class II
+
+Linkage analysis
+
+Specific MHC haplotypes direct
+virus-specific Ab responses
+
+49
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+Abbreviations: Ab, antibody; CTL, cytotoxic lymphocyte; ECTV, ectromelia virus; ENU, N-ethyl-N-nitrosourea; LCMV, lymphocytic choriomeningitis
+virus; MAV, mouse adenovirus type 1; MCMV, mouse cytomegalovirus; MLV, murine leukemia virus; MHC, major histocompatibility; MMTV, mouse
+mammary tumor virus; NK, natural killer; SARS-CoV, severe acute respiratory coronavirus; TMEV, Theiler’s murine encephalomyelitis virus; WNV, West
+Nile virus.
+
+They found that mice homozygous for an L499P Tlr9 mutant allele were highly susceptible to
+MCMV, and their macrophages showed impaired infection-induced secretion of type I interferons
+(IFNs).
+By screening macrophages derived from B6 mice homozygous for ENU-induced germline mutations, researchers identified a mutant mouse with cells that failed to produce normal quantities
+of tumor necrosis factor in response to poly I:C (a TLR3 stimulus), resiquimod (a TLR7 stimulus),
+and unmethylated DNA oligonucleotides bearing CpG motifs (a TLR9 stimulus). Using a positional cloning approach, researchers linked this poor response to TLR ligands to a missense allele
+of Unc93b1. Unc93b1 encodes the 12-membrane-spanning protein UNC93B1, a highly conserved
+molecule found in the endoplasmic reticulum, which plays an important role in the stability and
+intracellular trafficking of various TLR molecules (22–24). Importantly, Unc93b1-deficient mice
+have impaired clearance of MCMV (25), while UNC93B1-deficient human patients are prone to
+developing herpes simplex virus type 1 encephalitis (26). Thus, these studies emphasized the importance of the intracellular DNA sensor, TLR9, and cellular chaperone UNC93B1 in controlling
+herpes virus infections.
+
+Natural Killer–Mediated Control of Mouse Cytomegalovirus Infection
+NK cells are innate lymphocytes that are activated upon encountering infected cells. The activation of NK cells is determined by a delicate balance of signals delivered by inhibitory and activating
+receptors (27). While inhibitory receptors engage ubiquitously expressed MHC class I molecules,
+activating receptors recognize stress-induced ligands (27, 28). During viral infections, alterations
+in the balance of these signals, such as MHC class I downregulation and/or upregulation of ligands
+recognized by activating receptors, result in NK cell activation.
+It has long been known that the outcome of MCMV infection is under multigenic control
+and involves both MHC-specific and NK cell–specific mechanisms (29). Shellam, Bancroft, and
+others first established that the spontaneous beige mutation, which occurred in B6 mice, was associated with an NK cell defect and increased susceptibility to MCMV (30, 31). Subsequently, these
+observations were confirmed, as antibody (Ab)-mediated ablation of NK cells in wild-type mice
+correlated with increased MCMV-associated mortality (32, 33). Furthermore, it was determined
+that the initial stages of MCMV infection are controlled by a single locus, Cmv1, mapped to the
+distal part of chromosome 6. The Cmv1 locus overlapped with the NK-cell complex (NKC) and
+coincided with the beige mutation (34). Using positional cloning, researchers fine-mapped Cmv1
+to the Ly49 gene cluster within the NKC (35, 36). Ly49 proteins are surface receptors that bind
+
+www.annualreviews.org
+
+•
+
+Mapping Viral Susceptibility Loci in Mice
+
+531
+
+VI06CH25_Golovkina
+
+ARjats.cls
+
+August 22, 2019
+
+13:16
+
+Resistant
+(C57BL/6)
+
+NK
+
+Activating
+signal
+
+Ly49H
+Kill
+infected cell
+
+m157
+
+m157
+
+MCMV
+
+m157
+Ly49I
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+No Ly49H
+or Ly49I
+No killing
+
+Inhibitory
+signal
+
+Infected
+cell
+
+NK
+
+NK
+
+Susceptible
+(BALB/c)
+
+Susceptible
+(129/J)
+
+No killing
+
+Figure 2
+NK cell–mediated control of MCMV infection. In order to avoid NK cell–mediated killing, MCMV
+encodes an MHC class I homolog, m157, that engages the inhibitory NK cell receptor Ly49I in susceptible
+129/J mice to prevent lysis of the infected cell. In resistant C57BL/6 mice inheriting functional Ly49H
+(Cmv1), binding of m157 by Ly49H generates an activating signal, resulting in killing of the MCMVinfected target cell. Finally, in susceptible BALB/c mice, neither Ly49I nor Ly49H is expressed, and the virus
+avoids NK cell–mediated killing by an unknown mechanism. Abbreviations: MCMV, mouse
+cytomegalovirus; NK, natural killer.
+
+to MHC class I molecules and are expressed in NK cells and in some specialized T cell subpopulations (37) (Figure 2).
+Three groups almost simultaneously identified the gene encoding for Cmv1 (38–40). Two
+groups used a recombinant inbred strain, BXD-8, derived from Cmv1-resistant (Cmv1R ) B6 and
+Cmv1-susceptible DBA/2 parents. Although BXD-8 mice inherited the Cmv1R locus, they were
+MCMV susceptible. Using linkage analyses and genetic complementation in vivo, researchers
+mapped virus susceptibility of BXD-8 mice to the Cmv1 locus (39) and determined it to be the
+result of a 23-kb deletion encompassing a member of the Ly49 gene family, Ly49h. While many
+Ly49 receptors send inhibitory signals upon recognition of MHC class I molecules (29), Ly49H
+was determined to be an NK-activating receptor (39, 40) and therefore was proposed to recognize a molecule uniquely expressed on MCMV-infected cells. It was subsequently determined that
+MCMV encodes a structural homolog of MHC class I, m157, which directly activates Ly49H, thus
+causing lysis of infected cells (41) (Figure 2).
+The ability of NK cells to recognize and lyse cells expressing m157 prompts the question of
+why this viral gene evolved and was maintained in the viral genome. Lanier’s group considered the
+possibility that m157 evolved to bind an inhibitory receptor in MCMV-susceptible mice. It was
+a reasonable suggestion, as the Ly49 receptor family exhibits considerable variation in different
+mouse strains (42). Indeed, it was found that m157 can bind an inhibitory NK receptor (Ly49I) in
+certain MCMV-susceptible strains of mice, such as 129/J mice (41). Thus, it appears that selective
+pressure applied by the virus has influenced the evolution of an Ly49 receptor from inhibitory to
+activating.
+532
+
+Kane
+
+•
+
+Golovkina
+
+VI06CH25_Golovkina
+
+ARjats.cls
+
+August 22, 2019
+
+13:16
+
+Humans possess just a single Ly49 gene that appears to express only aberrant transcripts. Instead, humans have a family of receptors called the killer cell immunoglobulin-like receptors
+(KIRs) that are functionally analogous to the Ly49 receptors. Similar to mouse Ly49H, the human
+activating KIR, NKG2D controls HCMV infection (28). However, NKG2D does not recognize
+virally encoded proteins but instead binds to stress-induced MHC class I–related molecules, such
+as MICA/MICB, that are induced as a result of infection (43). NKG2D binding to MICA/MICB
+results in NK cell–mediated lysis of infected cells.
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+GENES THAT ALTER ADAPTIVE IMMUNE RESPONSES
+TO VIRAL INFECTIONS
+The innate immune system plays a crucial role in the initial control of viral infections, but it is
+also essential for directing adaptive immune responses. NF-κB-dependent gene expression, which
+is induced as a result of triggering innate immune receptors, results in the production of proinflammatory cytokines and costimulatory molecules, such as CD80 (B7–1) and CD86 (B7–2) (44,
+45). Costimulatory molecules are necessary for antigen presentation via MHC class I (required for
+cytotoxic responses) and MHC class II (required for Ab responses) molecules to stimulate naïve
+T cells and their subsequent differentiation into effector or helper cells, which are required for
+orchestrating cytotoxic and humoral responses. Humoral responses involve B cells, which produce
+antiviral Abs, thereby neutralizing extracellular viruses, while cytotoxic responses involve CD8+
+T lymphocytes, which lyse infected cells, thereby controlling intracellular viral reservoirs.
+
+Antibody-Mediated Virus Control
+All virus-infected individuals produce antiviral Abs, and many diagnostic tests rely on virus-specific
+Ab responses. However, Ab responses in virus-infected organisms, including humans, are often
+ineffective. Two models of retroviral infection have provided the opportunity for understanding
+the genetic basis of potent virus-neutralizing Ab responses.
+
+Recovery from Friend Virus 3
+The recovery from the Friend virus 3 (rfv3) gene was identified in 1979 by the Chesebro group
+as a non-MHC locus that affected the persistence of viremia and the development of virusneutralizing Ab responses upon Friend murine leukemia virus (FV) infection (46). FV is composed of replication-competent Friend murine leukemia helper virus (F-MuLV) and defective
+spleen focus-forming virus, the latter of which induces rapid proliferation of infected erythroid
+progenitor cells manifesting in splenomegaly. FV is known to induce erythroleukemia in mice
+from susceptible strains within a few months of infection.
+While FV-infected mice from the A/WySn strain remained viremic, B10.A mice cleared
+viremia within 30 days. Virus clearance was associated with the production of virus-neutralizing
+Abs. Since F1 crosses between these two strains and approximately 50% of [(B10.A × A/WySn) ×
+A/WySn]N2 mice exhibited the resistant phenotype of B10.A mice, the presence of a single
+dominant gene of B10 origin associated with virus restriction was postulated and designated
+as rfv3. Since B10.A and A/WySn mice share the same MHC locus, the contribution of the
+MHC genes to the resistant phenotype was easily ruled out. The rfv3 locus was later mapped to
+chromosome 15 via positional cloning (47, 48). The region was further fine-mapped to include
+only one gene, Apobec3 (49, 50). Apobec3 encodes for a deoxycytidine deaminase and is a member of
+the apolipoprotein B mRNA-editing enzyme family, which is known to have broad antiretroviral
+www.annualreviews.org
+
+•
+
+Mapping Viral Susceptibility Loci in Mice
+
+533
+
+VI06CH25_Golovkina
+
+ARjats.cls
+
+August 22, 2019
+
+13:16
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+activity. Apobec3 is the only Apobec3 gene in rodents, whereas humans have seven Apobec3 genes
+(51). APOBEC3 enzymes incorporate into newly forming retroviral particles and then induce
+mutations in the viral cDNA that inhibit reverse transcription and render the provirus defective
+(52). Retroviruses have evolved to evade APOBEC3 enzymes by excluding them from virions (52).
+The resistant allele of Apobec3 in B10 mice is expressed at a higher level than in susceptible
+A/WySn mice (49) and also generates aberrant splice variants with increased antiviral activity (50).
+It was proposed that APOBEC3-mediated restriction of FV replication in B10 mice prevents the
+rapid expansion of erythroid progenitor cells in the spleen and maintains normal splenic architecture, which is required for productive antiviral humoral responses. This hypothesis, however,
+has not yet been tested. Mice expressing the resistant allele of Apobec3 on the virus-susceptible
+background are needed to verify that Apobec3 encodes for Rfv3, and to determine the precise
+mechanism by which it influences the production of virus-neutralizing Abs.
+
+Virus Infectivity Controller 1
+The rfv3-encoded resistance mechanism does not broadly protect against retroviral infections.
+As a result, mice carrying the resistant allele of rfv3 are susceptible to other retroviruses, such
+as mouse mammary tumor virus (MMTV) (53). However, mice of the I/LnJ strain control both
+MuLV and MMTV via the same immune mechanism, which involves the production of virusneutralizing Abs (53, 54). Although I/LnJ mice become infected with both MuLV and MMTV,
+the mice produce virus-neutralizing Abs (54, 55), leading to the subsequent elimination of both
+viruses (53, 54).
+A single recessive locus, named virus infectivity controller 1 (vic1), controls retrovirus resistance in I/LnJ mice (54). I/LnJ mice carry a resistant allele of vic1, whereas MMTV-susceptible
+C3H/HeN and B6 mice, as well as MMTV-susceptible and MuLV-susceptible BALB/cJ mice,
+carry susceptible alleles (53, 54, 56, 57). The unusual recessive nature of resistance conferred by
+the resistant allele of vic1, unique among all known virus restriction mechanisms, suggested that its
+dominant counterpart was a negative regulator of the retrovirus-specific immune response. Using
+positional cloning and a congenic approach, researchers mapped the vic1 gene to the MHC locus
+of chromosome 17 (57), but MHC class I and class II (MHC II) genes were ruled out as candidates
+for vic1 (58).
+The 0.71-Mb nonrecombinant vic1 locus contained 39 genes, many of which were highly polymorphic between resistant and susceptible mice. To further reduce the size of the vic1 region, researchers performed a BAC phenotype rescue experiment. It was predicted that the expression of
+the dominant susceptible B6 vic1 allele by a transgenic BAC should oppose the ability of resistant
+mice to produce antiviral Abs. Using this approach, researchers reduced the critical region of vic1
+to 32.9 Kb, which contained only two genes, H2-Ob and Gm15821. Subsequently, three nonsynonymous mutations resulting in nonfunctional protein were identified in the I/LnJ H2-Ob gene
+(58).
+The H2-Ob gene encodes the Oβ protein, which together with Oα (encoded by H2-Oa)
+forms the MHC II-like molecule H2-O (59). H2-O functions as a negative regulator of
+MHC II presentation (60) (Figure 3). The loading of MHC II molecules with peptides is
+mediated by the interaction of MHC II with another nonpolymorphic MHC II–like molecule,
+H2-M (61–63). H2-M replaces MHC II–associated invariant chain peptides (that protect the
+MHC II peptide-binding groove until MHC II arrival in endosomal compartments) with
+high-affinity, pathogen-derived peptides. H2-M function is opposed by H2-O, which acts as an
+MHC II mimic, blocking the ability of H2-M to catalyze MHC II peptide loading (64). Thus,
+the nonfunctional I/LnJ allele of H2-Ob was a promising candidate for vic1; this was proven by
+534
+
+Kane
+
+•
+
+Golovkina
+
+VI06CH25_Golovkina
+
+ARjats.cls
+
+August 22, 2019
+
+13:16
+
+Antigen
+
+TCR
+
+Antigen-presenting cells
+
+CD4 T cell
+
+ER
+
+DM
+DM
+DO
+
+DM (active)
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+DM (inactive)
+
+MHC II/Ii
+
+MHC II/Ii
+
+Ii
+
+Golgi
+
+Proteases
+
+LE/Lyso
+
+MHC II
+
+Figure 3
+Vic1. MHC II is synthetized in ER, where it is coupled to invariant chain (Ii). The complex is then transported through Golgi to
+LE/lysosomes. Lysosomal proteases cleave Ii, leaving MHC II bound to small peptides termed CLIP that protect the MHC II
+peptide-binding groove. The process of loading MHC II molecules with peptides is mediated by the interaction of MHC II with
+another nonpolymorphic MHC II–like molecule, H2-M [HLA-DM (DM) in humans]. In LE/lysosomes H2-M replaces MHC
+II–associated CLIP with high-affinity, pathogen-derived peptides. H2-M function is opposed by H2-O [HLA-DO (DO) in humans],
+which acts as an MHC II mimic, blocking the ability of H2-M to catalyze MHC II peptide loading. MHC II molecules loaded with
+high-affinity peptides are recognized by CD4+ T cells, which provide help to Ab-producing B cells. Abbreviations: Ab, antibody; CLIP,
+class II–associated invariant chain peptide; ER, endoplasmic reticulum; LE, late endosome; MHC II, major histocompatibility class II;
+TCR, T cell receptor.
+
+demonstrating that when susceptible mice are H2-Ob deficient, they produce virus-neutralizing
+Abs (58). Further analysis revealed alleles of the human homolog HLA-DOB that were linked to
+a defect in neutralizing Ab responses against hepatitis B (HBV) and C (HCV) viruses (58).
+The protective roles of specific alleles of classical MHC genes (class I and class II) against
+many viral infections have been well documented (49, 65–69). The discovery that Vic1 is encoded
+by H2-Ob revealed an unappreciated role for genes other than classical MHC molecules mapped
+to the MHC locus in the regulation of virus-specific adaptive immunity. How H2-O negatively
+controls Ab responses and why H2-O-deficient mice produce high titers of neutralizing Abs are
+currently being investigated.
+
+GENES ENCODING FOR PROTEINS WITH INTRINSIC
+ANTIVIRAL ACTIVITY
+An essential component of host defense against viral infection is an arsenal of proteins with
+direct antiviral activity. These proteins function as an intrinsic immune system, or a specialized
+component of the innate immune system, and are often termed restriction factors (70). These
+factors can be upregulated by type I IFNs or constitutively expressed (or both) (71). Importantly,
+www.annualreviews.org
+
+•
+
+Mapping Viral Susceptibility Loci in Mice
+
+535
+
+VI06CH25_Golovkina
+
+ARjats.cls
+
+August 22, 2019
+
+13:16
+
+such proteins can dominantly and autonomously exhibit antiviral activity, including in cell culture
+assays. A clear distinction between a restriction factor and an innate immune sensor is not
+always obvious, with several of these factors apparently functioning as both autonomous antiviral
+effectors and initiators of downstream responses (72). The antagonistic coevolution of virus and
+host selects for adaptations that alter the specificity and/or function of these antiviral proteins,
+generally resulting in great diversity of their amino acid sequences.
+
+Mx Proteins
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+Compared to mice from other inbred strains, mice from the A2G strain are highly resistant to
+disease caused by the influenza virus and other myxoviruses (73). Initial studies demonstrated
+that the resistance was controlled by a dominant gene with IFN-dependent, cell-intrinsic antiviral activity named Mx1 (74–76). A GMP-binding protein induced by type I IFN and present
+uniquely in Mx1+ cells was identified using [35 S] methionine labeling (77, 78). Using a panel of
+mouse-hamster cell hybrids, researchers mapped the Mx1 gene to chromosome 16 (79). Mice from
+influenza-susceptible strains were found to inherit large deletions or missense mutations in Mx1,
+rendering the gene product nonfunctional (80).
+Soon after the discovery of Mx1, a nearby homologous gene, Mx2, was identified (81). Like
+Mx1, Mx2 is not expressed or is nonfunctional in the majority of inbred strains (81). However,
+while murine Mx1 localizes to the nucleus, Mx2 is cytoplasmic and does not inhibit influenza
+replication, although it potently restricts other viruses, such as vesicular stomatitis virus (VSV)
+and Hantaan virus (82). Since these early investigations, it has become clear that Mx proteins
+are key mediators of cell autonomous antiviral defenses and are present in divergent vertebrates,
+including mammals, birds, and fish. These proteins vary in both their subcellular localization and
+their antiviral activity, but are all type I IFN-induced dynamin-like GTPases. For example, human
+Mx1 is cytoplasmic and inhibits a variety of viruses, including, but not limited to, influenza A,
+measles, VSV, and HBV (82) (Figure 4). Human Mx2, on the other hand, is localized at the nuclear
+pore and inhibits human immunodeficiency virus (HIV) and herpesviruses (83–87). These proteins
+generally inhibit early stages in the viral life cycle by targeting subviral structures such as the
+nucleocapsid or core, and, except in the case of inhibition of HIV infection by Mx2, restriction
+by these proteins requires GTP hydrolysis (82) (Figure 4). The molecular mechanisms by which
+Mx proteins inhibit viral replication and what makes seemingly unrelated viruses sensitive to the
+same Mx proteins remain questions of significant interest.
+
+Control of Flavivirus Infection by Oas1b
+Variability in susceptibility to flaviviruses in mice was first identified in the 1930s in studies comparing susceptibility to encephalitis caused by yellow fever virus (YFV) (88). It was subsequently
+determined that susceptibility to multiple members of the Flavivirus genus, including dengue virus
+and West Nile virus (WNV), was controlled by a single dominant locus designated Flv (89, 90).
+While mice from most inbred laboratory strains inherit the susceptible allele of Flv, wild M. m.
+domesticus mice, as well as wild mice from other Mus species, inherit the dominant allele of the
+gene conferring virus resistance (90, 91).
+Mice from the Princeton Rockefeller Institute (PRI) outbred stock were resistant to YFV, as
+they inherited the dominant allele of Flv (92). To study the mechanism by which the PRI Flv alleles
+control the virus (in isolation from other genetic influences), researchers transferred the locus containing the gene onto the virus-susceptible C3H/He background, thus generating virus-resistant
+C3H.PRI mice (93). Using these mice, researchers determined that Flv-mediated resistance acts
+in a cell-intrinsic fashion to control viral replication and does not require type I IFNs (94).
+536
+
+Kane
+
+•
+
+Golovkina
+
+VI06CH25_Golovkina
+
+ARjats.cls
+
+August 22, 2019
+
+13:16
+
+Transport to nucleus
+Viral
+nucleic acid
+
+THOV, influenza
+
+hsMx1
+
+HIV-1, HSV-1/2,
+KSHV
+
+hsMx2
+
+Viral
+nucleic acid
+
+Replication and
+transcription
+hsMx1
+Mouse Mx2
+
+Replication and
+transcription
+
+VSV
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+Mouse Mx1
+
+Translation
+THOV
+Influenza
+
+Translation
+Influenza
+
+CCHFV, LACV
+Protein
+
+hsMx1
+
+hsMx1
+(redistribution
+of viral proteins)
+Proteins and
+viral nucleic acid
+
+Budding
+and release
+
+Figure 4
+Antiviral activity of Mx proteins. Multiple steps of viral replication are inhibited by Mx proteins. Human
+Mx1 inhibits nuclear import of THOV and possibly influenza virus, human Mx2 inhibits nuclear import of
+HIV, HSV-1 and 2, and KSHV. Both human and mouse Mx2 inhibit VSV replication/transcription. Human
+Mx1 inhibits CCHFV and LACV by altering the subcellular distribution of viral proteins and potentially
+inhibits influenza protein translation. In the nucleus, mouse Mx1 inhibits THOV and influenza replication/
+transcription. Abbreviations: CCHFV, Crimean-Congo hemorrhagic fever virus; HIV, human
+immunodeficiency virus; HSV, herpes simplex virus; KSHV, Kaposi sarcoma-associated herpesvirus; LACV,
+La Crosse virus; THOV, Thogoto virus; VSV, vesicular stomatitis virus.
+
+Using crosses between susceptible C3H/HeJ and BALB/cJ mice and resistant C3H/RV mice,
+researchers mapped Flv to a 1 Mb region of chromosome 5 (95, 96). Flv was subsequently found to
+encode for Oas1b, a 2 –5 -oligoadenylate synthetase (2 –5 -OAS) (97), and a premature stop codon
+was identified in the susceptible allele of Oas1b (97, 98). Ectopic expression of the resistant allele
+of Oas1b was sufficient to control WNV replication in susceptible cells, and knock-in of a resistant
+allele of Oas1b in susceptible mice conferred the flavivirus resistance phenotype (97, 99).
+The OAS enzymes bind dsRNA in the cytoplasm and catalyze the production of 2 –5 -linked
+oligoadenylate from ATP. The 2 –5 -linked oligoadenylate serves as a secondary messenger that
+activates RNaseL, which then degrades both viral and cellular RNAs to prevent viral replication
+www.annualreviews.org
+
+•
+
+Mapping Viral Susceptibility Loci in Mice
+
+537
+
+VI06CH25_Golovkina
+
+ARjats.cls
+
+August 22, 2019
+
+13:16
+
+(100). However, the mechanism by which murine Oas1b inhibits flavivirus replication is not fully
+defined, as it may not involve enzymatic activity or the activation of RNaseL (101). In addition,
+the precise viral target recognized by Oas1b upon flavivirus infection has not been identified.
+Since the identification of the Flv gene, some human and equine OAS1 alleles have been linked
+to increased susceptibility to WNV-induced encephalitis (102), demonstrating the importance of
+Oas1 in the control of WNV infection across multiple species. Alleles of human Oas1 with reduced
+activity against WNV were also found to have a reduced ability to inhibit HCV replication and
+are indicators of disease progression in HCV-infected patients (103–105).
+
+Endogenous Retroelements Repurposed as Restriction Factors
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+Investigation of inbred mice with differential susceptibility to MuLV has revealed several loci
+responsible for the outcome of infection. One such locus, Fv4 (Friend virus susceptibility gene 4),
+was found in laboratory mice, as well as in wild Californian and Asian mice, in 1970 and was quickly
+identified as an endogenous retroviral envelope (env) gene that directly blocks the interaction of
+exogenous ecotropic MuLV with its receptor, CAT1 (106–108). Most endogenous retroviruses lose
+their coding capacity due to neutral (or negative) selection; however, in multiple vertebrate species,
+intact env genes such as Fv4 have been preserved for their protective receptor interference activity
+(109). Nevertheless, it was more than 40 years after the phenomenon of receptor interference
+was identified before such a gene was identified in humans. In humans, the env gene from an
+endogenous provirus of the human endogenous retrovirus T lineage has been maintained and
+was found to block infection of a reconstructed ancestral human endogenous virus (110).
+Like Fv4, Fv1 (Friend virus susceptibility gene 1) was identified in the 1970s as a dominant
+gene that restricted MuLV replication 10- to 1000-fold in vitro and protected mice from virally
+induced leukemia (111, 112). Two major alleles of Fv1 are present in inbred mice, Fv1n and Fv1b
+(113). N-tropic MuLV strains (infectious in NIH Swiss mice) are able to efficiently infect Fv1n/n
+mice but not Fv1b/b mice, B-tropic strains (infectious in BALB/cJ mice) exhibit the opposite phenotype, while NB-tropic strains can efficiently infect either strain (113–115). The viral determinants for NB-tropism were later mapped to the viral capsid (116). Furthermore, restriction could
+be abrogated by treatment of cells with inactive viral particles, indicating that Fv1 is a saturable
+capsid targeting factor (117, 118). Unique among the resistance genes described here, Fv1 is also
+codominant, as Fv1n/b heterozygous mice are resistant to both N- and B-tropic strains (113).
+Positional cloning was used to map Fv1 to chromosome 4 near the locus for black or brown hair
+color (115). Yeast artificial chromosomes containing fragments of the critical region from C57BL
+mice (Fv1b/b ) were then tested in functional assays for their ability to alter the MuLV susceptibility
+of Fv1n/n cells. This approach revealed that Fv1 is encoded by the gag gene of murine endogenous
+retrovirus L (119). It is now appreciated that there are many alleles of Fv1, besides N and B, with
+diverse antiretroviral activity (120, 121), indicating that Fv1-mediated mechanisms have defended
+the Mus genus from various retroviral infections.
+Fv1 does not have an ortholog present in other species. However, some primate species exhibit
+HIV restriction that is similar to the Fv1-mediated restriction of MuLV (122). The mechanism
+involves TRIM5α, which acts as a lentivirus capsid-specific restriction factor (123). Despite having
+little to no primary sequence homology, Fv1 and TRIM5α (as well as MX2) share structural features that are critical for their function as capsid-specific restriction factors, including a coiled-coil
+dimerization/multimerization domain and a domain responsible for binding their targets. The latter domains (the C-terminal domain of Fv1, the SPRY domain of TRIM5α, and the N-terminal
+domain of MX2) are the most variable and determine target specificity and therefore retroviral
+tropism (124). The implications of capsid-specific intrinsic immunity are far-reaching, as drugs
+that mimic this activity have significant potential as therapeutic agents.
+538
+
+Kane
+
+•
+
+Golovkina
+
+VI06CH25_Golovkina
+
+ARjats.cls
+
+August 22, 2019
+
+13:16
+
+GENES THAT CONTROL VIRAL PATHOGENESIS
+The outcomes of viral infections can also be affected by disease pathology such as inflammation,
+alterations in vascular permeability, pulmonary pathology, and shock. Variability in these types of
+disease phenotypes is also often under the control of host genes.
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+Genetic Control of Virally Induced Vascular Pathology
+Lethal Ebola virus infection is characterized by a severe Ebola hemorrhagic fever (EHF), coagulopathy, vascular permeability, and shock. These symptoms were initially difficult to reproduce
+in nonprimate models of infection; however, the use of a panel of CC mice and a mouse-adapted
+Ebola virus (MA-EBOV) have provided the opportunity to investigate the genetic basis for multiple disease phenotypes induced by Ebola virus (125). The eight CC founder mouse lines challenged with MA-EBOV showed disease phenotypes ranging from complete resistance to severe
+EHF-associated pathology and death. Two representative lines with opposing phenotypes were
+chosen for subsequent studies. Although mice from both lines lost approximately 15% of their
+body weight five days post infection, only susceptible mice succumbed to lethal infection and developed EHF, whereas resistant mice survived and fully recovered their body weight by day 14
+with no evidence of EHF.
+Upon investigation of the transcriptional host responses, researchers identified two genes, Tie1
+and Tie2, as differentially expressed in the livers and spleens of resistant and susceptible animals
+(125). Tie1 and Tie2 encode for an orphan receptor tyrosine kinase and for an endothelial-specific
+receptor tyrosine kinase, respectively, and both are essential for endothelial cell proliferation, migration, and survival during angiogenesis and systemic inflammation (126–128). The eight CC
+founders have three highly divergent alleles of Tie1, and thus, the specific allele associated with
+the resistant phenotypes could not be determined. In contrast, there are only two divergent Tie2
+alleles in the CC lines, and distinct Tie2 alleles were previously associated with inflammatory coagulopathies and vascular dysfunction in humans (129, 130). However, functional proof that a
+specific allele of Tie2 is responsible for conferring the survival of lethal Ebola virus infection in
+mice from resistant CC founder strains has not been provided.
+
+Genetic Control of Virally Induced Lung Pathology
+Severe acute respiratory coronavirus (SARS-CoV), which emerged in humans in Southeast Asia
+in 2002 (131), causes an atypical pneumonia fatal in 10% of all patients and 50% of elderly patients (132). Host genetics are thought to influence disease severity, but an understanding of the
+underlying mechanisms was complicated by the limited scope of the SARS epidemic in humans
+and varying treatment regiments (132, 133).
+Mice from the eight CC founder strains exhibit a wide range of susceptibility to SARS-CoVinduced inflammation and pathology (134). Of four loci associated with disease outcome, one locus
+was specifically linked to vascular cuffing (accumulation of fluid or cells around blood vessels) and
+was identified by virtue of its polymorphism between susceptible and resistant mice as Trim55
+(134). An E3 ubiquitin ligase, Trim55 is expressed in smooth muscle surrounding blood vessels
+and is essential for muscle development and cardiac function (135). SARS-CoV-infected C57BL/6
+mice deficient in Trim55 showed significantly reduced vascular cuffing and increased immune
+cell infiltration in the lungs compared to wild-type mice (134), revealing a novel role for Trim55
+in acute viral-induced lung injury. However, mutations found in SARS-CoV-susceptible Trim55
+alleles were not reported (134).
+The other locus was revealed by using F2 crosses obtained from CC sublines showing extreme divergent responses to SARS-CoV. One strain was highly resistant to virally induced
+www.annualreviews.org
+
+•
+
+Mapping Viral Susceptibility Loci in Mice
+
+539
+
+VI06CH25_Golovkina
+
+ARjats.cls
+
+August 22, 2019
+
+13:16
+
+disease despite having high viral loads, while the other exhibited high mortality and weight loss
+despite low viral loads (136). The latter inherited four missense mutations in Ticam2 from the
+PWK/PhJ founder strain. The overall importance of Ticam2, but not the PWK/PhJ allele of the
+gene, in controlling SARS-CoV-induced disease was confirmed by showing that Ticam2 knock-out
+mice were highly susceptible to the virus-induced disease (136). Ticam2 is an adaptor for MyD88independent TLR4 signaling (137); however, the mechanism by which the virus activates TLR4
+signaling remains unknown.
+
+THE FUTURE OF CLASSICAL GENETICS IN THE TWENTY-FIRST
+CENTURY
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+Numerous genes with variants that strongly affect the outcomes of viral infections have been
+identified using classical genetics in both animal and human (family-based) studies. Frequently,
+however, many genetic variants with weak individual effects cumulatively contribute to the same
+phenotype, making discrete gene identification difficult. In contrast to classical genetics, recent
+advances in sequencing and data analysis technologies have paved the way for genomics, the study
+of all of an organism’s genes or the genome as a whole. Genomics researchers can analyze massive
+amounts of sequence data to find genetic variants, or combinations therein that can potentially
+affect infection and disease outcome. The downside of this approach is that, unlike in classical
+genetics, the experiments required to validate the contribution of variants identified by genomic
+approaches to the disease phenotype are not always possible. The major issue is that most SNPs are
+positioned within noncoding regions and thus are only proxies for genes whose identities are yet to
+be determined. In addition, the critical region revealed by a SNP often contains many genes, making identification of the causative gene merely speculative. Therefore, a classical genetic approach
+would still be required to validate the role of variants identified through genomic analysis. On the
+other hand, gene identification through classical genetics can be helped enormously by computational biology through the identification of allelic variants, their tissue-specific expression pattern,
+and the prediction of signaling pathways a gene may be involved in. For now, classical genetics
+remains an essential tool for linking genes to phenotypes, but it can integrate genomic approaches
+and benefit from them. The benefit, however, is mutual.
+
+DISCLOSURE STATEMENT
+The authors are not aware of any affiliations, memberships, funding, or financial holdings that
+might be perceived as affecting the objectivity of this review.
+
+ACKNOWLEDGMENTS
+We thank Matthew Zurenski for critical reading of this review. Funding sources include grants
+from the National Institutes of Health (CA134667 and AI117535).
+
+LITERATURE CITED
+1. Kenney AD, Dowdle JA, Bozzacco L, McMichael TM, St. Gelais C, et al. 2017. Human genetic determinants of viral diseases. Annu. Rev. Genet. 51:241–63
+2. Blackwell JM, Jamieson SE, Burgner D. 2009. HLA and infectious diseases. Clin. Microbiol. Rev. 22:370–
+85
+3. Kauppi L, Jeffreys AJ, Keeney S. 2004. Where the crossovers are: recombination distributions in mammals. Nat. Rev. Genet. 5:413–24
+540
+
+Kane
+
+•
+
+Golovkina
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+VI06CH25_Golovkina
+
+ARjats.cls
+
+August 22, 2019
+
+13:16
+
+4. Davisson MT, Bergstrom DE, Reinholdt LG, Donahue LR. 2012. Discovery genetics—the history and
+future of spontaneous mutation research. Curr. Protoc. Mouse Biol. 2:103–18
+5. Strong LC. 1978. Inbred mice in science. In Origin of Inbred Mice, ed. HI Morse, pp. 45–68. New York:
+Academic
+6. Bonhomme F, Guenet JL, Dod B, Moriwaki K, Bulfield G. 1987. The polyphyletic origin of laboratory
+inbred mice and their rate of evolution. Biol. J. Linn. Soc. 30:51–58
+7. Wiltshire T, Pletcher MT, Batalov S, Barnes SW, Tarantino LM, et al. 2003. Genome-wide singlenucleotide polymorphism analysis defines haplotype patterns in mouse. PNAS 100:3380–85
+8. Russell WL, Kelly EM, Hunsicker PR, Bangham JW, Maddux SC, Phipps EL. 1979. Specific-locus test
+shows ethylnitrosourea to be the most potent mutagen in the mouse. PNAS 76:5818–19
+9. Takeda J, Keng VW, Horie K. 2007. Germline mutagenesis mediated by Sleeping Beauty transposon
+system in mice. Genome Biol. 8(Suppl. 1):S14
+10. Li L, Liu P, Sun L, Bin Z, Fei J. 2016. PiggyBac transposon-based polyadenylation-signal trap for
+genome-wide mutagenesis in mice. Sci. Rep. 6:27788
+11. Churchill GA, Airey DC, Allayee H, Angel JM, Attie AD, et al. 2004. The Collaborative Cross, a community resource for the genetic analysis of complex traits. Nat. Genet. 36:1133–37
+12. Medzhitov R, Janeway CA Jr. 1997. Innate immunity: the virtues of a nonclonal system of recognition.
+Cell 91:295–98
+13. Kawai T, Akira S. 2010. The role of pattern-recognition receptors in innate immunity: update on Tolllike receptors. Nat. Immunol. 11:373–84
+14. Ichinohe T, Pang IK, Iwasaki A. 2010. Influenza virus activates inflammasomes via its intracellular M2
+ion channel. Nat. Immunol. 11:404–10
+15. Pertel T, Hausmann S, Morger D, Zuger S, Guerra J, et al. 2011. TRIM5 is an innate immune sensor
+for the retrovirus capsid lattice. Nature 472:361–65
+16. Fletcher AJ, Vaysburd M, Maslen S, Zeng J, Skehel JM, et al. 2018. Trivalent RING assembly on retroviral capsids activates TRIM5 ubiquitination and innate immune signaling. Cell Host Microbe 24:761–75
+17. Booth TW, Scalzo AA, Carrello C, Lyons PA, Farrell HE, et al. 1993. Molecular and biological characterization of new strains of murine cytomegalovirus isolated from wild mice. Arch. Virol. 132:209–20
+18. Mannini A, Medearis DN Jr. 1961. Mouse salivary gland virus infections. Am. J. Hyg. 73:329–43
+19. Webb JR, Lee SH, Vidal SM. 2002. Genetic control of innate immune responses against cytomegalovirus: MCMV meets its match. Genes Immun. 3:250–62
+20. Crozat K, Georgel P, Rutschmann S, Mann N, Du X, et al. 2006. Analysis of the MCMV resistome by
+ENU mutagenesis. Mamm. Genome 17:398–406
+21. Moresco EM, Beutler B. 2011. Resisting viral infection: the gene by gene approach. Curr. Opin. Virol.
+1:513–18
+22. Tabeta K, Georgel P, Janssen E, Du X, Hoebe K, et al. 2004. Toll-like receptors 9 and 3 as essential
+components of innate immune defense against mouse cytomegalovirus infection. PNAS 101:3516–21
+23. Tabeta K, Hoebe K, Janssen EM, Du X, Georgel P, et al. 2006. The Unc93b1 mutation 3d disrupts
+exogenous antigen presentation and signaling via Toll-like receptors 3, 7 and 9. Nat. Immunol. 7:156–64
+24. Pelka K, Bertheloot D, Reimer E, Phulphagar K, Schmidt SV, et al. 2018. The chaperone UNC93B1
+regulates Toll-like receptor stability independently of endosomal TLR transport. Immunity 48:911–22
+25. Crane MJ, Gaddi PJ, Salazar-Mather TP. 2012. UNC93B1 mediates innate inflammation and antiviral
+defense in the liver during acute murine cytomegalovirus infection. PLOS ONE 7:e39161
+26. Casrouge A, Zhang SY, Eidenschenk C, Jouanguy E, Puel A, et al. 2006. Herpes simplex virus encephalitis in human UNC-93B deficiency. Science 314:308–12
+27. Cerwenka A, Lanier LL. 2016. Natural killer cell memory in infection, inflammation and cancer. Nat.
+Rev. Immunol. 16:112–23
+28. Moussa P, Marton J, Vidal SM, Fodil-Cornu N. 2012. Genetic dissection of NK cell responses. Front.
+Immunol. 3:425
+29. Lee SH, Webb JR, Vidal SM. 2002. Innate immunity to cytomegalovirus: the Cmv1 locus and its role in
+natural killer cell function. Microbes Infect. 4:1491–503
+
+www.annualreviews.org
+
+•
+
+Mapping Viral Susceptibility Loci in Mice
+
+541
+
+ARjats.cls
+
+August 22, 2019
+
+13:16
+
+30. Shellam GR, Allan JE, Papadimitriou JM, Bancroft GJ. 1981. Increased susceptibility to cytomegalovirus
+infection in beige mutant mice. PNAS 78:5104–8
+31. Bancroft GJ, Shellam GR, Chalmer JE. 1981. Genetic influences on the augmentation of natural killer
+(NK) cells during murine cytomegalovirus infection: correlation with patterns of resistance. J. Immunol.
+126:988–94
+32. Bukowski JF, Woda BA, Welsh RM. 1984. Pathogenesis of murine cytomegalovirus infection in natural
+killer cell-depleted mice. J. Virol. 52:119–28
+33. Welsh RM, Dundon PL, Eynon EE, Brubaker JO, Koo GC, O’Donnell CL. 1990. Demonstration of
+the antiviral role of natural killer cells in vivo with a natural killer cell-specific monoclonal antibody
+(NK 1.1). Nat. Immun. Cell Growth Regul. 9:112–20
+34. Scalzo AA. 1990. Cmv-1, a genetic locus that controls murine cytomegalovirus replication in the spleen.
+J. Exp. Med. 171:1469–83
+35. Forbes CA, Brown MG, Cho R, Shellam GR, Yokoyama WM, Scalzo AA. 1997. The Cmv1 host resistance locus is closely linked to the Ly49 multigene family within the natural killer cell gene complex on
+mouse chromosome 6. Genomics 41:406–13
+36. Brown MG, Zhang J, Du Y, Stoll J, Yokoyama WM, Scalzo AA. 1999. Localization on a physical map
+of the NKC-linked Cmv1 locus between Ly49b and the Prp gene cluster on mouse chromosome 6.
+J. Immunol. 163:1991–99
+37. Ortaldo JR, Winkler-Pickett R, Mason AT, Mason LH. 1998. The Ly-49 family: regulation of cytotoxicity and cytokine production in murine CD3+ cells. J. Immunol. 160:1158–65
+38. Daniels KA, Devora G, Lai WC, O’Donnell CL, Bennett M, Welsh RM. 2001. Murine cytomegalovirus
+is regulated by a discrete subset of natural killer cells reactive with monoclonal antibody to Ly49h.
+J. Exp. Med. 194:29–44
+39. Lee SH, Girard S, Macina D, Busa M, Zafer A, et al. 2001. Susceptibility to mouse cytomegalovirus is
+associated with deletion of an activating natural killer cell receptor of the C-type lectin superfamily. Nat.
+Genet. 28:42–45
+40. Brown MG, Dokun AO, Heusel JW, Smith HR, Beckman DL, et al. 2001. Vital involvement of a natural
+killer cell activation receptor in resistance to viral infection. Science 292:934–37
+41. Arase H, Mocarski ES, Campbell AE, Hill AB, Lanier LL. 2002. Direct recognition of cytomegalovirus
+by activating and inhibitory NK cell receptors. Science 296:1323–26
+42. Brown MG, Scalzo AA, Stone LR, Clark PY, Du Y, et al. 2001. Natural killer gene complex (Nkc) allelic
+variability in inbred mice: evidence for Nkc haplotypes. Immunogenetics 53:584–91
+43. Bauer S, Groh V, Wu J, Steinle A, Phillips JH, et al. 1999. Activation of NK cells and T cells by NKG2D,
+a receptor for stress-inducible MICA. Science 285:727–29
+44. Medzhitov R, Preston-Hurlburt P, Janeway CA Jr. 1997. A human homologue of the Drosophila Toll
+protein signals activation of adaptive immunity. Nature 388:394–97
+45. Medzhitov R. 2001. Toll-like receptors and innate immunity. Nat. Rev. Immunol. 1:135–45
+46. Chesebro B, Wehrly K. 1979. Identification of a non-H-2 gene (Rfv-3) influencing recovery from viremia
+and leukemia induced by Friend virus complex. PNAS 76:425–29
+47. Hasenkrug KJ, Valenzuela A, Letts VA, Nishio J, Chesebro B, Frankel WN. 1995. Chromosome mapping
+of Rfv3, a host resistance gene to Friend murine retrovirus. J. Virol. 69:2617–20
+48. Super HJ, Hasenkrug KJ, Simmons S, Brooks DM, Konzek R, et al. 1999. Fine mapping of the friend
+retrovirus resistance gene, Rfv3, on mouse chromosome 15. J. Virol. 73:7848–52
+49. Miyazawa M, Tsuji-Kawahara S, Kanari Y. 2008. Host genetic factors that control immune responses to
+retrovirus infections. Vaccine 26:2981–96
+50. Santiago ML, Montano M, Benitez R, Messer RJ, Yonemoto W, et al. 2008. Apobec3 encodes Rfv3, a
+gene influencing neutralizing antibody control of retrovirus infection. Science 321:1343–46
+51. Jarmuz A, Chester A, Bayliss J, Gisbourne J, Dunham I, et al. 2002. An anthropoid-specific locus of
+orphan C to U RNA-editing enzymes on chromosome 22. Genomics 79:285–96
+52. Stavrou S, Ross SR. 2015. APOBEC3 proteins in viral immunity. J. Immunol. 195:4565–70
+53. Case LK, Petell L, Yurkovetskiy L, Purdy A, Savage KJ, Golovkina TV. 2008. Replication of beta- and
+gammaretroviruses is restricted in I/LnJ mice via the same genetic mechanism. J. Virol. 82:1438–47
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+VI06CH25_Golovkina
+
+542
+
+Kane
+
+•
+
+Golovkina
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+VI06CH25_Golovkina
+
+ARjats.cls
+
+August 22, 2019
+
+13:16
+
+54. Purdy A, Case L, Duvall M, Overstrom-Coleman M, Monnier N, et al. 2003. Unique resistance of
+I/LnJ mice to a retrovirus is due to sustained interferon γ-dependent production of virus-neutralizing
+antibodies. J. Exp. Med. 197:233–43
+55. Case LK, Purdy A, Golovkina TV. 2005. Molecular and cellular basis of the retrovirus resistance in
+I/LnJ mice. J. Immunol. 175:7543–49
+56. Golovkina TV. 2000. A novel mechanism of resistance to mouse mammary tumor virus infection. J. Virol.
+74:2752–59
+57. Kane M, Case LK, Wang C, Yurkovetskiy L, Dikiy S, Golovkina TV. 2011. Innate immune sensing of
+retroviral infection via Toll-like receptor 7 occurs upon viral entry. Immunity 35:135–45
+58. Denzin LK, Khan AA, Virdis F, Wilks J, Kane M, et al. 2017. Neutralizing antibody responses to viral
+infections are linked to the non-classical MHC class II gene H2-Ob. Immunity 47:310–22
+59. Karlsson L, Surh CD, Sprent J, Peterson PA. 1991. A novel class II MHC molecule with unusual tissue
+distribution. Nature 351:485–88
+60. Denzin LK, Sant’Angelo DB, Hammond C, Surman MJ, Cresswell P. 1997. Negative regulation by
+HLA-DO of MHC class II-restricted antigen processing. Science 278:106–9
+61. Denzin LK. 2013. Inhibition of HLA-DM mediated MHC class II peptide loading by HLA-DO promotes self tolerance. Front. Immunol. 4:465
+62. Mellins ED, Stern LJ. 2014. HLA-DM and HLA-DO, key regulators of MHC-II processing and presentation. Curr. Opin. Immunol. 26:115–22
+63. Blum JS, Wearsch PA, Cresswell P. 2013. Pathways of antigen processing. Annu. Rev. Immunol. 31:443–
+73
+64. Guce AI, Mortimer SE, Yoon T, Painter CA, Jiang W, et al. 2013. HLA-DO acts as a substrate mimic
+to inhibit HLA-DM by a competitive mechanism. Nat. Struct. Mol. Biol. 20:90–98
+65. Oldstone MB, Dixon FJ, Mitchell GF, McDevitt HO. 1973. Histocompatibility-linked genetic control
+of disease susceptibility: murine lymphocytic choriomeningitis virus infection. J. Exp. Med. 137:1201–12
+66. Cespedes IS, Toka FN, Schollenberger A, Gierynska M, Niemialtowski M. 2001. Pathogenesis of mousepox in H-2d mice: evidence for MHC class I-restricted CD8+ and MHC class II-restricted CD4+ CTL
+antiviral activity in the lymph nodes, spleen and skin, but not in the conjunctivae. Microbes Infect. 3:1063–
+72
+67. Clatch RJ, Melvold RW, Miller SD, Lipton HL. 1985. Theiler’s murine encephalomyelitis virus
+(TMEV)-induced demyelinating disease in mice is influenced by the H-2D region: correlation with
+TEMV-specific delayed-type hypersensitivity. J. Immunol. 135:1408–14
+68. Xie X, Dighe A, Clark P, Sabastian P, Buss S, Brown MG. 2007. Deficient major histocompatibility
+complex-linked innate murine cytomegalovirus immunity in MA/My.L-H2b mice and viral downregulation of H-2k class I proteins. J. Virol. 81:229–36
+69. Chalmer JE, Mackenzie JS, Stanley NF. 1977. Resistance to murine cytomegalovirus linked to the major
+histocompatibility complex of the mouse. J. Gen. Virol. 37:107–14
+70. Bieniasz PD. 2004. Intrinsic immunity: a front-line defense against viral attack. Nat. Immunol. 5:1109–15
+71. Malim MH, Bieniasz PD. 2012. HIV restriction factors and mechanisms of evasion. Cold Spring Harb.
+Perspect. Med. 2:a006940
+72. Blanco-Melo D, Venkatesh S, Bieniasz PD. 2012. Intrinsic cellular defenses against human immunodeficiency viruses. Immunity 37:399–411
+73. Lindenmann J, Lane CA, Hobson D. 1963. The resistance of A2G mice to myxoviruses. J. Immunol.
+90:942–51
+74. Haller O, Arnheiter H, Gresser I, Lindenmann J. 1979. Genetically determined, interferon-dependent
+resistance to influenza virus in mice. J. Exp. Med. 149:601–12
+75. Lindenmann J. 1978. Inborn resistance of mice to myxoviruses: Macrophages express phenotype in vitro.
+J. Exp. Med. 147:531–40
+76. Fiske RA, Klein PA. 1975. Effect of immunosuppression on the genetic resistance of A2G mice to neurovirulent influenza virus. Infect. Immun. 11:576–87
+77. Horisberger MA, Staeheli P, Haller O. 1983. Interferon induces a unique protein in mouse cells bearing
+a gene for resistance to influenza virus. PNAS 80:1910–14
+
+www.annualreviews.org
+
+•
+
+Mapping Viral Susceptibility Loci in Mice
+
+543
+
+ARjats.cls
+
+August 22, 2019
+
+13:16
+
+78. Staeheli P, Colonno RJ, Cheng YS. 1983. Different mRNAs induced by interferon in cells from inbred
+mouse strains A/J and A2G. J. Virol. 47:563–67
+79. Staeheli P, Pravtcheva D, Lundin LG, Acklin M, Ruddle F, et al. 1986. Interferon-regulated influenza
+virus resistance gene Mx is localized on mouse chromosome 16. J. Virol. 58:967–69
+80. Staeheli P, Grob R, Meier E, Sutcliffe JG, Haller O. 1988. Influenza virus-susceptible mice carry Mx
+genes with a large deletion or a nonsense mutation. Mol. Cell. Biol. 8:4518–23
+81. Jin HK, Takada A, Kon Y, Haller O, Watanabe T. 1999. Identification of the murine Mx2 gene:
+Interferon-induced expression of the Mx2 protein from the feral mouse gene confers resistance to vesicular stomatitis virus. J. Virol. 73:4925–30
+82. Haller O, Staeheli P, Schwemmle M, Kochs G. 2015. Mx GTPases: dynamin-like antiviral machines of
+innate immunity. Trends Microbiol. 23:154–63
+83. Kane M, Yadav SS, Bitzegeio J, Kutluay SB, Zang T, et al. 2013. MX2 is an interferon-induced inhibitor
+of HIV-1 infection. Nature 502:563–66
+84. Goujon C, Moncorge O, Bauby H, Doyle T, Ward CC, et al. 2013. Human MX2 is an interferon-induced
+post-entry inhibitor of HIV-1 infection. Nature 502:559–62
+85. Schilling M, Bulli L, Weigang S, Graf L, Naumann S, et al. 2018. Human MxB protein is a panherpesvirus restriction factor. J. Virol. 92:e01056-18
+86. Liu Z, Pan Q, Ding S, Qian J, Xu F, et al. 2013. The interferon-inducible MxB protein inhibits HIV-1
+infection. Cell Host Microbe 14:398–410
+87. Crameri M, Bauer M, Caduff N, Walker R, Steiner F, et al. 2018. MxB is an interferon-induced restriction factor of human herpesviruses. Nat. Commun. 9:1980
+88. Lynch CJ, Hughes TP. 1936. The inheritance of susceptibility to yellow fever encephalitis in mice.
+Genetics 21:104–12
+89. Green MC. 1989. Catalog of mutant genes and polymorphic loci. In Genetic Variants and Strains of the
+Laboratory Mouse, ed. MF Lyon, AG Searle, pp. 12–403. New York: Oxford Univ. Press
+90. Sangster MY, Heliams DB, MacKenzie JS, Shellam GR. 1993. Genetic studies of flavivirus resistance
+in inbred strains derived from wild mice: evidence for a new resistance allele at the flavivirus resistance
+locus (Flv). J. Virol. 67:340–47
+91. Sangster MY, Shellam GR. 1986. Genetically controlled resistance to flaviviruses within the house mouse
+complex of species. Curr. Top. Microbiol. Immunol. 127:313–18
+92. Webster LT, Clow AD. 1936. Experimental encephalitis (St. Louis type) in mice with high inborn resistance: a chronic subclinical infection. J. Exp. Med. 63:827–45
+93. Goodman GT, Koprowski H. 1962. Study of the mechanism of innate resistance to virus infection.
+J. Cell Comp. Physiol. 59:333–73
+94. Brinton MA, Arnheiter H, Haller O. 1982. Interferon independence of genetically controlled resistance
+to flaviviruses. Infect. Immun. 36:284–88
+95. Sangster MY, Urosevic N, Mansfield JP, Mackenzie JS, Shellam GR. 1994. Mapping the Flv locus controlling resistance to flaviviruses on mouse chromosome 5. J. Virol. 68:448–52
+96. Urosevic N, Mansfield JP, Mackenzie JS, Shellam GR. 1995. Low resolution mapping around the flavivirus resistance locus (Flv) on mouse chromosome 5. Mamm. Genome 6:454–58
+97. Perelygin AA, Scherbik SV, Zhulin IB, Stockman BM, Li Y, Brinton MA. 2002. Positional cloning of
+the murine flavivirus resistance gene. PNAS 99:9322–27
+98. Mashimo T, Lucas M, Simon-Chazottes D, Frenkiel MP, Montagutelli X, et al. 2002. A nonsense mutation in the gene encoding 2 -5 -oligoadenylate synthetase/L1 isoform is associated with West Nile virus
+susceptibility in laboratory mice. PNAS 99:11311–16
+99. Scherbik SV, Kluetzman K, Perelygin AA, Brinton MA. 2007. Knock-in of the Oas1br allele into
+a flavivirus-induced disease susceptible mouse generates the resistant phenotype. Virology 368:232–
+37
+100. Mashimo T, Simon-Chazottes D, Guenet JL. 2008. Innate resistance to flavivirus infections and the
+functions of 2 -5 oligoadenylate synthetases. Curr. Top. Microbiol. Immunol. 321:85–100
+101. Scherbik SV, Paranjape JM, Stockman BM, Silverman RH, Brinton MA. 2006. RNase L plays a role in
+the antiviral response to West Nile virus. J. Virol. 80:2987–99
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+VI06CH25_Golovkina
+
+544
+
+Kane
+
+•
+
+Golovkina
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+VI06CH25_Golovkina
+
+ARjats.cls
+
+August 22, 2019
+
+13:16
+
+102. Rios JJ, Fleming JG, Bryant UK, Carter CN, Huber JC, et al. 2010. OAS1 polymorphisms are associated
+with susceptibility to West Nile encephalitis in horses. PLOS ONE 5:e10537
+103. Lim JK, Lisco A, McDermott DH, Huynh L, Ward JM, et al. 2009. Genetic variation in OAS1 is a risk
+factor for initial infection with West Nile virus in man. PLOS Pathog. 5:e1000321
+104. Li CZ, Kato N, Chang JH, Muroyama R, Shao RX, et al. 2009. Polymorphism of OAS-1 determines liver
+fibrosis progression in hepatitis C by reduced ability to inhibit viral replication. Liver Int. 29:1413–21
+105. Garcia-Alvarez M, Berenguer J, Jimenez-Sousa MA, Pineda-Tenor D, Aldamiz-Echevarria T, et al. 2017.
+Mx1, OAS1 and OAS2 polymorphisms are associated with the severity of liver disease in HIV/HCVcoinfected patients: a cross-sectional study. Sci. Rep. 7:41516
+106. Suzuki S. 1975. FV-4: a new gene affecting the splenomegaly induction by Friend leukemia virus. Jpn.
+J. Exp. Med. 45:473–78
+107. Ikeda H, Odaka T. 1983. Cellular expression of murine leukemia virus gp70-related antigen on thymocytes of uninfected mice correlates with Fv-4 gene-controlled resistance to Friend leukemia virus
+infection. Virology 128:127–39
+108. Ikeda H, Sugimura H. 1989. Fv-4 resistance gene: a truncated endogenous murine leukemia virus with
+ecotropic interference properties. J. Virol. 63:5405–12
+109. Johnson WE. 2015. Endogenous retroviruses in the genomics era. Annu. Rev. Virol. 2:135–59
+110. Blanco-Melo D, Gifford RJ, Bieniasz PD. 2017. Co-option of an endogenous retrovirus envelope for
+host defense in hominid ancestors. eLife 6:e22519
+111. Lilly F. 1967. Susceptibility to two strains of Friend leukemia virus in mice. Science 155:461–62
+112. Pincus T, Hartley JW, Rowe WP. 1971. A major genetic locus affecting resistance to infection with
+murine leukemia viruses. I. Tissue culture studies of naturally occurring viruses. J. Exp. Med. 133:1219–
+33
+113. Hartley JW, Rowe WP, Huebner RJ. 1970. Host-range restrictions of murine leukemia viruses in mouse
+embryo cell cultures. J. Virol. 5:221–25
+114. Lilly F. 1970. Fv-2: identification and location of a second gene governing the spleen focus response to
+Friend leukemia virus in mice. J. Natl. Cancer Inst. 45:163–69
+115. Rowe WP, Humphrey JB, Lilly F. 1973. A major genetic locus affecting resistance to infection with
+murine leukemia viruses. 3. Assignment of the Fv-1 locus to linkage group 8 of the mouse. J. Exp. Med.
+137:850–53
+116. DesGroseillers L, Jolicoeur P. 1983. Physical mapping of the Fv-1 tropism host range determinant of
+BALB/c murine leukemia viruses. J. Virol. 48:685–96
+117. Boone LR, Innes CL, Heitman CK. 1990. Abrogation of Fv-1 restriction by genome-deficient virions
+produced by a retrovirus packaging cell line. J. Virol. 64:3376–81
+118. Bassin RH, Duran-Troise G, Gerwin BI, Rein A. 1978. Abrogation of Fv-1b restriction with murine
+leukemia viruses inactivated by heat or by gamma irradiation. J. Virol. 26:306–15
+119. Best S, Le Tissier P, Towers G, Stoye JP. 1996. Positional cloning of the mouse retrovirus restriction
+gene Fv1. Nature 382:826–29
+120. Young GR, Yap MW, Michaux JR, Steppan SJ, Stoye JP. 2018. Evolutionary journey of the retroviral
+restriction gene Fv1. PNAS 115:10130–35
+121. Yap MW, Colbeck E, Ellis SA, Stoye JP. 2014. Evolution of the retroviral restriction gene Fv1: inhibition
+of non-MLV retroviruses. PLOS Pathog. 10:e1003968
+122. Bieniasz PD. 2003. Restriction factors: a defense against retroviral infection. Trends Microbiol. 11:286–91
+123. Stremlau M, Owens CM, Perron MJ, Kiessling M, Autissier P, Sodroski J. 2004. The cytoplasmic body
+component TRIM5α restricts HIV-1 infection in Old World monkeys. Nature 427:848–53
+124. Jia X, Zhao Q, Xiong Y. 2015. HIV suppression by host restriction factors and viral immune evasion.
+Curr. Opin. Struct. Biol. 31:106–14
+125. Rasmussen AL, Okumura A, Ferris MT, Green R, Feldmann F, et al. 2014. Host genetic diversity enables
+Ebola hemorrhagic fever pathogenesis and resistance. Science 346:987–91
+126. Savant S, La Porta S, Budnik A, Busch K, Hu J, et al. 2015. The orphan receptor Tie1 controls angiogenesis and vascular remodeling by differentially regulating Tie2 in tip and stalk cells. Cell Rep. 12:1761–
+73
+
+www.annualreviews.org
+
+•
+
+Mapping Viral Susceptibility Loci in Mice
+
+545
+
+ARjats.cls
+
+August 22, 2019
+
+13:16
+
+127. Ghosh CC, David S, Zhang R, Berghelli A, Milam K, et al. 2016. Gene control of tyrosine kinase TIE2
+and vascular manifestations of infections. PNAS 113:2472–77
+128. Higgins SJ, De Ceunynck K, Kellum JA, Chen X, Gu X, et al. 2018. Tie2 protects the vasculature against
+thrombus formation in systemic inflammation. J. Clin. Invest. 128:1471–84
+129. Vikkula M, Boon LM, Carraway KL 3rd, Calvert JT, Diamonti AJ, et al. 1996. Vascular dysmorphogenesis caused by an activating mutation in the receptor tyrosine kinase TIE2. Cell 87:1181–90
+130. Zheng Q, Du J, Zhang Z, Xu J, Fu L, et al. 2013. Association study between of Tie2/angiopoietin-2 and
+VEGF/KDR pathway gene polymorphisms and vascular malformations. Gene 523:195–98
+131. Peiris JS, Lai ST, Poon LL, Guan Y, Yam LY, et al. 2003. Coronavirus as a possible cause of severe acute
+respiratory syndrome. Lancet 361:1319–25
+132. Peiris JS, Chu CM, Cheng VC, Chan KS, Hung IF, et al. 2003. Clinical progression and viral load in a
+community outbreak of coronavirus-associated SARS pneumonia: a prospective study. Lancet 361:1767–
+72
+133. Ip WK, Chan KH, Law HK, Tso GH, Kong EK, et al. 2005. Mannose-binding lectin in severe acute
+respiratory syndrome coronavirus infection. J. Infect. Dis. 191:1697–704
+134. Gralinski LE, Ferris MT, Aylor DL, Whitmore AC, Green R, et al. 2015. Genome wide identification
+of SARS-CoV susceptibility loci using the Collaborative Cross. PLOS Genet. 11:e1005504
+135. Ozato K, Shin DM, Chang TH, Morse HC 3rd. 2008. TRIM family proteins and their emerging roles
+in innate immunity. Nat. Rev. Immunol. 8:849–60
+136. Gralinski LE, Menachery VD, Morgan AP, Totura AL, Beall A, et al. 2017. Allelic variation in the Tolllike receptor adaptor protein Ticam2 contributes to SARS-coronavirus pathogenesis in mice. G3 Genes
+Genomes Genet. 7:1653–63
+137. Seya T, Oshiumi H, Sasai M, Akazawa T, Matsumoto M. 2005. TICAM-1 and TICAM-2: toll-like
+receptor adapters that participate in induction of type 1 interferons. Int. J. Biochem. Cell Biol. 37:524–29
+138. Pavlovic J, Haller O, Staeheli P. 1992. Human and mouse Mx proteins inhibit different steps of the
+influenza virus multiplication cycle. J. Virol. 66:2564–69
+139. Golovkina TV, Chervonsky AV, Dudley JP, Ross SR. 1992. Transgenic mouse mammary tumor virus
+superantigen expression prevents viral infection. Cell 69:637–45
+140. Held W, Waanders G, Shakhov AN, Scarpellino L, Acha-Orbea H, MacDonald HR. 1993.
+Superantigen-induced immune stimulation amplifies mouse mammary tumor virus infection and allows
+virus transmission. Cell 74:529–40
+141. Fang M, Lanier LL, Sigal LJ. 2008. A role for NKG2D in NK cell-mediated resistance to poxvirus
+disease. PLOS Pathog. 4:e30
+142. Fang M, Orr MT, Spee P, Egebjerg T, Lanier LL, Sigal LJ. 2011. CD94 is essential for NK cell-mediated
+resistance to a lethal viral disease. Immunity 34:579–89
+143. Stier MT, Spindler KR. 2012. Polymorphisms in Ly6 genes in Msq1 encoding susceptibility to mouse
+adenovirus type 1. Mamm. Genome 23:250–58
+144. Zinkernagel RM, Pfau CJ, Hengartner H, Althage A. 1985. Susceptibility to murine lymphocytic choriomeningitis maps to class I MHC genes—a model for MHC/disease associations. Nature 316:814–17
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+VI06CH25_Golovkina
+
+546
+
+Kane
+
+•
+
+Golovkina
+
+VI06_TOC
+
+ARI
+
+22 August 2019
+
+14:32
+
+Annual Review
+of Virology
+
+Contents
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+History
+Cancers in Humans: A Lifelong Search for Contributions of Infectious
+Agents, Autobiographic Notes
+Harald zur Hausen p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 1
+From Viruses to Genes to Cells
+Peter K. Vogt p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p31
+Ecology and Evolution
+Deformed Wing Virus in Honeybees and Other Insects
+Stephen J. Martin and Laura E. Brettell p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p49
+Emerging Human Parvoviruses: The Rocky Road to Fame
+Maria Söderlund-Venermo p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p71
+Physical and Functional Analysis of Viral RNA Genomes by SHAPE
+Mark A. Boerneke, Jeffrey E. Ehrhardt, and Kevin M. Weeks p p p p p p p p p p p p p p p p p p p p p p p p p p p p93
+Expanding the RNA Virosphere by Unbiased Metagenomics
+Yong-Zhen Zhang, Yan-Mei Chen, Wen Wang, Xin-Chen Qin,
+and Edward C. Holmes p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 119
+Virus Structure
+Portal Protein: The Orchestrator of Capsid Assembly for the dsDNA
+Tailed Bacteriophages and Herpesviruses
+Corynne L. Dedeo, Gino Cingolani, and Carolyn M. Teschke p p p p p p p p p p p p p p p p p p p p p p p p p p p 141
+Virus Structures by X-Ray Free-Electron Lasers
+A. Meents and M.O. Wiedorn p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 161
+Attachment and Cell Entry
+Adenovirus Entry: From Infection to Immunity
+Urs F. Greber and Justin W. Flatt p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 177
+
+Volume 6, 2019
+
+VI06_TOC
+
+ARI
+
+22 August 2019
+
+14:32
+
+Genome Replication, Regulation of Gene Expression, and Biosynthesis
+Dip-a-Dee-Doo-Dah: Bacteriophage-Mediated Rescoring of a
+Harmoniously Orchestrated RNA Metabolism
+T. Dendooven and R. Lavigne p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 199
+Host Determinants of Influenza RNA Synthesis
+Thomas P. Peacock, Carol M. Sheppard, Ecco Staller, and Wendy S. Barclay p p p p p p p p p p 215
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+Regulation of Viral Infection by the RNA Modification
+N6-Methyladenosine
+Graham D. Williams, Nandan S. Gokhale, and Stacy M. Horner p p p p p p p p p p p p p p p p p p p p p 235
+The Biological Impact of the Hypervariable N-Terminal Region of
+Potyviral Genomes
+Hongguang Cui and Aiming Wang p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 255
+Hitchhiking of Viral Genomes on Cellular Chromosomes
+Tami L. Coursey and Alison A. McBride p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 275
+Virus Cell Biology
+Idiosyncrasies of Viral Noncoding RNAs Provide Insights into Host
+Cell Biology
+Johanna B. Withers, Vanessa Mondol, Paulina Pawlica,
+Nicolle A. Rosa-Mercado, Kazimierz T. Tycowski, Salehe Ghasempur,
+Seyed F. Torabi, and Joan A. Steitz p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 297
+Virus Impact on Lipids and Membranes
+Ellen Ketter and Glenn Randall p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 319
+Fusogenic Reoviruses and Their Fusion-Associated Small
+Transmembrane (FAST) Proteins
+Roy Duncan p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 341
+Transformation and Oncogenesis
+Regulation of Latency in the Human T Cell Leukemia Virus, HTLV-1
+Charles R.M. Bangham, Michi Miura, Anurag Kulkarni, and Masao Matsuoka p p p p p 365
+Pathogenesis
+Global Dimensions of Plant Virus Diseases: Current Status and Future
+Perspectives
+Roger A.C. Jones and Rayapati A. Naidu p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 387
+Life on the Edge: Geminiviruses at the Interface Between Crops and
+Wild Plant Hosts
+Fernando Garcı́a-Arenal and Francisco Murilo Zerbini p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 411
+
+VI06_TOC
+
+ARI
+
+22 August 2019
+
+14:32
+
+Ebola Virus: Pathogenesis and Countermeasure Development
+Wakako Furuyama and Andrea Marzi p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 435
+Update on the Animal Models and Underlying Mechanisms for
+ZIKV-Induced Microcephaly
+Dan Xu, Cui Li, Cheng-Feng Qin, and Zhiheng Xu p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 459
+Using Macaques to Address Critical Questions in Zika Virus Research
+Dawn M. Dudley, Matthew T. Aliota, Emma L. Mohr, Christina M. Newman,
+Thaddeus G. Golos, Thomas C. Friedrich, and David H. O’Connor p p p p p p p p p p p p p p p p p 481
+
+Annu. Rev. Virol. 2019.6:525-546. Downloaded from www.annualreviews.org
+Access provided by 186.31.186.167 on 04/17/20. For personal use only.
+
+In Vivo Imaging-Driven Approaches to Study Virus Dissemination and
+Pathogenesis
+Pradeep D. Uchil, Kelsey A. Haugh, Ruoxi Pi, and Walther Mothes p p p p p p p p p p p p p p p p p p p 501
+Mapping Viral Susceptibility Loci in Mice
+Melissa Kane and Tatyana V. Golovkina p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 525
+The Impact of Defective Viruses on Infection and Immunity
+Emmanuelle Genoyer and Carolina B. López p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 547
+Immunity
+Interferon-Stimulated Genes: What Do They All Do?
+John W. Schoggins p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 567
+Vaccines
+The MMR Vaccine and Autism
+Frank DeStefano and Tom T. Shimabukuro p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 585
+Viral Vectors and Therapeutics
+Recombinant Adeno-Associated Virus Gene Therapy in Light of
+Luxturna (and Zolgensma and Glybera): Where Are We, and How
+Did We Get Here?
+Allison M. Keeler and Terence R. Flotte p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 601
+Errata
+An online log of corrections to Annual Review of Virology articles may be found at
+http://www.annualreviews.org/errata/virology
+
+

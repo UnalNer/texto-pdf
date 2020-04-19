@@ -1,0 +1,74 @@
+Development of a recombinant replicationdeficient rabies virus-based bivalent-vaccine against MERS-CoV and rabies virus and its humoral immunogenicity in mice
+
+Hirofumi Kato ID1, Mutsuyo Takayama-Ito ID1*, Itoe Iizuka-Shiota1, Shuetsu Fukushi1,
+Guillermo Posadas-Herrera ID1, Madoka Horiya1, Masaaki Satoh1, Tomoki Yoshikawa1,
+Souichi Yamada1, Shizuko Harada1, Hikaru Fujii1, Miho Shibamura1, Takuya Inagaki1,2,
+Kinjiro Morimoto3, Masayuki Saijo ID1, Chang-Kweng Lim1*
+1 Department of Virology I, National Institute of Infectious Diseases, Shinjuku-ku, Tokyo, Japan,
+2 Department of Life Science and Medical Bioscience, Waseda University, Shinjuku-ku, Tokyo, Japan,
+3 Department of Pharmacy, Yasuda Women’s University, Hiroshima, Hiroshima, Japan
+* mutsuito@niid.go.jp (MT); ck@niid.go.jp (CL)
+
+Middle East respiratory syndrome-coronavirus (MERS-CoV) is an emerging virus that
+causes severe disease with fatal outcomes; however, there are currently no approved vaccines or specific treatments against MERS-CoV. Here, we developed a novel bivalent vaccine against MERS-CoV and rabies virus (RV) using the replication-incompetent P-genedeficient RV (RVΔP), which has been previously established as a promising and safe viral
+vector. MERS-CoV spike glycoprotein comprises S1 and S2 subunits, with the S1 subunit
+being a primary target of neutralizing antibodies. Recombinant RVΔP, which expresses S1
+fused with transmembrane and cytoplasmic domains together with 14 amino acids from the
+ectodomains of the RV-glycoprotein (RV-G), was developed using a reverse genetics
+method and named RVΔP-MERS/S1. Following generation of RVΔP-MERS/S1 and RVΔP,
+our analysis revealed that they shared similar growth properties, with the expression of S1
+in RVΔP-MERS/S1-infected cells confirmed by immunofluorescence and western blot, and
+the immunogenicity and pathogenicity evaluated using mouse infection experiments. We
+observed no rabies-associated signs or symptoms in mice inoculated with RVΔP-MERS/
+S1. Moreover, virus-specific neutralizing antibodies against both MERS-CoV and RV were
+induced in mice inoculated intraperitoneally with RVΔP-MERS/S1. These findings indicate
+that RVΔP-MERS/S1 is a promising and safe bivalent-vaccine candidate against both
+MERS-CoV and RV.
+
+Middle East respiratory syndrome (MERS) is a highly lethal respiratory disease caused by a
+single-stranded, positive-sense RNA betacoronavirus, the MERS-coronavirus (MERS-CoV)
+
+The severity of MERS ranges from asymptomatic or mild disease to acute respiratory
+distress syndrome leading to death. Clinical features include fever, cough, shortness of
+breath, and multi-organ failure resulting in death, especially in individuals with underlying
+comorbidities, such as diabetes and renal failure [1]. Since MERS-CoV was first isolated
+from a patient with fatal respiratory disease in the Kingdom of Saudi Arabia in 2012 [3], the
+World Health Organization (WHO) has been notified of >2,300 laboratory confirmed cases
+of MERS-CoV infection and >800 deaths as of April 2019 [4]. Although MERS occurs in the
+Middle East, including the Kingdom of Saudi Arabia and the United Arab Emirates, patients
+with MERS have also been reported from MERS non-endemic regions, such as Europe, the
+United States, and Asia, as imported cases from the Middle East. Additionally, a large outbreak in South Korea suggested that MERS remains a serious threat to global public health
+[5].
+Vaccination is expected to be an efficacious strategy in preventing individuals and animals
+from suffering MERS-CoV infections. To date, various kinds of candidate vaccines for MERS
+have been developed, including live attenuated, subunit, DNA, prime-boost, and recombinant
+vector vaccines [6,7]; however, no approved vaccine or specific treatment for MERS is currently available. MERS-CoV spike glycoprotein comprises S1 and S2 subunit regions, with the
+S1 subunit of MERS-CoV responsible for its binding to host cells expressing the viral receptor
+dipeptidyl peptidase 4 through the receptor-binding domain (RBD) [8–10]. During vaccine
+development, previous studies showed that the S1 protein could serve as a dominant target for
+virus-specific neutralizing antibodies (VNAs) [11–13]. In fact, S1 proteins have been used as
+the antigen in several MERS-CoV vaccine preparations. For example, full-length S protein or
+truncated S1-subunit glycoprotein has been incorporated into several vectored vaccines
+against MERS-CoV, subsequently eliciting VNAs following inoculation of these candidates
+into animals [14,15].
+Rabies is a viral disease caused by rabies virus (RV), which is a negative-sense, singlestranded RNA virus of the Rhabdoviridae family with a simple genome organization encoding
+five structural proteins [16]. Rabies in humans is almost always fatal upon the appearance of
+clinical symptoms; however, rabies is a vaccine-preventable disease, with rabies-inactivated
+vaccines providing close to 100% protection by pre- or post-exposure prophylaxis and having
+saved millions of lives since the development of the first rabies vaccination for humans in 1885
+[17]. An estimated 55,000 people still die of rabies annually, with cases reported from >150
+countries and territories among various animals (mainly dogs) and humans; therefore, the
+WHO has set a goal to eliminate human deaths due to rabies by 2030 [18]. Inactivated rabies
+vaccines are currently available worldwide; however, they are not an ideal strategy because
+they require frequent administrations (4–6 doses). On this point, attenuated live vaccines represent a promising and attractive alternative, because they can elicit both humoral and cellular
+immunity [19], suggesting that frequent vaccinations are not needed.
+The RV genome encodes five structural proteins: nucleoprotein (N), phosphoprotein (P),
+matrix protein (M), glycoprotein (G), and large protein (L) [16]. P-gene-deficient rabies virus
+(RVΔP) is replication-incompetent, as the RV-P protein is a multi-functional protein that
+serves to stabilize the RV-L protein, a major component of the viral RNA polymerase [20–22].
+Similarly, M-gene-deficient RV (RVΔM) is propagation impaired, because the RV-M protein
+participates in the budding process [23]. RVΔP and RVΔM remain capable of expressing viral
+proteins, assembling, and propagating only in specially constructed cells expressing the RV-P
+and RV-M proteins, respectively; however, infectious progeny of RVΔP and RVΔM are not
+produced in other cells. Therefore, these viruses are considered candidates for developing safe
+and effective attenuated RV vaccines for humans and animals [24–26].

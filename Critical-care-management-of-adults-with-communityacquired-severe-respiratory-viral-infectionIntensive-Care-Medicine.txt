@@ -1,0 +1,116 @@
+﻿Critical care management of adults
+with community‑acquired severe respiratory
+viral infection
+Yaseen M. Arabi1,2,3* , Robert Fowler4,5,6 and Frederick G. Hayden7
+
+With the expanding use of molecular assays, viral pathogens are increasingly recognized among critically ill adult
+patients with community-acquired severe respiratory illness; studies have detected respiratory viral infections (RVIs)
+in 17–53% of such patients. In addition, novel pathogens including zoonotic coronaviruses like the agents causing
+Severe Acute Respiratory Syndrome (SARS), Middle East Respiratory Syndrome (MERS) and the 2019 novel coronavirus
+(2019 nCoV) are still being identified. Patients with severe RVIs requiring ICU care present typically with hypoxemic
+respiratory failure. Oseltamivir is the most widely used neuraminidase inhibitor for treatment of influenza; data suggest that early use is associated with reduced mortality in critically ill patients with influenza. At present, there are
+no antiviral therapies of proven efficacy for other severe RVIs. Several adjunctive pharmacologic interventions have
+been studied for their immunomodulatory effects, including macrolides, corticosteroids, cyclooxygenase-2 inhibitors,
+sirolimus, statins, anti-influenza immune plasma, and vitamin C, but none is recommended at present in severe RVIs.
+Evidence-based supportive care is the mainstay for management of severe respiratory viral infection. Non-invasive
+ventilation in patients with severe RVI causing acute hypoxemic respiratory failure and pneumonia is associated with a
+high likelihood of transition to invasive ventilation. Limited existing knowledge highlights the need for data regarding
+supportive care and adjunctive pharmacologic therapy that is specific for critically ill patients with severe RVI. There is
+a need for more pragmatic and efficient designs to test different therapeutics both individually and in combination.
+Keywords: Acute respiratory distress syndrome, Influenza, Neuraminidase inhibitor, Antiviral therapy, Coronavirus,
+Antiviral therapy
+With the expanding use of molecular assays, viral pathogens are increasingly detected among critically ill adult
+patients with respiratory illness; studies have reported a
+prevalence between 17% and 53% of patients (Table 1),
+depending on study design, sample type, duration of illness, and assay methods. Common viruses that can cause
+severe respiratory viral infections (RVIs) include influenza A and B viruses, picornaviruses (rhinovirus, enterovirus [e.g., enterovirus D68]), human coronaviruses
+(229E, NL63, OC43, HKU1), respiratory syncytial virus
+(RSV), human metapneumovirus, parainfluenza virus,
+and adenovirus (Tables 1 and 2). Novel pathogens including zoonotic coronaviruses like the agents causing Severe
+Acute Respiratory Syndrome (SARS), Middle East Respiratory Syndrome (MERS) and the 2019 novel coronavirus (2019 nCoV) are still being identified (Table 2).
+Establishing causation between viruses detected in
+respiratory specimens and the clinical illness is sometimes difficult, because (1) detection of some agents
+(e.g., picornaviruses) in the upper respiratory tract may
+indicate asymptomatic or mild infection, (2) upper respiratory tract samples may be negative despite positive
+lower respiratory tract ones, and (3) secondary bacterial and less often fungal infections are commonly
+co-identified [1]. However, it is generally believed
+that most respiratory viruses by themselves can cause
+severe illness, especially so in the elderly, persons with
+co-morbidities (particularly immunosuppression), and
+occasionally in previously healthy persons, in addition
+to predisposing to secondary infections [2].
+The objective of this narrative review is to outline current knowledge on the management of adults
+requiring ICU admission for community-acquired
+severe acute respiratory infection (SARI) due to RVIs.
+This review focuses on viral pathogens transmitted via
+the respiratory route. Respiratory infections with other
+viral pathogens, such as cytomegalovirus and herpes
+simplex viruses, are not discussed in this review.
+
+Antiviral therapy
+Generally available antiviral agents for different RVIs
+are summarized in Table 3 [3]. Very few randomizedcontrolled trials have been completed in patients hospitalized for severe RVIs; recently completed trials of
+nitazoxanide in SARI patients and of the RSV inhibitor
+presatovir in adult RSV patients yielded negative results
+[4, 5]. Antiviral therapeutics for influenza have been studied most extensively and are discussed briefly below. A
+number of other antiviral agents for influenza, RSV, and
+other RVIs are advancing in clinical study [6]. Controlled
+studies of lopinavir/ritonavir combined with interferonbeta in hospitlized MERS patients (NCT02845843) and
+of lopinavir/ritonavir and interferon-alpha 2b in hospitalized 2019-nCoV patients (ChiCTR2000029308) are currently in progess.
+Neuraminidase inhibitors
+
+Among the neuraminidase inhibitors (NAIs), oral
+oseltamivir is the most widely available agent. In an individual participant data meta-analysis of hospitalized
+patients with influenza A(H1N1)pdm09 virus infection
+(n = 29 234 patients from 78 studies), NAI treatment
+(almost exclusively oseltamivir) was associated with a
+reduction in mortality compared with no treatment,
+including in the subgroup of ICU patients. Early treatment (within 2 days of symptom onset) was associated
+with a reduction in mortality compared with later treatment [7]. Observational data also indicate reduction in
+influenza A(H5N1)-associated mortality with timely
+oseltamivir treatment before the onset of respiratory
+failure [8]. The importance of timing of oseltamivir treatment has been demonstrated in an observational study of
+
+Take‑home message
+Evidence-based supportive care is the mainstay for management of
+severe respiratory viral infection.
+Early treatment with neuraminidase inhibitors is associated with
+reduced mortality in severe influenza.
+There is a need for pragmatic and efficient trial designs, to test a
+variety of investigational therapeutics, individually and in combination.
+
+1950 patients admitted to ICUs with influenza A(H1N1)
+pdm09, which showed a trend toward improved survival
+for those treated earliest [9]. Nevertheless, the Clinical
+Practice Guidelines by the Infectious Diseases Society of
+America (IDSA) recommends oseltamivir for all hospitalized patients with influenza, regardless of illness duration
+prior to hospitalization [10].
+In observational studies of critically ill patients
+with influenza, higher compared to standard doses of
+oseltamivir did not demonstrate benefit [11–13]. An
+RCT of standard versus double-dose oseltamivir in hospitalized children and adults found no advantage with
+respect to virologic and clinical endpoints [14]. Additionally, a study demonstrated accumulation of oseltamivir in
+patients on both extracorporeal membrane oxygenation
+and continuous venovenous hemodiafiltration leading to
+4-to 5-fold increase in plasma levels [15]. The IDSA recommends against the routine use of higher doses of US
+Food and Drug Administration-approved NAI drugs for
+the treatment of seasonal influenza [10].
+Duration of treatment is traditionally 5 days, but treatment duration is often extended to 10 days for severely
+ill patients with ARDS or pneumonia or those who are
+immunocompromised [10]. This approach is supported
+by data showing slow influenza viral clearance from
+the lower respiratory tract in critically ill patients with
+influenza A(H1N1)pdm09 [16]. Of concern is the recent
+observation of emergence of oseltamivir resistance in
+23% of 22 critically ill A(H1N1)pdm09 patients, and its
+association with persistent virus detection and much
+higher mortality [17].
+Nebulized zanamivir solution has been administered
+to mechanically ventilated patients on compassionate
+use basis, but the commercial formulation contains lactose and should not be used for nebulization, because its
+use has been associated with blockage of the ventilator
+circuit.
+Peramivir is the only intravenous influenza antiviral agent currently approved by the US Food and
+Drug Administration (FDA). Intravenous zanamivir
+has been recently approved by the European Medicines Agency (EMA) (Table 3). These agents appear to
+have comparable activity to oseltamivir in hospitalized

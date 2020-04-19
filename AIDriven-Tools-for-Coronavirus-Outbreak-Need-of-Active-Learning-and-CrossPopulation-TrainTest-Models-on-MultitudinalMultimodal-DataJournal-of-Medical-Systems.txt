@@ -1,0 +1,88 @@
+﻿Journal of Medical Systems
+(2020) 44:93
+https://doi.org/10.1007/s10916-020-01562-1
+
+EDUCATION & TRAINING
+
+AI-Driven Tools for Coronavirus Outbreak: Need of Active Learning
+and Cross-Population Train/Test Models on Multitudinal/Multimodal
+Data
+K. C. Santosh 1
+Received: 11 March 2020 / Accepted: 17 March 2020
+# Springer Science+Business Media, LLC, part of Springer Nature 2020
+
+The novel coronavirus (COVID-19) outbreak, which was identified in late 2019, requires special attention because of its future
+epidemics and possible global threats. Beside clinical procedures and treatments, since Artificial Intelligence (AI) promises a new
+paradigm for healthcare, several different AI tools that are built upon Machine Learning (ML) algorithms are employed for
+analyzing data and decision-making processes. This means that AI-driven tools help identify COVID-19 outbreaks as well as
+forecast their nature of spread across the globe. However, unlike other healthcare issues, for COVID-19, to detect COVID-19, AIdriven tools are expected to have active learning-based cross-population train/test models that employs multitudinal and multimodal data, which is the primary purpose of the paper.
+Keywords COVID-19 . Artificial intelligence . Machine learning . Active learning . Cross-population train/test models .
+Multitudinal and multimodal data
+
+The novel coronavirus (COVID-19) is a global threat since it
+was identified in late 2019 [1]. About COVID-19, the Centers
+for Disease Control and Prevention report [2] has clearly mentioned the following (U.S. Feb. 24, 2020):
+Person-to-person spread of COVID-19 appears to occur
+mainly by respiratory transmission. How easily the virus
+is transmitted between persons is currently unclear.
+Signs and symptoms of COVID-19 include fever,
+cough, and shortness of breath [3]. Based on the incubation period of illness for Middle East Respiratory
+Syndrome (MERS) and Severe Acute Respiratory
+Syndrome (SARS) coronaviruses, as well as observational data from reports of travel-related COVID-19,
+CDC estimates that symptoms of COVID-19 occur
+within 2–14 days after exposure.
+According to the World Health Organization (WHO) report
+[4], as of today (March 09, 2020), China confirmed 80,904
+cases and 3123 of them were died. Outside China, 28,673
+were confirmed and 686 of them were died from 104 countries, where Italy is found to be the most influenced country
+after china: 7375 confirmed cases (366 deaths). Similarly,
+there are 7382 confirmed cases (248 deaths) in Republic of
+Korea, and U.S. is no exception (see Fig. 1). Based on the
+confirmed cases, fatality rate, as of today, is still less than
+other respiratory diseases: study of 72,000 COVID-19 patients finds 2.3% death rate [5]. Figure 2 provides confirmed
+cases of COVID-19 across the world. Considering its global
+coverage, the WHO has already been declared public health
+emergency and its possible global threats, including consequences [6]. The devastating case in Wuhan China and future
+epidemics require special attention [3, 7, 8].
+At this point, it is important to note that coronavirus was
+not a surprise case, since several years ago, in 2003, a novel
+coronavirus was identified in patients with SARS, and it is
+thought to be caused by an unknown infectious agent
+[9–12]. Since then, apart from clinical procedures and treatments, Artificial Intelligence (AI) promises a new paradigm
+for healthcare. Several different AI tools that are built upon
+Machine Learning (ML) algorithms are employed to analyzing data and decision-making processes [13].
+AI-driven tools can be used to identify novel coronavirus
+outbreaks as well as forecast their nature of spread across the
+globe. However, the fundamental theory behind AI-driven tools
+is that they require sufficient training data (of all possible cases).
+Often, traditional machine learning requires a clean set of annotated data so that classifiers can possibly be well trained, which
+falls under scope of supervised learning. Over the past 5 decades
+or more, tremendous progress has been made in resolving many
+issues of several different projects. However, we failed to reach
+the point: “to model an accurate classifier, how big the size of
+training samples should be?” Do we still wait for collecting fairly
+large amount of data? Deep Learning (DL), as an example, requires a large amount of data to be trained [14, 15]. The primary
+idea behind the use of DL is not only to avoid feature engineering
+but also to extract tiny features in radiology data (pixel-level
+nodule, for example) [16].
+Collecting large amount of data is not trivial, and one has to
+wait for a long. Most of the reported AI-driven tools are limited to proof-of-concept models for coronavirus case. AI experts state the fact that limited data may skew results away
+from the severity of coronavirus outbreak. The Wall Street
+Journal [17] reported that coronavirus reveals limits of AI
+health tools: some diagnostic-app makers are holding off
+updating their tools, highlighting the shortage of data on the
+new coronavirus and the limitations of health services billed
+as AI when faced with novel, fast-spreading illnesses (Parmy
+Olson, February 29, 2020). In a nutshell, social medias, newspapers, and health reports, we note that conventional AIdriven tools for real-world cases (with less data) may not provide optimal performance.
+To detect COVID-19, AI-driven tools are expected to have
+active learning-based cross-population train/test models that
+employs multitudinal and multimodal data.
+
+93
+
+In the following, within the framework of COVID-19, the
+concept of active learning will be discussed (Section 2).
+Cross-population train/test models and its usefulness for
+COVID-19 are discussed in Section 3. The necessity and the
+use of multitudinal and multimodal data are explained in
+Section 4. The paper concludes in Section 5.

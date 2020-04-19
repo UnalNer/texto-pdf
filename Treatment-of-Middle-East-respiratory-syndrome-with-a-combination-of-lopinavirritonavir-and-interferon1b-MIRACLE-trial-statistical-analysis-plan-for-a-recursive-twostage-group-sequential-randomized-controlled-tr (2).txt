@@ -1,0 +1,739 @@
+﻿Arabi et al. Trials
+(2020) 21:8
+https://doi.org/10.1186/s13063-019-3846-x
+
+UPDATE
+
+Open Access
+
+Treatment of Middle East respiratory
+syndrome with a combination of lopinavir/
+ritonavir and interferon-β1b (MIRACLE trial):
+statistical analysis plan for a recursive twostage group sequential randomized
+controlled trial
+Yaseen M. Arabi1,2* , Ayed Y. Asiri3, Abdullah M. Assiri4, Hani A. Aziz Jokhdar5, Adel Alothman1,6,
+Hanan H. Balkhy1,7, Sameera AlJohani1,8, Shmeylan Al Harbi9,10, Suleiman Kojan1,6, Majed Al Jeraisy9,10,
+Ahmad M. Deeb11,12 , Ziad A. Memish13,14, Sameeh Ghazal3, Sarah Al Faraj3, Fahad Al-Hameed15,16 ,
+Asim AlSaedi15,17, Yasser Mandourah18, Ghaleb A. Al Mekhlafi19, Nisreen Murad Sherbeeni20, Fatehi Elnour Elzein20,
+Abdullah Almotairi21, Ali Al Bshabshe22, Ayman Kharaba23, Jesna Jose24, Abdulrahman Al Harthy25,
+Mohammed Al Sulaiman26, Ahmed Mady27,28, Robert A. Fowler29,30, Frederick G. Hayden31,
+Abdulaziz Al-Dawood1,2, Mohamed Abdelzaher32,33, Wail Bajhmom34, Mohamed A. Hussein12,24 and and the Saudi
+Critical Care Trials group
+
+Abstract
+The MIRACLE trial (MERS-CoV Infection tReated with A Combination of Lopinavir/ritonavir and intErferon-β1b)
+investigates the efficacy of a combination therapy of lopinavir/ritonavir and recombinant interferon-β1b provided
+with standard supportive care, compared to placebo provided with standard supportive care, in hospitalized
+patients with laboratory-confirmed MERS. The MIRACLE trial is designed as a recursive, two-stage, group sequential,
+multicenter, placebo-controlled, double-blind randomized controlled trial. The aim of this article is to describe the
+statistical analysis plan for the MIRACLE trial. The primary outcome is 90-day mortality. The primary analysis will
+follow the intention-to-treat principle. The MIRACLE trial is the first randomized controlled trial for MERS treatment.
+Trial registration: ClinicalTrials.gov, NCT02845843. Registered on 27 July 2016.
+Keywords: Coronavirus, MERS, Antiviral, Clinical trial, Lopinavir/ritonavir, Interferon-β1b, Statistical analysis plan,
+Protocol
+
+* Correspondence: arabi@ngha.med.sa
+1
+College of Medicine, King Saud Bin Abdulaziz University for Health Sciences,
+King Abdullah International Medical Research Center, Riyadh, Saudi Arabia
+2
+Intensive Care Department, Ministry of the National Guard - Health Affairs,
+ICU 1425, P.O. Box 22490, Riyadh 11426, Saudi Arabia
+Full list of author information is available at the end of the article
+© The Author(s). 2020 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Arabi et al. Trials
+
+(2020) 21:8
+
+Background
+Middle East respiratory syndrome (MERS) is a viral respiratory disease caused by the Middle East respiratory
+syndrome coronavirus (MERS-CoV). MERS cases continue to occur and are often associated with respiratory
+and multiorgan failure [1]. There is no antiviral treatment with proven efficacy at present [1, 2].
+The MIRACLE trial (MERS-CoV Infection tReated
+with A Combination of Lopinavir/ritonavir and intErferon-β1b) is the first randomized controlled trial for
+MERS treatment. The study protocol has been previously published [3].
+There are several challenges in a trial for treatment of a
+disease like MERS: (1) there is not enough information on
+the effect size of the lopinavir/ritonavir and interferon-β1b
+provided with standard supportive care compared to placebo provided with standard supportive care to conduct
+adequate planning for the study sample size; (2) MERS is
+a sporadic, unpredictable, and rare disease, which makes it
+difficult to plan a separate pilot study to collect the necessary information needed for the planning of the main trial.
+To overcome these challenges, we designed the MIRACLE
+trial as a recursive two-stage adaptive trial, which is a relatively new method for group sequential trials [4–7]. The
+approach is based on the conditional error principle,
+which allows for flexible and continuous adjustment of
+the trial parameters using data observed during prior
+stages without inflation of the type I error [8]. Another advantage of this method is the flexibility in setting the timing and the number of needed interim analyses. Such
+flexibility is necessary in a situation where recruitment
+rate is unpredictable and a sudden flux in recruitment of
+patients could happen at any time. Finally, the design
+takes advantage of the accumulated information throughout the trial from every single recruited patient as opposed
+to a traditional two-study approach (pilot followed by the
+main trial).
+In this article, we describe the MIRACLE trial statistical analysis plan (SAP) in advance of trial completion.
+We identify the procedures to be followed for the primary and secondary analyses for the trial. The SAP was
+written by the study steering committee members led by
+the principal investigator, who remains blinded to both
+group allocation and to study results until after completing patient recruitment, patient follow-up, and completion and locking of the database. The final study report
+will follow the guidelines of the Consolidated Standards
+of Reporting Trials (CONSORT) for reporting randomized controlled trials [9, 10].
+The trial is being conducted according to the standard
+requirements of Good Clinical Practice E6 [11]. The
+SAP was developed in accordance with the International
+Council for Harmonisation guidelines (E9 Statistical
+principles for clinical trials and E3 clinical study reports
+
+Page 2 of 8
+
+guidelines) [12, 13] and with the Guidelines for the Content of Statistical Analysis Plans in Clinical Trials [14].
+
+Methods
+Study design
+
+The MIRACLE trial is a recursive, two-stage, group sequential, multicenter, randomized, placebo-controlled,
+double-blind trial. The trial includes hospitalized patients who are 18 years old or older with laboratoryconfirmed MERS in addition to evidence of acute organ
+dysfunction that is judged related to MERS. Inclusion
+and exclusion criteria have been detailed in a previously
+published protocol manuscript [3]. Patients are randomized to receive lopinavir/ritonavir and recombinant
+interferon-β1b or placebo. Randomization is stratified
+according to center and according to whether the patients require mechanical ventilation (invasive or noninvasive) at the time of enrollment, as mechanical ventilation is a major, but pragmatic, surrogate for severity of
+illness. The study interventions continue for 14 days or
+until hospital discharge. Patients are followed up daily
+until day 28 or hospital discharge and then at day 90.
+Study population
+
+A CONSORT flow diagram of the trial progress will be
+constructed (Fig. 1). The number of randomized patients
+to each group will be reported as well as the number of
+randomized patients who received the interventions. We
+will also report the number of screened patients (defined
+as all hospitalized patients with MERS) who met the eligibility criteria but were not enrolled and the reasons for
+non-enrollment.
+The intention-to-treat population consists of all enrolled patients whether or not they received the allocated intervention, and will be used for the primary
+analysis. A per-protocol analysis will be conducted for
+patients who received the allocated interventions (defined by any dose of the study intervention).
+Data
+
+Baseline characteristics
+Baseline characteristics will be presented for the two
+study groups (Additional file 1: Table S1) including age,
+sex, and body mass index, the presence of co-infections,
+nosocomial versus community-acquired MERS infection,
+Acute Physiology and Chronic Health Evaluation (APACHE) II scores, Sequential Organ Failure Assessment
+scores, and the Karnofsky Performance Status Scale score
+[3]. We will report comorbidities and the interventions received before randomization for the patients in each
+group. We will report baseline laboratory values (international normalization ratio, platelet count, hemoglobin,
+white blood cell count, lymphocyte count, liver enzymes,
+glucose, serum amylase, blood urea nitrogen, creatinine,
+
+Arabi et al. Trials
+
+(2020) 21:8
+
+Page 3 of 8
+
+Fig. 1 CONSORT flow chart for the MIRACLE trial
+
+creatine kinase, lactate) and respiratory and vital parameters in addition to the location of the patient at time of
+randomization.
+
+doses and protocol violations (Additional file 1: Table S2
+and Table S8).
+Co-interventions
+
+Intervention data
+
+For each group we will report the time of hospital admission to randomization and the time of randomization
+to the first dose received of the study drugs. We will report the received study intervention and its duration for
+each group, in addition to the missing or incomplete
+
+We will compare any use of vasopressors, renal replacement therapy, neuromuscular blockade, mechanical ventilation, extracorporeal membrane oxygenation (ECMO),
+nitric oxide, prone ventilation, and tracheostomy. We
+will also compare the use of intravenous immunoglobulin, antiviral therapy, antibiotics, corticosteroids, and statins (Additional file 1: Table S2).
+
+Arabi et al. Trials
+
+(2020) 21:8
+
+Page 4 of 8
+
+Primary and secondary outcomes
+
+The primary outcome is 90-day mortality (Additional
+file 1: Table S3). The primary outcome is defined as
+all-cause mortality after enrollment in the trial within
+90 days, as either an inpatient or outpatient.
+Secondary outcomes and subgroups are defined as
+presented in Table 1 and Additional file 1: Table S4,
+and S5).
+
+In addition, we will compare the physiological parameters among patients treated in the treatment group and
+the control group.
+
+Statistical analysis
+
+All analyses will be performed using SAS 9.4 with specially written code for the analysis of the primary
+
+Table 1 Secondary Outcomes in the MIRACLE trial
+Outcome
+
+Definition
+
+28-day mortality
+
+Death from any cause within 28 days of enrollment
+
+Hospital mortality
+
+Death from any cause in the index hospitalization
+
+ICU mortality
+
+Death from any cause in index ICU admission.
+
+Sequential Organ Failure Assessment
+scores
+
+SOFA score on study days 0, 3, 7, 14, 21 and 28
+
+Supplemental oxygen-free days
+
+Number of days within the first 28 days after enrollment when patients do not receive of supplemental
+oxygen. Patients who die within 28 days will be assigned the value “0”
+
+Renal replacement therapy-free days
+
+Number of days within the first 28 days after enrollment when patients do not receive of renal
+replacement therapy. Patients who die within 28 days will be assigned the value “0”
+
+Vasopressor-free days
+
+Number of days within the first 28 days after enrollment when patients do not receive of vasopressors.
+Patients who die within 28 days will be assigned the value “0”
+
+Invasive or non-invasive mechanical
+ventilation-free days
+
+Number of days within the first 28 days after enrollment when patients do not receive of mechanical
+ventilation. Patients who die within 28 days will be assigned the value “0”
+
+Organ support-free days
+
+Number of days within the first 28 days after enrollment when patients do not receive of invasive
+mechanical ventilation, renal replacement therapy and vasopressor. Patients who die within 28 days will be
+assigned the value “0”
+
+Extracorporeal circulation support-free
+days
+
+Number of days within the first 28 days in which patients are not receiving extracorporeal circulation
+support. Patients who die within 28 days will be assigned the value “0”
+
+ICU-free days
+
+Number of days in which patients are not being cared for in the ICU during the first 28 days after
+enrollment. Patients who die within 28 days will be assigned the value “0”
+
+Post-randomization hospital length of
+stay
+
+Number of days between randomization and discharge from the hospital. Because of the competing risk
+effect of death on length of stay, length of stay will be also reported for survivors alone
+
+Renal replacement therapy at day 90
+
+Number and percentage of patients on renal replacement therapy at day 90
+
+Oxygen supply at day 90
+
+Number and percentage of patients on oxygen supply at day 90
+
+Non-invasive mechanical ventilation at
+day 90
+
+Number and percentage of patients on non-invasive mechanical ventilation at day 90
+
+Invasive mechanical ventilation at day
+90
+
+Number and percentage of patients on Invasive mechanical ventilation at day 90
+
+Secondary laboratory outcomes
+Viral replication kinetics
+
+upE and ORF1 cycle thresholds of blood and respiratory samples
+
+Time to clearance from the lower
+respiratory tract
+
+Number of days from randomization to MERS-CoV RNA clearance of respiratory samples defined as two
+negative RT-PCR results not followed by a positive one. Patients who die before clearance will be censored
+at the time of death
+
+Safety outcomes
+Serious adverse event reports (SAE)
+
+The number and percentage of reported serious adverse events any time during the study period. These
+SAEs include: acute pancreatitis, severe elevation of Alanine aminotransferase (ALT) to more than five-fold
+the upper normal limit, anaphylaxis, bleeding diathesis and others
+
+Adverse Events
+
+The number and percentage of adverse events graded using the Common Terminology Criteria for
+Adverse Events, at any time within 28 days after enrollment. The adverse drug reactions include: allergic
+reactions, gastrointestinal, general nervous system and others. See also Table S6
+
+Functional outcomes
+Karnofsky score
+
+Karnofsky Performance Status Scale for functional impairment, which is a scale from 100 (indicating
+“Normal,” no complaints; no evidence of disease) to 0 (indicating death) at day 90
+
+Arabi et al. Trials
+
+(2020) 21:8
+
+Page 5 of 8
+
+outcome that accounts for the recursive design, as described in Chang [4].
+Data and Safety Monitoring Board and interim analyses
+
+A detailed interim analysis plan is reported in the MIRACLE protocol [3]. The trial is designed as a recursive,
+two-stage, group sequential randomized trial. The first
+interim analysis will be conducted when 34 subjects (17
+per group) have completed 90 days of follow-up. This is
+about 17.5% of the total sample size needed for the classical design (a classic two-group design requires a total
+of 194 subjects (97 subjects per group) to have an 80%
+power at a significance level of 5% using a one-sided Z
+test for difference in proportion to detect 20% absolute
+risk reduction in 90 days mortality among subjects receiving treatment (20%) compared to a control group
+(40%)). A Data and Safety Monitoring Board (DSMB)
+will be convened to review the unblinded data (efficacy
+and safety) and advise on continuation or termination of
+the trial. The determination of the stopping boundaries
+in the first two-stage design was calculated using the
+conditional power method based on the summing stagewise p values. At the first interim analysis, the DSMB
+will determine whether the trial should be terminated
+for futility or not using the following boundaries and
+their corresponding decisions (Table 2).
+Demographics and clinical characteristics
+
+We will summarize and report the demographics and
+baseline clinical characteristics using descriptive statistics. As appropriate, the chi-square test or Fisher’s exact
+test will be used to compare the categorical variables,
+which will be reported as numbers and percentages. Student’s t test or the Mann–Whitney U test will be used as
+appropriate to compare the continuous variables, which
+will be reported as means and standard deviations or as
+medians and interquartile ranges.
+Analysis of adverse events
+
+All adverse events will be grouped using Common Terminology Criteria for Adverse Events (CTCAE) Version
+4 of the National Institutes of Health (NIH) (Additional
+file 1: Table S6). Adverse events will be grouped into aggregate groups and reported for the entire study period
+(Additional file 1: Table S7). All results will be
+
+summarized in terms of frequency and percentage and
+will be compared across study arms using Fisher’s exact
+test. All results will be declared statistically significant
+with a p value < 0.05.
+Analysis of the primary outcome and continuous planning
+of the trial
+
+Let K be the number of stages of the current clinical trial
+needed to complete the trial and i ∈ {1, 2} be the index
+for the two-stage design in the kth stage. Let r1ki and r2ki
+be the proportions of 90 days mortality in the standard
+of care and treatment group respectively. Then the Z
+test statistic for the difference in proportion can be calculated as follows:
+δ ki
+Z ki ¼
+σ ki
+σ ki ¼
+
+rﬃﬃﬃﬃﬃﬃ
+nki
+;
+2
+
+pﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+½r 1ki ð1−r 1ki Þ þ r 2 ð1−r 2ki Þ=2;
+
+δ ki ¼ r 1ki− r 2ki ;
+where nki is the sample size per group for the ith twostage design of the kth stage. In the interim analysis (i.e.,
+at each i = 1 of the kth two-stage), the primary outcome
+will be evaluated, and the trial sample size will be reestimated for the subsequent stage based on the observed effect size using the following formula assuming a
+conditional power of 80% (Pc = 0.8) to decide if the trial
+should continue:
+nk;2
+
+pﬃﬃﬃ 
+
+
+ 2
+2σ k1
+¼
+Φ−1 1−αk;2 þ pk;1 −Φ−1 ð1−PcÞ
+:
+δδ k1
+
+Here αk, 2 is the precalculated rejection boundary for
+efficacy at the second stage of the two-stage design at
+the kth stage, and pk, 1 is the raw table probability corresponding to the Zki statistic. At the first interim analysis,
+should the data suggest that another stage of the twostage steps is required, we will recalculate the conditional error and new boundaries will be calculated for
+K = 2. Let βk + 1, 1, αk + 1, 1 be the rejection boundaries
+for futility and efficacy for the first (i = 1) of the twostage step of the kth + 1 stage. Then the conditional error
+is:
+
+Table 2 Stopping boundaries in the MIRACLE trial
+Boundary
+
+Value
+
+Decision
+
+Efficacy sopping boundary (α1)
+
+0
+
+No stopping for efficacy
+
+Futility stopping boundary (β1)
+
+0.2
+
+Stop the trial for futility if less than stage-wise P-value
+
+Efficacy stopping boundary (α2)
+
+0.2250
+
+Stop trial for efficacy at the second stage or recalculate based on conditional power at first interim analysis
+
+α1 is the maximum probability threshold under which the trial will be terminated early for efficacy. β1 is the maximum probability threshold above which the trial
+will be terminated for futility. α2 is the maximum probability threshold (the sum of the stage-wise p-values), above which the study will be declared as met its
+endpoint
+
+Arabi et al. Trials
+
+
+where nk0, 1 and nk0, 2 are the sample sizes for the first
+and second stage of the last kth two-stage design, and
+pk0, 1, pk0, 2 are the stage-wise adjusted p values.
+In order to stay consistent with the method that was
+used in calculating the boundaries for the trial, we will
+not account for stratification in the primary outcome
+analysis. In general, this approach is acceptable and it
+preserves both type I and type II errors as long as the
+weighted average of the effect size stays close to the hypothesized effect size [15]. Furthermore, as long as the
+sample size re-estimation at the interim analysis was
+based on the weighted average of the effect size, the
+overall power of the trial will be preserved.
+Secondary analyses of the primary outcome, secondary
+outcomes, and subgroups
+
+With the exception of the analysis of the primary outcome, all other analyses will be tested using regular
+
+Page 6 of 8
+
+statistical methods and will be two-sided. A secondary adjusted analysis will be conducted using multiple logistic
+regression analysis, in which death within 90 days will be
+modeled as the dependent variable, and a set of baseline
+variables that are strongly believed to affect the outcome
+of MERS will be included as independent variables. Those
+variables will include at minimum the following: age,
+community-acquired versus hospital-acquired infection,
+mechanical ventilation, center, and Sequential Organ Failure Assessment score. Ninety-day median survival time
+will be summarized and reported using Kaplan–Meier
+curves and will be compared between the study groups
+using the log-rank test (Additional file 1: Figure S1). Analysis of secondary outcomes will be compared in the
+intention-to-treat cohort only. Subgroup analyses will be
+conducted if patient numbers permit (e.g., no fewer than
+five patients in subgroups of interest) in a priori defined
+subgroups (Additional file 1: Table S5). Multivariable logistic regression will be used to report the results of tests
+of interactions for these subgroups.
+Handling of missing data
+
+All missing data will be reviewed and characterized in
+terms of their pattern (e.g., missing completely at random, missing at random, etc.). For missing completely at
+random, all analyses will be based on a list-wise deletion
+approach where only observations with complete values
+will be considered for analysis. For variables with values
+missing at random, multiple imputation techniques will
+be utilized to impute the missing values, as suggested by
+Rubin [16].
+Adjustment multiplicity testing for the secondary analyses
+
+To adjust for multiple testing, we will use the false discovery rate (FDR) as described by Benjamini and Hochberg [17]. In this procedure all hypothesis tests will be
+sorted in ascending order based on their calculated p
+value. All hypothesis tests below an index K will be
+rejected, where K is calculated as follows:
+K ¼ max i : pðiÞ ≤
+
+i
+:q ;
+m
+
+where i = m, … ,1, m is the total number of tested hypotheses, and q = 0.05.
+Additional details about the SAP are available in
+Additional file 2.
+
+Discussion
+The MIRACLE trial investigates the efficacy of a combination therapy of lopinavir/ritonavir and recombinant
+Interferon-β1b provided with standard supportive care,
+compared to placebo provided with standard supportive
+
+Arabi et al. Trials
+
+(2020) 21:8
+
+care, in hospitalized patients with laboratory-confirmed
+MERS.
+The first patient was enrolled in November 2016. At
+present, 14 sites are actively screening for eligible patients. The recruitment rate in the MIRACLE trial has
+been slow mainly related to the decline in the number of
+MERS cases in Saudi Arabia. Due to the uncertainty of
+the efficacy level of the treatment and the recruitment
+rate, the trial is designed to be a recursive, two-stage,
+group sequential randomized trial [4].
+Several methods could be utilized to build an adaptive
+trial. However, most of these methods would require
+one to specify a priori the time and type of adjustments
+that need to take place in the trial. For a disease such as
+MERS there are many factors that could limit the ability
+to specify a priori those elements; thus, the recursive
+two-stage design is a natural choice. This type of design
+provides enough flexibility to introduce different adjustments while learning from the observed data without inflating the type I error.
+Reporting of the SAP to the MIRACLE trial in advance
+of trial completion will enhance evaluation of the clinical
+data and support confidence in the final results and the
+conclusion. Prior specification of the statistical methods
+and outcomes analysis will facilitate unbiased analyses of
+these important clinical data.
+
+Trial status
+
+Recruitment started in November 2016 and is currently
+ongoing.
+
+Supplementary information
+Supplementary information accompanies this paper at https://doi.org/10.
+1186/s13063-019-3846-x.
+Additional file 1: Table S1. Baseline characteristics of intention-to-treat
+(ITT) population. Table S2. Summary of interventions and cointerventions. Table S3. Primary outcome: 90-day mortality. Table S4.
+Secondary outcomes. Table S5. Subgroup analyses. Table S6. Classification of adverse events in the MIRACLE trial (MERS-CoV Infection tReated
+with A Combination of Lopinavir/ritonavir and intErferon-β1b) using the
+NIH Common Terminology Criteria for Adverse Events (CTCAE), Version
+4.0. Table S7. Summary of adverse events by severity. Table S8. Summary of protocol violations.
+Additional file 2. Statistical analysis plan document.
+
+Abbreviations
+APACHE II: Acute Physiology and Chronic Health Evaluation II;
+CONSORT: Consolidated Standards of Reporting Trials; CTCAE: Common
+Terminology Criteria for Adverse Events; DSMB: Data and Safety Monitoring
+Board; ECMO: Extracorporeal membrane oxygenation; MERS: Middle East
+respiratory syndrome; MERS-CoV: Middle East respiratory syndrome
+coronavirus; MIRACLE trial: MERS-CoV Infection tReated with A Combination
+of Lopinavir/ritonavir and intErferon-β1b; NIH: National Institutes of Health;
+SAP: Statistical analysis plan; SFDA: Saudi Food and Drug Authority;
+TEAE: Treatment-emergent adverse event
+
+Page 7 of 8
+
+Acknowledgements
+We would like to acknowledge the following Data Safety Monitoring Board
+(DSMB) Chair and members:
+Greg S Martin, MD, MSc (Chair)
+Professor of Medicine
+Executive Associate Division Director
+Division of Pulmonary, Allergy, Critical Care and Sleep Medicine
+Research Director, Emory Critical Care Center
+Emory University School of Medicine
+Section Chief and Director, Medical and Coronary Intensive Care
+Grady Memorial Hospital
+Atlanta, Georgia, USA
+David A Schoenfeld, PhD (Member)
+Professor of Medicine, Harvard Medical School
+Professor in the Department of Biostatistics
+Harvard School of Public Health
+Boston, Massachusetts, USA
+Sharon L Walmsley, MSc, MD, FRCPC (Member)
+Senior Scientist, Toronto General Research Institute (TGRI)
+Toronto, Ontario, Canada
+Shannon Carson, MD (Member)
+Professor of Medicine
+Division Chief, Pulmonary Diseases and Critical Care Medicine
+University of North Carolina at Chapel Hill School of Medicine
+Chapel Hill, North Carolina, USA
+Authors’ contributions
+YA, AA1, HB, SJ, SH, SK, MJ, AMD, JJ, RAF, FGH, and MAH conceived and
+designed the plan. YA, AMD, and JJ drafted the manuscript. YA, JJ, and MAH
+developed the analytical plan. YA, AA, AMA, HAJ, AA1, HB, SJ, SH, SK, MJ,
+AMD, ZAM, SG, SF, FH, AS, YM, GM, NMS, FEZ, AM, AB, AK, JJ, AH, MS, AM,
+RAF, FGH, AD, MA, WB, and MAH were involved in trial sites management,
+critical revision of the manuscript for important intellectual content, and
+approval of the final version to be published, and they agree to be
+accountable for all aspects of the work. All authors read and approved the
+final version of the manuscript.
+Funding
+The MIRACLE trial is funded by King Abdullah International Medical Research
+Center, Riyadh, Kingdom of Saudi Arabia. The study sponsor does not have
+any role in the study design, collection, management, analysis or
+interpretation of the data, or in writing the report.
+Availability of data and materials
+The datasets generated and/or analyzed during the current study are
+available from the corresponding author on reasonable request.
+Ethics approval and consent to participate
+The MIRACLE study is approved by the Scientific Committee and the
+Institutional Review Board at the National Guard Health Affairs, Riyadh, Saudi
+Arabia (RC15/142) and all participating sites and registered at the Saudi Food
+and Drug Authority (SFDA), Riyadh, Saudi Arabia. Patients who meet the
+eligibility criteria or substitute decision-makers (for patients lacking decisionmaking capacity) of eligible patients will be approached to obtain informed
+consent for enrollment.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests. YA and FGH are
+unpaid consultants on antivirals active for MERS for Gilead Sciences, SAB
+Biotherapeutics, and Regeneron.
+Author details
+1
+College of Medicine, King Saud Bin Abdulaziz University for Health Sciences,
+King Abdullah International Medical Research Center, Riyadh, Saudi Arabia.
+2
+Intensive Care Department, Ministry of the National Guard - Health Affairs,
+ICU 1425, P.O. Box 22490, Riyadh 11426, Saudi Arabia. 3Prince Mohammed
+bin Abdulaziz Hospital, Riyadh, Saudi Arabia. 4Infection Prevention and
+Control, Assistant Deputy Minister, Preventive Health, Ministry of Health,
+
+Arabi et al. Trials
+
+(2020) 21:8
+
+Riyadh, Saudi Arabia. 5Deputy Minister for Public Health, Ministry of Health,
+Riyadh, Saudi Arabia. 6Department of Medicine, Ministry of the National
+Guard - Health Affairs, Riyadh, Saudi Arabia. 7Department of Infection
+Prevention and Control, Ministry of the National Guard - Health Affairs,
+Riyadh, Saudi Arabia. 8Department of Pathology and Laboratory Medicine,
+Ministry of the National Guard - Health Affairs, Riyadh, Saudi Arabia. 9College
+of Pharmacy, King Saud Bin Abdulaziz University for Health Sciences, King
+Abdullah International Medical Research Center, Riyadh, Saudi Arabia.
+10
+Pharmaceutical Care Department, Ministry of the National Guard - Health
+Affairs, Riyadh, Saudi Arabia. 11King Saud Bin Abdulaziz University for Health
+Sciences, King Abdullah International Medical Research Center, Research
+Office, Riyadh, Saudi Arabia. 12Ministry of the National Guard - Health Affairs,
+Riyadh, Saudi Arabia. 13Prince Mohammed bin Abdulaziz Hospital, Ministry of
+Health & College of Medicine, Alfaisal University, Riyadh, Saudi Arabia.
+14
+Hubert Department of Global Health, Rollins School of Public Health,
+Emory University, Atlanta, Georgia, USA. 15College of Medicine, King Saud Bin
+Abdulaziz University for Health Sciences, King Abdullah International Medical
+Research Center, Jeddah, Saudi Arabia. 16Intensive Care Department, Ministry
+of the National Guard - Health Affairs, Jeddah, Saudi Arabia. 17Department of
+Infection Prevention and Control, Ministry of the National Guard - Health
+Affairs, Jeddah, Saudi Arabia. 18Military Medical Services, Ministry of Defense,
+Prince Sultan Military Medical City, Riyadh, Saudi Arabia. 19Department of
+Intensive Care Services, Prince Sultan Military Medical City, Riyadh, Saudi
+Arabia. 20Infectious Diseases Division, Prince Sultan Military Medical City,
+Riyadh, Saudi Arabia. 21Department of Critical Care Medicine, King Fahad
+Medical City, Riyadh, Saudi Arabia. 22Department of Critical Care Medicine,
+King Khalid University, Aseer Central Hospital, Abha, Saudi Arabia.
+23
+Department of Critical Care, King Fahad Hospital, Ohoud Hospital,
+Al-Madinah Al-Monawarah, Saudi Arabia. 24Department Biostatistics and
+Bioinformatics, King Saud Bin Abdulaziz University for Health Sciences, King
+Abdullah International Medical Research Center, Riyadh, Saudi Arabia.
+25
+Intensive Care Unit, King Saud Medical City, Riyadh, Saudi Arabia.
+26
+Infectious Disease, King Saud Medical City, Riyadh, Saudi Arabia. 27Intensive
+Care Department, King Saud Medical City, Riyadh, Saudi Arabia.
+28
+Department of Anesthesiology and Intensive Care, Tanta University
+Hospitals, Tanta, Egypt. 29Institute of Health Policy Management and
+Evaluation, University of Toronto, Toronto, Canada. 30Department of Critical
+Care Medicine and Department of Medicine, Sunnybrook Hospital, Bayview
+Avenue, Room D478, Toronto 2075, Canada. 31International Severe Acute
+Respiratory and Emerging Infection Consortium (ISARIC), Division of
+Infectious Diseases and International Health, Department of Medicine,
+University of Virginia School of Medicine, Charlottesville, Virginia, USA.
+32
+Critical Care Medicine Department, King Abdullah Medical Complex,
+Jeddah, Saudi Arabia. 33Critical Care Medicine Department, Cairo University
+Hospital, Cairo, Egypt. 34Internal Medicine Department, King Fahad General
+Hospital, Ministry of Health, Jeddah, Saudi Arabia.
+Received: 9 December 2018 Accepted: 24 October 2019
+
+References
+1. Arabi YM, Balkhy HH, Hayden FG, Bouchama A, Luke T, Baillie JK, Al-Omari A,
+Hajeer AH, Senga M, Denison MR, et al. Middle East respiratory syndrome. N
+Engl J Med. 2017;376:584–94.
+2. Arabi Y, Shalhoub S, Mandourah Y, Al-Hameed F, Al-Omari A, Al Qasim E,
+Jose J, Alraddadi B, Almotairi A, Al Khatib K, Abdulmomen A, Qushmaq I,
+Sindi AA, Mady A, Solaiman O, Al-Raddadi R, Maghrabi K, Ragab A, Al
+Mekhlafi GA, Balkhy HH, Al Harthy A, Kharaba A, Gramish JA, Al-Aithan AM,
+Al-Dawood A, Merson L, Hayden FG, Fowler R, Saudi Critical Care Trials
+Group. Ribavirin and interferon therapy for critically ill patients with the
+Middle East respiratory syndrome: a multicenter observational study, Clin
+Infect Dis 2019; ciz544. doi: https://doi.org/10.1093/cid/ciz544.
+3. Arabi YM, Alothman A, Balkhy HH, Al-Dawood A, AlJohani S, Al Harbi S,
+Kojan S, Al Jeraisy M, Deeb AM, Assiri AM, et al. Treatment of Middle East
+respiratory syndrome with a combination of lopinavir-ritonavir and
+interferon-beta1b (MIRACLE trial): study protocol for a randomized
+controlled trial. Trials. 2018;19:81.
+4. Chang M. Adaptive design theory and implementation using SAS and R.
+2nd ed. Boca Raton: Chapman & Hall/CRC; 2014. p. 153–80.
+5. Liu Q, Anderson KM, Pledger GW. Benefit–risk evaluation of multi-stage
+adaptive designs. Seq Anal. 2004;23:317–31.
+
+Page 8 of 8
+
+
+US Food and Drug Administration (FDA). Draft guidance for industry on
+enrichment strategies for clinical trials to support approval of human drugs
+and biological products; availability. 2012. https://www.federalregister.gov/
+documents/2012/12/17/2012-30274/draft-guidance-for-industry-onenrichment-strategies-for-clinical-trials-to-support-approval-of. Accessed 26
+June 2019.
+Wassmer G, Eisebitt R, Coburger S. Flexible interim analyses in clinical trials
+using multistage adaptive test designs. Drug Inf J. 2001;35:1131–46.
+Schafer H, Muller HH. Modification of the sample-size and the schedule of
+interim analyses in survival trials based on data inspections. Stat Med. 2001;
+20:3741–51.
+Moher D, Hopewell S, Schulz KF, Montori V, Gotzsche PC, Devereaux PJ,
+Elbourne D, Egger M, Altman DG. CONSORT 2010 explanation and
+elaboration: updated guidelines for reporting parallel group randomised
+trials. BMJ. 2010;340:c869.
+Schulz KF, Altman DG, Moher D, Group C. CONSORT 2010 statement:
+updated guidelines for reporting parallel group randomised trials. BMJ.
+2010;340:c332.
+International Conference on Harmonisation of Technical Requirements for
+Registration of Pharmaceuticals for Human Use: Good Clinical Practice (GCP)
+guideline. https://database.ich.org/sites/default/files/E6_R2_Addendum.pdf.
+The International Council for Harmonisation of Technical Requirements for
+Pharmaceuticals for Human Use (ICH): statistical principles for clinical trials.
+https://database.ich.org/sites/default/files/E9_Guideline.pdf.
+International Conference on Harmonisation of Technical Requirements for
+Registration of Pharmaceuticals for Human Use: E3 - structure and content
+of clinical study reports. https://database.ich.org/sites/default/files/E3_
+Guideline.pdf.
+Gamble C, Krishan A, Stocken D, Lewis S, Juszczak E, Dore C, Williamson PR,
+Altman DG, Montgomery A, Lim P, et al. Guidelines for the content of
+statistical analysis plans in clinical trials. JAMA. 2017;318:2337–43.
+Srivastava DK, Rai SN, Pan J. Robustness of an odds-ratio test in a stratified
+group sequential trial with a binary outcome measure. Biom J. 2007;49:351–64.
+Rubin DB. Multiple imputation after 18+ years. J Am Stat Assoc. 1996;91:473–89.
+Benjamini Y, Hochberg Y. Controlling the false discovery rate: a practical
+and powerful approach to multiple testing. J R Stat Soc Ser B Methodol.
+1995;57:289–300.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+

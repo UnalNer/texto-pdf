@@ -1,0 +1,327 @@
+﻿Emerging Microbes & Infections
+
+ISSN: (Print) 2222-1751 (Online) Journal homepage: https://www.tandfonline.com/loi/temi20
+
+Potent binding of 2019 novel coronavirus spike
+protein by a SARS coronavirus-specific human
+monoclonal antibody
+Xiaolong Tian, Cheng Li, Ailing Huang, Shuai Xia, Sicong Lu, Zhengli Shi, Lu
+Lu, Shibo Jiang, Zhenlin Yang, Yanling Wu & Tianlei Ying
+To cite this article: Xiaolong Tian, Cheng Li, Ailing Huang, Shuai Xia, Sicong Lu, Zhengli Shi, Lu
+Lu, Shibo Jiang, Zhenlin Yang, Yanling Wu & Tianlei Ying (2020) Potent binding of 2019 novel
+coronavirus spike protein by a SARS coronavirus-specific human monoclonal antibody, Emerging
+Microbes & Infections, 9:1, 382-385, DOI: 10.1080/22221751.2020.1729069
+To link to this article: https://doi.org/10.1080/22221751.2020.1729069
+
+© 2020 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group, on behalf of Shanghai Shangyixun
+Cultural Communication Co., Ltd
+
+View supplementary material
+
+Published online: 17 Feb 2020.
+
+Submit your article to this journal
+
+Article views: 20670
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 1 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=temi20
+
+Emerging Microbes & Infections
+2020, VOL. 9
+https://doi.org/10.1080/22221751.2020.1729069
+
+LETTER
+
+Potent binding of 2019 novel coronavirus spike protein by a SARS coronavirusspeciﬁc human monoclonal antibody
+Xiaolong Tiana#, Cheng Lia#, Ailing Huanga, Shuai Xiaa, Sicong Lua, Zhengli Shi
+Zhenlin Yangc, Yanling Wua and Tianlei Ying a
+
+b
+
+, Lu Lua, Shibo Jiang
+
+a
+
+,
+
+a
+
+MOE/NHC/CAMS Key Laboratory of Medical Molecular Virology, School of Basic Medical Sciences, Shanghai Medical College, Fudan
+University, Shanghai, People’s Republic of China; bCAS Key Laboratory of Special Pathogens, Wuhan Institute of Virology, Center for
+Biosafety Mega-Science, Chinese Academy of Sciences, Wuhan, People’s Republic of China; cDepartment of Pulmonary Medicine,
+Zhongshan Hospital, Fudan University, Shanghai, People’s Republic of China
+ABSTRACT
+
+The newly identiﬁed 2019 novel coronavirus (2019-nCoV) has caused more than 11,900 laboratory-conﬁrmed human
+infections, including 259 deaths, posing a serious threat to human health. Currently, however, there is no speciﬁc
+antiviral treatment or vaccine. Considering the relatively high identity of receptor-binding domain (RBD) in 2019-nCoV
+and SARS-CoV, it is urgent to assess the cross-reactivity of anti-SARS CoV antibodies with 2019-nCoV spike protein,
+which could have important implications for rapid development of vaccines and therapeutic antibodies against 2019nCoV. Here, we report for the ﬁrst time that a SARS-CoV-speciﬁc human monoclonal antibody, CR3022, could bind
+potently with 2019-nCoV RBD (KD of 6.3 nM). The epitope of CR3022 does not overlap with the ACE2 binding site
+within 2019-nCoV RBD. These results suggest that CR3022 may have the potential to be developed as candidate
+therapeutics, alone or in combination with other neutralizing antibodies, for the prevention and treatment of 2019nCoV infections. Interestingly, some of the most potent SARS-CoV-speciﬁc neutralizing antibodies (e.g. m396, CR3014)
+that target the ACE2 binding site of SARS-CoV failed to bind 2019-nCoV spike protein, implying that the diﬀerence in
+the RBD of SARS-CoV and 2019-nCoV has a critical impact for the cross-reactivity of neutralizing antibodies, and that it
+is still necessary to develop novel monoclonal antibodies that could bind speciﬁcally to 2019-nCoV RBD.
+ARTICLE HISTORY Received 27 January 2020; Revised 2 February 2020; Accepted 3 February 2020
+KEYWORDS 2019-nCoV; SARS-CoV; ACE2; monoclonal antibody; RBD
+
+Very recently, a novel coronavirus which was temporarily named “2019 novel coronavirus (2019-nCoV)”
+emerged in Wuhan, China [1]. As of 1 February
+2020, 2019-nCoV has resulted in a total of 11,821 laboratory-conﬁrmed human infections in China, including 259 deaths, and 132 exported cases in 23 countries
+outside of China (https://www.who.int/emergencies/
+diseases/novel-coronavirus-2019/situation-reports).
+Currently, there is no vaccine or eﬀective antiviral
+treatment against 2019-nCoV infection.
+Based on the phylogenetic analysis (GISAID accession no. EPI_ISL_402124) [2], 2019-nCoV belongs to
+lineage B betacoronavirus and shares high sequence
+identity with that of bat or human severe acute respiratory syndrome coronavirus-related coronavirus
+(SARSr-CoV) and bat SARS-like coronavirus (SLCoV) (Figure 1(a)). In previous studies, a number of
+potent monoclonal antibodies against SARS coronavirus (SARS-CoV) have been identiﬁed [3–7]. These
+antibodies target the spike protein (S) of SARS-CoV
+
+and SL-CoVs, which is a type I transmembrane glycoprotein and mediates the entrance to human respiratory epithelial cells by interacting with cell surface
+receptor angiotensin-converting enzyme 2 (ACE2)
+[8]. More speciﬁcally, the 193 amino acid length
+(N318-V510) receptor binding domain (RBD) within
+the S protein is the critical target for neutralizing antibodies [9]. Some of the antibodies recognize diﬀerent
+epitopes on RBD; e.g. the SARS-CoV neutralizing antibodies CR3014 and CR3022 bound noncompetitively
+to the SARS-CoV RBD and neutralized the virus in a
+synergistic fashion [5]. We predicted the conformation
+of 2019-nCoV RBD as well as its complex structures
+with several neutralizing antibodies, and found that
+the modelling results support the interactions between
+2019-nCoV RBD and certain SARS-CoV antibodies
+(Figure 1(b)). This could be due to the relatively high
+identity (73%) of RBD in 2019-nCoV and SARS-CoV
+(Figure 1(c)). For instance, residues in RBD of SARSCoV that make polar interactions with a neutralizing
+
+CONTACT Tianlei Ying
+tlying@fudan.edu.cn
+Room 504, Fosun Building, 131 Dong-an Road, Shanghai 200032, People’s Republic of China; Yanling
+yanlingwu@fudan.edu.cn
+Room 504, Fosun Building, 131 Dong-an Road, Shanghai 200032, People’s Republic of China; Zhenlin Yang
+Wu
+yang_zhenlin@fudan.edu.cn
+Room 504, Fosun Building, 131 Dong-an Road, Shanghai 200032, People’s Republic of China
+#
+These authors contributed equally to this article.
+Supplemental data for this article can be accessed at https://doi.org/10.1080/22221751.2020.1729069.
+© 2020 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group, on behalf of Shanghai Shangyixun Cultural Communication Co., Ltd
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted
+use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+Emerging Microbes & Infections
+
+383
+
+Figure 1. (a) Phylogenetic analysis of 2019-nCoV spike glycoprotein from its protein BLAST sequences. The neighbour-joining tree
+was constructed using MEGA X, tested by bootstrap method of 2000 replicates, and edited by the online tool of iTOL (v5). (b) The
+simulated model of 2019-nCoV RBD binding to SARS-CoV-RBD-speciﬁc antibodies (m396, 80R, and F26G19). (c) Protein sequence
+alignment of 2019-nCoV and SARS-CoV RBD, showing the predominant residues that contribute to interactions with ACE2 or SARSCoV-speciﬁc antibodies. (d) The comparison of the complex structures of SARS-CoV-RBD and SARS-CoV-RBD-speciﬁc antibodies
+(shown in the ﬁrst row) and models of 2019-nCoV-RBD and SARS-CoV-RBD-speciﬁc antibodies (shown in the second row). (e) Binding of monoclonal antibodies to 2019-nCoV RBD determined by ELISA. (f) Binding proﬁles of 2019-nCoV RBD to ACE2 and antibodies, and (g) competition of CR3022 and ACE2 with 2019-nCoV RBD measured by BLI in OctetRED96. Binding kinetics was
+evaluated using a 1:1 Langmuir binding model by ForteBio Data Analysis 7.0 software.
+
+384
+
+X. Tian et al.
+
+antibody m396 as indicated by the complex crystal
+structure [10] are invariably conserved in 2019-nCoV
+RBD (Figure 1(d)). In the structure of SARS-CoVRBD-m396, R395 in RBD formed a salt bridge with
+D95 of m396-VL. Concordantly, the electrostatic interaction was also observed in the model of 2019-nCoVRBD-m396, forming by R408 (RBD) and D95
+(m396-VL). This analysis suggests that some SARSCoV-speciﬁc monoclonal antibodies may be eﬀective
+in neutralizing 2019-nCoV. In contrast, the interactions between antibody F26G19 [11] or 80R [12]
+and the RBD in 2019-nCoV decreased signiﬁcantly
+due to the lack of salt bridges formed by R426-D56
+in SARS-CoV-RBD-F26G19 or D480-R162 in SARSCoV-RBD-80R, respectively. Furthermore, while most
+of the 80R-binding residues on the RBD of SARSCoV are not conserved on RBD of 2019-nCoV (Figure
+1(c)), it is unlikely that the antibody 80R could eﬀectively recognize 2019-nCoV. Therefore, it is urgent to
+experimentally determine the cross-reactivity of antiSARS-CoV antibodies with 2019-nCoV spike protein,
+which could have important implications for rapid
+development of vaccines and therapeutic antibodies
+against 2019-nCoV.
+In this study, we ﬁrst expressed and puriﬁed 2019nCoV RBD protein. We also predicted the conformations of 2019-nCoV RBD and its complex with the
+putative receptor, human ACE2. Comparison of the
+interaction between the complex of ACE2 [13] and
+SARS-CoV RBD and homology model of ACE2 and
+2019-nCoV RBD revealed similar binding modes
+(data not shown). In both complexes, β5–β6 loop and
+β6–β7 loop form extensive contact, including at least
+seven pairs of hydrogen bonds, with the receptor. Notably, R426 on the forth α helix in SARS-CoV RBD builds
+a salt bridge with E329 and a hydrogen bond with Q325
+on ACE2. However, the arginine (R426 in SARS-CoV
+RBD) to asparagine (N439) mutation in 2019-nCoV
+RBD abolished the strong polar interactions, which
+may induce a decrease in the binding aﬃnity between
+RBD and the receptor. Interestingly, a lysine (K417 in
+2019-nCoV RBD) replacement of valine (V404 in
+SARS-CoV RBD) on β6 formed an extra salt bridge
+with D30 on ACE2, which may recover the binding
+ability. These data indicate that the RBD in S protein
+of 2019-nCoV may bind to ACE2 with a similar
+aﬃnity as SARS-CoV RBD does. Indeed, we measured
+the binding of 2019-nCoV RBD to human ACE2 by
+the biolayer interferometry binding (BLI) assay, and
+found that 2019-nCoV RBD bound potently to ACE2.
+The calculated aﬃnity (KD) of 2019-nCoV RBD with
+human ACE2 was 15.2 nM (Figure 1(f)), which is comparable to that of SARS-CoV spike protein with human
+ACE2 (15 nM) [14]. These results indicate that ACE2
+could be the potential receptor for the new coronavirus,
+and that the expressed 2019-nCoV RBD protein is functional [2].
+
+Next, we expressed and puriﬁed several representative SARS-CoV-speciﬁc antibodies which have been
+reported to target RBD and possess potent neutralizing
+activities, including m396 [3], CR3014 [4], CR3022 [5],
+as well as a MERS-CoV-speciﬁc human monoclonal
+antibody m336 developed by our laboratory [15], and
+measured their binding ability to 2019-nCoV RBD by
+ELISA (Figure 1(e)). Surprisingly, we found that most
+of these antibodies did not show evident binding to
+2019-nCoV RBD. To conﬁrm this result, we further
+measured the binding kinetics using BLI. An irrelevant
+anti-CD40 antibody was used as a negative control.
+Similarly, the antibody m396, which was predicted to
+bind 2019-nCoV RBD (Figure 1(d)), only showed
+slight binding at the highest measured concentration
+(2.0 µM). Further studies are needed to solve the
+high-resolution structure of 2019-nCoV RBD and
+understand why it could not be recognized by these
+antibodies.
+Notably, one SARS-CoV-speciﬁc antibody, CR3022,
+was found to bind potently with 2019-nCoV RBD as
+determined by ELISA and BLI (Figure 1(e,f)). It followed a fast-on (kon of 1.84 × 105 Ms−1) and slow-oﬀ
+(koﬀ of 1.16 × 10−3 s−1) binding kinetics, resulting in
+a KD of 6.3 nM (Figure 1(f)). This antibody was isolated from blood of a convalescent SARS patient and
+did not compete with the antibody CR3014 for binding
+to recombinant S protein [5]. To further elucidate the
+binding epitopes of CR3022, we measured the competition of CR3022 and human ACE2 for the binding to
+2019-nCoV RBD. The streptavidin biosensors labelled
+with biotinylated 2019-nCoV RBD were saturated with
+human ACE2 in solution, followed by the addition of
+the test antibodies in the presence of ACE2. As
+shown in Figure 1(g), the antibody CR3022 did not
+show any competition with ACE2 for the binding to
+2019-nCoV RBD. These results suggest that CR3022,
+distinct from the other two SARS-CoV antibodies,
+recognizes an epitope that does not overlap with the
+ACE2 binding site of 2019-nCoV RBD.
+The RBD of 2019-nCoV diﬀers largely from the
+SARS-CoV at the C-terminus residues (Figure 1(c)).
+Our results implied that such a diﬀerence did not result
+in drastic changes in the capability to engage the ACE2
+receptor, but had a critical impact on the cross-reactivity of neutralizing antibodies. Some of the most potent
+SARS-CoV-speciﬁc neutralizing antibodies (e.g. m396,
+CR3014) that target the receptor binding site of SARSCoV failed to bind 2019-nCoV spike protein, indicating that it is necessary to develop novel monoclonal
+antibodies that could bind speciﬁcally to 2019-nCoV
+RBD. Interestingly, it was reported that the antibody
+CR3022 completely neutralized both the wild-type
+SARS-CoV and the CR3014 escape viruses at a concentration of 23.5 μg/ml, and that no escape variants could
+be generated with CR3022 [5]. Furthermore, the mixture of CR3022 and CR3014 neutralized SARS-CoV
+
+Emerging Microbes & Infections
+
+in a synergistic fashion by recognizing diﬀerent epitopes on RBD [5]. These results suggest that CR3022
+has the potential to be developed as candidate therapeutics, alone or in combination with other neutralizing antibodies, for the prevention and treatment of
+2019-nCoV infections. We expect more cross-reactive
+antibodies against 2019-nCoV and SARS-CoV or
+other coronaviruses to be identiﬁed soon, facilitating
+the development of eﬀective antiviral therapeutics
+and vaccines.
+
+
+This work was supported by grants from the National Natural Science Foundation of China (81822027, 81630090),
+National Key Research and Development Program of
+China (2019YFA0904400), National Megaprojects of China
+for Major Infectious Diseases (2018ZX10301403), Chinese
+Academy of Medical Sciences (2019PT350002), and the
+staﬀ from Core Facility of Microbiology and Parasitology,
+Shanghai Medical College, Fudan University.
+
+[10]
+
+[11]
+
+ORCID
+Zhengli Shi
+Shibo Jiang
+Tianlei Ying
+
+[9]
+
+http://orcid.org/0000-0001-8089-163X
+http://orcid.org/0000-0001-8283-7135
+http://orcid.org/0000-0002-9597-2843
+
+[12]
+
+References
+[1] Chan JF, Kok KH, Zhu Z, et al. Genomic characterization of the 2019 novel human-pathogenic coronavirus
+isolated from a patient with atypical pneumonia after
+visiting Wuhan. Emerg Microbes Infect. 2020;9
+(1):221–236.
+[2] Zhou P, Yang XL, Wang XG, et al. A pneumonia outbreak associated with a new coronavirus of probable
+bat origin. Nature. 2020. doi:10.1038/s41586-0202012-7. [Epub ahead of print]
+[3] Zhu Z, Chakraborti S, He Y, et al. Potent cross-reactive
+neutralization of SARS coronavirus isolates by human
+
+[13]
+
+[14]
+
+[15]
+
+385
+
+monoclonal antibodies. Proc Natl Acad Sci USA.
+2007;104(29):12123–12128.
+ter Meulen J, Bakker ABH, van den Brink EN, et al.
+Human monoclonal antibody as prophylaxis for
+SARS coronavirus infection in ferrets. The Lancet.
+2004;363(9427):2139–2141.
+ter Meulen J, Van Den Brink EN, Poon LLM, et al.
+Human monoclonal antibody combination against
+SARS coronavirus: synergy and coverage of escape
+mutants. PLoS Med. 2006;3(7):e237.
+Sui J, Li W, Murakami A, et al. Potent neutralization of
+severe acute respiratory syndrome (SARS) coronavirus
+by a human mAb to S1 protein that blocks receptor
+association. Proc Natl Acad Sci USA. 2004;101
+(8):2536–2541.
+Traggiai E, Becker S, Subbarao K, et al. An eﬃcient
+method to make human monoclonal antibodies from
+memory B cells: potent neutralization of SARS coronavirus. Nat Med. 2004;10(8):871–875.
+Gallagher TM, Buchmeier MJ. Coronavirus spike proteins in viral entry and pathogenesis. Virology.
+2001;279(2):371–374.
+Wong SK, Li W, Moore MJ, et al. A 193-amino acid
+fragment of the SARS coronavirus S protein eﬃciently
+binds angiotensin-converting enzyme 2. J Biol Chem.
+2004;279(5):3197–3201.
+Prabakaran P, Gan J, Feng Y, et al. Structure of severe
+acute respiratory syndrome coronavirus receptorbinding domain complexed with neutralizing antibody. J Biol Chem. 2006;281(23):15829–15836.
+Pak JE, Sharon C, Satkunarajah M, et al. Structural
+insights into immune recognition of the severe
+acute respiratory syndrome coronavirus S protein
+receptor binding domain. J Mol Biol. 2009;388
+(4):815–823.
+Hwang WC, Lin Y, Santelli E, et al. Structural basis of
+neutralization by a human anti-severe acute respiratory syndrome spike protein antibody, 80R. J Biol
+Chem. 2006;281(45):34610–34616.
+Li F, Li W, Farzan M, et al. Structure of SARS coronavirus spike receptor-binding domain complexed with
+receptor. Science. 2005;309(5742):1864–1868.
+Walls AC, Xiong X, Park Y-J, et al. Unexpected
+receptor functional mimicry elucidates activation
+of coronavirus fusion. Cell. 2019;176(5):1026–
+1039.e15.
+Ying T, Prabakaran P, Du L, et al. Junctional and allelespeciﬁc residues are critical for MERS-CoV neutralization by an exceptionally potent germline-like antibody. Nat Commun. 2015;6:8223.
+
+

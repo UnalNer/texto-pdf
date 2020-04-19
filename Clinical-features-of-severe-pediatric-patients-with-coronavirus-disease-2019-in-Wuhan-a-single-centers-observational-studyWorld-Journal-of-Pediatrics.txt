@@ -1,0 +1,53 @@
+﻿World Journal of Pediatrics
+https://doi.org/10.1007/s12519-020-00354-4
+
+ORIGINAL ARTICLE
+
+Clinical features of severe pediatric patients with coronavirus disease
+2019 in Wuhan: a single center’s observational study
+Dan Sun1,5 · Hui Li2 · Xiao‑Xia Lu4 · Han Xiao5 · Jie Ren3 · Fu‑Rong Zhang3 · Zhi‑Sheng Liu1
+Received: 26 February 2020 / Accepted: 2 March 2020
+© Children’s Hospital, Zhejiang University School of Medicine 2020
+
+Background An outbreak of coronavirus disease 2019 (COVID-19) caused by SARS-CoV-2 was first detected in Wuhan,
+Hubei, China. People of all ages are susceptible to SARS-CoV-2 infection. No information on severe pediatric patients with
+COVID-19 has been reported. We aimed to describe the clinical features of severe pediatric patients with COVID-19.
+Methods We included eight severe or critically ill patients with COVID-19 who were treated at the Intensive Care Unit
+(ICU), Wuhan Children’s Hospital from January 24 to February 24. We collected information including demographic data,
+symptoms, imaging data, laboratory findings, treatments and clinical outcomes of the patients with severe COVID-19.
+Results The onset age of the eight patients ranged from 2 months to 15 years; six were boys. The most common symptoms were polypnea (8/8), followed by fever (6/8) and cough (6/8). Chest imaging showed multiple patch-like shadows in
+seven patients and ground-glass opacity in six. Laboratory findings revealed normal or increased whole blood counts (7/8),
+increased C-reactive protein, procalcitonin and lactate dehydrogenase (6/8), and abnormal liver function (4/8). Other findings included decreased CD16 + CD56 (4/8) and Th/Ts*(1/8), increased CD3 (2/8), CD4 (4/8) and CD8 (1/8), IL-6 (2/8),
+IL-10 (5/8) and IFN-γ (2/8). Treatment modalities were focused on symptomatic and respiratory support. Two critically ill
+patients underwent invasive mechanical ventilation. Up to February 24, 2020, three patients remained under treatment in
+ICU, the other five recovered and were discharged home.
+Conclusions In this series of severe pediatric patients in Wuhan, polypnea was the most common symptom, followed by
+fever and cough. Common imaging changes included multiple patch-like shadows and ground-glass opacity; and a cytokine
+storm was found in these patients, which appeared more serious in critically ill patients.
+Keywords Children · COVID-19 · Novel coronavirus · 2019-nCoV · Severe · Critical ill · Wuhan
+
+The outbreak of coronavirus disease 2019 (COVID-19,
+previously known as 2019-nCoV) caused by SARS-CoV-2
+infection in Wuhan City, China, has spread around the world
+[1]. As of 24 February, more than 77,262 confirmed patients
+have been reported in China, and several patients have been
+confirmed in 29 countries. Among the confirmed patients
+in china, 9915 were severe patients and 2592 died [2]. In
+addition, most of those who died had underlying health
+conditions such as hypertension, diabetes or cardiovascular
+disease which compromised their immune system [3].
+Previous studies have shown that patients with COVID19 present with fever, dry cough, dyspnea, fatigue and lymphopenia. SARS-CoV-2 is more likely to infect elderly adult
+men; and those with chronic comorbidities are at higher
+risk of severe acute respiratory syndrome and even death
+in severe patients [4–6]. Infected children have relatively
+milder clinical symptoms compared with infected adults
+[7], and no deaths have been reported in the pediatric population up to now. Mildly affected pediatric patients have
+been reported with an age of onset ranging from 17 days to
+17 years [8]. However, specific information characterizing
+severely affected pediatric patients remains unknown.
+For better understanding of the clinical features of severe
+pediatric patients with COVID-19 and for improving the
+diagnosis and treatment, we aimed to describe epidemiological and clinical features, imaging data, laboratory findings,
+clinical treatments and outcomes of severely or critically ill
+pediatric patients with COVID-19 in Wuhan City, China.
+

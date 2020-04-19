@@ -1,0 +1,104 @@
+﻿Engineering xxx (xxxx) xxx
+
+Contents lists available at ScienceDirect
+
+Engineering
+journal homepage: www.elsevier.com/locate/eng
+
+Research
+Corona Virus Disease 2019—Article
+
+Clinical Study of Mesenchymal Stem Cell Treatment for Acute
+Respiratory Distress Syndrome Induced by Epidemic Influenza
+A (H7N9) Infection: A Hint for COVID-19 Treatment
+Jiajia Chen a,y, Chenxia Hu a,y, Lijun Chen a,y, Lingling Tang b, Yixin Zhu b, Xiaowei Xu a, Lu Chen c,
+Hainv Gao b, Xiaoqing Lu a, Liang Yu a, Xiahong Dai b, Charlie Xiang a,⇑, Lanjuan Li a,b,⇑
+State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis
+and Treatment of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou 310003, China
+The Shulan (Hangzhou) Hospital, Affiliated to Shulan International Medical College, Zhejiang Shuren University, Hangzhou 310003, China
+Innovative Precision Medicine (IPM) Group, Hangzhou 311215, China
+
+Keywords:
+H7N9
+Mesenchymal stem cell
+Epidemic Influenza A
+Acute respiratory distress syndrome
+COVID-19
+Stem cell therapeutics
+
+
+H7N9 viruses quickly spread between mammalian hosts and carry the risk of human-to-human transmission, as shown by the 2013 outbreak. Acute respiratory distress syndrome (ARDS), lung failure, and fulminant pneumonia are major lung diseases in H7N9 patients. Transplantation of mesenchymal stem cells
+(MSCs) is a promising choice for treating virus-induced pneumonia, and was used to treat H7N9-induced
+ARDS in 2013. The transplant of MSCs into patients with H7N9-induced ARDS was conducted at a single
+center through an open-label clinical trial. Based on the principles of voluntariness and informed consent,
+44 patients with H7N9-induced ARDS were included as a control group, while 17 patients with H7N9induced ARDS acted as an experimental group with allogeneic menstrual-blood-derived MSCs. It was
+notable that MSC transplantation significantly lowered the mortality of the experimental group, compared with the control group (17.6% died in the experimental group while 54.5% died in the control
+group). Furthermore, MSC transplantation did not result in harmful effects in the bodies of four of the
+patients who were part of the five-year follow-up period. Collectively, these results suggest that MSCs
+significantly improve the survival rate of H7N9-induced ARDS and provide a theoretical basis for the
+treatment of H7N9-induced ARDS in both preclinical research and clinical studies. Because H7N9 and
+the corona virus disease 2019 (COVID-19) share similar complications (e.g., ARDS and lung failure) and
+corresponding multi-organ dysfunction, MSC-based therapy could be a possible alternative for treating
+COVID-19.
+
+Influenza A viruses (IAVs) are divided into multiple subtypes
+according to diversified viral surface antigens and two major
+pathotypes, including high and low pathogenicity for chicken
+[1,2]. Among these IAVs, all avian viruses with high pathogenicity
+have belonged to the H5/H7 subtype until recently [3]. A novel
+avian-original influenza virus emerged in the spring of 2013 and
+unfortunately led to severe and fatal respiratory disease in humans
+[4]. This novel virus has a similar phylogenetic genome to a virus
+⇑ Corresponding authors.
+y isolated from chicken found in a live poultry market [4]. H7N9
+virus is one of many reassortant viruses, which are primarily
+derived from the H7N3, H7N9, and H9N2 subtypes of IAVs [5–7].
+Although H7N9 is pathogenically low in chickens [8], humans are
+much more susceptible to transmission, particularly at live poultry
+markets after intimate contact with H7N9-infected chickens [4,9].
+H7N9 viruses are able to spread between mammalian hosts (ferrets) without losing virulence [10], and genetic mutations of
+H7N9 virus confer the risk of human-to-human transmission
+[11–13], as demonstrated in a few family clusters infected by this
+virus [14,15]. There have been six seasonal epidemics since the
+first case emerged in 2013, and the epidemic resurgence of
+the virus in mainland China since 2016 suggests that it has become
+more virulent [16,17]. Therefore, defending against H7N9-induced
+acute respiratory distress syndrome (ARDS) will be instrumental in
+curing H7N9 patients.
+ARDS, lung failure, and fulminant pneumonia are major lung
+diseases in H7N9 patients, and H7N9 virus causes extrapulmonary
+diseases including rhabdomyolysis and encephalopathy through
+cytokine storms in vivo [4,18,19]. There is currently no vaccine
+available for preventing H7N9 infections. Other extensive therapeutic interventions (e.g., extracorporeal membrane oxygenation
+(ECMO) and continuous renal replacement therapy (CRRT)) have
+been applied to infectious patients with severe H7N9 [20–22].
+However, dealing with the antiviral resistance of H7N9 and
+secondary-infection-induced multiple organ dysfunction in
+patients is still a serious concern, and there is an exigent demand
+to explore an effective strategy against H7N9 infection in humans.
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has
+garnered global attention for causing the coronavirus disease 2019
+(COVID-19) in Wuhan, China [23–25]. The number of infected
+patients has risen rapidly due to a lack of sufficient awareness,
+proximity between people, ease of mobility, and the human-tohuman transmission ability of the virus [26–29]. At presnet, there
+is no effective way to cure COVID-19. H7N9 and COVID-19 share
+similar complications (e.g., ARDS and lung failure) and corresponding multi-organ dysfunction with lung inflammatory lesions and
+structural damage [24,30]. Hence, a breakthrough in treatment
+strategy for H7N9 infection in humans would be critical for treating COVID-19—and especially ARDS-induced severe pneumonia,
+which is currently causing panic around the world.
+Because efforts to control lung injury via pharmacological
+agents have been unsuccessful, mesenchymal stem cell (MSC)based therapy is being investigated, based on MSC’s limitless
+self-renewal and multipotency. Furthermore, MSC-based therapies
+demonstrated promising effects in the experimental treatment
+of ARDS via inhibition of alveolar collapse, collagen accumulation,
+and cell apoptosis in lung tissue. Recently, Wilson et al. [31] found
+that administrating allogeneic MSCs in nine patients with ARDS
+resulted in no pre-specified adverse events, including hypoxaemia,
+cardiac arrhythmia, and ventricular tachycardia. Menstrual-bloodderived MSCs are currently attracting interest due to source potential, a high proliferation rate, and a painless procedure that is free
+of ethical issues [32–34].
+This study is the first trial to test menstrual-blood-derived MSCs
+in patients with H7N9-induced ARDS. We report the effects of
+transplantation at different stages of ARDS and assess the longterm safety and the improvement of pulmonary function from
+H7N9 infection after MSC transplantation. Our study not only contributes to this field as a pilot clinical study showing the function of
+MSCs in H7N9-induced ARDS, but also suggests that MSCs are a
+promising tool for treating acute pneumonia in future clinical use.

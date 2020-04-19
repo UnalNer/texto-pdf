@@ -1,0 +1,48 @@
+Research
+
+JAMA Cardiology | Original Investigation
+
+Association of Cardiac Injury With Mortality
+in Hospitalized Patients With COVID-19 in Wuhan
+IMPORTANCE Coronavirus disease 2019 (COVID-19) has resulted in considerable morbidity
+
+Supplemental content
+
+and mortality worldwide since December 2019. However, information on cardiac injury in
+patients affected by COVID-19 is limited.
+OBJECTIVE To explore the association between cardiac injury and mortality in patients with
+
+
+Methods
+Study Participants
+Consecutive patients admitted to Renmin Hospital of Wuhan
+University with laboratory-confirmed COVID-19 were included in this retrospective cohort study, which was conducted from January 20, 2020, to February 10, 2020. Renmin
+Hospital of Wuhan University, located in Wuhan, Hubei Province, China, was assigned responsibility for the treatment of
+patients with severe COVID-19 by the Wuhan government. The
+patients with COVID-19 enrolled in this study were diagnosed according to World Health Organization interim
+guidance.4 The cases without cardiac biomarkers, including
+values of high-sensitivity troponin I (hs-TNI) and creatinine kinase–myocardial band (CK-MB), were excluded.
+This study was approved by the National Health Commission of China and the institutional review board at Renmin Hospital of Wuhan University (Wuhan, China). Written informed
+consent was waived by the ethics commission of the designated hospital for patients with emerging infectious diseases.
+
+Data Collection
+The demographic characteristics (age and sex), clinical data
+(symptoms, comorbidities, laboratory findings, treatments,
+complications, and outcomes), laboratory findings, and results of cardiac examinations (cardiac biomarkers and electrocardiography) for participants during hospitalization were collected from electronic medical records by 2 investigators (S.S.
+and B.S.). Cardiac biomarkers measured on admission were collected, including hs-TNI, CK-MB, and myohemoglobin. The radiologic assessments included chest radiography or computed tomography. All data were independently reviewed and
+entered into the computer database by 2 analysts (T.L. and Y.C.).
+Patients were categorized according to the presence or absence of cardiac injury. Cardiac injury was defined as blood levels of cardiac biomarkers (hs-TNI) above the 99th-percentile
+upper reference limit, regardless of new abnormalities in
+E2
+
+Key Points
+Question What is the incidence and significance of cardiac injury
+in patients with COVID-19?
+Findings In this cohort study of 416 consecutive patients with
+confirmed COVID-19, cardiac injury occurred in 19.7% of patients
+during hospitalization, and it was one independent risk factor for
+in-hospital mortality.
+Meaning Cardiac injury is a common condition among patients
+hospitalized with COVID-19, and it is associated with higher risk of
+in-hospital mortality.
+Treatment Antiviral treatment, Glucocorticoids,Intravenous immunoglobulin therapy,Antibiotic treatment

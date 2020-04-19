@@ -1,0 +1,61 @@
+The Veterinary Journal 248 (2019) 95–100
+
+Contents lists available at ScienceDirect
+
+The Veterinary Journal
+journal homepage: www.elsevier.com/locate/tvjl
+
+Clinical presentation, diagnostic ﬁndings, and outcome of adult horses
+with equine coronavirus infection at a veterinary teaching hospital:
+33 cases (2012–2018)
+E.H. Berryhill* , K.G. Magdesian, M. Aleman, N. Pusterla
+Department of Medicine and Epidemiology, School of Veterinary Medicine, University of California, Davis, One Shields Ave., Davis, CA, 95616, USA
+
+Keywords:
+Colic
+Diarrhea
+Fever
+Gastrointestinal
+Infectious
+
+Equine coronavirus (ECoV) is a recently described enteric virus with worldwide outbreaks; however, there are
+little data available on clinical presentation, diagnosis, and outcome. The study objective was to document case
+management of ECoV in adult horses presented to a referral hospital and compare to a cohort of horses that
+tested negative for ECoV. A retrospective case series was performed based on positive real-time quantitative
+PCR results for ECoV on faeces from horses treated at the UC Davis Veterinary Medical Teaching Hospital from 1
+March 2012 to 31 March 2018. Horses negative for ECoV were matched to the ECoV-positive group as controls.
+Data collected included signalment, history, exam ﬁndings, diagnostics, treatment, and follow-up.
+Thirty-three horses (median age, 11 years; range, 2–37 years) tested ECoV-positive, including three
+horses with co-infections. Presenting complaints for ECoV-infected horses included historic fevers
+(n = 25/30; 83%), anorexia (n = 14/30; 47%), and colic (n = 13/30; 43%). ECoV-positive horses had
+signiﬁcantly lower white blood cell (median, 3.0  109/L; range, 0.68–16.2  109/L), neutrophil (median,
+1.26  109/L; range, 0.15–14.4  109/L), and lymphocyte (median, 0.86  109/L; range, 0.42–3.47  109/L)
+counts than ECoV-negative horses. Electrolyte and metabolic derangements and scant faeces were
+common. Twenty-seven horses were hospitalised for a median of 5 days (range, 0.5–14 days), with 26/27
+(96%) horses surviving to discharge. ECoV infection should be a differential diagnosis for adult horses
+with fever, colic, anorexia, and leukopenia. The disease has a low mortality rate, but horses may require
+intensive care to resolve severe leukopenia, systemic inﬂammation, and metabolic disturbances.
+
+Equine coronavirus (ECoV) is recognised as a cause of fever,
+anorexia, lethargy, leukopenia, and gastrointestinal disease in
+adult horses (Pusterla et al., 2018). Disease outbreaks have been
+reported in adult horses in boarding stables or competitive
+facilities across the United States, Europe, and Japan (Oue et al.,
+2013; Pusterla et al., 2013; Miszczak et al., 2014; Pusterla et al.,
+2018). The recent increase in positive cases likely reﬂects increased
+awareness of the virus, and increased availability and timeliness of
+testing through fecal real-time quantitative polymerase chain
+reaction (qPCR) (Pusterla et al., 2013).
+Many cases of ECoV are self-limiting with transient clinical
+signs, however fatalities, endotoxemia and hyperammonemia can
+occur (Fielding et al., 2015). Miniature horses may be more
+susceptible to severe disease and had a higher fatality rate in an
+outbreak (Fielding et al., 2015). In contrast, foals <1 year of age do
+not seem to be clinically affected as frequently as adult horses, and
+ECoV is often present as a co-infection with other gastrointestinal
+pathogens in foals (Slovis et al., 2014).
+While data regarding ECoV epidemiology are available, there is
+a paucity of data on clinical presentation of cases, diagnosis, and
+outcome from a clinical perspective. The purpose of the current
+study was to document cases of ECoV diagnosed through fecal
+qPCR and presenting to a tertiary referral hospital.

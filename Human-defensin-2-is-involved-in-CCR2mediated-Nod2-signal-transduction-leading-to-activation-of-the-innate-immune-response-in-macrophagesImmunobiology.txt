@@ -1,0 +1,704 @@
+Immunobiology 224 (2019) 502–510
+
+Contents lists available at ScienceDirect
+
+Immunobiology
+journal homepage: www.elsevier.com/locate/imbio
+
+Human β-defensin 2 is involved in CCR2-mediated Nod2 signal
+transduction, leading to activation of the innate immune response in
+macrophages
+Ju Kima, Ye Lin Yangb, Yong-Suk Janga,b,
+a
+b
+
+T
+
+⁎
+
+Department of Molecular Biology and the Institute for Molecular Biology and Genetics, Chonbuk National University, 54896, South Korea
+Department of Bioactive Material Sciences and Institute of Bioactive Materials, Chonbuk National University, Jeonju, 54856, South Korea
+
+A R T I C LE I N FO
+
+A B S T R A C T
+
+Keywords:
+Adaptive immunity
+Defensin
+Innate immunity
+Signaling
+Virus
+
+Beta-defensins contribute to host innate defense against various pathogens, including viruses, although the
+details of their roles in innate immune cells are unclear. We previously reported that human β-defensin 2 (HBD
+2) activates primary innate immunity against viral infection and suggested that it plays a role in the induction of
+the adaptive immune response. We analyzed the mechanisms by which HBD 2 primes innate antiviral immunity
+and polarized activation of macrophage-like THP-1 cells using the receptor-binding domain (RBD) of Middle East
+respiratory syndrome coronavirus (MERS-CoV) spike protein (S RBD) as a model antigen. The expression of
+nucleotide-binding oligomerization domain containing 2 (Nod2), type I interferons, (IFNs), and proinﬂammatory
+mediators was enhanced in S RBD-HBD 2-treated THP-1 cells. S RBD-HBD 2 treatment also enhanced phosphorylation and activation of receptor-interacting serine/threonine-protein kinase 2 and IFN regulatory factor 3
+compared to S RBD alone. Finally, HBD 2-conjugated S RBD interacted with C-C chemokine receptor 2 (CCR2),
+and Nod2 was involved in HBD 2-mediated CCR2 signaling, which was associated with the activation and M1
+polarization of THP-1 cells. Therefore, HBD 2 promotes CCR2-mediated Nod2 signaling, which induces production of type I IFNs and an inﬂammatory response, and enhances primary innate immunity leading to an
+eﬀective adaptive immune response to HBD 2-conjugated antigen.
+
+1. Introduction
+Antimicrobial peptides (AMPs) are a component of the primary host
+defense in the mucosa. AMPs are produced mainly by epithelial cells
+and the cells involved in innate immunity. The functions of AMPs in
+defense against various infections are better characterized than their
+role as innate immune modulators (Boyton and Openshaw, 2002). Defensins are small cationic AMPs and are found in various organisms
+including mammals, insects, and plants. Among them, β-defensins are
+primarily produced by epithelial cells and leukocytes in vertebrates
+(Stolzenberg et al., 1997). Immature dendritic cells (DCs) can be activated by β-defensins, and β-defensins also inhibit infection by Haemophilus inﬂuenzae and viruses (Zhao et al., 2016; Laﬀerty et al., 2017).
+Inactivation of human β-defensins (HBDs) leads to the recurrent airway
+infections experienced by patients with cystic ﬁbrosis (Smith et al.,
+1996). Also, a lack of human β-defensin 2 (HBD 2) results in immune
+dysfunction, such as reduced numbers of B and regulatory T cells, resulting in decreased production of antigen (Ag)-speciﬁc
+
+⁎
+
+immunoglobulin A (Lugering et al., 2005; McDonald et al., 2007).
+Therefore, an understanding of the regulatory mechanism by which
+AMPs modulate the immune response during the early stage of viral
+infection is critically needed to deal with various diseases caused by
+virus infection.
+Virus infection of host cells triggers innate antiviral responses,
+which are initiated via pattern recognition receptor (PRR) signaling
+pathways (Ishii et al., 2008). Among the PRR families, nucleotidebinding oligomerization domain containing 2 (Nod2) is an important
+mediator of the innate immune response to viral infection, and induces
+expression of type I interferons (IFNs) to promote the expression of
+proinﬂammatory cytokines and restrict viral replication (Wiese et al.,
+2017). Furthermore, Nod2-deﬁcient mice exhibit decreased production
+of IFNs and increased susceptibility to viral infection (Sabbah et al.,
+2009). Presumably, the ability of a virus to counteract innate antiviral
+immunity during the early stage of infection inﬂuences pathogenicity
+and disease severity (Perlman and Dandekar, 2005). Type I IFNs play a
+major role in the antiviral innate immune response by upregulating the
+
+Corresponding author at: Department of Molecular Biology, Chonbuk National University, Jeonju, 54896, South Korea.
+E-mail address: yongsuk@jbnu.ac.kr (Y.-S. Jang).
+
+https://doi.org/10.1016/j.imbio.2019.05.004
+Received 8 April 2019; Received in revised form 13 May 2019; Accepted 16 May 2019
+Available online 18 May 2019
+0171-2985/ © 2019 Elsevier GmbH. All rights reserved.
+
+Immunobiology 224 (2019) 502–510
+
+J. Kim, et al.
+
+Escherichia coli expression vector (TaKaRa Bio, Shiga, Japan). Recombinant proteins with an N-terminal His tag were puriﬁed using NiNTA Superﬂow (Qiagen, Valencia, CA, USA) according to the manufacturer’s instructions.
+
+production of antiviral proteins and the recruitment of immune cells
+(Haller et al., 2006). Production of type I IFN is initiated by ubiquitously expressed cytoplasmic viral sensors in response to detection of
+viral pathogen-associated molecular patterns such as double-stranded
+RNA (Kato et al., 2011; Li and Zhong, 2018). Stimulated viral sensors
+activate downstream signaling pathways, leading to expression of
+transcription factors including IFN regulatory factor 3 (IRF3) and nuclear factor-κB (NF-κB), which drive IFN-β expression (Yoneyama et al.,
+2004). However, some viruses, including Middle East respiratory syndrome coronavirus (MERS-CoV), inhibit these type I IFN induction
+pathways (Zielecki et al., 2013). For example, various proteins of
+MERS-CoV, including M protein, papain-like protease protein (PLpro),
+and accessory proteins 4a and 4b, are antagonists of IFNs (Shokri et al.,
+2019). Accordingly, the virulence of MERS-CoV is linked to its immune
+evasion mechanisms, such as suppression of IFN production during the
+early stage of infection, induction of macrophage apoptosis, and inactivation of T cells with downregulation of Ag presentation (Niemeyer
+et al., 2013).
+Macrophages are professional phagocytes capable of internalizing
+and degrading pathogens and apoptotic cells. Macrophages are present
+in the respiratory mucosa, such as in the lung and various ﬂuid compartments, where the detection of and the response to infection occur.
+Due to their location, macrophages detect viral Ags ﬁrst and promote an
+antiviral innate immune response as well as an Ag-speciﬁc adaptive
+immune response by presenting Ags to T-cells (Manicassamy et al.,
+2010). We previously reported that HBD 2 promotes an antiviral innate
+immune response in macrophage-like THP-1 cells and elicits an enhanced Ag-speciﬁc and virus-neutralizing antibody (Ab) response in
+vivo using the receptor binding domain (RBD) of MERS-CoV spike
+protein (S RBD) as a model Ag (Kim et al., 2018). Moreover, the type I
+IFN response and the production of primary antiviral molecules such as
+Nod2 were enhanced by S RBD-HDB 2 treatment of THP-1 cells (Kim
+et al., 2018). Consequently, we assumed that modulation of Nod2 signaling by HBD 2 would prevent infection by viruses that suppress innate antiviral immunity. In this study, we investigated the mechanism
+by which HBD 2 enhances the type I IFN immune response in THP-1
+cells by modulating Nod2 signaling pathways using HBD 2-conjugated S
+RBD of MERS-CoV.
+
+2.3. Cell culture
+THP-1 cells were cultured in RPMI medium (Welgene, Gyeongsan,
+Korea) containing 10% fetal bovine serum (FBS; Gibco, Grand Island,
+NY, USA) at 37 °C in a CO2 incubator. The cells were treated with
+phorbol-12-myristate-13-acetate (1 μg/mL for 1 × 106 cells) for 2–3
+days to induce diﬀerentiation into macrophages (Daigneault et al.,
+2010). The cultures were replenished with fresh medium, maintained
+for 3 days, and incubated with recombinant S RBD or S BRD-HBD 2
+(1 μg/mL per 1 × 106 cells) with or without inhibitors (RS 102,895 for
+CCR2 and GSK 717 for Nod2). The cells were harvested after 6 or 24 h
+and subjected to quantitative real-time reverse transcription polymerase chain reaction (RT-PCR) or western blotting.
+2.4. RNA extraction and quantitative real-time RT-PCR
+RNA was extracted using TRIzol® reagent (Thermo-Fisher Scientiﬁc,
+Waltham, MA, USA) following the manufacturer’s instructions. RNA
+was used to synthesize cDNA with an MMLV Reverse Transcription Kit
+(Promega, Fitchburg, WI, USA). Gene expression levels were measured
+by quantitative real-time RT-PCR with the QuantiTect SYBR Green PCR
+Kit (Qiagen, Hilden, Germany) and an ABI 7500 system (Applied
+Biosystems, Foster City, CA, USA) using 50 ng of ﬁrst-strand cDNA
+under the following conditions: 95 °C for 5 min followed by 40 cycles at
+95 °C for 15 s, 55 °C for 30 s, and 72 °C for 30 s. The expression levels
+were normalized to that of β-actin (hACTB) using 7500 FAST software
+version 2.0.6 (Applied Biosystems). The primer sets used to amplify
+target genes are listed in Table 1.
+2.5. Protein preparation and western blotting
+Cells were washed twice with cold phosphate-buﬀered saline (PBS),
+and lysed in a lysis buﬀer containing 1% Triton X-100 supplemented
+
+2. Materials and methods
+
+Table 1
+Sequences of the primers used for qRT-PCR. Primers used to measure the
+expression levels of genes associated with antiviral innate immune responses
+and macrophage diﬀerentiation. The β-actin gene (hACTB) was used as an
+endogenous control.
+
+2.1. Experimental animals and materials
+Macrophage-like THP-1 (ATCC® TIB-202™) and Vero E6 (ATCC®
+CRL-1586™) cells were obtained from the American Type Culture
+Collection (Manassas, VA, USA). MERS-CoV (1-001-MER-IS-2015001)
+was provided by the Korean Center for Disease Control and Prevention
+(KCDC). All experiments using MERS-CoV were performed in accordance with the World Health Organization recommendations in a
+biosafety level 3 facility in the Korea Zoonosis Research Institute at
+Chonbuk National University (Iksan, Korea). The chemicals and laboratory wares were obtained from Sigma Chemical Co. (St. Louis, MO,
+USA) and SPL Life Sciences (Pocheon, Korea), respectively, unless
+otherwise speciﬁed.
+
+Gene
+
+Primer sequences
+
+hACTB
+
+F: 5'-CCA ACC GCG AGA AGA TGA-3'
+R: 5'-TCC ATC ACG ATG CCA GTG-3'
+F: 5'-GAA GCT TYC TCC TGY YTG AWG GAC AGA-3'
+R: 5'-GGG GAT CCT CTG ACA ACC TCC CAN GCA CA-3'
+F: 5'-TTT CAG TGT CAG AAG CTC CT-3'
+R: 5'-TGG CCT TCA GGT AAT GCA GA-3'
+F: 5'-GGA GAA GGG TGA CCG ACT CA-3'
+R: 5'-CTG CCC AGA CTC GGC AA-3'
+F: 5'-CGG CGT TCC TCA GGA AGT AC-3'
+R: 5'-ACC CCG GGC TCA TGA TG-3'
+F: 5'-CCA TTG AGA TTT CGC ATC CT-3'
+R: 5'-ATG CGC CAC TTT GAT AAA CC-3'
+F: 5'-TCT TCC AGC AGA CCA TCT CC-3'
+R: 5'-TGC CTC ACG TAG CTC ATC AC-3'
+F: 5'-CGA GGA CCT AAA GAT AAC CGG C-3'
+R: 5'-GTT GCA GCT GAG ATC GAG CAC-3'
+F: 5'-GAC AGT GTG ACT CTG AAG-3'
+R: 5'-GCA CCT GTA CTC TCC AC-3'
+F: 5'-CTC TTT GTG ATG GCC TTC CTG-3'
+R: 5'-CTT AGG TTC TGG GTA ACC GTG-3'
+F: 5'-GCC TCT ACA CGG GAC CCA TA-3'
+R: 5'-GCA ACG CGC GAT TCA GTT-3'
+
+IFN-α
+IFN-β
+TNF-α
+Nod2
+RIP2
+
+2.2. Recombinant protein production
+IRF3
+
+Production of recombinant MERS-CoV S RBD with or without HBD 2
+at the C-terminus (residues 291–725) of the S1 domain were performed
+as described previously with minor modiﬁcations (Ma et al., 2014).
+Brieﬂy, the gene encoding S RBD was synthesized with codon optimization based on the MERS-CoV S protein sequence (GenBank
+AKL59401.1; GenScript, Piscataway, NJ, USA). The S RBD gene with
+the HBD 2 gene at its 3′ terminus was ampliﬁed by polymerase chain
+reaction (PCR) using forward and reverse primers reported previously
+(Kim et al., 2018). The ampliﬁed genes were cloned into the pColdII
+
+CD14
+CD16
+CD86
+upE
+
+F and R, sequences of the forward and reverse primers, respectively.
+503
+
+Immunobiology 224 (2019) 502–510
+
+J. Kim, et al.
+
+(Fig. 2). S RBD-HBD 2 signiﬁcantly (p < 0.01) enhanced the expression
+of IFN-β and Nod2 by 2.18- and 7.35-fold, respectively, compared to S
+RBD alone-treated THP-1 cells (Fig. 2A and B). The expression of TNFα, an NF-κB-dependent proinﬂammatory cytokine, was increased in S
+RBD-HBD 2-treated cells compared with that in S RBD alone-treated
+cells, albeit not signiﬁcantly so (Fig. 2C). We next assessed the levels of
+the Nod2-associated signal transducing mediators, receptor interacting
+protein-2 (RIP2) and IRF3, in S RBD- or S RBD-HBD 2-treated THP-1
+cells (Fig. 3). As expected, treatment with S RBD-HBD 2 remarkably
+upregulated the phosphorylation of RIP2 and IRF3 and the Nod2 protein level. In addition, HBD 2-conjugated S RBD reduced IκBα accumulation, degradation of which requires NF-κB activation (Fig. 3C).
+Therefore, HBD 2-conjugated Ag treatment induces the production of
+the type I IFN, IFN-β, and the proinﬂammatory cytokine, TNF-α,
+through Nod2-associated RIP2 response by activating the transcription
+factors IRF3 and NF-κB.
+
+with a complete protease inhibitor cocktail (Roche Applied Science,
+Mannheim, Germany) and 2 mM dithiothreitol. Total cell lysates were
+prepared by centrifugation at 10,000 rpm for 10 min. Equal amounts of
+lysates were resolved by sodium dodecyl sulfate-polyacrylamide gel
+electrophoresis (SDS-PAGE), transferred to an Immobilon-P polyvinylidene diﬂuoride membrane (Merck Millipore, Burlington, MA,
+USA), and immunoblotted using speciﬁc Abs. Primary Abs against
+human p-RIP2 and p-IRF3 were obtained from Abcam (Cambridge, MA,
+USA) and Abs against Nod2 and IκBα were from Invitrogen (Grand
+Island, NY, USA) and Cell Signaling (Danvers, MA, USA), respectively.
+The primary Ab against human β-actin was purchased from Bioss
+(Woburn, MA, USA). Target proteins were detected by enhanced chemiluminescence (Thermo-Fisher Scientiﬁc).
+2.6. Viral infection
+MERS-CoV was propagated in Vero E6 cells, which were cultured in
+DMEM medium (Welgene) containing 10% FBS at 37 °C in a CO2 incubator. To assess the viral loads and the expression levels of target
+genes in MERS-CoV-infected cells, MERS-CoV was passaged six times in
+Vero E6 cells and transferred to THP-1 cells (2 × 106/well) in a tissue
+culture plate. After incubation for 24 h, we extracted total RNA and
+performed quantitative real-time RT-PCR using the primers in Table 1
+to measure the expression levels of MERS-CoV upE and target genes
+(Kim et al., 2018).
+
+3.2. HBD 2-conjugated Ag-mediated induction of a type I IFN response was
+mediated by CCR2 signaling
+β-Defensin-fused proteins retain their antibacterial and chemotactic
+activity for C-C chemokine receptor 6 (CCR6)-expressing cells, as do
+monocytes that do not express CCR6 (Röhrl et al., 2010a). In addition,
+the β-defensin-conjugated proteins induced CCR2-speciﬁc chemotaxis
+on CCR2-transfected HEK293 cells, human peripheral blood monocytes,
+and mouse peritoneal exudate cells in a dose-dependent manner (Röhrl
+et al., 2010b). Therefore, we determined whether HBD 2 binds to CCR2
+rather than CCR6 (Fig. 4) by immunoﬂuorescence assay in THP-1 cells
+(Fig. 4A). CCR2 and S RBD-HBD 2 co-localized, suggesting a direct
+interaction, but no such co-localization with CCR2 was observed for S
+RBD alone (data not shown). We next evaluated whether the interaction
+of HBD 2 with CCR2 mediates intracellular signaling. Interestingly, the
+signiﬁcantly (p < 0.01) enhanced IFN-β expression by S RBD-HBD 2
+was abrogated by the CCR2 antagonist, RS 102,895 (Fig. 4B). Moreover,
+the Nod2 expression and Nod2-associated RIP2 and IRF3 expression
+enhanced signiﬁcantly (p < 0.05) by S RBD-HBD 2 was abrogated by
+the CCR2 antagonist (Fig. 4C–E), as was TNF-α, whose expression is
+dependent on NF-κB activation (Fig. 4F). Thus, HBD 2 interacts directly
+with CCR2, which promotes signal transduction, activation of type I
+IFN, and an inﬂammatory response.
+
+2.7. Immunoﬂuorescence assay
+THP-1 cell monolayers in confocal dishes were ﬁxed with 4% paraformaldehyde. The cells were permeabilized using buﬀer containing
+Triton X-100 (0.1%), blocked, and incubated with the recombinant
+protein and a speciﬁc primary Ab. Primary Abs against human C-C
+chemokine receptor 2 (CCR2) and Nod2 were purchased from
+Invitrogen. A Penta-His Ab conjugated to Alexa Fluor® 488 (Qiagen)
+and anti-rabbit and -mouse IgG conjugated to Alexa Fluor 555 or 568
+(Invitrogen), respectively, were used as the secondary Abs. Finally,
+washed cells were stained with 4′6-diamidino-2-phenylindole (DAPI),
+covered with SlowFade Gold Antifade Reagent (Invitrogen), and observed using a confocal laser scanning microscope (CLSM, LSM 510,
+Carl Zeiss, Thornwood, NY, USA).
+2.8. Statistical analysis
+
+3.3. Nod2 is involved in HBD 2-mediated intracellular signaling
+Statistical analyses were performed using Prism 7 (GraphPad, San
+Diego, CA, USA). Data are means ± standard deviations (SDs). The
+signiﬁcance of diﬀerences was assessed by two-way analysis of variance
+(ANOVA), and p < 0.05 was considered indicative of statistical signiﬁcance.
+
+We next focused on endosomal and/or cytoplasmic signal transmediators involved in HBD 2-mediated activation of primary antiviral
+responses. In our previous report, a proinﬂammatory cytokine response,
+which requires the activation of NF-κB, was induced by HBD 2 (Kim
+et al., 2018). Additionally, early stimulation of an innate immune response is dependent on Toll-like receptor (TLR) 4 and/or Nod2-triggered NF-κB signaling (Tsai et al., 2011). We thus determined whether
+the HBD 2-mediated enhancement is due to Nod2-associated signaling
+because Nod2 expression was enhanced by S RBD-HBD 2 (Fig. 5). S
+RBD-HBD 2 co-localized with Nod2, suggesting an interaction (Fig. 5A),
+but no such co-localization with Nod2 occurred for S RBD without HBD
+2 conjugation (data not shown). Consequently, we speculated that
+Nod2 interacts with S RBD-HBD 2 and that Nod2-mediated signaling is
+involved in HBD 2-mediated activation of NF-κB. We evaluated the
+inﬂuence of Nod2 signaling on HBD 2-mediated type I IFN and proinﬂammatory responses using the inhibitor of Nod2 signaling, GSK 717.
+GSK 717 abrogated the HBD 2-mediated (p < 0.01) enhanced expression of IFN-β, RIP2, and IRF3 (Fig. 5B–D). Additionally, a Nod2 inhibitor abrogated the enhanced expression of TNF-α in HBD 2-treated
+THP-1 cells (Fig. 5E). These observations suggest that Nod2 functions as
+an intracellular signal transmediator in HBD 2-induced activation of
+type I IFN production and the inﬂammatory response.
+
+3. Results
+3.1. HBD 2-conjugated Ag stimulates the Nod2 signaling procedure, which
+leads to type I IFN production in macrophage-like THP-1 cells
+MERS-CoV infection inhibits the production of IFN-α/β and the host
+antiviral immune response (Zielecki et al., 2013). We evaluated the
+inﬂuence of MERS-CoV infection of THP-1 cells on the innate immune
+response (Fig. 1). The expression level of the upE gene was assessed by
+quantitative real-time RT-PCR at 24 h post-infection of THP-1 cells with
+103, 104, and 105 plaque-forming units (PFU) of MERS-CoV (Fig. 1A).
+Importantly, MERS-CoV infection dose-dependently decreased the expression of factors critical in antiviral innate immunity, such as Nod2,
+IFN-α, and IFN-β (Fig. 1B–D).
+To analyze whether HBD 2 aﬀects immune induction, we determined the expression levels of the IFN-β, Nod2, and tumor necrosis
+factor (TNF)-α genes in THP-1 cells treated with S RBD or S RBD-HBD 2
+504
+
+Immunobiology 224 (2019) 502–510
+
+J. Kim, et al.
+
+Fig. 1. MERS-CoV infection of THP-1 cells
+inhibits the expression of genes involved in
+innate antiviral responses. (A) Viral RNA
+levels in THP-1 cells treated with the indicated
+doses of MERS-CoV at 24 h post-infection were
+determined by quantitative real-time RT-PCR
+of the upE gene and normalized to that of the
+internal control gene, hACTB. (B–D) Cells were
+treated with the indicated doses of MERS-CoV
+and the expression levels of (B) Nod2, (C) IFNα, and (D) IFN-β at 24 h post-infection relative
+to that of hACTB were analyzed by quantitative real-time RT-PCR in duplicate. The resulting values normalized to that of hACTB
+using the level in the cells treated with 103 PFU
+of MERS-CoV as a reference basal expression
+value are shown as means ± SD. *p < 0.05,
+**p < 0.01, and ***p < 0.001.
+
+4. Discussion
+
+3.4. CCR2- and Nod2-mediated signaling activated by HBD 2 induces
+diﬀerentiation and polarization of THP-1 macrophage-like cells
+
+Innate immunity is the ﬁrst line of defense against exogenous and
+endogenous threats, including pathogen infection and tissue damage.
+Innate immunity not only precedes the Ag-speciﬁc adaptive immune
+response but also enables a long-lasting memory response by innate Agpresenting cells (APCs), which interact with adaptive immune cells.
+Innate immune cells, such as macrophages and mast cells, recruited into
+infected sites produce a wide range of cytokines that regulate the balance between pro- and anti-inﬂammatory responses and so maintain
+immunological homeostasis (Gallenga et al., 2019). Cytokines have
+pleiotropic eﬀects on the functions of immune cells and immune responses that constitute the host defense against infectious agents. For
+instance, members of the IL-1 family, which are produced by macrophages and mast cells, are important regulators of the innate immune
+response and play a role in inﬂammatory processes (Varvara et al.,
+2018). Several IL-1 family cytokines are pro-inﬂammatory, while
+others, including IL-37, IL-38, IL-1Ra, and IL-36Ra, are anti-inﬂammatory (Kritas et al., 2018). In addition, IL-1 indirectly participates
+in T-lymphocyte-mediated immunity by inducing helper type 2 T-cell
+polarization and the formation of Abs by plasma cells by producing IL-6
+(Gallenga et al., 2019). These ﬁndings suggest that further studies on
+modulation of the balance between pro- and anti-inﬂammatory cytokines and network among innate immune cells, such as M1/M2 macrophage polarization, would facilitate the development of novel therapeutic approaches for immunological disorders.
+Macrophages, DCs, neutrophils, natural killer cells, and innate
+lymphoid cells play major roles in pathogen recognition through specialized receptors such as PRRs (Akira et al., 2006; Shim and Lee, 2015;
+Seo et al., 2013). Viral infection activates danger signals which are
+transmitted via PRRs, including TLRs, nucleotide-binding oligomerization domain-like receptors (NLRs), retinoic acid-inducible gene 1-like
+receptors (RLRs), C-type lectin receptors, cytosolic DNA sensors, and
+inﬂammasome signaling cascades. Cross-talk between PRRs and
+
+Macrophages can diﬀerentiate into M1 (classically activated) or M2
+(alternatively activated) macrophages. Classical M1-type macrophages
+are key eﬀector cells for the elimination of pathogens, virus-infected
+cells, and malignant cells, while M2-type macrophages exhibit anti-inﬂammatory and tissue repair activities (Gordon and Martinez, 2010).
+NF-κB signaling is an intracellular proinﬂammatory pathway (Hoesel
+and Schmid, 2013) and activates M1-type macrophage diﬀerentiation
+(Saijo and Glass, 2011). Consequently, we analyzed the expression of
+marker genes of M1 and M2 macrophages in S RBD-HBD 2-treated THP1 cells by quantitative real-time RT-PCR (Fig. 6). The expression of
+CD16 and CD80 was signiﬁcantly (p < 0.05) enhanced by the HBD 2conjugate, suggesting diﬀerentiation into M1-type macrophage cells. By
+contrast, there was no signiﬁcant diﬀerence in the expression of M2
+marker genes (CD163 and CD206) between cells treated with S RBD
+and S RBD-HBD 2 (data not shown).
+To identify the signaling pathways involved in HBD 2-mediated
+activation and polarization of macrophages, we evaluated the eﬀect of a
+CCR2 inhibitor, RS 102,895, and Nod2 inhibitor, GSK 717, on cells
+treated with S RBD with or without HBD 2 conjugation. Expression of
+the M1-type macrophage marker genes, CD16 and CD86, was markedly
+downregulated by the CCR2 and Nod2 inhibitors compared to the
+control (Fig. 6A and B). Interestingly, expression of CD14, a marker of
+early activation of macrophages, was stably upregulated in both S RBD
+alone- and S RBD-HBD 2-treated THP-1 cells, while CD14 expression
+was markedly downregulated by pretreatment with a CCR2 or Nod2
+inhibitor, although the CCR2 inhibitor did not completely reverse the
+HBD 2-mediated enhanced expression of CD14 (Fig. 6C). These results
+demonstrate that CCR2-mediated activation of Nod2 signaling pathway
+by S RBD-HBD 2 is associated with the activation and M1 polarization
+of macrophage-like THP-1 cells.
+
+505
+
+Immunobiology 224 (2019) 502–510
+
+J. Kim, et al.
+
+Fig. 3. HBD 2-conjugated S RBD Ag treatment of THP-1 cells stimulates the
+expression and activation of genes related to Nod2-mediated innate immune
+signaling. THP-1 cells were stimulated with 1 μg/mL recombinant S RBD or
+HBD 2-conjugated S RBD for the indicated periods. Cell lysates were prepared
+and immunoblotted with the indicated Abs. β-actin was used as the loading
+control.
+
+and their encoding genes are regulated by several transcription factors,
+including NF-κB and IRF3 (Seth et al., 2005). Upon virus infection, IRF3
+is phosphorylated, dimerizes, and enters the nucleus to upregulate the
+expression of type I IFN, melanoma diﬀerentiation-associated protein 5
+(MDA5), and cytoplasmic retinoic acid-inducible gene I (RIG-I), leading
+to activation of NF-κB and IRF3 (Kato et al., 2011).
+The hosts react to infection by mounting a primary response involving inﬂammation, followed by a pathogen-speciﬁc adaptive response. Although inﬂammation is a double-edged response, it is an
+important mechanism of protective innate immunity against infection
+by viruses, bacteria, fungi, prions, and parasites. Inﬂammatory monocyte-derived macrophages and innate immune cells are rapidly recruited to inﬂamed sites, where they remove harmful stimuli and induce T-cell responses by IFN-dependent mechanisms (Ginhoux et al.,
+2016). We previously reported that HBD 2 promotes the antiviral innate
+immune response in THP-1 cells and the ability of an HBD 2-conjugated
+
+Fig. 2. HBD 2-conjugated S RBD Ag treatment of THP-1 cells stimulates the
+expression of genes involved in innate immunity and antiviral responses. THP-1
+cells were stimulated with 1 μg/mL recombinant S-RBD or HBD 2-conjugated S
+RBD for 24 h and the expression of the indicated genes was analyzed by
+quantitative real-time RT-PCR in duplicate, with normalization to the expression of the internal control (hACTB). Expression levels relative to those of PBStreated control cells are shown as means ± SD. **p < 0.01.
+
+activation of these signaling cascades induces an antiviral immune response by upregulating the expression of antiviral cytokines, including
+type I IFNs. However, viruses can evade the antiviral function of IFN by
+inhibiting IFN production and signal transduction (Ferran and Skuse,
+2017). Type I IFNs, mainly IFN-α and IFN-β, are major eﬀector cytokines in the innate antiviral response (González-Navajas et al., 2012)
+
+506
+
+Immunobiology 224 (2019) 502–510
+
+J. Kim, et al.
+
+Fig. 4. HBD 2-conjugated S RBD co-localizes
+with CCR2 and the interaction between
+HBD 2-conjugated Ag and CCR2 induces
+Nod2 signaling. (A) THP-1 cells treated with
+1 μg/mL HBD 2-conjugated S RBD were subjected to immunoﬂuorescence assay using
+monoclonal Abs against S RBD and CCR2 and
+visualized by CLSM. DAPI-stained nuclei, blue;
+S RBD signal, green (Alexa Fluor 488-coupled
+secondary Ab); CCR2 signal, red (Alexa Fluor
+555-coupled secondary Ab). Representative
+ﬁelds are shown at ×400 magniﬁcation. (B–F)
+THP-1 cells were stimulated with 1 μg/mL recombinant S RBD protein with or without HBD
+2 at 6 h or 24 h after treatment with or without
+RS 102,895 (CCR2 antagonist) and their expression, together with that of the internal
+control gene hACTB, was analyzed by qRT-PCR
+in duplicate. Expression levels relative to those
+of the PBS-treated control are shown as
+means ± SD. *p < 0.05 and **p < 0.01. (For
+interpretation of the references to colour in this
+ﬁgure legend, the reader is referred to the web
+version of this article).
+
+β-Defensins exert regulatory activity in host innate and adaptive
+immune responses. For example, mouse β-defensin 2 activates immature DCs via TLR4, triggering a Th1 response, and human β-defensin
+3 activates APCs via TLR1 and TLR2 in an NF-κB-dependent manner
+(Funderburg et al., 2007). Additionally, it was suggested that β-defensin is an endogenous ligand for TLR4 and shares a signal transduction pathway with other TLR4 ligands. We evaluated the possible interaction between HBD 2 and TLR4 as well as Nod2 and found that HBD
+2-conjugated Ag co-localized with Nod2 (Fig. 5A) but not with TLR4
+(data not shown). Moreover, inhibition of Nod2 signaling in THP-1 cells
+abrogated the HBD 2-mediated enhanced IFN-β expression by suppressing RIP2 and IRF3 signaling as well as TNF-α expression
+(Fig. 5B–E). Human and mouse β-defensins induce CCR2- and CCR6dependent chemotaxis (Röhrl et al., 2010b) and CCR2 and CCR6 recruit
+
+MERS-CoV Ag to elicit a greater Ag-speciﬁc and MERS-CoV neutralizing
+Ab response compared to HBD 2 non-conjugated Ag in vivo (Kim et al.,
+2018). Also, immunization with S RBD-HBD 2 prior to viral infection
+enhanced the humoral and protective immune response to MERS-CoV
+infection in human dipeptidyl peptidase 4 (hDPP4)-expressing mice, a
+model of MERS-CoV infection (data not shown). In addition, the type I
+IFN response, the expression of primary antiviral molecules including
+Nod2, a cytoplasmic viral PRR that activates IRF3, and production of
+IFN-β were enhanced by HBD 2 treatment of THP-1 cells. These cells are
+widely used as an in vitro model for studies of human macrophages
+involved in the inﬂammatory response and immunological homeostasis
+(Ginhoux et al., 2016). Here, we investigated the immunomodulatory
+ability of HBD 2 and the mechanism by which HBD 2 induces production of type I IFN and an inﬂammatory response in THP-1 cells.
+507
+
+Immunobiology 224 (2019) 502–510
+
+J. Kim, et al.
+
+Fig. 5. HBD 2-conjugated S RBD co-localizes
+with Nod2 and the interaction between HBD 2conjugated Ag and Nod2 induces signaling involved in innate antiviral immune responses.
+(A) THP-1 cells treated with 1 μg/mL HBD 2conjugated S RBD were subjected to immunoﬂuorescence assay using monoclonal Abs
+against S RBD and Nod2 and visualized by
+CLSM. DAPI-stained nuclei, blue; S RBD signal,
+green (Alexa Fluor 488-coupled secondary Ab);
+Nod2 signal, red (Alexa Fluor 555-coupled
+secondary Ab). Representative ﬁelds are shown
+at ×630 magniﬁcation. (B–E) THP-1 cells were
+stimulated with 1 μg/mL recombinant S RBD
+protein with or without HBD 2 at 6 h or 24 h
+after treatment with or without GSK 717 (Nod2
+antagonist), and their expression, together
+with that of the internal control gene hACTB,
+was analyzed by qRT-PCR in duplicate.
+Expression levels relative to those of the PBStreated control are shown as means ± SD.
+*p < 0.05 and **p < 0.01. (For interpretation
+of the references to colour in this ﬁgure legend,
+the reader is referred to the web version of this
+article).
+
+tissue repair and wound healing, produce IL-10 and TGF-β, and express
+arginase-1 and CD163 (Gordon and Martinez, 2010). We report here
+that HBD 2 induces the expression of M1 markers by activating CCR2mediated Nod2 signaling pathway in THP-1 cells (Fig. 6). Although
+further studies are needed, these results provide insight into the mechanism by which HBD 2 induces antiviral innate and Ag-speciﬁc
+adaptive immune responses.
+
+professional APCs to inﬂamed tissues and initiate an adaptive immune
+response (Osterholzer et al., 2005). CCR2 is expressed on various types
+of myeloid cells, including monocytes and neutrophils, which are crucial for innate immunity and phagocytosis (Iida et al., 2005). We found
+that HBD 2-conjugated Ag co-localized with CCR2 and contributed to
+Nod2-mediated signaling, leading to the activation of type I IFN production and an inﬂammatory response in THP-1 cells. Consequently,
+the mechanism underlying HBD 2-induced CCR2-mediated signaling
+should be investigated further.
+Macrophages help clear infectious cells by internalizing and degrading pathogens. During infection with inﬂuenza A, the phagocytic
+capacity of mouse peritoneal exudate macrophages is enhanced by coculture with virus-infected epithelial cells (Fujimoto et al., 2000), and
+decreased phagocytic uptake of opsonized inﬂuenza A virus is correlated with decreased cell surface expression of CD16 and CD32, which
+are highly expressed by classically activated M1 macrophages. Also,
+expression of CD16 and CD32 is decreased in macrophages infected
+with viruses capable of replicating productively in them (Marvin et al.,
+2017). M1 macrophages exert a proinﬂammatory eﬀect, present Ag,
+perform phagocytosis, produce TNF-α and IL-1β, and express CD80 and
+CD86 on their surface. By contrast, M2 macrophages are responsible for
+
+Conﬂicts of interest
+There are no competing ﬁnancial interests in this study.
+Acknowledgments
+This work was supported by the National Research Council of
+Science & Technology (NST) grant from the Korea government (MSIP)
+No. CRC-16-01-KRICT and by HI15C3039 (Y.-S. Jang) through the
+Korea Health Industry Development Institute (KHIDI) funded by the
+Korean Ministry of Health and Welfare. Dr. Y.-S. Jang was supported by
+the Research Base Construction Fund Support Program funded by
+Chonbuk National University in 2019. Ms. Y. L. Yang was supported by
+508
+
+Immunobiology 224 (2019) 502–510
+
+J. Kim, et al.
+
+the BK21 PLUS program in the Department of Bioactive Material
+Sciences. Confocal laser scanning microscopy was performed using the
+instruments installed in the Center for University-Wide Research
+Facilities (CURF) at Chonbuk National University.
+References
+Akira, S., Uematsu, S., Takeuchi, O., 2006. Pathogen recognition and innate immunity.
+Cell 124, 783–801.
+Boyton, R.J., Openshaw, P.J., 2002. Pulmonary defences to acute respiratory infection.
+Br. Med. Bull. 61, 1–12.
+Daigneault, M., Preston, J.A., Marriott, H.M., Whyte, M.K., Dockrell, D.H., 2010. The
+identiﬁcation of markers of macrophage diﬀerentiation in PMA-stimulated THP-1
+cells and monocyte-derived macrophages. PLoS One 5, e8668.
+Ferran, M.C., Skuse, G.R., 2017. Evasion of host innate immunity by emerging viruses:
+antagonizing host RIG-I pathways. J. Emerg. Dis. Virol. 3 (3). https://doi.org/10.
+16966/2473-1846.135.
+Fujimoto, I., Pan, J., Takizawa, T., Nakanishi, Y., 2000. Virus clearance through apoptosis-dependent phagocytosis of inﬂuenza A virus-infected cells by macrophages. J.
+Virol. 74, 3399–3403.
+Funderburg, N., Lederman, M.M., Feng, Z., Drage, M.G., Jadlowsky, J., Harding, C.V.,
+Weinberg, A., Sieg, S.F., 2007. Human β-defensin-3 activates professional antigenpresenting cells via Toll-like receptors 1 and 2. Proc. Natl. Acad. Sci. U.S.A. 104,
+18631–18635.
+Gallenga, C.E., Pandolﬁ, F., Caraﬀa, A., Kritas, S.K., Ronconi, G., Toniato, E., Martinotti,
+S., Conti, P., 2019. Interleukin-1 family cytokines and mast cells: activation and inhibition. J. Biol. Regul. Homeost. Agents 33, 1–6.
+Ginhoux, F., Schultze, J.L., Murray, P.J., Ochando, J., Biswas, S.K., 2016. New insights
+into the multidimensional concept of macrophage ontogeny, activation and function.
+Nat. Immunol. 17, 34–40.
+González‐Navajas, J.M., Lee, J., David, M., Raz, E., 2012. Immunomodulatory functions
+of type I interferons. Nat. Rev. Immunol. 12, 125–135.
+Gordon, S., Martinez, F.O., 2010. Alternative activation of macrophages: mechanism and
+functions. Immunity 32, 593–604.
+Haller, O., Kochs, G., Weber, F., 2006. The interferon response circuit: induction and
+suppression by pathogenic viruses. Virology 344, 119–130.
+Hoesel, B., Schmid, J.A., 2013. The complexity of NF-κB signaling in inﬂammation and
+cancer. Mol. Cancer 12, 86.
+Iida, S., Kohro, T., Kodama, T., Nagata, S., Fukunaga, R., 2005. Identiﬁcation of CCR2,
+ﬂotillin, and gp49B genes as new G-CSF targets during neutrophilic diﬀerentiation. J.
+Leukoc. Biol. 78, 481–490.
+Ishii, K.J., Koyama, S., Nakagawa, A., Coban, C., Akira, S., 2008. Host innate immune
+receptors and beyond: making sense of microbial infections. Cell Host Microbe 3,
+352–363.
+Kato, H., Takahasi, K., Fujita, T., 2011. RIG‐I‐like receptors: cytoplasmic sensors for
+non‐self RNA. Immunol. Rev. 243, 91–98.
+Kim, J., Yang, Y.L., Jang, S.H., Jang, Y.S., 2018. Human β-defensin 2 plays a regulatory
+role in innate antiviral immunity and is capable of potentiating the induction of
+antigen-speciﬁc immunity. Virol. J. 15, 124.
+Kritas, S.K., Gallenga, C.E., D Ovidio, C., Ronconi, G., Caraﬀa, A., Toniato, E., Lauritano,
+D., Conti, P., 2018. Impact of mold on mast cell-cytokine immune response. J. Biol.
+Regul. Homeost. Agents 32, 763–768.
+Laﬀerty, M.K., Sun, L., Christensen-Quick, A., Lu, W., Garzino-Demo, A., 2017. Human
+beta defensin 2 selectively inhibits HIV-1 in highly permissive CCR6+CD4+ T cells.
+Viruses 9, 111.
+Li, K., Zhong, B., 2018. Regulation of cellular antiviral signaling by modiﬁcations of
+ubiquitin and ubiquitin-like molecules. Immune Netw. 18, e4.
+Lugering, A., Floer, M., Westphal, S., Maaser, C., Spahn, T.W., Schmidt, M.A., Domschke,
+W., Wlliams, I.R., Kucharzik, T., 2005. Absence of CCR6 inhibits CD4+ regulatory Tcell development and M-cell formation inside peyer’s patches. Am. J. Pathol. 166,
+1647–1654.
+Ma, C., Wang, L., Tao, X., Zhang, N., Yang, Y., Tseng, C.K., Li, F., Zhou, Y., Jiang, S., Du,
+L., 2014. Searching for an ideal vaccine candidate among diﬀerent MERS coronavirus
+receptor-binding fragments–the importance of immunofocusing in subunit vaccine
+design. Vaccine 32, 6170–6176.
+Manicassamy, B., Manicassamy, S., Belicha-Villanueva, A., Pisanelli, G., Pulendran, B.,
+Garcia-Sastre, A., 2010. Analysis of in vivo dynamics of inﬂuenza virus infection in
+mice using a GFP reporter virus. Proc. Natl. Acad. Sci. U.S.A. 107, 11531–11536.
+Marvin, S.A., Russier, M., Huerta, C.T., Russell, C.J., Schultz-Cherry, S., 2017. Inﬂuenza
+virus overcomes cellular blocks to productively replicate, impacting macrophage
+function. J. Virol. 91, e01417–16.
+McDonald, K.G., McDonough, J.S., Wang, C., Kucharzik, T., Williams, I.R., Newberry,
+R.D., 2007. CC chemokine receptor 6 expression by B lymphocytes is essential for the
+development of isolated lymphoid follicles. Am. J. Pathol. 170, 1229–1240.
+Niemeyer, D., Zillinger, T., Muth, D., Zielecki, F., Horvath, G., Suliman, T., Barchet, W.,
+Weber, F., Drosten, C., Müller, M.A., 2013. Middle East respiratory syndrome coronavirus accessory protein 4a is a type I interferon antagonist. J. Virol. 87,
+12489–12495.
+Osterholzer, J.J., Ames, T., Polak, T., Sonstein, J., Moore, B.B., Chensue, S.W., Toews,
+G.B., Curtis, J.L., 2005. CCR2 and CCR6, but not endothelial selectins, mediate the
+accumulation of immature dendritic cells within the lungs of mice in response to
+particulate antigen. J. Immunol. 175, 874–883.
+Perlman, S., Dandekar, A.A., 2005. Immunopathogenesis of coronavirus infections: implications for SARS. Nat. Rev. Immunol. 5, 917–927.
+
+Fig. 6. HBD 2-conjugated Ag treatment induces polarized activation of
+THP-1 cells by regulating CCR2 and Nod2-mediated signaling. THP-1 cells
+were stimulated with 1 μg/mL recombinant S RBD protein with or without HBD
+2 at 24 h after treatment with RS 102,895 (CCR2 antagonist) or GSK 717 (Nod2
+antagonist), and their expression, together with that of the internal control gene
+hACTB, was analyzed by qRT-PCR in duplicate. Expression levels relative to
+those of the PBS-treated control are shown as means ± SD. *p < 0.05,
+**p < 0.01, and ***p < 0.001.
+
+509
+
+Immunobiology 224 (2019) 502–510
+
+J. Kim, et al.
+
+Smith, J.J., Travis, S.M., Greenberg, E.P., Welsh, M.J., 1996. Cystic ﬁbrosis airway epithelia fail to kill bacteria because of abnormal airway surface ﬂuid. Cell 85, 229–236.
+Stolzenberg, E.D., Anderson, G.M., Ackermann, M.R., Whitlock, R.H., Zasloﬀ, M., 1997.
+Epithelial antibiotic induced in states of disease. Proc. Natl. Acad. Sci. U.S.A. 94,
+8686–8690.
+Tsai, W.H., Huang, D.Y., Yu YH, Chen C.Y., Lin, W.W., 2011. Dual roles of NOD2 in TLR4mediated signal transduction and -induced inﬂammatory gene expression in macrophages. Cell. Microbiol. 13, 717–730.
+Varvara, G., Tettamanti, L., Gallenga, C.E., Caraﬀa, A., D’Ovidio, C., Mastrangelo, F.,
+Ronconi, G., Kritas, S.K., Conti, P., 2018. Stimulated mast cells release inﬂammatory
+cytokines: potential suppression and therapeutical aspects. J. Biol. Regul. Homeost.
+Agents 32, 1355–1360.
+Wiese, K.M., Koch, C.M., Coates, B., Ridge, K.M., 2017. Protection from inﬂuenza A virus
+infection by modulating nucleotide-binding oligomerization domain containing 2
+(NOD2) signaling. FASEB J. 31 937.7.
+Zhao, H., Zhou, J., Zhang, K., Chu, H., Liu, D., Poon, V.K., Chan, C.C., Leung, H.C., Lin,
+Y.P., Zhang, A.J., Jin, D.Y., Yuen, K.Y., Zheng, B.J., 2016. A novel peptide with potent
+and broad-spectrum antiviral activities against multiple respiratory viruses. Sci. Rep.
+6, 22008.
+Zielecki, F., Weber, M., Eickmann, M., Spiegelberg, L., Zaki, A.M., Matrosovich, M.,
+Becker, S., Weber, F., 2013. Human cell tropism and innate immune system interactions of human respiratory coronavirus EMC compared to those of severe acute
+respiratory syndrome coronavirus. J. Virol. 87, 5300–5304.
+
+Röhrl, J., Yang, D., Oppenheim, J.J., Hehlgans, T., 2010a. Speciﬁc binding and chemotactic activity of mBD4 and its functional orthologue hBD2 to CCR6-expressing cells.
+J. Biol. Chem. 285, 7028–7034.
+Röhrl, J., Yang, D., Oppenheim, J.J., Hehlgans, T., 2010b. Human beta-defensin 2 and 3
+and their mouse orthologs induce chemotaxis through interaction with CCR2. J.
+Immunol. 184, 6688–6694.
+Sabbah, A., Chang, T.H., Harnack, R., Frohlich, V., Tominaga, K., Dube, P.H., Xiang, Y.,
+Bose, S., 2009. Activation of innate immune antiviral responses by Nod2. Nat.
+Immunol. 10, 1073–1080.
+Saijo, K., Glass, C.K., 2011. Microglial cell origin and phenotypes in health and disease.
+Nat. Rev. Immunol. 11, 775–787.
+Seo, B.S., Lee, S.H., Lee, J.E., Yoo, Y.C., Lee, J., Park, S.R., 2013. Dectin-1 stimulation
+selectively reinforces LPS-driven IgG1 production by mouse B cells. Immune Netw.
+13, 205–212.
+Seth, R.B., Sun, L., Ea, C.K., Chen, Z.J., 2005. Identiﬁcation and characterization of
+MAVS, a mitochondrial antiviral signaling protein that activates NF‐κB and IRF3. Cell
+122, 669–682.
+Shim, Y.R., Lee, H.K., 2015. Caspase-1 independent viral clearance and adaptive immunity against mucosal respiratory syncytial virus infection. Immune Netw. 15,
+73–82.
+Shokri, S., Mahmoudvand, S., Taherkhani, R., Farshadpour, F., 2019. Modulation of the
+immune response by Middle East respiratory syndrome coronavirus. J. Cell. Physiol.
+234, 2143–2151.
+
+510
+
+

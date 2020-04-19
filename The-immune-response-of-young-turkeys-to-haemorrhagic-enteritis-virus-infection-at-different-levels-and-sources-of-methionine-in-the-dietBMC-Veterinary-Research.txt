@@ -1,0 +1,2259 @@
+Tykałowski et al. BMC Veterinary Research
+https://doi.org/10.1186/s12917-019-2138-8
+
+(2019) 15:387
+
+RESEARCH ARTICLE
+
+Open Access
+
+The immune response of young turkeys to
+haemorrhagic enteritis virus infection at
+different levels and sources of methionine
+in the diet
+Bartłomiej Tykałowski1* , Marcin Śmiałek1, Andrzej Koncicki1, Katarzyna Ognik2, Zenon Zduńczyk3 and
+Jan Jankowski4
+
+Abstract
+Background: Haemorrhagic enteritis (HE) of turkeys was first described in 1937 in the USA, while in Poland it was
+first diagnosed in 1987. Polish haemorrhagic enteritis virus (HEV) isolates are usually low pathogenic and trigger a
+subclinical disease. Unfortunately, even the low- pathogenic HEV strains cause severe immunosuppression leading
+to secondary bacterial infections and huge economic losses. The objective of this study was to evaluate if the
+influence of Met on HEV infected turkeys immune response can be differentiated by both its level and source. Met
+is one of the amino acids that not only play a nutritional role but also participate in and regulate key metabolic
+pathways and immune response. In our study, the birds were assigned to 4 dietary treatments which differed in
+Met levels (0.55 and 0.78% in weeks 1–4 of age and 0.45 and 0.65% in weeks 5–8 of age, respectively) and sources
+(DL-methionine (DLM) or DL-methionine hydroxy analogue (MHA)).
+Results: The HEV added the percentage of CD4+ cells and decreased the percentage of IgM+ cells in the blood,
+spleen and caecal tonsils (CTs) of turkeys. In addition, it increased the percentage of CD4+CD25+ cells in blood, and
+interleukin-6 (IL-6) level in plasma. The higher dose of Met led to a significant decrease in the percentages of CD4+,
+CD8+ and CD4+IL-6+ cell subpopulations in the blood of HEV-infected and uninfected turkeys and to an increase in
+the percentage of IgM+ B cells in CTs. Turkeys administered feeds with an increased Met content displayed a
+decrease in plasma IL-6 levels and an increase in plasma IgA levels.
+Conclusions: The results of this study indicate that HEV infection impairs the immune function in turkeys. Met
+content in the feed has a moderate effect on the immune response in HEV-infected turkeys. The source of this
+amino acid appears not be as important as its dose, because value of the analysed parameters did not differ
+significantly between turkeys receiving feeds with DLM or MHA. In the uninfected turkeys, the higher by 40% (than
+recommended by NRC) level of Met in the feeds had a positive effect on humoral immunity parameters.
+Keywords: Methionine, Haemorrhagic enteritis virus, Immune response, Turkeys
+
+* Correspondence: bartlomiej.tykalowski@uwm.edu.pl
+1
+Department of Poultry Diseases, Faculty of Veterinary Medicine, University of
+Warmia and Mazury, Oczapowskiego 13, 10-719 Olsztyn, Poland
+Full list of author information is available at the end of the article
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Tykałowski et al. BMC Veterinary Research
+
+(2019) 15:387
+
+Background
+Haemorrhagic enteritis (HE) was first described in turkeys in
+1937 by Pomeroy and Fenstermacher at Minnesota, USA [5].
+In Poland, it was first diagnosed in 1987 [16]. Haemorrhagic
+enteritis virus (HEV) belongs to the family Adenoviridae,
+genus Siadenovirus. Under field conditions, susceptible to
+HEV infection are mainly turkeys over 4–6 weeks of life,
+whereas disease develops most often in 7–9 week old birds.
+HEV infection is usually asymptomatic. It may, however,
+proceed with depression, sanguineous excreta, and mortality
+rate approximating 80% only in the case of infection with
+highly pathogenic strains [5, 16, 40]. The Polish HEV isolates
+are usually low-pathogenic and induce subclinical infections,
+but severely impair the humoral and cellular reactivity of the
+immune system. At the acute stage of the disease, the percentage of B lymphocytes decreases significantly in blood
+and many immune organs, and the balance between percentage of CD4+ and CD8+ T lymphocytes is upset [40]. HEV
+has been shown to infect macrophages and reduce their
+functional capabilities. HEV-infected macrophages may
+undergo necrosis and apoptosis [28]. This may enhance the
+susceptibility to bacterial (usually E. coli and Ornithobacterium rhinotracheale (ORT)) and other viral infections in
+HEV-infected turkeys [5, 16, 17, 27].. An increased mortality
+rate due to superinfections with E. coli bacteria is usually observed between week 2 and 4 of life after infection with a
+low-pathogenic HE virus and may range from 2.5 to 6.5%
+weekly [24]. Considering the frequent exposure of turkeys to
+HEV infections and, consequently, their suppressed immunity, any actions aimed at aiding defence mechanisms in the
+course of the infection should be deemed highly desirable
+and valuable. One of the means to improve the health status
+of turkeys in commercial production is to supplement their
+feed mixtures with substances exhibiting immunostimulating
+effects. This is expected to alleviate negative outcomes of
+HEV and improve the birds health status and resultantly (by
+decreasing amounts of antibiotics used) to improve turkey
+production effectiveness and quality of poultry products. The
+substances with proved, positive impact on the immune system of poultry and their body weight gains include, i.a., vitamins, probiotics, essential oils, herbs, nucleotides, and amino
+acids [4, 18, 19].
+Methionine (Met) is the first limiting amino acid in
+feeds of poultry because the Met content of natural feed
+ingredients is generally low (0.3–0.4%), below the requirements of fast-growing chickens and turkeys [12, 29]. Dietary Met content should be higher particularly in the first
+month of rearing, at 0.55% or even 0.70%, according to
+the recommendations of NRC [23] and British United
+Turkeys [2], respectively. Therefore, commercial feeds are
+usually supplemented with feed-grade Met, i.e. DLmethionine (DLM) or DL-methionine hydroxy analogue
+(MHA) [43]. Chemically, MHA is not an amino acid but a
+metabolic precursor of DLM and a very effective source of
+
+Page 2 of 11
+
+supplemental Met [7, 41]. Some studies have revealed
+MHA to be more effective in improving the antioxidant
+status of chickens and turkeys than DLM [25, 38, 42].
+The results of recent research indicate that Met is one
+of the amino acids that not only play a nutritional role
+but also participate in and regulate key metabolic pathways [1, 11, 22] including those related to the immune
+system function [12, 13, 19]. One of the mechanisms
+proposed to explain Met interference in the immune
+system is the proliferation of T cells that are sensitive to
+intracellular variations in glutathione and cysteine levels,
+i.e. compounds which also participate in Met metabolism [8, 15]. The findings of other authors indicate that
+dietary Met can be a major contributor to the synthesis
+of immune system proteins, including antibodies such as
+IgA [44]. IgA is a major immunoglobulin synthesized locally and secreted onto the surface of mucous membranes of respiratory airways, gastrointestinal tract,
+reproductive system, and many other sites. It represents
+the main element of mucosal immune system. In blood
+serum, it circulates in the form of monomers in secretions with a dimer, a trimer or a tetramer. Mucosal IgA
+possesses a secretory component (SC) which promotes
+its adhesion to epithelial surface and provides protection
+from proteolytic degradation within cells [10].
+Experimental evidence [3, 37] has shown that
+humoral stimulation and cellular immune responses
+were enhanced in broiler chickens administered feeds
+supplemented with Met in excess of NRC dietary recommendations [23]. In a study by Jankowski et al.
+[14], an increase in plasma IL-6 levels was noted in
+turkeys administered feeds with a higher Met content.
+In other experiment on young turkeys, the higher
+dietary Met content elevated IgA concentration and
+decreased IL-6 plasma level [45]. IL-6 is a multifunctional cytokine that plays a major role in regulating
+immune responses, acute phase reactions and haematopoiesis. It is a pro-inflammatory cytokine in both
+birds and mammals and is produced early after infection as part of the induced innate immune response.
+IL-6 plays a pivotal role during the transition from
+innate to acquired immunity, and is also involved in
+the regulation of metabolic, regenerative, and neural
+processes. This cytokine is produced by many different cell types (monocytes, macrophages, lymphocytes,
+fibroblasts, endothelial cells and chondrocytes) and
+acts on T cells, B cells, hepatocytes, haematopoietic
+progenitor cells and cells of the central nervous system [30, 31]. In addition, IL-6 plays a key role in the
+development of inflammatory lesions in intestinal mucosa of HEV-infected turkeys [27].
+The available literature provides no information on the effects of Met on the immune system functioning in turkeys
+infected with a pathogen with a strong immunosuppressive
+
+Tykałowski et al. BMC Veterinary Research
+
+(2019) 15:387
+
+activity. One of the objectives of this study was to evaluate if
+the influence of Met on the immune system functioning can
+be differentiated by both its level and source. Additionally,
+we have compared the immune responses of healthy and
+HEV- infected turkeys, administered feeds (1–8 weeks of
+age) containing two sources of Met (DLM and MHA) at
+two inclusion levels: recommended by NRC [23] (DLML
+and MHAL groups) and approximately 40% higher than that
+recommended by NRC (DLMH and MHAH groups).
+
+Results
+The average body weight (BW) of 56-day-old uninfected
+and HEV-infected turkeys ranged from 3.94 to 4.06 kg,
+and from 3.87 to 4.02 kg, respectively. No significant differences in BW were found between HEV-infected and
+uninfected turkeys administered feeds supplemented
+with DLM or MHA. From the day of experimental infection (42 days of age) until the end of the experiment (56
+days of age), no mortality was recorded in the infected
+and uninfected groups.
+Tables 1, 2 and 3 show the percentages of CD4+,
+CD4+CD25+, CD8+, CD4+CD8+ T cell subpopulations
+and IgM+ B cell subpopulation within the mononuclear
+cells isolated from the blood, spleen and caecal tonsils
+(CTs) of 47-day-old uninfected (0) and HEV- infected
+(HE) turkeys from groups DLML, MHAL, DLMH and
+MHAH. The percentages of the analysed T cell and B
+cell subpopulations in the blood (Table 1), spleen
+(Table 2) and CTs (Table 3) of turkeys were most influenced by HEV infection, followed by dietary Met levels
+(which exerted a weaker effect on the analysed parameters) and Met sources (which exerted a minor effect). In
+the acute phase of infection (first 5 days post inoculation
+(p.i.)), the HEV-infected turkeys displayed a significant
+increase in the percentage of CD4+ cells and a decrease
+in the percentage of IgM+ B cells in blood (both P <
+0.001), spleen (both P < 0.001) and CTs (P = 0.005 and
+P < 0.001, respectively), compared with the uninfected
+birds. The higher dose of Met, regardless of its source,
+led to a significant decrease in the percentages of CD4+
+cell (P = 0.009) and CD8+ cell (P = 0.027) subpopulations
+in the blood of HEV-infected and uninfected turkeys
+(Table 1), and an increase in the percentage of IgM+ B
+cells (P = 0.015) in CTs (Table 3).
+Both the HEV experimental infection and increased
+dietary Met content contributed to a significant (P <
+0.001) decrease in the blood percentage of CD4+ cells,
+synthesizing IL-6 in response to mitogenic stimulation
+under in vitro conditions. The HEV infection had a similar effect on IL-6 synthesis by CD4+ cells isolated from
+the spleen and CTs of turkeys (Table 4).
+A significant (P < 0.001) increase in plasma IL-6 concentrations was noted in the HEV-infected turkeys, compared
+
+Page 3 of 11
+
+Table 1 Percentages of peripheral blood T cell and B cell
+subpopulations in turkeys administered feeds with different Met
+sources and content (n = 7)
+CD4+
+
+CD4+CD25+
+
+CD8+
+
+CD4+CD8+
+
+IgM+
+
+0-DLML
+
+13.8
+
+0.39
+
+1.98
+
+0.35
+
+8.43
+
+0-MHAL
+
+14.8
+
+0.39
+
+2.08
+
+0.39
+
+8.24
+
+0-DLMH
+
+11.7
+
+0.37
+
+1.49
+
+0.30
+
+7.66
+
+0-MHAH
+
+11.2
+
+0.38
+
+1.86
+
+0.33
+
+9.22
+
+HE-DLML
+
+29.1
+
+0.46
+
+2.87
+
+0.53
+
+5.90
+
+HE-MHAL
+
+25.3
+
+0.46
+
+1.60
+
+0.50
+
+5.77
+
+HE-DLMH
+
+21.6
+
+0.42
+
+2.24
+
+0.51
+
+5.67
+
+HE-MHAH
+
+19.8
+
+0.46
+
+1.75
+
+0.50
+
+6.31
+
+0
+
+12.87
+
+0.382
+
+1.854
+
+0.341
+
+8.39
+
+HE
+
+23.96
+
+0.450
+
+2.116
+
+0.511
+
+5.91
+
+Low
+
+20.76
+
+0.423
+
+2.295
+
+0.445
+
+7.06
+
+High
+
+16.07
+
+0.409
+
+1.675
+
+0.407
+
+7.24
+
+19.06
+
+0.410
+
+1.987
+
+0.419
+
+6.94
+
+1
+
+Group
+
+Infection
+
+Met dosage
+
+Met source
+DLM
+MHA
+
+17.77
+
+0.422
+
+1.983
+
+0.433
+
+7.36
+
+1.250
+
+0.013
+
+0.138
+
+0.022
+
+0.255
+
+Infection
+
+< 0.001
+
+0.011
+
+0.333
+
+< 0.001
+
+< 0.001
+
+Dose
+
+0.009
+
+0.581
+
+0.027
+
+0.319
+
+0.572
+
+Source
+
+0.450
+
+0.636
+
+0.987
+
+0.712
+
+0.197
+
+nd
+
+nd
+
+nd
+
+nd
+
+SEM2
+p – values
+
+Interaction
+
+3
+
+nd
+
+1
+
+Feeds administered to uninfected (0) and infected (HE) turkeys in weeks 1–4
+and 5–8, contained DLM and the equivalent amount of MHA at two levels: low
+(L) - 0.55, 0.45, and high (H) - 0.78, 0.65, respectively [% as fed]
+2
+SEM- standard error of the mean
+3
+nd – not detected: no significant infection x dose, infection x source, dose x
+source or infection x dose x source interactions
+
+with the uninfected birds. Plasma IL-6 levels were lower
+in turkeys fed with the higher MHA dose (Table 5).
+Anti-ND antibody titres were not significantly affected
+by dietary Met sources or levels, but they were significantly (P = 0.004) lower in the HEV-infected turkeys
+than in the uninfected birds (Table 6). Average vaccineinduced anti-ORT antibody titres were significantly (P <
+0.001) higher at 56 days of age in the HEV-infected turkeys than in the uninfected birds.
+
+Discussion
+No deterioration of production performance was observed in our study for the HEV-infected turkeys administered feeds supplemented with DLM or MHA. The
+Polish isolate of HEV used in the experiment is characterised by low pathogenicity and, in the absence of
+
+Tykałowski et al. BMC Veterinary Research
+
+(2019) 15:387
+
+Page 4 of 11
+
+Table 2 Percentages of T cell and B cell subpopulations in the
+spleen in turkeys administered feeds with different Met sources
+and content (n = 7)
+CD4+
+
+CD4+CD25+
+
+CD8+
+
+CD4+CD8+
+
+Table 3 Percentages of T cell and B cell subpopulations in the
+CTs in turkeys administered feeds with different Met sources
+and content (n = 7)
+
+IgM+
+
+1
+
+CD4+
+
+CD4+CD25+
+
+CD8+
+
+CD4+CD8+
+
+IgM+
+
+1
+
+Group
+
+Group
+
+0-DLML
+
+33.3
+
+1.55
+
+37.9
+
+2.00
+
+18.2
+
+0-DLML
+
+51.6
+
+1.50
+
+14.2
+
+2.33
+
+15.6
+
+0-MHAL
+
+35.3
+
+1.65
+
+33.5
+
+2.46
+
+18.6
+
+0-MHAL
+
+53.9
+
+1.61
+
+14.0
+
+1.83
+
+14.5
+
+0-DLMH
+
+33.1
+
+1.73
+
+36.4
+
+2.12
+
+20.8
+
+0-DLMH
+
+51.3
+
+1.51
+
+14.7
+
+1.61
+
+18.2
+
+0-MHAH
+
+29.3
+
+1.75
+
+37.3
+
+2.15
+
+21.8
+
+0-MHAH
+
+46.8
+
+1.87
+
+15.1
+
+1.85
+
+18.1
+
+HE-DLML
+
+51.4
+
+1.67
+
+25.0
+
+1.88
+
+15.8
+
+HE-DLML
+
+55.6
+
+1.44
+
+15.9
+
+1.77
+
+11.1
+
+HE-MHAL
+
+55.9
+
+1.61
+
+24.7
+
+2.09
+
+14.9
+
+HE-MHAL
+
+61.3
+
+1.55
+
+14.6
+
+2.38
+
+10.9
+
+HE-DLMH
+
+53.8
+
+1.83
+
+19.1
+
+2.24
+
+16.7
+
+HE-DLMH
+
+57.0
+
+1.46
+
+13.4
+
+3.05
+
+12.5
+
+HE-MHAH
+
+50.4
+
+1.76
+
+21.4
+
+2.12
+
+14.7
+
+HE-MHAH
+
+54.1
+
+1.64
+
+15.1
+
+2.23
+
+12.7
+
+0
+
+32.73
+
+1.669
+
+36.28
+
+2.184
+
+19.72
+
+0
+
+50.9
+
+1.62
+
+14.5
+
+1.90
+
+16.6
+
+HE
+
+52.85
+
+1.716
+
+22.56
+
+2.083
+
+15.53
+
+HE
+
+57.0
+
+1.52
+
+14.8
+
+2.36
+
+11.8
+
+Infection
+
+Infection
+
+Met dosage
+
+Met dosage
+
+Low
+
+43.95
+
+1.620
+
+30.29
+
+2.108
+
+16.89
+
+Low
+
+55.6
+
+1.52
+
+14.7
+
+2. 08
+
+13.0
+
+High
+
+41.63
+
+1.765
+
+28.55
+
+2.159
+
+18.36
+
+High
+
+52.3
+
+1.62
+
+14.6
+
+2.18
+
+15.4
+
+DLM
+
+42.89
+
+1.694
+
+29.60
+
+2.063
+
+17.89
+
+53.9
+
+1.48
+
+14.6
+
+2.19
+
+14.3
+
+MHA
+
+42.70
+
+1.691
+
+29.24
+
+2.204
+
+17.36
+
+1.860
+
+0.046
+
+1.477
+
+0.109
+
+0.558
+
+< 0.001
+
+0.629
+
+< 0.001
+
+0.670
+
+< 0.001
+
+Dose
+
+0.233
+
+0.145
+
+0.401
+
+0.829
+
+Source
+
+0.921
+
+0.972
+
+0.864
+
+0.552
+
+Met source
+
+SEM2
+
+Met source
+
+54.0
+
+1.67
+
+14.7
+
+2.07
+
+14.0
+
+1.12
+
+0.031
+
+0.458
+
+0.156
+
+0.603
+
+Infection
+
+0.005
+
+0.060
+
+0,805
+
+0.149
+
+< 0.001
+
+0.117
+
+Dose
+
+0.110
+
+0.062
+
+0.895
+
+0.738
+
+0.015
+
+0.568
+
+Source
+
+0.939
+
+0.001
+
+0.905
+
+0.704
+
+0.744
+
+nd
+
+nd
+
+nd
+
+nd
+
+p – values
+Infection
+
+Interactions
+
+DLM
+MHA
+SEM2
+p – values
+
+3
+
+nd
+
+nd
+
+nd
+
+nd
+
+Interactions
+
+nd
+
+3
+
+nd
+
+1
+
+Feeds administered to uninfected (0) and infected (HE) turkeys in weeks 1–4
+and 5–8, contained DLM and the equivalent amount of MHA at two levels: low
+(L) - 0.55, 0.45, and high (H) - 0.78, 0.65, respectively [% as fed]
+2
+SEM- standard error of the mean
+3
+nd – not detected: no significant infection x dose, infection x source, dose x
+source or infection x dose x source interactions
+
+1
+
+Feeds administered to uninfected (0) and infected (HE) turkeys in weeks 1–4
+and 5–8, contained DLM and the equivalent amount of MHA at two levels: low
+(L) - 0.55, 0.45, and high (H) - 0.78, 0.65, respectively [% as fed]
+2
+SEM- standard error of the mean
+3
+nd – not detected: no significant infection x dose, infection x source, dose x
+source or infection x dose x source interactions
+
+secondary bacterial infections, it does not increase birds
+mortality or significant changes in BW. However, even
+low-virulence strains that cause subclinical infection can
+result in immunosuppression [16, 17, 40].
+Results of our study indicate that the HEV infection
+strongly influences the immune system of turkeys,
+which leads to a significant increase in the percentage
+of CD4+ cells and a decrease in the percentage of
+IgM+ B cells in their blood, spleen, and CTs. Present
+results corroborate previous findings [17, 36]. There is
+a scarcity of studies investigating the effect of HEV on
+the percentages of the analysed cell subsets in CTs.
+Regulatory T cells (Treg), a subset of T cells identified
+by the co-expression of CD4 and CD25, suppress immune responses to self-antigens and prevent autoimmune diseases. There is emerging evidence to
+
+suggest that regulatory T cells control immune responses to bacteria, viruses, parasites and fungi [21].
+Regulatory T cells have been identified in several species, including humans, dogs, cats, pigs, cows, sheep,
+horses, chickens and turkeys [6, 32, 33]. The mechanism of the suppressive function of natural and inducible regulatory T cells is still debated, but in different
+model systems, suppressive activity has been shown to
+be mediated either through secretion of immunosuppressive cytokines or through cell–cell contact [21].
+Many studies have shown that pathogens, in particular
+those that cause chronic infections or are associated with immunosuppression, induce the production of regulatory cytokines IL-10 and TGF-β [20]. Turkey thymic CD4+CD25+
+cells have approximately 158-fold higher IL-10 mRNA, 7fold higher TGF-β, 24-fold higher CTLA-4 and 11-fold
+
+Tykałowski et al. BMC Veterinary Research
+
+(2019) 15:387
+
+Page 5 of 11
+
+Table 4 The percentage of CD4+ cells isolated from blood,
+spleen and CTs, synthesizing IL-6 in response to mitogenic
+stimulation under in vitro conditions (n = 7)
+Blood
+
+Spleen
+
+CTs
+
+0-DLML
+
+1.67
+
+0.88
+
+0.58
+
+0-MHAL
+
+1.38
+
+0.67
+
+0.57
+
+0-DLMH
+
+1.09
+
+0.68
+
+0.62
+
+0-MHAH
+
+0.84
+
+0.77
+
+0.58
+
+HE-DLML
+
+0.97
+
+0.38
+
+0.48
+
+HE-MHAL
+
+0.52
+
+0.38
+
+0.44
+
+HE-DLMH
+
+0.85
+
+0.32
+
+0.49
+
+HE-MHAH
+
+0.40
+
+0.32
+
+0.43
+
+Table 5 Plasma IgA and IL-6 levels in turkeys (n = 7)
+
+Group1
+
+1.247
+
+0.751
+
+0.59
+
+HE
+
+0.685
+
+0.354
+
+0.46
+
+Low
+
+1.219
+
+0.580
+
+0.51
+
+High
+
+0.713
+
+0.525
+
+0.53
+
+0.567
+
+0.54
+
+MHA
+
+0.868
+
+0.538
+
+0.50
+
+0.069
+
+0.036
+
+0.018
+
+SEM2
+
+< 0.001
+
+< 0.001
+
+< 0.001
+
+Dose
+
+< 0.001
+
+0.097
+
+0.661
+
+Source
+
+0.004
+
+0.361
+
+0.204
+
+Interactions
+
+nd3
+
+nd
+
+nd
+
+1
+Feeds administered to uninfected (0) and infected (HE) turkeys in weeks 1–4
+and 5–8, contained DLM and the equivalent amount of MHA at two levels low
+(L) - 0.55, 0.45, and high (H) - 0.78, 0.65, respectively [% as fed]
+2
+SEM- standard error of the mean;
+3
+nd – not detected: no significant infection x dose, infection x source, dose x
+source or infection x dose x source interactions
+
+higher LAG-3 mRNA amounts than thymic CD4+CD25−
+cells [33].
+There is a scarcity of studies investigating the role of regulatory T cells in the course of HEV infection in turkeys. In
+the current study, the percentage of CD4+CD25+ cells increased significantly in the blood of HEV-infected turkeys
+on day 5 p.i. A significant increase in the percentage of
+CD4+CD25+ cells was also noted in the CTs of the turkeys
+administered MHA-supplemented feeds relative to the birds
+fed DLM-supplemented feed mixtures. Our results and the
+findings of other authors [9, 28, 36] indicate that HEV impairs immune function in infected turkeys, leading to strong
+immunosuppression. After exposure, HEV may replicate in
+B lymphocytes located in the intestines and the bursa of
+Fabricius, or it may travel directly to the spleen through peripheral blood infecting numerous macrophages and B cells,
+
+0.141b
+
+0-MHAL
+
+0.096
+
+0.161b
+
+0-DLMH
+
+0.159
+
+0.121bc
+
+0-MHAH
+
+0.278
+
+0.118bc
+
+HE-DLML
+
+0.178
+
+0.385a
+
+HE-MHAL
+
+0.086
+
+0.101bc
+
+HE-DLMH
+
+0.101
+
+0.201b
+
+HE-MHAH
+
+0.103
+
+0.070c
+
+0
+
+0.177
+
+0.135
+
+HE
+
+0.117
+
+0.189
+
+Low
+
+0.134
+
+0.197
+
+High
+
+0.160
+
+0.127
+
+DLM
+
+0.153
+
+0.212
+
+MHA
+
+0.141
+
+0.113
+
+2
+
+0.012
+
+0.017
+
+Infection
+
+< 0.001
+
+< 0.001
+
+Dose
+
+0.068
+
+< 0.001
+
+Source
+
+0.414
+
+< 0.001
+
+Interactions
+
+nd3
+
+d4
+
+SEM
+
+p – values
+
+p – values
+Infection
+
+0.176
+
+Met source
+
+Met source
+1.064
+
+0-DLML
+
+Met dosage
+
+Met dosage
+
+DLM
+
+IL-6 [pg/ml]
+
+Infection
+
+Infection
+0
+
+IgA [μg/ml]
+Group1
+
+1
+
+Feeds administered to uninfected (0) and infected (HE) turkeys in weeks 1–4
+and 5–8, contained DLM and the equivalent amount of MHA at two levels low
+(L) - 0.55, 0.45, and high (H) - 0.78, 0.65, respectively [% as fed]
+2
+SEM- standard error of the mean
+3
+nd – not detected: no significant infection x dose, infection x source, dose x
+source or infection x dose x source interactions
+4
+d- detected: Significant interactions between the experimental factors; higher
+dose of DLM and both doses of MHA decreased plasma IL-6 levels in
+HEV-infected turkeys
+a-c
+values differ significantly
+
+and replicate efficiently [35]. The infection of target cells in
+the spleen leads to the influx of macrophages and CD4+ T
+cells in the white pulp, resulting in hyperplasia. The activation of macrophages by HEV leads to the production of cytokines such as IL-6, tumour necrosis factor (TNF) and
+interferon (IFN) type I and II [28]. In the acute phase of the
+disease, the depletion of IgM+ B cells occurs in the blood
+and spleen of birds [17, 36]. Virus-induced cell necrosis and
+apoptosis may compromise the antigen-presenting function
+and possibly other functions of macrophages and B cells. In
+the present study, the higher dietary Met level induced a
+lesser decrease in the percentage of IgM+ B cells in HEVinfected turkeys, particularly in their CTs.
+Results of our study demonstrate that the higher supplementation levels of Met, used in the form of DLM
+
+Tykałowski et al. BMC Veterinary Research
+
+(2019) 15:387
+
+Page 6 of 11
+
+Table 6 Vaccine-induced antibody titres in the blood serum of
+56-day-old turkeys (n = 23)
+ORT
+
+NDV
+
+1
+
+Group
+
+0-DLML
+
+12879b
+
+236
+
+0-MHAL
+
+b
+
+11116
+
+768
+
+0-DLMH
+
+15022b
+
+443
+
+0-MHAH
+
+b
+
+14571
+
+376
+
+HE-DLML
+
+23072a
+
+69
+
+ab
+
+HE-MHAL
+
+17976
+
+150
+
+HE-DLMH
+
+15849b
+
+117
+
+HE-MHAH
+
+b
+
+19120
+
+139
+
+0
+
+13,397
+
+441
+
+HE
+
+19,004
+
+119
+
+Low
+
+14,581
+
+358
+
+High
+
+15,611
+
+324
+
+DLM
+
+15,620
+
+265
+
+MHA
+
+14,572
+
+421
+
+687
+
+185
+
+Infection
+
+Met dosage
+
+Met source
+
+2
+
+SEM
+
+p – values
+Infection
+
+< 0.001
+
+0.004
+
+Dose
+
+0.932
+
+0.746
+
+Source
+
+0.473
+
+0.215
+
+Interactions
+
+0.0393
+
+nd4
+
+1
+Feeds administered to uninfected (0) and infected (HE) turkeys in weeks 1–4
+and 5–8, contained DLM and the equivalent amount of MHA at two levels: low
+(L) - 0.55, 0.45, and high (H) - 0.78, 0.65, respectively [% as fed]
+2
+SEM- standard error of the mean
+3
+Significant interactions between the experimental factors; HEV added antiORT antibody titres, particularly in turkeys fed feeds with lower DLM content
+4
+nd – not detected: no significant infection x dose, infection x source, dose x
+source or infection x dose x source interactions
+
+and MHA, reduced the blood level of IL-6 in both the
+HEV-infected and uninfected turkeys. IL-6 plays a major
+role in regulating immune responses and acute phase reactions [30, 31]. It is a pro-inflammatory cytokine and is
+produced early (2–3 days p.i) after HEV infection as part
+of the induced innate immune response. It appears that
+in our study, cells other than CD4+ lymphocytes, activated by HEV, secreted IL-6 and contributed to an increase in the plasma concentrations of this interleukin.
+Earlier investigations conducted by other authors have
+demonstrated high IL-6 and TNF level at the peak of the
+acute phase in HEV-infected turkeys. Cytokines may
+play a protective as well as a destructive role. While a
+massive release of proinflammatory cytokines may lead
+to systemic shock associated with haemorrhagic enteritis
+and death [27].
+
+Immunosuppression induced by HEV infection may
+impair post-vaccination immunity after the administration of live vaccines, which was observed in the
+current study in turkeys vaccinated against ND. Usually, once-vaccinated turkeys do not develop high
+levels of serum antibodies as detected in the ELISA
+test. Our findings correspond to the observations of
+other authors [9]. In turkeys that had been vaccinated
+twice against ORT with an inactivated vaccine,
+vaccine-induced antibody titres were significantly
+higher in the serum of 56-day-old birds administered
+feeds with increased Met content, which corroborates
+the findings of Kubińska et al. [19]. Average plasma
+IgA levels were also higher in turkeys receiving higher
+Met concentrations. Our findings are consistent with
+the results of other studies which show that dietary
+Met can be a major contributor to the synthesis of immune system proteins, including IgA [12, 44].
+Interesting results of serological analyses were obtained
+in the HEV-infected turkeys that were revaccinated
+against ORT at 49 days of age (7 days p.i.). Over that
+period, the number of HEV Hexon gene copies, determined in the spleen by qPCR, is higher than 3 and 14 days
+p.i. (Tykałowski B, unpublished data). Despite this fact,
+average vaccine-induced anti-ORT antibody titres were
+higher at 56 days of age in the HEV-infected turkeys than
+in the uninfected birds. The increase in anti-ORT antibody titres could have resulted from the activation of the
+immune system of the HEV-infected turkeys. Similar results were reported by Rautenschlein and Sharma [26]. In
+the cited study, 5- to 6-week-old turkeys were simultaneously vaccinated with attenuated NDV-B1 ELD50 = 105
+/bird intraocular) and cell culture-adapted HEV (HEVp30)
+at TCID50 = 104 /bird per os. At 14 days post vaccination,
+the anti-NDV antibody response was significantly enhanced (P < 0.05) in HEVp30 + NDV-vaccinated turkeys
+in comparison with the single-inoculated birds. At 21 days
+post vaccination, anti-HEV and anti-NDV antibody responses were similar in all vaccinated groups. However,
+the combination of HEVp30 and NDV-B1 enhanced the
+rate of apoptosis in splenic cells. However, the mechanism
+of the enhancement of anti-NDV antibodies remains
+unknown.
+
+Conclusions
+The results of this study indicate that HEV infection
+impairs immune function in turkeys. Depending on
+its content in the feed, methionine used in our study
+moderately affected the immune response of HEVinfected turkeys by alleviating infection outcomes.
+The source of this exogenous amino acid is not as
+important as its dose is, because values of the analysed parameters did not differ significantly between
+turkeys administered feeds with DLM or MHA. In
+
+Tykałowski et al. BMC Veterinary Research
+
+(2019) 15:387
+
+Page 7 of 11
+
+the uninfected turkeys, the higher by 40% level of
+methionine in the feed (than that recommended by
+NRC) had a positive effect on humoral immunity parameters, causing an increase both in the percentage
+of B lymphocytes in blood, spleen and CTs, and in
+plasma level of IgA.
+
+Methods
+Birds, management and feeds
+
+The study was conducted on 240 day-old female Hybrid
+Converter turkey poults purchased from a local hatchery
+(Grelavi S.A., Ketrzyn, Poland) and kept in isolated pens
+in the Pavilion of Avian Experimental Infections of the
+Department of Avian Diseases of the University of Warmia and Mazury in Olsztyn. The facility conforms to the
+relevant biosafety level (BSL-3). The birds were randomly assigned to 4 dietary treatments (60 birds per
+treatment). Each treatment was further divided into two
+groups (kept in 2 separate isolated pens, 30 birds per
+group). The total number of birds in each group was
+adapted to the size of experimental boxes. The dietary
+treatments differed in the level (low - “L”or high – “H”)
+and the source (DLM or MHA) of Met in feed. In each
+dietary treatment (DLML, MHAL, DLMH and MHAH,
+respectively), one group was inoculated with HEV and
+the other group served as uninfected control. The experiment layout is presented in Table 7.
+The temperature and lighting programs were consistent with the recommendations of Hendrix Genetics Ltd.
+(Canada) for Hybrid Converter turkeys. The birds had
+
+free access to feed and water. All experimental procedures were consistent with permission No. 45/2013 of
+the Local Ethics Committee for Animal Experiments in
+Olsztyn (Poland). NRC [23] recommendations were
+adopted as the low dietary levels of DLM (Evonik Industries, Krefeld, Germany) and MHA (calcium salt of 2hydroxy-4-(methyl) butanoic acid, Novus International,
+Inc., USA). The dietary Met content increased by 40%
+relative to NRC [23] recommendations was regarded as
+the high level which contributed to achieving good
+turkey performance in previous experiments [13, 18, 19].
+The nutritional value of basal feeds prepared in two
+successive 4-week periods (Table 8) was calculated according to the Polish Feedstuff Analysis Tables [34]. The
+analytically verified total Met content of experimental
+feeds, i.e. the lower and higher dietary levels of Met (including the equivalent amount of MHA), was 0.55 and
+0.78% in weeks 1–4 of age, respectively, and 0.45 and
+0.65% in weeks 5–8 of age, respectively.
+Vaccination
+
+Experimental turkeys fell under a standard vaccination
+program, practiced at commercial farms in Poland. At 10
+days of age, all 240 turkeys were vaccinated against Newcastle disease virus (NDV). The vaccine (Nobilis® ND,
+Clone 30, MSD, USA) was administered in a dose recommended by the producer with a dropper at one drop (0.05
+ml) per bird into one eye. At 28 and 49 days of age, turkeys were vaccinated against ORT by subcutaneous administration of 0.5 ml of Ornitin vaccine (ABIC, Poland).
+
+Table 7 Experiment layout
+Dietary
+treatment1
+(n = 60)
+
+Group
+(n =
+30)
+
+Days of age
+10
+
+28
+
+42
+(experimental
+infection)
+
+47
+
+DLML
+
+0DLML
+
+Vaccination
+against ND
+
+Vaccination
+against ORT
+
+02
+
+Collection of samples of
+Vaccination
+blood and organs from 7
+against ORT
+turkeys per group for immunological
+(CD4+, CD8+, CD4+CD8+, CD4+
+CD25+, CD4+IL-6+,IgM+) and
+biochemical analyses (IgA, IL-6)
+
+MHAL
+
+DLMH
+
+MHAH
+
+HEDLML
+
++3
+
+0MHAL
+
+0
+
+HEMHAL
+
++
+
+0DLMH
+
+0
+
+HEDLMH
+
++
+
+0MHAH
+
+0
+
+HEMHAH
+
++
+
+49
+
+56
+
+Collection of blood
+samples from 23
+turkeys per group
+for serological analyses
+(antibody against
+ORT and NDV)
+
+1
+Feeds administered to turkeys in weeks 1–4 and 5–8, contained DLM and the equivalent amount of MHA at two levels: low (L) - 0.55, 0.45, and high (H) - 0.78,
+0.65, respectively [% as fed
+2
+0 - uninfected turkeys (received 1 ml of sterile PBS into the crop)
+3
++ − turkeys inoculated with 1 ml of a suspension containing HEV at a dose of 104,3 EID50, administered into the crop
+
+Tykałowski et al. BMC Veterinary Research
+
+(2019) 15:387
+
+Table 8 Composition and nutrient concentrations in basal
+feeds
+Item
+
+Feeding period (weeks)
+1–4
+
+5–8
+
+Wheat
+
+49.09
+
+49.26
+
+Soybean meal
+
+41.65
+
+40.56
+
+Soybean oil
+
+2.02
+
+2.90
+
+Fish meal
+
+3.00
+
+–
+
+Rapeseed meal
+
+–
+
+3.00
+
+Sodium sulphate
+
+0.15
+
+0.15
+
+Sodium chloride
+
+0.11
+
+0.15
+
+Ingredients as fed [g/kg]
+
+Limestone
+
+1.41
+
+1.46
+
+Monocalcium phosphate
+
+1.61
+
+1.52
+
+L-Lysine HCl
+
+0.38
+
+0.41
+
+L-Threonine
+
+0.08
+
+0.09
+
+0.50
+
+0.50
+
+a
+
+Vitamin-mineral premix
+
+Calculated nutritional valueb
+Metabolizable energy [Kcal/kg]
+
+2750
+
+2850
+
+Crude protein [%]
+
+27.0
+
+25.0
+
+Page 8 of 11
+
+The immunological parameters were determined in blood,
+spleen and CTs. For this study, 7 turkeys at 47 days of life
+(representing average BW ± 10% per pen) were selected from
+each group, commonly accepted as the minimum number of
+turkeys with a unified genotype that ensures reliable, reproducible and statistically significant results without repeating
+the procedure due to high intra-group variability. Blood samples were collected from the wing vein into sterile test tubes
+(BD Vacutainer®, USA) with the K2EDTA anticoagulant for
+flow cytometry or with lithium heparin for biochemical analysis. Selected birds from each group were euthanized and
+their spleen and CTs were collected for mononuclear cell
+isolation and determination of the percentages of CD4+,
+CD8+, CD4+CD8+, CD4+CD25+, CD4+IL-6+ T cell subpopulations and IgM+ B cell subpopulation, by flow cytometry.
+Humanitarian euthanasia of the birds was performed with
+the use of a professional UNO Euthanasia Unit (UNOBV,
+Netherlands). The turkeys were placed in a chamber to
+which Carbogen (95% O2 + 5% CO2) was provided by the
+unit. After 1 min, Carbogen flow was stopped and 100% CO2
+was introduced into the cage. In this way, the high concentration of O2 was slowly replaced by CO2. This relatively
+slow replacement of O2 by CO2 is responsible for stress reduction in the birds.
+At 56 days of age, all turkeys were weighed, and blood
+samples were collected from 23 birds per treatment into
+sterile test tubes without the anticoagulant for serological analysis.
+
+Arginine [%]
+
+1.71
+
+1.59
+
+Lysine [%]
+
+1.74
+
+1.603
+
+Methionine [%]
+
+0.40
+
+0.34
+
+Methionine + cysteine [%]
+
+0.84
+
+0.76
+
+Threonine [%]
+
+1.05
+
+0.98
+
+Ca [%]
+
+1.20
+
+1.10
+
+P [%]
+
+0.81
+
+0.74
+
+Isolation of mononuclear cells and flow cytometry
+
+Available P [%]
+
+0.58
+
+0.50
+
+Sodium [%]
+
+0.15
+
+0.13
+
+Mononuclear cells from blood, spleen and CTs were
+isolated according to a previously described procedure
+[17, 39]. The cells were counted, and their viability was
+evaluated using the Vi-Cell XR cell counter (Beckman
+Coulter, USA).
+
+a
+
+0.5% of the premix provided per kg of diet: vitamin a (all trans-retinol
+acetate) – 15,000 IU, vitamin D3 (cholecalciferol) – 5000 IU, vitamin E (all-rac-αtocopheryl acetate) - 100 mg, vitamin K3−4 mg, vitamin B1−5 mg, vitamin B2
+−15 mg, vitamin B6−6 mg, niacin - 100 mg, biotin - 0.35 mg, pantothenic acid 32 mg, nicotinic acid −100 mg, folic acid - 4 mg, choline chloride - 700 mg, Mn
+- 100 mg, Zn - 80 mg, Fe - 60 mg, cu - 20 mg, I - 1.5 mg, se - 0.3 mg, Ca
+– 1.07 g
+b
+Calculated according to the Polish Feedstuff Analysis Tables [34]
+
+Experimental inoculation with HEV
+
+At 42 days of age, turkeys from HE-DLML, HE-MHAL,
+HE-DLMH, and HE-MHAH groups were experimentally
+inoculated with 1 ml of a suspension containing HEV at
+a dose of 104,3 EID50, administered into the crop with a
+probe [16]. In turn, turkeys from 0-DLML, 0-MHAL, 0DLMH, and 0-MHAH group received 1 ml of PBS via the
+same route.
+Sample collection
+
+Sample collection times and experiment design were
+presented in Table 7. All activities (vaccination, infection, sample collection) were performed between 7.00
+and 8.00 a.m.
+
+Determination of the percentages of selected T cell and B
+cell subpopulations in blood, spleen and CTs
+
+Viable mononuclear cells (1 × 106) were stained with
+fluorescein conjugated Mouse Anti-Chicken CD4-FITC
+(MCA2164F, Bio-Rad, UK), phycoerythrin conjugated
+Mouse Anti-Chicken CD8a-RPE (MCA2166PE, Bio-Rad,
+UK) and Alexa Fluor® 647 conjugated Human AntiChicken CD25 (HCA173A647, Bio-Rad, UK) or Alexa
+Fluor® 647- conjugated Negative Control Antibody
+(HCA052A647, Bio-Rad, UK). B cells were stained separately with FITC-conjugated Goat Anti-Chicken IgM
+(AAI27F, Bio-Rad, UK). The percentages of CD4+,
+CD4+CD25+, CD8+, CD4+CD8+ and IgM+ cells were determined in a FACSCanto II flow cytometer (BD, USA).
+Cell staining, acquisition and analysis of cytometric data
+were described elsewhere [18].
+
+Tykałowski et al. BMC Veterinary Research
+
+(2019) 15:387
+
+Determination of the percentage of IL-6 synthesizing cells
+within the CD4+ subpopulation
+
+Mononuclear cells isolated from blood, spleen and CTs
+were individually transferred at 2 × 106 to 24-well plates
+(Corning, USA). Each well contained 2 ml of complete culture medium (RPMI-1640, 20 mM HEPES, 10% FBS, Antibiotic Antimycotic Solution; Sigma-Aldrich, Germany), 4 μl
+of Leukocyte Activation Cocktail with BD GolgiPlug™ (BD
+Pharmingen, USA) and 0.3 μg/ml of co-stimulatory Mouse
+Anti-Chicken CD28 monoclonal antibody (MCA5760,
+clone AV7, Bio-Rad, UK). Cells collected from each turkey
+were analysed in triplicate. The cells were incubated at a
+temperature of 40 °C (5% CO2) for 6 h. After incubation,
+20 μl of 20 mM EDTA solution (Sigma-Aldrich, Germany)
+in PBS was added to each well. The contents of each well
+were individually transferred to test-tubes, and were rinsed
+twice with PBS supplemented with 1% FBS. The cells were
+stained with Mouse Anti-Chicken CD4-FITC monoclonal
+antibody (MCA2164F, clone 2–35, Biorad, UK). The samples were incubated on ice in darkness for 30 min, and were
+rinsed with PBS. The cells were fixed with 100 μl of Leucoperm reagent A (Biorad, UK), and were incubated at room
+temperature for 15 min. After incubation they were washed
+with PBS at 300 g for 5 min. Afterwards, they were suspended in 100 μl of permeabilization medium (Reagent B,
+Leucoperm, Biorad, UK), and 5 μl of Rabbit Anti-Chicken
+IL-6 antibody was added (AHP942Z, Biorad, UK). Thoroughly mixed samples were incubated at room temperature
+in darkness for 30 min. After incubation, the cells were
+washed with PBS. The cells were suspended in 100 μl of
+PBS, and 5 μl of secondary antibodies Sheep Anti Rabbit
+IgG:PE (STAR35A, Bio-Rad, UK) was added. The samples
+were incubated at room temperature in darkness for 30
+min. After incubation, the cells were washed with PBS.
+Final cell pellets were suspended in 400 μl of PBS, and analysed with FACSCanto II flow cytometer (BD, USA).
+A fluorescence minus one (FMO) control was prepared for each analysed sample. Primary Anti-Chicken
+IL-6 antibodies were not added to FMO controls. The
+cytometer setup and tracking beads (CST, BD, USA)
+were used to initialise photomultiplier tubes settings.
+Unstained and single-stained control cells for each
+fluorochrome were prepared and used to set up flow cytometry compensation.
+Biochemical and serological analyses
+
+Immediately after collection, blood samples were centrifuged (15 min, 380 g, 4 °C) and the obtained plasma or
+serum was stored at − 20 °C until analysis. Plasma levels
+of IgA and IL-6 were determined with the use of the
+Bigenet UMV340 blood cell reader (Horiba, Kyoto,
+Japan) and kits for determining IL-6 (SEA079Ga, Wuhan
+USCN Business Co., China) and IgA (CSB-E11232Ch,
+Cusabio Biotech Co., China).
+
+Page 9 of 11
+
+Vaccine-induced titres of serum antibody against ORT
+and ND were determined with the use of commercial
+ELISA kits (Idexx Laboratories, USA). The analytical
+procedure was consistent with the manufacturer’s recommendations. Absorbance was measured with the Elx
+800 spectrophotometer (BioTek, USA). The results were
+analysed using the xChek 3.3 programme (Idexx Laboratories, USA).
+Statistical analysis
+
+The results were analysed statistically by three-way analysis of variance (ANOVA) using STATISTICA software
+version 12.0 (StatSoft Inc., USA). The significance of differences between means was determined by the F-test
+and Duncan’s multiple range test. Data are presented as
+means ± SEM and the value of p < 0.05 was considered
+statistically significant. SEM was estimated by dividing
+the standard deviation by the square root of replication
+number.
+Abbreviations
+BSL-3: biosafety level-3; BW: Body weight; CD: Cluster of differentiation;
+CST: Cytometer setup and tracking beads; CTLA-4: Cytotoxic T-lymphocyte
+associated protein-4; CTs: Caecal tonsils; DLM: DL-methionine;
+EDTA: Ethylenediaminetetraacetic acid; ELD50: Egg lethal dose;
+FMO: Fluorescence minus one; HE: Haemorrhagic enteritis;
+HEV: Haemorrhagic enteritis virus; IFN: Interferon; IgA: Immunoglobulin A;
+IgM: Immunoglobulin M; IL: Interleukin; LAG-3: Lymphocyte activation
+protein 3; Met: Methionine; MHA: DL-methionine hydroxy analogue;
+NDV: Newcastle disease virus; ORT: Ornithobacterium rhinotracheale; p.i.: Post
+inoculation; SC: Secretory component; SEM: Standard error of the mean;
+TCID50: Tissue culture infective dose; TGF-β: Transforming growth factor-β;
+TNF: Tumour necrosis factor; Treg: Regulatory T cells
+Acknowledgements
+Not applicable.
+Authors’ contributions
+BT and JJ conceived and designed the study. MS and BT collected the data.
+KO was involved in the chemical analysis. AK, BT, MS, KO, JJ and ZZ were
+involved in the data interpretation. BT, KO, MS and ZZ drafted the
+manuscript, and AK, BT, JJ, KO and ZZ critically read and edited the
+manuscript. All authors read and approved the final manuscript.
+Funding
+This work was supported by the National Science Centre (grant No. 2013/11/
+B/NZ9/02496). The funding body had no role in the design of this study and
+data analysis.
+Availability of data and materials
+The datasets generated and/or analysed during the current study are not
+publicly available due to restrictions in the contract with the funding body
+but are available from the corresponding author on reasonable request.
+Ethics approval and consent to participate
+The animal protocol used in this study was approved by the Local Ethics
+Committee (Olsztyn, Poland, License No. 45 of December 11, 2013) The
+study was carried out in accordance with EU Directive 2010/63/EU on the
+protection of animals used for scientific purposes.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+
+Tykałowski et al. BMC Veterinary Research
+
+(2019) 15:387
+
+Author details
+1
+Department of Poultry Diseases, Faculty of Veterinary Medicine, University of
+Warmia and Mazury, Oczapowskiego 13, 10-719 Olsztyn, Poland.
+2
+Department of Biochemistry and Toxicology, Faculty of Biology, Animal
+Sciences and Bioeconomy, University of Life Science in Lublin, Akademicka
+13, 20-950 Lublin, Poland. 3Institute of Animal Reproduction and Food
+Research of the Polish Academy of Sciences, Division of Food Science,
+Tuwima 10, 10-748 Olsztyn, Poland. 4Department of Poultry Science, Faculty
+of Animal Bioengineering, University of Warmia and Mazury, Oczapowskiego
+5, 10-719 Olsztyn, Poland.
+Received: 28 March 2019 Accepted: 13 October 2019
+
+References
+1. Bunchasak C. Role of dietary methionine in poultry production. J Poult Sci.
+2009;46:169–79.
+2. British United Turkeys Ltd. http://eu.aviagen.com/ (2012).
+3. Deng K, Wong CW, Nolan JV. Carry–over effects of early–life supplementary
+methionine on lymphoid organs and immune responses in egg–lying strain
+chickens. Anim Feed Sci Technol. 2007;134:66–76. https://doi.org/10.1016/j.
+anifeedsci.2006.05.008.
+4. Dhama K, Tiwari R, Khan RU, Chakraborty S, Gopi M, Karthik K,
+Saminathan M, Desingu PA, Sunkara LT. Growth promoters and novel
+feed additives improving poultry production and health, bioactive
+principles and beneficial applications: the trends and advances -a
+review. Int J Pharmacol. 2014;10:129–59.
+5. Dhama K, Gowthaman V, Karthik K, Tiwari R, Sachan S, Kumar MA, Palanivelu
+M, Malik YS, Singh RK, Munir M. Haemorrhagic enteritis of turkeys - current
+knowledge. Vet Q. 2017;37:31–42.
+6. Garden OA, Pinheiro D, Cunningham F. All creatures great and small:
+regulatory T cells in mice, humans, dogs and other domestic animal
+species. Int Immunopharmacol. 2011;11:576–88.
+7. Gonzales-Esquerra R, Vázquez-Añón M, Hampton T, York T, Feine S,
+Wuelling C, Knight C. Evidence of a different dose response in turkeys
+when fed 2-hydroxy-4(methylthio) butanoic acid versus DL-methionine.
+Poult Sci. 2007;86:517–24.
+8. Grimble RF, Grimble GK. Immunonutrition: role of sulfur amino acids, related
+amino acids, and polyamines. Nutrition. 1998;14:605–10.
+9. Guiro S, Koncicki A. Vaccination against NDV in turkeys infected by
+haemorrhagic enteritis virus. Med Weter. 2004;60:871–3 http://www.
+medycynawet.edu.pl/images/stories/pdf/digital/2004/20040808710874.pdf.
+10. Härtle S, Magor KE, Göbel TW, Davison F, Kaspers B. Structure and evolution
+of avian immunoglobulins. In: Schat KA, Kaspers B, Kaiser P, editors. Avian
+immunology. 2nd ed. London: Elsevier Academic Press; 2014. p. 103–20.
+11. Hosseini SA, Zaghari M, Lotfollahian H, Shivazad M, Moraviaj H. Reevaluation
+of methionine requirement based on performance and immune responses
+in broiler breeder hens. J Poult Sci. 2012;49:26–33.
+12. Jankowski J, Kubińska M, Zduńczyk Z. Nutritional and
+immunomodulatory function of methionine in poultry diets–a review.
+Ann Anim Sci. 2014;14:17–32. 10.
+13. Jankowski J, Kubińska M, Juśkiewicz J, Czech A, Ognik K, Zduńczyk Z. Effect
+of different dietary methionine levels on the growth performance and
+tissue redox parameters of turkeys. Poult Sci. 2017;96:1235–43.
+14. Jankowski J, Ognik K, Kubińska M, Czech A, Juśkiewicz J, Zduńczyk Z. The
+effect of DL-, L-isomers and DL-hydroxy analog administered at 2 levels as
+dietary sources of methionine on the metabolic and antioxidant parameters
+and growth performance of turkeys. Poult Sci. 2017;96:3229–38.
+15. Kinscherf R, Fischbach T, Mihm S, Roth S, Hohenhaus-Sievert E, Weiss C,
+Edler L, Bärtsch P, Dröge W. Effect of glutathione depletion and oral Nacetyl-cysteine treatment on CD4+ and CD8+ cells. FASEB J. 1994;8:448–51.
+16. Koncicki A. Characteristics of domestic adenovirus isolates of haemorrhagic
+enteritis (HE) in turkeys and evaluation of epizootic situation in Poland. Acta
+Acad Agricult Tech Olst Veterinaria. 1996;22:1–43.
+17. Koncicki A, Tykałowski B, Stenzel T, Śmiałek M, Pestka D. Effect of infection
+of turkeys with haemorrhagic enteritis adenovirus isolate on the selected
+parameters of cellular immunity and the course of colibacillosis. Pol J Vet
+Sci. 2012;5:215–20. https://doi.org/10.2478/v10181-011-0136-2.
+18. Kubińska M, Tykałowski B, Jankowski J, Koncicki A. Immunological and
+biochemical indicators in turkeys fed diets with a different methionine
+content. Pol J Vet Sci. 2014;17:687–95.
+
+Page 10 of 11
+
+19. Kubińska M, Tykałowski B, Koncicki A, Jankowski J. Biochemical and
+immunological responses of young turkeys to vaccination against
+Ornithobacterium rhinotraheale and different levels of dietary methionine.
+Pol J Vet Sci. 2015;18:807–16.
+20. McGuirk P, Mills KH. Pathogen-specific regulatory T cells provoke a shift in
+the Th1/Th2 paradigm in immunity to infectious diseases. Trends Immunol.
+2002;23:450–5.
+21. Mills KH. Regulatory T cells: friend or foe in immunity to infection? Nat Rev
+Immunol. 2004;4:841–55.
+22. Mirzaaghatabar F, Saki AA, Zamani P, Aliarabi H, Hemati Matin HR. Effect of
+different levels of diet methionine and metabolisable energy on broiler
+performance and immune system. Food Agr Immunol. 2011;22:93–103.
+https://doi.org/10.1080/09540105.2010.530249.
+23. NRC: Nutrient requirements of poultry. 9th rev. ed. Natl. Acad. Press,
+Washington, DC. 1994.
+24. Palya V, Nagy M, Glávits R, Ivanics E, Szalay D, Dán A, Süveges T, Markos B,
+Harrach B. Investigation of field outbreaks of Turkey haemorrhagic enteritis
+in Hungary. Acta Vet Hung. 2007;55:135–49.
+25. Park I, Pasquetti TJ, Malheiros RD, Zheng L, Ferket P, Kim SW. Effect of grade
+L-methionine on intestinal redox status, intestinal development, and growth
+performance of turkey poults compared with conventional DL-methionine.
+J Anim Sci. 2016;94 Suppl 2:93. https://doi.org/10.2527/msasas2016-196.
+26. Rautenschlein S, Sharma JM. Response of turkeys to simultaneous
+vaccination with hemorrhagic enteritis and Newcastle disease viruses. Avian
+Dis. 1999;43:286–92.
+27. Rautenschlein S, Sharma JM. Immunopathogenesis of haemorrhagic
+enteritis virus (HEV) in turkeys. Dev Comp Immunol. 2000;24:237–46.
+28. Rautenschlein S, Suresh M, Sharma JM. Pathogenic avian adenovirus type II
+induces apoptosis in Turkey spleen cells. Arch Virol. 2000;145:1671–83.
+29. Rubin LL, Canal CW, Ribeiro AL, Kessler A, Silva I, Trevizan L, Viola T, Raber M,
+Goncalves TA, Kras R. Effects of methionine and arginine dietary levels on the
+immunity of broiler chickens submitted to immunological stimuli. Rev Bras
+Cienc Avic. 2007;9:241–7. https://doi.org/10.1590/S1516-635X2007000400006.
+30. Scheller J, Chalaris A, Schmidt-Arras D, Rose-John S. The pro- and
+anti-inflammatory properties of the cytokine interleukin-6. Bochim
+Biophys Acta. 1813;2011:878–88.
+31. Schneider K, Klaas R, Kaspers B, Staeheli P. Chicken interleukin-6 cDNA
+structure and biological properties. Eur J Biochem. 2001;268:4200–6.
+32. Shanmugasundaram R, Selvaraj RK. Regulatory T cell properties of chicken
+CD4+CD25+ cells. J Immunol. 2011;186:1997–2002.
+33. Shanmugasundaram R, Selvaraj RK. Regulatory T cell properties of thymic
+CD4+CD25+ cells in turkeys. Poult Sci. 2012;91:1833–7.
+34. Smulikowska S, Rutkowski A. Recommended allowances and nutritive value
+of feedstuffs - poultry feeding standards. 5th edition. The Kielanowski
+Institute of Animal Physiology and Nutrition, Jablonna, PAS Polish. 2005.
+35. Suresh M, Sharma JM. Hemorrhagic enteritis virus induced changes in the
+lymphocyte subpopulations in turkeys and the effect of experimental
+immunodeficiency on viral pathogenesis. Vet Immunol Immunopathol.
+1995;45:139–50.
+36. Suresh M, Sharma JM. Pathogenesis of type II avian adenovirus infection in
+turkeys: in vivo immune cell tropism and tissue distribution of the virus. J
+Virol. 1996;70:30–6.
+37. Swain BK, Johri TS. Effect of supplemental methionine, choline and their
+combinations on the performance and immune response of broilers. Br
+Poult Sci. 2000;41:83–8.
+38. Swennen Q, Geraert PA, Mercier Y, Everaert N, Stinckens A, Willemsen
+H, Li Y, Decuypere E, Buyse J. Effects of dietary protein content and
+2-hydroxy-4-methylthiobutanoic acid or DL-methionine
+supplementation on performance and oxidative status of broiler
+chickens. Br J Nutr. 2011;106:845–1854.
+39. Tykałowski B, Śmiałek M, Pestka D, Stenzel T, Jankowski J, Mikulski D,
+Koncicki A. Effect of whole wheat feeding on selected immune parameters
+in growing male turkeys. Pol J Vet Sci. 2014;17:255–62.
+40. Tykałowski B, Koncicki A. Studies concerning the role of hemorrhagic enteritis
+virus in the pathology of turkeys conducted in the Department of Poultry
+Diseases in Olsztyn over the last 30 years. Med Weter. 2017;73:522–7 http://www.
+medycynawet.edu.pl/images/stories/pdf/pdf2017/092017/201709522527.ppd.
+41. Vedenov D, Pesti GM. An economic analysis of a methionine source
+comparison response model. Poult Sci. 2010;89:2514–20.
+42. Willemsen H, Swennen Q, Everaert N, Geraert PA, Mercier Y, Stinckens A,
+Decuypere E, Buyse J. Effects of dietary supplementation of methionine and
+
+Tykałowski et al. BMC Veterinary Research
+
+(2019) 15:387
+
+its hydroxyl analog DL-2-hydroxy-4-methylthiobutanoic acid on growth
+performance, plasma hormonal levels, and the redox status of broiler
+chicken exposed to high temperatures. Poult Sci. 2011;90:2311–20.
+43. Willke T. Methionine production - a critical review. Appl Microbiol
+Biotechnol. 2014;98:9893–921.
+44. Wu B, Cui H, Peng X, Fang J, Cui W, Liu X. Effect of methionine deficiency
+on the thymus and the subsets and proliferation on peripheral blood T cell,
+and serum IL 2 in broilers. J Int Agri. 2012;11:1009–19.
+45. Zduńczyk Z, Jankowski J, Kubińska M, Ognik K, Czech A, Juśkiewicz J. The
+effect of different dietary levels of DL-methionine and DL-methionine
+hydroxy analogue on the antioxidant and immune status of young Turkey.
+Arch Anim Nutr. 2017;71:347–61.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+Page 11 of 11
+
+

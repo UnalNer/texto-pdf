@@ -1,0 +1,365 @@
+﻿J Korean Med Sci. 2020 Mar 23;35(11):e124
+https://doi.org/10.3346/jkms.2020.35.e124
+eISSN 1598-6357·pISSN 1011-8934
+
+Brief Communication
+Infectious Diseases,
+Microbiology & Parasitology
+
+First Pediatric Case of Coronavirus
+Disease 2019 in Korea
+
+Ji Young Park ,1*† Mi Seon Han ,2*‡ Kyoung Un Park ,3 Ji Young Kim ,4 and
+Eun Hwa Choi 2,5
+Department of Pediatrics, Seoul National University Bundang Hospital, Seongnam, Korea
+Department of Pediatrics, Seoul National University Children's Hospital, Seoul, Korea
+Department of Laboratory Medicine, Seoul National University Bundang Hospital, Seongnam, Korea
+Department of Radiology, Seoul National University Bundang Hospital, Seongnam, Korea
+Department of Pediatrics, Seoul National University College of Medicine, Seoul, Korea
+
+
+Received: Mar 3, 2020
+Accepted: Mar 16, 2020
+
+ABSTRACT
+
+Address for Correspondence:
+Eun Hwa Choi, MD
+Department of Pediatrics, Seoul National
+University Children's Hospital, 101 Daehak-ro,
+Jongno-gu, Seoul 03080, Korea.
+E-mail: eunchoi@snu.ac.kr
+
+The large outbreak of coronavirus disease 2019 (COVID-19) that started in Wuhan, China has
+now spread to many countries worldwide. Current epidemiologic knowledge suggests that
+relatively few cases are seen among children, which limits opportunities to address pediatric
+specific issues on infection control and the children's contribution to viral spread in the
+community. Here, we report the first pediatric case of COVID-19 in Korea. The 10-year-old girl
+was a close contact of her uncle and mother who were confirmed to have COVID-19. In this
+report, we present mild clinical course of her pneumonia that did not require antiviral treatment
+and serial viral test results from multiple specimens. Lastly, we raise concerns on the optimal
+strategy of self-quarantine and patient care in a negative isolation room for children.
+
+*Ji Young Park and Mi Seon Han contributed
+equally to this work.
+†
+Current address: Department of Pediatrics,
+Chung-Ang University Hospital, Seoul, Korea.
+‡
+Current address: Department of Pediatrics,
+Seoul Metropolitan Government-Seoul
+National University Boramae Medical Center,
+Seoul, Korea.
+© 2020 The Korean Academy of Medical
+Sciences.
+This is an Open Access article distributed
+under the terms of the Creative Commons
+Attribution Non-Commercial License (https://
+creativecommons.org/licenses/by-nc/4.0/)
+which permits unrestricted non-commercial
+use, distribution, and reproduction in any
+medium, provided the original work is properly
+cited.
+ORCID iDs
+Ji Young Park
+https://orcid.org/0000-0002-6777-0494
+Mi Seon Han
+https://orcid.org/0000-0002-3896-1400
+Kyoung Un Park
+https://orcid.org/0000-0002-2402-7633
+Ji Young Kim
+https://orcid.org/0000-0003-1466-2112
+
+https://jkms.org
+
+Keywords: Coronavirus; COVID-19; SARS-CoV-2; Children
+
+The current international outbreak of coronavirus disease 2019 (COVID-19) originated in
+Wuhan, Hubei province, China, in December, 2019 and it has now spread to at least 60
+countries.1,2 The World Health Organization escalated the risk assessment of COVID-19 to
+‘very high’ at global level on February 28, 2020.3 As of March 01, 2020, there were 87,137
+confirmed cases including 2,977 deaths worldwide.2 According to the report by the Chinese
+Center for Disease Control and Prevention, children are less affected with COVID-19 (1% for
+under 10 years and 1% for between 10 and under 20 years of age) and seem to have less severe
+disease than adults.4
+Within one month of the first case of COVID-19 in Korea, a 10-year-old girl, who had no
+travel history outside Korea, was diagnosed with COVID-19 on February 18, 2020. The
+exposure history and self-quarantine method is shown in Fig. 1. The patient lived with
+her mother, father, and cousin in a multiplex housing unit, and her uncle and aunt lived
+upstairs. The patient's uncle, who ran a store in Wuhan, arrived in Korea on January 20,
+2020, and had self-quarantined in his room from January 29, 2020. During quarantine
+period, he broke self-quarantine by having meals with his family members. On February
+1, 2020, her uncle was confirmed with COVID-19 and was hospitalized in a designated
+1/7
+
+First Pediatric Case of COVID-19 in Korea
+
+Eun Hwa Choi
+https://orcid.org/0000-0002-5857-0749
+Disclosure
+The authors have no potential conflicts of
+interest to disclose.
+Author Contributions
+Conceptualization: Park JY, Han MS, Choi
+EH. Data curation: Park JY, Park KU, Kim JY.
+Formal analysis: Park JY, Han MS, Choi EH.
+Investigation: Park JY, Park KU, Kim JY. Writing
+- original draft: Han MS, Choi EH. Writing review & editing: Park JY, Han MS, Choi EH.
+
+hospital. From February 2, 2020, self-quarantine was resumed by the remaining five family
+members. Although the patient's father, aunt and cousin stayed in separate rooms, the
+patient shared the same room with her mother. On February 5, 2020, her mother was
+confirmed with COVID-19. Because the patient closely contacted her uncle and her mother,
+she was screened for COVID-19, and three screening tests for severe acute respiratory
+syndrome coronavirus 2 (SARS-CoV-2) were all negative on day 1 and 4 since her uncle's
+diagnosis (February 1) and day 2 from the last exposure (February 5) to her mother. She
+remained well without subjective symptoms until the 13th day from the last exposure when
+she developed slightly elevated temperature of 37.3°C, which led to a confirmed diagnosis of
+her COVID-19 on February 18, 2020. A small amount of sputum for the previous three days
+was later reported. No other symptoms such as diarrhea or vomiting were reported.
+On admission, she was not dyspneic nor cyanotic with a body temperature of 37.7°C. Initial
+laboratory results were as follows: white blood cell count 4,080/μL (37.3% lymphocytes),
+hemoglobin 13.5 g/dL, platelet count 251,000/μL, and C-reactive protein < 0.40 mg/dL.
+Real-time reverse transcription polymerase chain reaction (RT-PCR) for SARS-CoV-2
+(Supplementary Data 1) was serially tested for the samples from nasopharynx, throat, saliva,
+
+
+Fig. 1. Diagram showing how the family members of the first pediatric patient with COVID-19 were in selfquarantine at home. The patient lived with her parents and her cousin, while her aunt and uncle lived upstairs.
+Her uncle was quarantined in his room but shared meals at her house (grey table) until he was confirmed with
+COVID-19. The remaining five family members had been placed in self-quarantine without sharing meals in the
+dining table (white table). The patient and her mother stayed in the same room until her mother's diagnosis.
+Individuals in black indicate the confirmed cases and bold line means a quarantine room. The actual floor plan
+may be different.
+COVID-19 = coronavirus disease 2019.
+
+https://jkms.org
+
+https://doi.org/10.3346/jkms.2020.35.e124
+
+2/7
+
+First Pediatric Case of COVID-19 in Korea
+
+serum, stool, and urine. Viral tests were positive in the samples from nasopharynx, throat,
+and stool (Fig. 2A). Serum, saliva, and urine tested negative on hospital days 3 and 8. Because
+the RT-PCR was developed for the qualitative assay, the cycle threshold values of RT-PCR
+could not be converted to viral load kinetics in this report. It is noteworthy, however, that
+stool samples were positive until the 17th day since symptom onset.
+No infiltrations were noted on the initial and 3 follow-up chest X-ray images (Fig. 2B).
+However, chest computed tomography (CT) showed patchy or nodular consolidations with
+peripheral ground glass opacities in subpleural areas of the right lower lobe (Fig. 2C). The
+patient had no underlying disease and the only symptoms she presented with were low-grade
+fever and a small amount of sputum. Although chest CT showed mild pneumonia, antiviral
+therapy was not required.
+
+
+
+Chest images
+
+Fig. 2. Serial viral test results of multiple specimens and chest imaging of the patient. (A) Serial viral test results of the RNA-dependent RNA polymerase region
+of the ORF1b gene on real-time reverse transcription polymerase chain reaction are shown for multiple specimens according to the onset of symptoms. (B) Chest
+X-ray shows no infiltrations on admission, day 3 since symptom onset. (C) Chest CT performed on the fourth day since symptom onset demonstrates patchy
+nodular consolidations with peripheral ground glass opacities in subpleural areas of the right lower lobe in axial and sagittal views of CT.
+CT = computed tomography, SARS-CoV-2 = severe acute respiratory syndrome coronavirus 2.
+
+https://jkms.org
+
+https://doi.org/10.3346/jkms.2020.35.e124
+
+3/7
+
+First Pediatric Case of COVID-19 in Korea
+
+This 10-year old girl took care of herself during the first 7 days spent alone in a negative
+isolation room. When her mother was discharged from her own negative isolation room,
+her mother joined her for care. She was transferred to a cohorting facility on the 15th
+hospital day to allow her isolation room to be used by another confirmed case in a more
+severe condition.
+Very little research on COVID-19 in children has been published in China or elsewhere. Most
+of the COVID-19 cases in children resulted from close contacts with COVID-19 cases or were
+found among family cluster cases.5,6 Most of the infected children had mild or difficult to
+recognize symptoms and some were even asymptomatic. Fever and cough were the most
+common symptoms, and some had runny nose, or gastrointestinal symptoms such as
+diarrhea, or vomiting. All of the cases improved, and no deaths have been reported so far.
+We do not fully understand why children are less infected and less ill. Low infection rate
+and mild symptoms in children have also been observed in the previous SARS epidemic
+in 2003 and the Middle East respiratory syndrome (MERS) since 2012.7-9 One of the
+explanations of COVID-19 sparing the pediatric populations might be because children are
+less exposed to the virus in the first place. Children are less likely to be exposed to the virus
+because this novel virus is initially transmitted among travelers and their close contacts.
+Children might also have fewer chances to be tested for SARS-CoV-2 because they only
+present mild symptoms similar to common cold. Meanwhile, the role of innate immunity
+to respiratory tract infection is greater in early life because the adaptive immune response
+is underdeveloped in young children.10 Given that both young children and adults lack
+adaptive specific immunity to this novel virus, mild clinical course in young children may be
+explained by their dominant innate immune response compared to adults. Weaker ability
+to trigger an acute inflammatory response to SARS-CoV-2 might also contribute to the
+children's better outcome. This, however, does not completely rule out the possibility of
+severe cases and even death especially in children with underlying diseases, as observed in
+the previous MERS epidemics.8,9
+Korea is now experiencing significant outbreaks and became the most-affected country after
+China.2 The nation's biggest cluster has connections to Shincheonji religious group in Daegu.
+Another worrisome cluster has been linked to the patients hospitalized in Daenam Hospital
+in Cheongdo.11 Viral tests are being run on massive scales in Korea. Thus, we may be able to
+diagnose more pediatric cases compared to other countries and have a unique opportunity to
+define the clinical features of COVID-19 in the pediatric population and the role of children
+in the transmission in child-care settings, schools and the community. Starting from several
+imported cases from Wuhan in January 2020, subsequent human-to-human transmissions
+occurred initially among their close contacts and family members. However, as the community
+spreads progress, we will see more cases among children. Among 3,526 confirmed cases, as
+of March 1, 2020, 164 children and adolescents under 20 years of age were diagnosed with
+COVID-19, comprising approximately 4.7% of the total confirmed cases.11 The percentage of
+the confirmed child cases in Korea is higher than that in China and has risen from 1.5% to
+4.7% in just one week. These findings are worrisome. It is well known that children contribute
+to the community spread of seasonal influenza by introducing influenza to the family and by
+disseminating influenza in the community.12 To mitigate community spread of COVID-19, all
+school closures are justified in the current situation in Korea. To provide a scientific evidence
+for the effectiveness of school closures, we should not miss the opportunity to learn children's
+role in spreading SARS-CoV-2 to the community.
+https://jkms.org
+
+https://doi.org/10.3346/jkms.2020.35.e124
+
+4/7
+
+First Pediatric Case of COVID-19 in Korea
+
+It is interesting to note that although this case had mild symptoms only, patchy or nodular
+consolidations with peripheral ground glass opacities were observed on chest CT. A recent
+study in China analyzed the CT images of 15 children with COVID-19, 10 of whom were
+asymptomatic and 5 had fever.13 Among the 15 children, pulmonary inflammatory lesions
+were observed in 9. Small nodular ground glass opacity was the most common finding and
+subpleural patchy opacities were also observable, with all lesions limited to a single lung
+segment. Adults generally have ground-glass and consolidative opacities in both lungs
+at chest CT.14 Chest CT is a highly sensitive diagnostic tool to detect pneumonia and the
+sensitivity for COVID-19 is reported to be 97.5%.15 However, considering the favorable clinical
+course in children with COVID-19, the necessity of performing CT scans on children should
+be judged with consideration of the potential health risks of radiation.
+Meanwhile, one of the issues regarding pediatric patients with COVID-19 is quarantine.
+While in self-quarantine, the present patient shared the same room with her mother who was
+soon confirmed with COVID-19. Ideally, any close contacts should stay at home in a separate
+room and refrain from going out. However, unlike adults, self-isolating young children by
+themselves is almost impossible because infants and young children must be taken care of
+by their caregivers. Considering the circumstances, the Korean Centers for Disease Control
+and Prevention and the Korean Society of Pediatric Infectious Diseases recommend one
+of the family members to be assigned as a caregiver for infants and young children who
+are suspected or confirmed with COVID-19, and the caregiver not to contact other family
+members.16 Most importantly, caregivers should take all possible precautions to avoid being
+exposed to the virus. Thus, further pediatric-specific guidelines on the isolation and adequate
+personal protective equipment for caregivers should be prepared.
+This 10-year old girl is the first pediatric case of COVID-19 in Korea. As this is only a single
+case, we cannot say much about clinical manifestations of childhood COVID-19 and viral load
+as a whole but can provide a model to pediatricians on which samples to test and what to
+consider in caring for children with COVID-19. As the number of confirmed cases surges in
+Korea, data on pediatric patients need to be comprehensively analyzed to further describe the
+clinical findings and to learn the role of children in a COVID-19 pandemic.
+
+ETHICS STATEMENT
+Seoul National University Bundang Hospital Institutional Review Board approved this study
+(No. B-2003-603-701) and written consent was waived because the patient and her mother
+were isolated in a negative-pressure room and her father was in self-quarantine. The patient
+and her mother agreed to the publication of this report.
+
+ACKNOWLEDGMENTS
+We would like to thank all the staff and their families at the isolation unit and the office of
+Infection Control in the Seoul National University Bundang Hospital for their tireless efforts.
+We appreciate the hard work of all the members at Gyeonggi Infectious Disease Control
+Center. We thank Professor Hoan Jong Lee for his critical comments on this report. We
+also thank all the members of the Korean Society of Pediatric Infectious Diseases for their
+valuable advice on the management of this case. Lastly, we would like to thank the Korea
+https://jkms.org
+
+https://doi.org/10.3346/jkms.2020.35.e124
+
+5/7
+
+First Pediatric Case of COVID-19 in Korea
+
+Centers for Disease Control & Prevention for their effort and dedication at this difficult time
+and Stephen Comb for his excellent editing of this manuscript.
+
+SUPPLEMENTARY MATERIAL
+Supplementary Data 1
+Diagnostic detection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) by
+real-time reverse transcription polymerase chain reaction (RT-PCR) for the first pediatric case
+of coronavirus disease 2019 (COVID-19).
+Click here to view
+
+REFERENCES
+1. Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A novel coronavirus from patients with pneumonia
+in China, 2019. N Engl J Med 2020;382(8):727-33.
+PUBMED | CROSSREF
+
+2. World Health Organization. Coronavirus disease (COVID-19) situation report–41. https://www.who.int/
+emergencies/diseases/novel-coronavirus-2019/situation-reports. Updated 2020. Accessed March 2, 2020.
+3. World Health Organization. Coronavirus disease (COVID-19) situation report–39. https://www.who.int/
+emergencies/diseases/novel-coronavirus-2019/situation-reports. Updated 2020. Accessed March 2, 2020.
+4. Wu Z, McGoogan JM. Characteristics of and important lessons from the coronavirus disease 2019
+(COVID-19) outbreak in China: summary of a report of 72 314 cases from the Chinese Center for Disease
+Control and Prevention. JAMA. Forthcoming 2020. DOI: 10.1001/jama.2020.2648.
+PUBMED | CROSSREF
+
+5. Shen K, Yang Y, Wang T, Zhao D, Jiang Y, Jin R, et al. Diagnosis, treatment, and prevention of 2019 novel
+coronavirus infection in children: experts' consensus statement. World J Pediatr. Forthcoming 2020. DOI:
+10.1007/s12519-020-00343-7.
+PUBMED | CROSSREF
+
+6. Wang D, Ju XL, Xie F, Lu Y, Li FY, Huang HH, et al. Clinical analysis of 31 cases of 2019 novel coronavirus
+infection in children from six provinces (autonomous region) of northern China. Zhonghua Er Ke Za Zhi
+2020;58(4):E011. Chinese.
+PUBMED | CROSSREF
+
+7. Denison MR. Severe acute respiratory syndrome coronavirus pathogenesis, disease and vaccines: an
+update. Pediatr Infect Dis J 2004;23(11 Suppl):S207-14.
+PUBMED | CROSSREF
+
+8. Memish ZA, Al-Tawfiq JA, Assiri A, AlRabiah FA, Al Hajjar S, Albarrak A, et al. Middle East respiratory
+syndrome coronavirus disease in children. Pediatr Infect Dis J 2014;33(9):904-6.
+PUBMED | CROSSREF
+
+9. Thabet F, Chehab M, Bafaqih H, Al Mohaimeed S. Middle East respiratory syndrome coronavirus in
+children. Saudi Med J 2015;36(4):484-6.
+PUBMED | CROSSREF
+
+10. Lambert L, Culley FJ. Innate immunity to respiratory infection in early life. Front Immunol 2017;8:1570.
+PUBMED | CROSSREF
+
+11. Korea Centers for Disease Control & Prevention. The updates of COVID-19 in the Republic of Korea.
+https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030. Updated 2020. Accessed March
+1, 2020.
+12. Monto AS, Davenport FM, Napier JA, Francis T Jr. Modification of an outbreak of influenza in Tecumseh,
+Michigan by vaccination of schoolchildren. J Infect Dis 1970;122(1):16-25.
+PUBMED | CROSSREF
+
+13. Feng K, Yun YX, Wang XF, Yang GD, Zheng YJ, Lin CM, et al. Analysis of CT features of 15 children with
+2019 novel coronavirus infection. Zhonghua Er Ke Za Zhi 2020;58:E007. Chinese.
+PUBMED | CROSSREF
+
+https://jkms.org
+
+https://doi.org/10.3346/jkms.2020.35.e124
+
+6/7
+
+First Pediatric Case of COVID-19 in Korea
+
+14. Chung M, Bernheim A, Mei X, Zhang N, Huang M, Zeng X, et al. CT imaging features of 2019 novel
+coronavirus (2019-nCoV). Radiology 2020;200230.
+PUBMED | CROSSREF
+
+15. Ai T, Yang Z, Hou H, Zhan C, Chen C, Lv W, et al. Correlation of chest CT and RT-PCR testing in
+coronavirus disease 2019 (COVID-19) in China: a report of 1014 cases. Radiology 2020;200642.
+PUBMED | CROSSREF
+
+16. Korean Centers for Disease Control and Prevention. Management guideline for
+children and adolescents on COVID-19. http://ncov.mohw.go.kr/guideBoardView.
+do?brdId=3&brdGubun=35&dataGubun=&ncvContSeq=652&contSeq=652&board_id#. Accessed March
+1, 2020. Korean.
+
+https://jkms.org
+
+https://doi.org/10.3346/jkms.2020.35.e124
+
+7/7
+
+

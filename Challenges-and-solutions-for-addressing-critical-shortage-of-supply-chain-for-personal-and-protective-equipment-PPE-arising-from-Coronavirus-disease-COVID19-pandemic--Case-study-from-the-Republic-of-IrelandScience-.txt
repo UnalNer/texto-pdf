@@ -1,0 +1,91 @@
+Science of the Total Environment 725 (2020) 138532
+
+Contents lists available at ScienceDirect
+
+Science of the Total Environment
+journal homepage: www.elsevier.com/locate/scitotenv
+
+Challenges and solutions for addressing critical shortage of supply chain
+for personal and protective equipment (PPE) arising from Coronavirus
+disease (COVID19) pandemic – Case study from the Republic of Ireland
+Neil J. Rowan a,b,⁎, John G. Laffey c,d
+a
+
+Department of Nursing and Healthcare, Athlone Institute of Technology, Ireland
+Centre for Disinfection, Sterilization and Biosecurity, Athlone Institute of Technology, Ireland
+Lung Biology Group, Regenerative Medicine Institute at CURAM Centre for Medical Devices, National University of Ireland Galway, Galway, Ireland
+Anaesthesia and Intensive Care Medicine, University Hospital Galway, Galway, Ireland
+
+
+
+There is pressing need to ﬁnd solutions
+for reprocessing of PPE for COVID19
+Reprocessing of PPE is challenging as
+made for one-time-use
+Most sterilization technologies are not
+suitable for PPE reprocessing
+Use of vaporised hydrogen peroxide and
+UV irradiation may prove effective for
+PPE
+Article history:
+Received 5 April 2020
+Accepted 5 April 2020
+Available online 6 April 2020
+Editor: Damia Barcelo
+Keywords:
+COVID19
+PPE
+Sterilization
+Healthcare workers
+Resource utilization
+Sustainability
+
+Coronavirus (COVID-19) is highly infectious agent that causes fatal respiratory illnesses, which is of great global
+public health concern. Currently, there is no effective vaccine for tackling this COVID19 pandemic where disease
+countermeasures rely upon preventing or slowing person-to-person transmission. Speciﬁcally, there is increasing efforts to prevent or reduce transmission to front-line healthcare workers (HCW). However, there is growing
+international concern regarding the shortage in supply chain of critical one-time-use personal and protective
+equipment (PPE). PPE are heat sensitive and are not, by their manufacturer's design, intended for reprocessing.
+Most conventional sterilization technologies used in hospitals, or in terminal medical device sterilization providers, cannot effectively reprocess PPE due to the nature and severity of sterilization modalities. Contingency
+planning for PPE stock shortage is important. Solutions in the Republic of Ireland include use of smart communication channels to improve supply chain, bespoke production of PPE to meets gaps, along with least preferred option, use of sterilization or high-level disinfection for PPE reprocessing. Reprocessing PPE must consider material
+composition, functionality post treatment, along with appropriate disinfection. Following original manufacturer
+of PPE and regulatory guidance is important. Technologies deployed in the US, and for deployment in the Republic of Ireland, are eco-friendly, namely vaporised hydrogen peroxide (VHP), such as for ﬁltering facepiece respirators and UV irradiation and High-level liquid disinfection (Actichlor+) is also been pursed in Ireland.
+Safeguarding supply chain of PPE will sustain vital healthcare provision and will help reduce mortality.
+© 2020 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license
+Coronaviruses (CoVs) (order Nidovirales, family Coronaviridae, subfamily Coronavirinae) are enveloped viruses with a positive sense,
+single-stranded RNA genome (Schoeman and Fielding, 2019). With
+genome sizes ranging from 26 to 32 kilobases (kb) in length, CoVs
+have the largest genomes for RNA viruses. Coronavirus is one of the
+major pathogens that primarily targets the human respiratory system
+(Rothan and Byrareddy, 2020). Previous outbreaks of coronaviruses
+(CoVs) include the severe acute respiratory syndrome (SARS)-CoV and
+the Middle East respiratory syndrome (MERS)-CoV that are a great public health threat (Carty and DiNicolantonio, 2020). A global pandemic
+status has been recently declared by the World Health Organization
+(WHO) for COVID19. The ﬁrst number of cases were identiﬁed in
+Wuhan, a large city of 11 million people in central China in December
+2019, which were linked to the Huanan (Southern China) Seafood
+Wholesale Market (Rothan and Byrareddy, 2020). These were identiﬁed
+by local hospitals using a surveillance mechanism for “pneumonia of
+unknown etiology”, which was established in the wake of the 2003 severe acute respiratory syndrome (SARS) outbreak with the aim of
+allowing timely identiﬁcation of novel pathogens such as 2019-nCoV
+(Li et al., 2020). Globally, the number of conﬁrmed cases as of this writing (3 April 2020) has reached 1,000,249 including 51,515 deaths
+(https://www.ecdc.europa.eu/en/geographical-distribution-2019ncov-cases) (Fig. 1). Covid19 is now globally distributed (Fig. 2), suggesting that universal solutions are required to prevent or slowdown
+its rapid spread until effective control measures are developed and deployed, such as vaccine (Fig. 3). COVID19 is much more lethal than the
+typical ﬂu, where former has a mortality rate of about 2.92% (Carty
+and DiNicolantonio, 2020). The annual ﬂu has a mortality rate of just
+0.05 to 0.1%, inferring that COVID-19 is around 30 to 60 times more lethal (Carty and DiNicolantonio, 2020). COVID19 causes an inﬂammatory
+storm in the lungs and it is this inﬂammatory storm that leads to acute
+respiratory distress, organ failure, and death.
+Swaminathan et al. (2007) previously considered that while a new
+inﬂuenza pandemic may appear inevitable, critical parameters of transmissibility and attack rate are uncertain. These authors reported that estimates based on extrapolations from the 3 inﬂuenza pandemics of the
+20th century suggest that healthcare facilities in the United States
+alone may be required to cope with 314,000–734,000 additional hospitalizations and 18–42 million outpatient visits (Meltzer et al., 1999).
+During the early containment phase of a pandemic, patients with suspected infection are likely to be referred to hospitals for isolation, diagnosis, and treatment until the transmissibility and virulence of the
+pandemic strain are known. Although social distancing and school closures may reduce risk in the wider community, healthcare workers
+(HCWs) are likely to encounter repeated close exposures. Swaminathan
+et al. (2007) suggested that if hospitals are to continue to function adequately, reliable access to effective personal protective equipment (PPE;
+gowns, N95 masks, gloves, and eye protection) and antiviral drug therapy
+will be necessary for an unpredictable period. With awareness of the
+recent severe acute respiratory syndrome (SARS) outbreak and
+with growing concern about human deaths from avian inﬂuenza
+(H5N1), governments worldwide have begun to stockpile PPE
+and antiviral medication.

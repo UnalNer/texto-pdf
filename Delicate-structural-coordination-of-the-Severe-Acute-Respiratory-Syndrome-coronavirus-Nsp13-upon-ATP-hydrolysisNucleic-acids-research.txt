@@ -1,0 +1,47 @@
+Delicate structural coordination of the Severe Acute Respiratory Syndrome coronavirus Nsp13 upon ATP
+hydrolysis
+Zhihui Jia 1,† , Liming Yan1,† , Zhilin Ren2 , Lijie Wu3 , Jin Wang4 , Jing Guo5 , Litao Zheng1 ,
+Zhenhua Ming6 , Lianqi Zhang1 , Zhiyong Lou1 and Zihe Rao1,2,3,*
+
+To date, an effective therapeutic treatment that confers strong attenuation toward coronaviruses (CoVs)
+remains elusive. Of all the potential drug targets,
+the helicase of CoVs is considered to be one of
+the most important. Here, we first present the structure of the full-length Nsp13 helicase of SARS-CoV
+(SARS-Nsp13) and investigate the structural coordination of its five domains and how these contribute to its translocation and unwinding activity.
+A translocation model is proposed for the Upf1like helicase members according to three different structural conditions in solution characterized
+through H/D exchange assay, including substrate
+state (SARS-Nsp13-dsDNA bound with AMPPNP),
+transition state (bound with ADP-AlF4 − ) and product
+state (bound with ADP). We observed that the ␤19–
+␤20 loop on the 1A domain is involved in unwinding
+process directly. Furthermore, we have shown that
+the RNA dependent RNA polymerase (RdRp), SARSNsp12, can enhance the helicase activity of SARSNsp13 through interacting with it directly. The interacting regions were identified and can be considered
+common across CoVs, which provides new insights
+into the Replication and Transcription Complex (RTC)
+of CoVs.
+
+The emergence of Severe Acute Respiratory Syndrome
+coronavirus (SARS-CoV) in 2003 was the first opportunity
+to allow investigation of a coronavirus (CoV) that was a
+severe human pathogen. A decade later, a similar coronavirus termed Middle East Respiratory Syndrome Coronavirus (MERS-CoV) emerged, but alarmingly this virus has
+higher case-fatality rates than SARS-CoV. Thus, there is a
+refocussing of the world’s attention onto CoVs. The fact
+that no therapeutic treatments are available for CoVs is a
+serious concern (1,2). It is therefore necessary to study the
+life cycle of CoVs to develop new ideas for effective vaccines
+or drugs.
+SARS-CoV belonging to the genus Betacoronavirus in
+the family Coronaviridae has one of the largest known
+RNA genomes (∼29.7 kb) among RNA viruses. Two large
+polyproteins pp1a and pp1ab are encoded by this genome.
+After being proteolytically processed, 16 non-structural
+proteins (Nsps) are produced including primase (Nsp8),
+RNA-dependent RNA polymerase (Nsp12) and helicase
+(Nsp13). These three enzymes and other Nsps are components of a replication and transcription complex (RTC)
+which is essential for the life cycle of SARS-CoV (3,4).
+Helicase SARS-CoV Nsp13 (SARS-Nsp13) plays a vital
+role in catalyzing the unwinding of duplex oligonucleotides
+into single strands in an NTP-dependent manner. Importantly, SARS-Nsp13 has been identified as an ideal target
+for the development of anti-viral drugs due to its sequence
+conservation and indispensability across all CoV species (5–
+7). SARS-Nsp13 has been characterized as belonging to superfamily 1 (SF1) of the six helicase superfamilies which are

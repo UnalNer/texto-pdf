@@ -1,0 +1,81 @@
+Emerging Microbes & Infections
+
+ISSN: (Print) 2222-1751 (Online) Journal homepage: https://www.tandfonline.com/loi/temi20
+
+Clinical observation and management of COVID-19
+patients
+Taisheng Li, Hongzhou Lu & Wenhong Zhang
+To cite this article: Taisheng Li, Hongzhou Lu & Wenhong Zhang (2020) Clinical observation
+and management of COVID-19 patients, Emerging Microbes & Infections, 9:1, 687-690, DOI:
+10.1080/22221751.2020.1741327
+To link to this article: https://doi.org/10.1080/22221751.2020.1741327
+
+© 2020 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group, on behalf of Shanghai Shangyixun
+Cultural Communication Co., Ltd
+Published online: 25 Mar 2020.
+
+Clinical observation and management of COVID-19 patients
+Taisheng Lia, Hongzhou Lub and Wenhong Zhangc
+
+Department of Infectious Diseases, Peking Union Medical College Hospital, Peking Union Medical College, Chinese Academy of Medical
+Sciences, Beijing, People’s Republic of China; bShanghai Public Health Clinical Center, Shanghai, People’s Republic of China; cDepartment of
+Infectious Diseases, Huashan Hospital, Shanghai Medical College, Fudan University, Shanghai, People’s Republic of China.
+
+Three leading infectious disease experts in China were invited to share their bedside observations in the management of
+COVID-19 patients. Professor Taisheng Li was sent to Wuhan to provide frontline medical care. He depicts the clinical
+course of SARS-CoV-2 infection. Furthermore, he observes the signiﬁcant abnormality of coagulation function and
+proposes that the early intravenous immunoglobulin and low molecular weight heparin anticoagulation therapy are
+very important. Professor Hongzhou Lu, a leader in China to try various anti-viral drugs, expresses concern on the
+quality of the ongoing clinical trials as most trials are small in scale and repetitive in nature, and emphasizes the
+importance of the quick publication of clinical trial results. Regarding the traditional Chinese medicine, Professor Lu
+suggests to develop a creative evaluation system because of the complicated chemical compositions. Professor
+Wenhong Zhang is responsible for Shanghai’s overall clinical management of the COVID-19 cases. He introduces the
+team approach to manage COVID-19 patients. For severe or critically ill patients, in addition to the respiratory
+supportive treatment, timely multiorgan evaluation and treatment is very crucial. The medical decisions and
+interventions are carefully tailored to the unique characteristics of each patient.
+ARTICLE HISTORY Received 6 March 2020; Accepted 8 March 2020
+KEYWORDS Clinical management; antiviral drugs; coronavirus; SARS; SARS-CoV-2
+
+Since late 2019 to early 2020, the sudden outbreak of
+COVID-19, among the general human population in
+the City of Wuhan, caused by the transmission of a
+novel coronavirus, SARS-CoV-2 [1,2], has led to over
+80,000 diagnosed cases including more than 3000
+deaths globally as of 29 February 2020. While the overall mortality rate for SARS-CoV-2 seems lower than
+SARS or MERS, the death rate among severe cases
+infected by SARS-CoV-2 is alarming. There are a
+wide range of eﬀorts to develop special treatments for
+COVID-19 with limited success. In the current commentary, EMI invited three leading infectious disease
+experts in China who have personally participated in
+the clinical management of COVID-19 cases to share
+their bedside observations and to suggest what may
+be important in formulating the treatment strategy to
+optimize the clinical outcome.
+
+Professor Taisheng Li (being sent to Wuhan
+from Beijing to provide frontline care to the
+COVID-19 cases in a local hospital)
+Since 7 February 2020, my colleagues and I went to work
+in the intensive care unit (ICU) of Zhongfa Xincheng
+
+Hospital, part of Tongji Hospital in Wuhan. Although
+the case fatality rate of COVID-19 is not high, due to
+the widespread of the disease, the total number of deaths
+is not small. Based on my observations in the treatment
+of severe and critically ill patients in the ICU, I propose
+that the early intravenous immunoglobulin (IVIG) and
+low molecular weight heparin (LMWH) anticoagulation therapy are very important.
+Clinical course of COVID-19
+When SARS-CoV-2 infects a person, the lesions are
+not limited to the lungs. The virus causes viraemia
+after entering the body and the main clinical manifestations are fever, pharyngalgia, fatigue, diarrhoea and
+other non-speciﬁc symptoms [3,4]. This process
+includes the incubation phase and the early phase of
+the disease. The incubation takes 1–14 days (3–7
+days being common). Peripheral blood leucocytes
+and lymphocytes are not signiﬁcantly reduced (normal or slightly lower) at this phase. Then, the viruses
+spread through the bloodstream and mainly in the
+lungs, gastrointestinal tract, and heart, presumably
+concentrated in the tissues expressing ACE2, the

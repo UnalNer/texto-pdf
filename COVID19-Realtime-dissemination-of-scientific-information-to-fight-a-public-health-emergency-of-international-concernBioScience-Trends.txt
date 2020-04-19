@@ -1,0 +1,129 @@
+﻿BioScience Trends. 2020; 14(1):1-2.
+
+Editorial
+
+
+DOI: 10.5582/bst.2020.01056
+
+COVID-19: Real-time dissemination of scientific information to
+fight a public health emergency of international concern
+Peipei Song1, Takashi Karako2,3,*
+
+
+Institute for Global Health Policy Research, Bureau of International Health Cooperation, National Center for Global Health and Medicine, Tokyo,
+Japan;
+International Health Care Center, National Center for Global Health and Medicine, Tokyo, Japan;
+Department of Surgery, the University of Tokyo Hospital, Tokyo, Japan.
+
+Rapidly sharing scientific information is an effective way to reduce public panic about COVID-19,
+and doing so is the key to providing real-time guidance to epidemiologists working to contain the
+outbreak, clinicians managing patients, and modelers helping to understand future developments and
+the possible effectiveness of various interventions. This issue has rapidly reviewed and published
+articles describing COVID-19, including the drug treatment options for SARS-CoV-2, its clinical
+characteristics, and therapies involving a combination of Chinese and Western medicine, the efficacy
+of chloroquine phosphate in the treatment of COVID-19 associated pneumonia according to clinical
+studies, and reflections on the system of reserve medical supplies for public health emergencies. As an
+academic journal, we will continue to quickly and transparently share data with frontline healthcare
+workers who need to know the epidemiological and clinical features of COVID-19.
+
+Keywords 2019-nCoV, SARS-CoV-2, COVID-19, sharing data
+
+A novel coronavirus, formerly designated 2019-nCoV
+and now taxonomically termed SARS-CoV-2, emerged
+in Wuhan, China at the end of 2019 and rapidly
+spread through many countries in Asia and elsewhere
+worldwide. This incident was labeled a public health
+emergency of international concern (PHEIC) on Jan.
+30, 2020 (1). This is the 6th time WHO has declared a
+PHEIC since the International Health Regulations (IHR)
+came into effect in 2005.
+The clinical condition caused by SARS-CoV-2 has
+been designated COVID-19 by the WHO. As of Feb.
+23, 2020, WHO reported a total of 77,042 confirmed
+cases and 2,445 deaths in China and 1,769 confirmed
+cases and 17 deaths in 28 other countries (2). The
+rapid increase in infections and deaths caused anxiety,
+panic, stigma, mistrust, and rumor-mongering among
+public.
+Rapidly sharing scientific information is an
+effective way to reduce public panic, and it is the key
+to providing real-time guidance to epidemiologists
+working to contain the outbreak, clinicians managing
+patients, and modelers helping to understand future
+developments and the possible effectiveness of various
+interventions.
+This information includes routes of transmission
+and transmissibility, the natural history of infection in
+humans, the populations at risk, the successful clinical
+practices that are being used to manage patients, the
+laboratory information needed to diagnose patients, and
+the genetic sequence information used to assess viral
+stability.
+Scientists from numerous countries have published
+and analyzed the genome of the pathogen responsible,
+SARS-CoV-2 (3-5). On Jan. 2020, a study that analyzed
+data on the first 425 confirmed cases in Wuhan, China
+provided evidence of human-to-human transmission
+among close contacts and suggested that measures
+to prevent or reduce transmission be implemented
+in populations at risk (6). Two studies published in
+Jan. 2020 described the epidemiological and clinical
+features of laboratory-confirmed COVID-19 in 41 and
+99 patients, respectively, in Wuhan (7,8). On Feb. 9,
+2020, a study involving 1,099 laboratory-confirmed
+cases at 552 hospitals was published online to provide
+an up-to-date delineation of the epidemiological and
+clinical characteristics of COVID-19 throughout
+mainland China (9). The study's findings encourage a
+shift in focus to identifying and managing patients at an
+earlier stage, before disease progression. In addition to
+confirmed cases from China, several reports identified
+clusters of locally transmitted cases in other countries,
+adding to the understanding of this disease.
+
+
+To prompt real-time sharing of scientific
+information, many international academic journals have
+rapidly reviewed and published articles on COVID-19.
+Several coronavirus websites have also been created
+to assemble and disclose articles on this disease, such
+as the NEJM Coronavirus page, the Lancet COVID-19
+Resource Centre, and the Cell Press Coronavirus
+Resource Hub. In order to overcome the language
+barrier, many articles have also been translated into
+Chinese to directly benefit frontline health professionals
+and policy makers in China as well as to reduce public
+panic; epidemiological information and scientific
+articles in Chinese have also been widely cited and
+rapidly reported in English. Broad dissemination in
+both Chinese and English will accomplish the goal
+of promptly communicating crucial findings to the
+international scientific community.
+We still have a lot to learn about SARS-CoV-2
+and the disease it causes, COVID-19. The real-time
+dissemination of scientific information is needed most
+during this period of uncertainty. Academic journals
+are responsible for facilitating the rapid dissemination
+of reliable information including transparent
+methods of identifying cases, sharing data, unfettered
+communication, and peer-reviewed research.
+Since its inception in 2007, our journal ‒ BioScience
+Trends ‒ has highlighted the research on and dissemination
+of information regarding public health emergencies,
+leading us to publish articles on topics such as SARS,
+Ebola, MERS, avian influenza A H5N1, H1N1, and
+H7N9.
+In this issue, we rapidly reviewed and published
+articles describing COVID-19, including the drug
+treatment options for SARS-CoV-2, its clinical
+characteristics, and therapies involving a combination
+of Chinese and Western medicine, the efficacy of
+chloroquine phosphate in the treatment of COVID-19
+associated pneumonia according to clinical studies, and
+the reflections on the system of reserve medical supplies
+for public health emergencies.
+As an academic journal, we will continue to quickly
+and transparently share data with frontline healthcare
+workers who need to know the epidemiological and
+clinical features of COVID-19.
+

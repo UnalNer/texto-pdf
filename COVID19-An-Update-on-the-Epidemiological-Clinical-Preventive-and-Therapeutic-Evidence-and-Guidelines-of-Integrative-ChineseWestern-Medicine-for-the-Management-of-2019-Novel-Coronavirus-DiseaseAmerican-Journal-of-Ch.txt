@@ -1,0 +1,75 @@
+﻿Am. J. Chin. Med. Downloaded from www.worldscientific.com
+by 186.28.200.19 on 04/11/20. Re-use and distribution is strictly not permitted, except for Open Access articles.
+
+The American Journal of Chinese Medicine, Vol. 48, No. 3, 1–26
+© 2020 World Scientiﬁc Publishing Company
+Institute for Advanced Research in Asian Science and Medicine
+DOI: 10.1142/S0192415X20500378
+
+COVID-19: An Update on the
+Epidemiological, Clinical, Preventive and
+Therapeutic Evidence and Guidelines of
+Integrative Chinese–Western Medicine for
+the Management of 2019 Novel
+Coronavirus Disease
+Kam Wa Chan,* Vivian Taam Wong† and Sydney Chi Wai Tang*
+Department of Medicine
+
+School of Chinese Medicine
+The University of Hong Kong, Hong Kong
+Published 13 March 2020
+As of 22 February 2020, more than 77662 cases of conﬁrmed COVID-19 have
+been documented globally with over 2360 deaths. Common presentations of conﬁrmed cases
+include fever, fatigue, dry cough, upper airway congestion, sputum production, shortness
+of breath, myalgia/arthralgia with lymphopenia, prolonged prothrombin time, elevated
+C-reactive protein, and elevated lactate dehydrogenase. The reported severe/critical case ratio
+is approximately 7–10% and median time to intensive care admission is 9.5–10.5 days with
+mortality of around 1–2% varied geographically. Similar to outbreaks of other newly
+identiﬁed virus, there is no proven regimen from conventional medicine and most reports
+managed the patients with lopinavir/ritonavir, ribavirin, beta-interferon, glucocorticoid and
+supportive treatment with remdesivir undergoing clinical trial. In China, Chinese medicine is
+proposed as a treatment option by national and provincial guidelines with substantial utilization. We reviewed the latest national and provincial clinical guidelines, retrospective cohort studies, and case series regarding the treatment of COVID-19 by add-on Chinese
+medicine. We have also reviewed the clinical evidence generated from SARS and H1N1
+management with hypothesized mechanisms and latest in silico ﬁndings to identify candidate
+Chinese medicines for the consideration of possible trials and management. Given the
+paucity of strongly evidence-based regimens, the available data suggest that Chinese
+Correspondence to: Dr. Sydney Chi Wai Tang and Dr. Vivian Taam Wong, Department of Medicine, The
+University of Hong Kong, 4/F Professorial Block, 102 Pokfulam Road, Hong Kong. Tel: (þ852) 2255-3603,
+E-mail: scwtang@hku.hk (S.C.W. Tang); School of Chinese Medicine, The University of Hong Kong, 10 Sasson
+Road, Hong Kong. Tel: (þ852) 2817-7725, E-mail: vcwwong@hku.hk (V.T. Wong)
+
+
+Keywords: COVID-19; 2019-nCoV; Chinese Medicine; Integrative Medicine; Guideline;
+Review.
+COVID-19 is caused by SARS-CoV-2, a newly identiﬁed coronavirus sized 60–140 nm
+similar to severe acute respiratory syndrome (SARS)-CoV (approximately 80% similar)
+that fell within the subgenus Sarbecovirus of the Betacoronavirus genus (Chan et al.,
+2020a,b; Chen et al., 2020a; Heymann and Shindo, 2020; Huang et al., 2020; Lipsitch
+et al., 2020; Lu et al., 2020b; Wrapp et al., 2020; Xu et al., 2020a; Zhu et al., 2020).
+SARS-CoV-2 is believed to be introduced from wild animals followed by human-to-human
+transmission (Chan et al., 2020b; Chen et al., 2020a; Heymann and Shindo, 2020; Huang
+et al., 2020; Lipsitch et al., 2020; Lu et al., 2020b). Genetic epidemiological analysis
+showed that the virus may originate from a common ancestor in November–December
+2019 from Wuhan, China (GISAID Initiative, 2020). SARS-CoV-2 binds to angiotensinconverting enzyme 2 (ACE2) receptor with 10–20 folds higher afﬁnity than SARS-CoV
+(Wrapp et al., 2020; Xu et al., 2020a) with similarities (40%) in the amino acid identity of
+Spike’s receptor binding domain (RBD) (Chan et al., 2020a).
+At present, SARS-CoV-2 is believed to spread through contact, droplet or fomite
+(Van Cuong et al., 2020; World Health Organization, 2020a). Increasing evidence
+also points to the faecal-oral route (Guo et al., 2020; Heymann and Shindo, 2020; Holshue
+et al., 2020; Yeo et al., 2020) and aerosol (National Health Commission and National
+Administration of Traditional Chinese Medicine, 2020). Latest data showed that viral load
+from nasal swab peaks at 2 days after symptom onset. Nevertheless, comparable viral load
+was detected between an asymptomatic patient and other symptomatic patients, and
+asymptomatic transmission was reported (Chan et al., 2020b; Guan et al., 2020; Hoehl
+et al., 2020; National Health Commission and National Administration of Traditional
+Chinese Medicine, 2020; Pan et al., 2020; Rothe et al., 2020; Zou et al., 2020).
+As of 22 February 2020, there were 77662 conﬁrmed cases with 2360 deaths, majority
+from China, of which over 80% were from Hubei province (Dong et al., 2020; GitHub,
+2020; Healthmap, 2020; The Novel Coronavirus Pneumonia Emergency Response Epidemiology Team, 2020). A longer time between symptom onset and care seeking at
+hospitals or clinics in Hubei was observed when compared to other provinces in China
+(Sun et al., 2020a). A sharp increase in conﬁrmed cases was observed on 13 February due
+to the inclusion of cases with clinical diagnosis (The State Council, The People’s Republic
+of China, 2020b). The current estimated case fatality rate is 1–2% (Guan et al., 2020;
+Heymann and Shindo, 2020; Lipsitch et al., 2020; The Novel Coronavirus Pneumonia
+Emergency Response Epidemiology Team, 2020; Wang et al., 2020c; Xu et al., 2020d)
+which varied geographically being higher in Wuhan (2.9%) (The Novel Coronavirus)

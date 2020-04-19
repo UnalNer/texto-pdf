@@ -1,0 +1,89 @@
+﻿biomolecules
+Article
+
+Antiviral Action of Tryptanthrin Isolated from
+Strobilanthes cusia Leaf against Human
+Coronavirus NL63
+Yu-Chi Tsai 1,2,3 , Chia-Lin Lee 4,5,6 , Hung-Rong Yen 6,7,8,9 , Young-Sheng Chang 2,3 ,
+Yu-Ping Lin 3 , Su-Hua Huang 10 and Cheng-Wen Lin 1,2,3,6,10, *
+
+
+PhD Program for Health Science and Industry, College of Health Care, China Medical University,
+Taichung 40402, Taiwan; chijoan0805@gmail.com
+Graduate Institute of Biomedical Sciences, College of Medicine, China Medical University, Taichung 40402,
+Taiwan; a0989016192@gmail.com
+Department of Medical Laboratory Science and Biotechnology, China Medical University, Taichung 40402,
+Taiwan; c20234@hotmail.com
+Department of Cosmeceutics, China Medical University, Taichung 40402, Taiwan; chlilee@mail.cmu.edu.tw
+Chinese Medicine Research and Development Center, China Medical University Hospital,
+Taichung 40447, Taiwan
+Chinese Medicine Research Center, China Medical University, Taichung 40402, Taiwan;
+hungrongyen@gmail.com
+Graduate Institute of Chinese Medicine, School of Chinese Medicine, College of Chinese Medicine,
+China Medical University, Taichung 40402, Taiwan
+Department of Chinese Medicine, China Medical University Hospital, Taichung 40447, Taiwan
+Research Center for Traditional Chinese Medicine, Department of Medical Research, China Medical
+University Hospital, Taichung 40447, Taiwan
+Department of Biotechnology, Asia University, Wufeng, Taichung 41354, Taiwan; shhuang@asia.edu.tw
+Correspondence: cwlin@mail.cmu.edu.tw; Fax: 886-4-2205-7414
+
+Strobilanthes cusia (Nees) Kuntze is a Chinese herbal medicine used in the treatment of
+respiratory virus infections. The methanol extract of S. cusia leaf contains chemical components
+such as β-sitosterol, indirubin, tryptanthrin, betulin, indigodole A, and indigodole B that have
+diverse biological activities. However, the antiviral action of S. cusia leaf and its components against
+human coronavirus remains to be elucidated. Human coronavirus NL63 infection is frequent among
+immunocompromised individuals, young children, and in the elderly. This study investigated the
+anti-Human coronavirus NL63 (HCoV-NL63) activity of the methanol extract of S. cusia leaf and its
+major components. The methanol extract of S. cusia leaf effectively inhibited the cytopathic effect (CPE)
+and virus yield (IC50 = 0.64 µg/mL) in HCoV-NL63-infected cells. Moreover, this extract potently
+inhibited the HCoV-NL63 infection in a concentration-dependent manner. Among the six components
+identified in the methanol extract of S. cusia leaf, tryptanthrin and indigodole B (5aR-ethyltryptanthrin)
+exhibited potent antiviral activity in reducing the CPE and progeny virus production. The IC50
+values against virus yield were 1.52 µM and 2.60 µM for tryptanthrin and indigodole B, respectively.
+Different modes of time-of-addition/removal assay indicated that tryptanthrin prevented the early
+and late stages of HCoV-NL63 replication, particularly by blocking viral RNA genome synthesis
+and papain-like protease 2 activity. Notably, tryptanthrin (IC50 = 0.06 µM) and indigodole B
+(IC50 = 2.09 µM) exhibited strong virucidal activity as well. This study identified tryptanthrin as the
+key active component of S. cusia leaf methanol extract that acted against HCoV-NL63 in a cell-type
+independent manner. The results specify that tryptanthrin possesses antiviral potential against
+HCoV-NL63 infection.
+Keywords: Strobilanthes cusia; tryptanthrin; indigodole B; human coronavirus NL63; antiviral; virucidal
+Strobilanthes cusia (Nees) Kuntze is a member of the family Acanthaceae, widely distributed
+in northeast India, Bangladesh, southern China, the Himalayan region, Myanmar, and Taiwan [1].
+S. cusia root and leaf extracts have been used extensively as a traditional herbal medicine with
+anti-inflammatory, antipyretic, antimicrobial, and antiviral activities [2,3]. The S. cusia root (named
+“Nan-Ban-Lan-Gen” in Chinese) has been commonly used to treat infections by respiratory virus, such
+as influenza viruses, mumps virus, and severe acute respiratory syndrome (SARS) coronavirus [4,5].
+Several bioactive components from the S. cusia root, including strobilanthes A, 3H-benzoxazolinone,
+and aurantiamide acetate, have exhibited antiviral activity against influenza A and hepatitis B
+virus infections [5,6]. The S. cusia leaf (called “Da-Ching-Yeh” in Chinese) is generally used for the
+production of indigo dyes (Indigo Natruralis, named “Qing Dai” in Chinese), displaying antibacterial,
+anti-inflammatory, and antipyretic properties [7,8]. S. cusia leaves contain effective chemical
+components with antibacterial, anti-inflammatory and antitumor activities, including β-sitosterol,
+indirubin, tryptanthrin (6,12-dihydro-6,12-dioxoindolo-(2,1-b)-quinazoline), betulin, indigodole A,
+indigodole B (5aR-ethyltryptanthrin), strobilanthosides A–C, and phenylethanoidglycosides [9,10].
+Notably, indirubin and its derivatives modulate influenza A virus-induced inflammation and have been
+suggested as antiviral and immunomodulatory agents against influenza A virus infection [3,11–14].
+β-sitosterol exerts an inhibitory effect on the in vitro enzymatic activity of SARS coronavirus 3C-like
+protease [15]. However, the antiviral capability of S. cusia leaf extract is yet to be elucidated; clarifying
+its properties will prove to be relevant to respiratory virus infections.
+Human coronavirus NL63 (HCoV-NL63) belongs to the family Coronaviridae, as denoted
+shortly after the emergence of severe acute respiratory syndrome coronavirus (SARS-CoV) [16,17].
+HCoV-NL63 is an enveloped virus with a single-strand, positive-sense RNA genome nearly 26–32 kb
+in size [18]. The spike protein, the major envelope protein of HCoV-NL63, specifically binds to the
+zinc peptidase angiotensin-converting enzyme 2 (ACE2) identified as the receptor for pathogenic
+coronaviruses SARS-CoV and COVID-19 (formerly known as Wuhan coronavirus, 2019-nCoV,
+and SARS-CoV-2) [16–19]. The virus is prevalent during spring and winter seasons in temperate zone
+countries. HCoV-NL63 is primarily associated with immunocompromised patients with respiratory
+illnesses, young children, and the elderly [20]. Symptoms of HCoV-NL63 infection include common
+cold, rhinorrhea, cough, fever, tachypnea, and obstructive laryngitis [21]. Recently, HCoV-NL63 induced
+an outbreak of severe respiratory disease in long-term care institutions in Louisiana. In 20 cases with
+patients aged between 66 and 96, six patients with pneumonia were hospitalized and three patients
+died [22]. Moreover, HCoV-NL63 was isolated from the blood, urine, and stool samples of children
+with febrile illness, causing systemic illness in rural Haiti [23]. HCoV-NL63 has become one of the
+primary pathogens in respiratory viral diseases; however, there are no effective antivirals for treating
+HCoV-NL63 infection.
+This study explored the anti-HCoV-NL63 activity exhibited by the methanol extract of S. cusia
+leaf and its major chemical components, including β-sitosterol, indirubin, tryptanthrin, betulin,
+indigodole A, and indigodole B, by means of cytopathic effect (CPE), virus yield, infectivity,
+time-of-addition/removal, and virucidal activity assays.

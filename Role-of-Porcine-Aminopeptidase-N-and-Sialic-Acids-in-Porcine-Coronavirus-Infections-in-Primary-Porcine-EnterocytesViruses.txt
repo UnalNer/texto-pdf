@@ -1,0 +1,1905 @@
+viruses
+Article
+
+Role of Porcine Aminopeptidase N and Sialic Acids in
+Porcine Coronavirus Infections in Primary
+Porcine Enterocytes
+Tingting Cui 1 , Sebastiaan Theuns 1 , Jiexiong Xie 1 , Wim Van den Broeck 2
+Hans J. Nauwynck 1, *
+1
+
+2
+
+*
+
+and
+
+Laboratory of Virology, Faculty of Veterinary Medicine, Ghent University, Salisburylaan 133,
+B-9820 Merelbeke, Belgium; tingting.cui@ugent.be (T.C.); sebastiaan.theuns@ugent.be (S.T.);
+jiexiong.xie@ugent.be (J.X.)
+Department of Morphology, Faculty of Veterinary Medicine, Ghent University, Salisburylaan 133,
+B-9820 Merelbeke, Belgium; wim.vandenbroeck@ugent.be
+Correspondence: hans.nauwynck@ugent.be
+
+Received: 27 February 2020; Accepted: 2 April 2020; Published: 5 April 2020
+
+
+
+
+Abstract: Porcine epidemic diarrhea virus (PEDV) and transmissible gastroenteritis virus (TGEV)
+have been reported to use aminopeptidase N (APN) as a cellular receptor. Recently, the role of
+APN as a receptor for PEDV has been questioned. In our study, the role of APN in PEDV and
+TGEV infections was studied in primary porcine enterocytes. After seven days of cultivation, 89% of
+enterocytes presented microvilli and showed a two- to five-fold higher susceptibility to PEDV and
+TGEV. A significant increase of PEDV and TGEV infection was correlated with a higher expression
+of APN, which was indicative that APN plays an important role in porcine coronavirus infections.
+However, PEDV and TGEV infected both APN positive and negative enterocytes. PEDV and TGEV
+Miller showed a higher infectivity in APN positive cells than in APN negative cells. In contrast,
+TGEV Purdue replicated better in APN negative cells. These results show that an additional receptor
+exists, different from APN for porcine coronaviruses. Subsequently, treatment of enterocytes with
+neuraminidase (NA) had no effect on infection efficiency of TGEV, implying that terminal cellular
+sialic acids (SAs) are no receptor determinants for TGEV. Treatment of TGEV with NA significantly
+enhanced the infection which shows that TGEV is masked by SAs.
+Keywords: enterocytes; porcine coronavirus; transmissible gastroenteritis virus (TGEV); Porcine
+epidemic diarrhea virus (PEDV); aminopeptidase N; sialic acids
+
+1. Introduction
+Coronaviruses are known as human and animal pathogens that mainly infect the epithelium of the
+respiratory or intestinal tract. Porcine epidemic diarrhea virus (PEDV), transmissible gastroenteritis
+virus (TGEV), and its variant porcine respiratory coronavirus (PRCV) are classified as Alphacoronavirus.
+They are enveloped viruses containing a single-stranded, positive-sense RNA genome of approximately
+28.5 kb. The positive ssRNA serves as mRNA for the generation of viral replicative proteins by
+translation of open reading frame (ORF) 1a and ORF1b. The genome contains a 50 untranslated
+region (UTR), a 30 UTR, and at least seven ORFs. ORF1a and ORF1b make up two-thirds of the viral
+genome and encode the non-structural replicase polyproteins (replicases 1a and 1b), which further
+guide the viral replication and translation, regulate cellular processes, and potentially fulfill other
+unknown functions. The remaining proximal third of the genome encodes four structural proteins
+(spike (S), envelope (E), membrane (M), and nucleocapsid (N) by ORF2, ORF4, ORF5, and ORF6,
+respectively). The S protein is a type I glycoprotein that projects from the virions surface forming
+Viruses 2020, 12, 402; doi:10.3390/v12040402
+
+www.mdpi.com/journal/viruses
+
+Viruses 2020, 12, 402
+
+2 of 18
+
+the corona-like appearance of viral particles. It contains an N-terminal ectodomain (S1) and a short
+C-terminal cytoplasmic tail (S2). It is known that the peripheral S1 portion is a globular cellular receptor
+binding subunit while the transmembrane S2 portion is required to mediate fusion of viral and cellular
+membranes [1]. The S protein also contains important antigenic determinants for coronaviruses. The
+triple-spanning M protein has a short N-terminal glycosylated domain, a long C-terminal domain,
+and three transmembrane domains [2]. M proteins play key roles in virion assembly/budding. The
+lateral interactions between M and E proteins are supposed to mediate the formation of the virion
+envelope. The M–S protein interactions are also needed to retain the spike proteins at the budding site,
+incorporating the S proteins into the viral envelope [3]. The E protein is a small hydrophobic protein
+of 9–12 kDa. It plays crucial roles during virus budding and transiently localizes at the pre-Golgi
+compartment before progressing to the Golgi apparatus. Deletion of the E protein in TGEV arrests
+virus transportation and maturation [4]. The E protein possesses an ion channel activity, contributing
+to virus virulence and pathogenesis [5].
+The replication of viruses in their host cells is firstly mediated by the virus binding to the cellular
+receptors. Some Alphacoronaviruses, including human coronavirus 229E (HCoV-229E), feline infectious
+peritonitis virus (FIPV), canine coronavirus (CCoV), TGEV, and PEDV, may use aminopeptidase N
+(APN) as a cellular receptor [6–10]. APN is a type II cell membrane metalloprotease, that is linked
+to cells by its N-terminal cytoplasmic domain. It is highly abundant on the brush border membrane
+of the mature small intestinal enterocytes, kidney, and liver epithelial cells. APN is highly species
+specific. Human coronaviruses cannot recognize porcine APN as a cellular receptor because of certain
+differences in glycosylation regions [11]. APN has been identified as a major receptor for TGEV, as
+it has been shown that TGEV virions are able to specifically bind to purified APN and conferred
+the infectivity of TGEV to a non-permissive cell line when the cells were expressing recombinant
+APN [7]. An interaction between APN and PEDV infection has also been demonstrated. Transient
+expression of APN in Mardin-Darby canine kidney (MDCK) cells conferred susceptibility of these
+cells to PEDV infection and the infection was inhibited by anti-APN polyclonal antibodies [9]. Cong
+and colleagues demonstrated that APN mediates PEDV infection in Vero E6 and in an immortalized
+porcine enteric cell line [12]. However, increasingly more data demonstrates that APN is not essential
+for PEDV infection, because PEDV exhibits no binding to soluble APN [13,14]. Moreover, Vero cells
+are commonly used for PEDV propagation and cultivation in vitro. The endogenous expression of
+APN in Vero cells was undetectable in the mRNA and the protein levels, which challenges the role of
+APN as a cellular receptor for PEDV. Therefore, whether APN is a functional receptor for PEDV is
+disputable. However, no data are available on the role of APN in primary enterocytes.
+In addition to APN, a sialic acid binding capacity has been reported for TGEV and PEDV [15,16].
+Sialic acids are electronegatively charged monosaccharides in animals and some microorganisms.
+They are prominently positioned at the outer end of N-glycans, O-glycans, and glycosphingolipids.
+TGEV shows a hemagglutinating activity with α-2,3-linked sialic acids on the erythrocyte surface as
+target. Among different types of sialic acids, N-glycolylneuraminic acid was recognized by TGEV
+more efficiently than N-acetylneuraminic acid [15]. Sialic acid binding by TGEV is not essential
+in the initiation of infection of cultured cells, as TGEV mutants lacking sialic acid binding activity
+can be propagated to the same extent in cultured cells [15]. However, sialic acid binding activity is
+important for the enteropathogenicity of TGEV. Mutants without sialic acid binding were not capable of
+initiating intestinal infection in vivo, showing that sialic acid binding is required for efficient intestinal
+infections [17]. This sialic acid binding activity of TGEV is supposed to help the virus to penetrate the
+mucus layer and to infect intestinal epithelial cells. PEDV is also able to bind sialic acids. PEDV S1
+protein was reported to bind bovine and porcine mucins that contain a mixture of different types of
+sugar [16,18]. Furthermore, Neu5Ac was identified as the most favored binding sugar of PEDV S1
+by a glycan array screen [16]. Different from the APN binding domain in the C-terminal of PEDV S1
+(residues 477–629), the sialic acid binding domain was reported in the N-terminal of PEDV S1 (residues
+1–320) [18].
+
+Viruses 2020, 12, 402
+
+3 of 18
+
+In the present study, the co-culture system of primary porcine enterocytes that was established in
+our laboratory was used to study the role of APN in PEDV and TGEV infection in their target cells [19].
+Further, it was investigated whether sialic acids are cellular receptors for TGEV in primary enterocytes.
+2. Materials and Methods
+2.1. Cells, Viruses, and Reagents
+Primary porcine enterocytes were isolated from the ileum of three-day-old piglets and co-cultured
+with porcine myofibroblasts [19]. Euthanizing piglets was done in agreement with the European
+legislation on animal experiments. All experimental procedures were approved by the Local Ethical
+Committee of the Faculty of Veterinary Medicine, Ghent University (EC2013/97), and all methods
+were carried out in accordance with the approved guidelines. The enterocytes were maintained with
+Dulbecco’s modified Eagle’s-F12 Ham medium (DMEM-F12). TGEV Purdue and Miller grown on
+swine testicle (ST) cells and PEDV CV777 strain grown on Vero cells were used in this study. PEDV
+CV777 fecal suspension was collected from a three-day-old infected suckling piglet. A twenty percent
+fecal suspension was prepared in phosphate buffered saline (PBS) containing 1000 U/mL penicillin
+(Continental Pharma, Puurs, Belgium), 1 mg/mL streptomycin (Certa, Braine l’Alleud, Belgium),
+1 mg/mL gentamicin (Gibco BRL, Merelbeke, Belgium), and 0.01% v/v fungizone (Bristol-Myers Squibb,
+Braine l’Alleud, Belgium). Hydrocortisone, spermidine, and Wnt agonist were purchased from
+Sigma-Aldrich (Sigma, St-Louis, Mo, USA). Porcine insulin was purchased from Protein specialists
+(ProSpec, Rehovot, Israel). The small intestinal contents (IC) were collected from the duodenum of a
+three-day-old suckling piglet. After euthanasia, a 20 cm long segment of duodenum was closed by
+two surgical clamps and was removed from a piglet. Then, one clamp was removed and the intestinal
+contents were released from the lumen into a 15 mL centrifugation tube. In order to collect all the
+intestinal contents, the lumen was washed once by filling it with 5 mL Dulbecco’s modified Eagle’s
+medium (DMEM) containing 1000 U/mL penicillin, 1 mg/mL streptomycin, 1 mg/mL gentamicin, and
+0.01% v/v fungizone. Then, the DMEM was released from the lumen into the 15 mL tube that already
+contained the intestinal contents. After centrifugation (1200 rpm, 10 min at 4 ◦ C), the supernatant of
+the intestinal contents was collected and stored at −20 ◦ C until use.
+2.2. Scanning Electron Microscopy
+Three- and seven-day-old primary porcine enterocytes were fixed in HEPES-buffered glutaric
+aldehyde (Sigma, St-Louis, Mo, USA) for scanning electron microscopy as described previously [20].
+After 24 h fixation, the samples were treated with 1% osmium tetroxide for 2 h at room temperature
+(RT), followed by ascending grades of alcohol dehydration. In order to avoid the water vaporization
+obstructing the electron beam and interfering with image clarity, the dehydrated samples were
+transferred to a critical point drier (CPD, Bal-tec, Balzers, Liechtenstein) for complete drying. Finally,
+the dried samples were mounted on a metal stub and were sputter-coated with platinum. The microvilli
+of all the samples were acquired with a JEOL JSM 5600 LV scanning electron microscope (JEOL Ltd.,
+Tokyo, Japan).
+2.3. Treatment of Primary Enterocytes with Hydrocortisone, Spermidine, Porcine Insulin, Wnt Agonist, or
+Small Intestinal Contents
+Twenty-four h post co-cultivation, monolayers of enterocytes were cultured with medium
+containing hydrocortisone (1 and 10 µg/mL), spermidine (50 and 500 µM), insulin (1 and 10 µg/mL),
+Wnt agonist (0.1 µM), or intestinal contents (1%) for 24 h. The cells were fixed with 4% paraformaldehyde
+for 10 min and immunofluorescence staining was conducted for APN expression analysis.
+
+Viruses 2020, 12, 402
+
+4 of 18
+
+2.4. Immunofluorescence Staining of the APN Expression in Primary Enterocytes
+Cells were incubated with mouse monoclonal anti-porcine APN antibodies (IMM013; kindly
+provided by Prof. Eric Cox, Ghent University) containing 10% normal goat serum for 1 h at 37 ◦ C,
+followed by goat anti-mouse-IgG FITC labeled antibodies for 1 h at 37 ◦ C. Nuclei were stained
+with Hoechst for 10 min at RT. The percentage of APN positive cells were analyzed by fluorescence
+microscopy (Leica Microsystems GmbH).
+2.5. Infection Experiment
+At twenty-four h of co-cultivation, monolayers of enterocytes were treated with 1 µg/mL
+hydrocortisone, 50 µM spermidine, 1 µg/mL insulin, 0.1 µM Wnt agonist, or 1% intestinal contents for
+another 24 h. Then, the susceptibility of treated enterocytes to PEDV and TGEV was tested. Cells were
+inoculated with 200 µL of TGEV Miller at a multiplicity of infection (m.o.i.) of 1 and 200 µL of the
+PEDV CV777 Vero adapted strain at 105.6 TCID50 /mL or 107 viral RNA copies/mL of fecal suspension
+with 10 µg/mL trypsin. After 60 min of incubation at 37 ◦ C, unbound viral particles were removed
+by three washing steps with DMEM. Cells were further incubated in medium containing 1 µg/mL
+hydrocortisone, 50 µM spermidine, 1 µg/mL insulin, 0.1 µM Wnt agonist, or 1% intestinal contents for
+24 h (37 ◦ C, 5% CO2 ) and fixed with 4% paraformaldehyde for immunofluorescence staining.
+2.6. Co-localization Analysis of Viral Antigens with APN by Confocal Microscopy
+To determine the co-localization of viral antigens and APN, co-cultured enterocytes were infected
+with TGEV Miller and Purdue and PEDV Vero adapted and non-adapted strains. After 24 h incubation,
+cells were fixed with 4% paraformaldehyde for 10 min and immunofluorescence staining was performed.
+Cells were incubated with mouse monoclonal anti-porcine APN antibodies containing 10% normal
+goat serum for 1 h at 37 ◦ C, followed by goat anti-mouse-IgG1 FITC labeled antibodies for 1 h at 37 ◦ C.
+Then, cells were permeabilized with 0.1% Triton X-100 for 5 min at RT and incubated with mouse
+monoclonal anti-porcine PEDV antibodies (kindly provided by Prof. Luis Enjuanes, National Center
+for Biotechnology) or swine polyclonal anti-TGEV antibodies [19] containing 10% normal goat serum
+for 1 h at 37 ◦ C, followed by goat anti-mouse IgG2a AF594 labeled antibodies or goat anti-swine Texas
+Red labeled antibodies (Molecular Probes). Nuclei were stained with Hoechst for 10 min at RT and the
+results were analyzed by a Leica TCS SPE laser scanning spectral confocal system linked to a DM B
+fluorescence microscope (Leica Microsystems).
+2.7. Neuraminidase Treatment of Cells and Virus
+To remove SAs from enterocytes, monolayers of co-cultured enterocytes were washed three
+times with warm DMEM. Then, cells were incubated with 50 mU/mL NA from Vibrio Cholerae
+(Roche Diagnostics, Risch-Rotkreuz, Switzerland) at 37 ◦ C for 1 h. Cells that were mock-treated were
+incubated with DMEM and underwent the same manipulations as NA-treated cells. To remove SAs
+from the virus, virus suspensions were incubated with 50 mU/mL NA from Vibrio Cholerae at 37 ◦ C
+for 1 h. the mock-treated virus was incubated in DMEM and underwent the same manipulations as
+the NA-treated virus. Afterwards, cells were inoculated with either NA-treated or mock-treated virus
+(m.o.i of 1 for TGEV Purdue and Miller). After 60 min incubation at 37 ◦ C, cells were washed three
+times with medium and further incubated in medium for 24 h (37 ◦ C, 5% CO2 ). Then, cells were fixed
+with 4% paraformaldehyde for 10 min at RT. Immunofluorescence was performed to measure the
+percentage of infected cells. The cells were permeabilized with 0.1% Triton X-100 for 5 min at RT. Then,
+cells were incubated with swine polyclonal anti-TGEV antibodies containing 10% normal goat serum
+for 1 h at 37 ◦ C, followed by goat anti-swine-IgG FITC labelled antibodies for 1 h at 37 ◦ C. Nuclei
+were stained with Hoechst for 10 min at RT. The percentages of infected cells were determined by
+fluorescence microscopy.
+
+Viruses 2020, 12, 402
+
+5 of 18
+
+2.8. Co-localization of TGEV and SAs
+To determine the co-localization of viral antigens and SAs, co-cultured enterocytes were infected
+with TGEV Miller and Purdue. After 24 h incubation, cells were fixed with 4% paraformaldehyde
+for 10 min and a double immunofluorescence staining was performed. Cells were incubated with
+biotinylated Maackia amurensis lectin II (Vector laboratories) for 1 h at 37 ◦ C. The lectin was subsequently
+stained with Streptavidin-FITC (Invitrogen) for 1 h at 37 ◦ C. Then, cells were permeabilized with 0.1%
+Triton X-100 for 5 min at RT and incubated with swine polyclonal anti-TGEV antibodies containing
+10% normal goat serum for 1 h at 37 ◦ C, followed by goat anti-swine-IgG Texas Red labeled antibodies.
+Nuclei were stained with Hoechst for 10 min at RT and results were analyzed by a Leica TCS SPE laser
+scanning spectral confocal system linked to a DM B fluorescence microscope.
+2.9. Binding Assays
+To characterize the attachment of TGEV to primary enterocytes, direct virus-binding studies were
+carried out with TGEV particles. Cells were chilled on ice for 5 min and washed three times with
+DMEM. Then, cells were inoculated with TGEV Miller and Purdue particles at a m.o.i. of 10 for 1 h
+at 4 ◦ C. Unbound virus particles were removed by three washings with DMEM. Cells were fixed
+with 4% paraformaldehyde for 10 min and a double immunofluorescence staining was performed.
+Cells were incubated with biotinylated Maackia amurensis lectin II or mouse monoclonal anti-porcine
+APN antibodies for 1 h at 37 ◦ C, followed by Streptavidin-FITC or goat anti-mouse-IgG1 FITC labeled
+antibodies for 1 h at 37 ◦ C. Then, cells were permeabilized with 0.1% Triton X-100 for 5 min at RT and
+incubated with swine polyclonal anti TGEV antibodies containing 10% goat serum for 1 h at 37 ◦ C,
+followed by goat anti-swine-IgG Texas Red labeled antibodies. Nuclei were stained with Hoechst for
+10 min at RT and the results were analyzed by a Leica TCS SPE laser scanning spectral confocal system
+linked to a DM B fluorescence microscope.
+2.10. Statistical Analysis
+Data were statistically processed by SPSS (t-test). The data are represented as means with
+standard deviation (SD) of three independent experiments. Results with p-values of <0.05 were
+considered significant.
+3. Results
+3.1. Aged Enterocytes Carry More Microvilli, Express More APN, and Demonstrate Increased Susceptibility to
+TGEV and PEDV Infection
+The percentages of microvilli positive enterocytes were analyzed by scanning electron microscopy.
+A higher percentage of microvilli positive cells (89%) was observed at seven days cultivation compared
+to three days cultivation (66%). The expression of APN at seven days cultivation (28.7 ± 2.3%) was
+significantly higher than at three days cultivation (14.8 ± 3.2%; Figure 1A,B). The data suggest that
+primary enterocytes underwent a differentiation process in vitro. They terminally differentiate into
+mature enterocytes during the long cultivation time. Next, enterocytes were inoculated with TGEV and
+PEDV at three and seven days of cultivation. The results showed that a significantly higher infection
+was detected in enterocytes at seven days cultivation (Miller: 3.6 ± 1.1%; Purdue: 7.3 ± 0.7%) than
+at three days cultivation (Miller: 0.7 ± 0.7%; Purdue: 3.5 ± 0.5%) for TGEV. An increased trend of
+infection was detected in enterocytes at seven days cultivation (39 infected cells per well) than at three
+days cultivation (16 infected cells per well) for PEDV but without significance (p = 0.06; Figure 1C).
+
+Viruses 2020, 12, 402
+
+Viruses 2020, 12, 402
+
+6 of 18
+
+6 of 18
+
+Figure 1. Effect of cultivation age on the percentage of microvilli positive cells and susceptibility to
+Figure
+1. Effect(A)
+of cultivation
+ageand
+on seven
+the percentage
+of microvilli
+positive on
+cells
+susceptibility
+to
+virus
+infection.
+At three days
+days cultivation,
+the microvilli
+theand
+surface
+of primary
+virus
+infection.
+(A)
+At
+three
+days
+and
+seven
+days
+cultivation,
+the
+microvilli
+on
+the
+surface
+of
+primary
+enterocytes were detected by scanning electron micrograph. (B) The percentages of microvilli positive
+enterocytes
+were detected N
+by (APN)
+scanning
+electron
+micrograph.
+(B) The
+percentages
+of microvilli
+positive
+cells
+and aminopeptidase
+positive
+cells
+were counted.
+(C)
+At three days
+and seven
+days
+5.6 TCID
+cells and aminopeptidase
+N (APN)
+were diarrhea
+counted.virus
+(C) At
+three10
+days
+and 50
+seven
+cultivation,
+cells were inoculated
+withpositive
+Porcine cells
+epidemic
+(PEDV;
+/mL) days
+and
+5.6 TCID5024
+transmissible
+gastroenteritis
+virus (TGEV;
+m.o.i.epidemic
+= 1). Percentage
+infection
+was10
+measured
+h post
+cultivation, cells
+were inoculated
+with Porcine
+diarrheaofvirus
+(PEDV;
+/mL)
+and
+inoculation.
+are expressed
+as(TGEV;
+mean ±m.o.i.
+standard
+deviation (SD)
+of the results
+of three separate
+transmissibleData
+gastroenteritis
+virus
+= 1). Percentage
+of infection
+was measured
+24 h post
+experiments.
+Statistically
+significant
+differences
+in comparison
+from
+three of
+days
+cultivation
+inoculation. Data
+are expressed
+as mean
+± standard
+deviationwith
+(SD)data
+of the
+results
+three
+separate
+are
+presented as
+*p < 0.05 or
+**p < 0.01.
+experiments.
+Statistically
+significant
+differences in comparison with data from three days cultivation
+are presented as *p < 0.05 or **p < 0.01.
+
+3.2. Effects of Enterocyte Differentiation Factors (Hydrocortisone, Spermidine, Porcine Insulin, Wnt Agonist, or
+Small Intestinal Contents) on APN Expression
+3.2. Effects of Enterocyte Differentiation Factors (Hydrocortisone, Spermidine, Porcine Insulin, Wnt
+Cellsorwere
+with
+hydrocortisone,
+spermidine, porcine insulin, Wnt agonist, or small
+Agonist,
+Smalltreated
+Intestinal
+Contents)
+on APN Expression
+intestinal contents to analyse their effects on enterocyte differentiation. Cells were treated with
+Cells were treated with hydrocortisone, spermidine, porcine insulin, Wnt agonist, or small
+the aforementioned products for 24 h. Afterwards, the differentiation marker APN was stained by
+intestinal contents to analyse their effects on enterocyte differentiation. Cells were treated with the
+immunofluorescence and the percentage of APN positive cells was counted (Figure 2A). The results
+aforementioned products for 24 h. Afterwards, the differentiation marker APN was stained by
+showed that without treatment, 13.8 ± 2.6% of cells were APN positive. The treatment with 1 and
+immunofluorescence and the percentage of APN positive cells was counted (Figure 2A). The results
+10 µg/mL hydrocortisone significantly increased the APN expression to 25 ± 5.5% and 25 ± 8.8%,
+showed that without treatment, 13.8 ± 2.6% of cells were APN positive. The treatment with 1 and
+respectively. The treatment with 50 mM and 500 mM spermidine significantly enhanced the APN
+10 µg/mL hydrocortisone significantly increased the APN expression to 25 ± 5.5% and 25 ± 8.8%,
+expression to 27 ± 8.1% and 26 ± 5.8%, respectively. Similarly, 1 and 10 µg/mL insulin treatment
+respectively. The treatment with 50 mM and 500 mM spermidine significantly enhanced the APN
+significantly increased the APN expression to 25 ± 6.4% and 27 ± 10.1%, respectively. Since there was
+expression to 27 ± 8.1% and 26 ± 5.8%, respectively. Similarly, 1 and 10 µg/mL insulin treatment
+no dose-dependent enhancement, the lower concentration of each product (1 µg/mL of hydrocortisone,
+significantly increased the APN expression to 25 ± 6.4% and 27 ± 10.1%, respectively. Since there was
+no dose-dependent enhancement, the lower concentration of each product (1 µg/mL of
+hydrocortisone, 50 µM of spermidine and 1 µg/mL of porcine insulin) was used for the next
+
+Viruses 2020, 12, 402
+
+7 of 18
+
+50
+µM2020,
+of spermidine
+and 1 µg/mL of porcine insulin) was used for the next experiment. The treatment
+Viruses
+12, 402
+7 of 18
+of Wnt agonist and intestinal contents showed a trend of increased APN expression up to 22 ± 7%
+experiment.
+Wnt
+agonist and
+intestinal
+(p
+= 0.1) and The
+22 ±treatment
+9.9% (p = of
+0.3),
+respectively
+(Figure
+2B). contents showed a trend of increased APN
+expression up to 22 ± 7% (p = 0.1) and 22 ± 9.9% (p = 0.3), respectively (Figure 2B).
+
+Figure 2. APN expression in primary ileum epithelial cells in the presence of enterocytes differentiation
+factors
+spermidine,
+porcine
+insulin,
+Wnt agonist,
+or small
+intestinalofcontents.
+(A)
+Figure hydrocortisone,
+2. APN expression
+in primary
+ileum
+epithelial
+cells in
+the presence
+enterocytes
+Immunofluorescence
+of APN expression
+(green)
+in enterocytes
+withagonist,
+differentortreatments.
+Scale
+differentiation factorsstaining
+hydrocortisone,
+spermidine,
+porcine
+insulin, Wnt
+small intestinal
+bar:
+50 µm.
+The percentage of staining
+cells expressing
+APN at 24 (green)
+h of treatment.
+Data are
+contents.
+(A) (B)
+Immunofluorescence
+of APN expression
+in enterocytes
+withexpressed
+different
+as
+mean
+±
+SD
+of
+the
+results
+of
+three
+separate
+experiments.
+Statistically
+significant
+differences
+in
+treatments. Scale bar: 50 µm. (B) The percentage of cells expressing APN at 24 h of treatment.
+Data
+comparison
+with
+from
+mock
+treatment
+as *p <experiments.
+0.05.
+are expressed
+as data
+mean
+± SD
+of the
+resultsare
+of presented
+three separate
+Statistically significant
+
+differences in comparison with data from mock treatment are presented as *p < 0.05.
+
+3.3. Treatment With Differentiation Factors (Hydrocortisone, Spermidine, Porcine Insulin, Wnt Agonist, or
+Small Intestinal Contents) Promotes PEDV and TGEV Infections
+3.3. Treatment With Differentiation Factors (Hydrocortisone, Spermidine, Porcine Insulin, Wnt Agonist, or
+determine
+the effect
+of APNPEDV
+on coronavirus
+SmallTo
+Intestinal
+Contents)
+Promotes
+and TGEV replication,
+Infections the enterocytes were precultured with
+1µg/mL hydrocortisone, 50 µM spermidine, 1 µg/mL insulin, 0.1 µM Wnt agonist, or 1% intestinal
+To determine
+thetoeffect
+of APNwith
+on coronavirus
+thestrain,
+enterocytes
+contents
+for 24 h prior
+inoculation
+PEDV CV777replication,
+Vero adapted
+CV777were
+fecal precultured
+suspension,
+with
+1µg/mL
+hydrocortisone,
+50
+µM
+spermidine,
+1
+µg/mL
+insulin,
+0.1
+µM
+Wnt
+agonist,
+1%
+and TGEV Miller. For PEDV CV777 Vero adapted strain, only 30 ± 11 cells were infected perorwell
+intestinal
+contents for The
+24 hhighest
+prior toinfection
+inoculation
+PEDV CV777
+Vero
+adapted
+strain, CV777
+without
+pretreatment.
+(169 with
+± 81 infected
+cells per
+well)
+was observed
+in cellsfecal
+that
+suspension,
+and
+TGEV
+Miller.
+For
+PEDV
+CV777
+Vero
+adapted
+strain,
+only
+30
+±
+11
+cells
+were
+infected
+were pretreated with intestinal contents. Because of the variation between the three replicates,
+the
+per
+well
+without
+pretreatment.
+The
+highest
+infection
+(169
+±
+81
+infected
+cells
+per
+well)
+was
+observed
+treatment with intestinal contents was not significantly different from the mock treatment (p = 0.09).
+in cellscells
+thatwere
+were
+pretreated
+with
+Because
+of of
+the
+variation
+the three
+When
+pretreated
+with
+Wntintestinal
+agonist, acontents.
+significant
+increase
+infection
+(87between
+± 23 infected
+cells
+replicates,
+the
+treatment
+with
+intestinal
+contents
+was
+not
+significantly
+different
+from
+the
+per well) was observed (p = 0.018). An increased trend of infection (but not significantly different)mock
+was
+treatment
+(p
+=
+0.09).
+When
+cells
+were
+pretreated
+with
+Wnt
+agonist,
+a
+significant
+increase
+of
+infection
+observed after pretreatment with hydrocortisone (42 ± 34 infected cells per well, (p = 0.6), spermidine
+(87 ± 23 infected cells per well) was observed (p = 0.018). An increased trend of infection (but not
+significantly different) was observed after pretreatment with hydrocortisone (42 ± 34 infected cells
+per well, (p = 0.6), spermidine (50 ± 6 infected cells per well, p = 0.052), and porcine insulin (46 ±27
+infected cells per well, p = 0.4). For CV777 fecal suspension, the highest infection was observed when
+
+Viruses 2020, 12, 402
+
+8 of 18
+
+(50 ± 6 infected cells per well, p = 0.052), and porcine insulin (46 ±27 infected cells per well, p = 0.4).
+8 of 18
+For CV777 fecal suspension, the highest infection was observed when cells were pretreated with
+the Wnt agonist (12 ± 7 infected cells per well), showing a four-fold higher infection compared to
+cells were pretreated with the Wnt agonist (12 ± 7 infected cells per well), showing a four-fold higher
+mock-treated cells (3 ± 4 infected cells per well). When cells were pretreated with intestinal contents,
+infection compared to mock-treated cells (3 ± 4 infected cells per well). When cells were pretreated
+9 ± 6 cells were infected. For TGEV Miller, incubation with intestinal contents, porcine insulin, and
+with intestinal contents, 9 ± 6 cells were infected. For TGEV Miller, incubation with intestinal
+Wnt agonist significantly increased the virus infection from 1.0 ± 0.3% to 3.6 ± 0.9%, 3.2 ± 0.9% and
+contents, porcine insulin, and Wnt agonist significantly increased the virus infection from 1.0 ± 0.3%
+3.0 ± 0.5%, respectively. Hydrocortisone and spermidine increased the virus infection to 2.7 ± 0.5% and
+to 3.6 ± 0.9%, 3.2 ± 0.9% and 3.0 ± 0.5%, respectively. Hydrocortisone and spermidine increased the
+2.5 ± 0.6% (Figure 3). The results show that pretreatment of primary enterocytes with hydrocortisone,
+virus infection to 2.7 ± 0.5% and 2.5 ± 0.6% (Figure 3). The results show that pretreatment of primary
+spermidine, porcine insulin, Wnt agonist, and intestinal contents could stimulate the expression of
+enterocytes with hydrocortisone, spermidine, porcine insulin, Wnt agonist, and intestinal contents
+APN and enhance the infection of PEDV CV777 Vero adapted and non-adapted strains and the TGEV
+could stimulate the expression of APN and enhance the infection of PEDV CV777 Vero adapted and
+Miller in the enterocytes.
+non-adapted strains and the TGEV Miller in the enterocytes.
+Viruses 2020, 12, 402
+
+Figure 3. Infectivity of enterocytes to PEDV and TGEV after 24 h treatment with hydrocortisone,
+spermidine,
+porcine insulin,
+Wnt agonist,
+or small
+contents.
+Enterocytes
+were
+cultured with
+Figure
+3. Infectivity
+of enterocytes
+to PEDV
+and intestinal
+TGEV after
+24 h treatment
+with
+hydrocortisone,
+hydrocortisone,
+spermidine,
+insulin,
+agonist
+or small
+intestinal
+contents.were
+Twenty-four
+spermidine,
+porcine
+insulin,porcine
+Wnt agonist,
+orWnt
+small
+intestinal
+contents.
+Enterocytes
+culturedhours
+with
+post cultivation, spermidine,
+cells were inoculated
+with PEDV
+TGEV.
+The level
+of infection
+was Twenty-four
+measured as
+hydrocortisone,
+porcine insulin,
+Wnt and
+agonist
+or small
+intestinal
+contents.
+numberpost
+of infected
+cells per
+well
+(PEDV)
+or percentage
+of infected
+(TGEV)
+immunofluorescence.
+hours
+cultivation,
+cells
+were
+inoculated
+with PEDV
+and cells
+TGEV.
+The by
+level
+of infection was
+Data
+are
+expressed
+as
+mean
+±
+SD
+of
+the
+results
+of
+three
+separate
+experiments.
+Statistically
+significant
+measured as number of infected cells per well (PEDV) or percentage of infected cells (TGEV)
+by
+differences
+in
+comparison
+with
+data
+from
+mock
+treatment
+are
+presented
+as
+*p
+<
+0.05
+or
+**p
+<
+0.01.
+immunofluorescence. Data are expressed as mean ± SD of the results of three separate experiments.
+
+Statistically significant differences in comparison with data from mock treatment are presented as
+*p < 0.05 or **p < 0.01.
+
+3.4. PEDV and TGEV Infect Both APN Positive and Negative Enterocytes
+
+To assess the role of APN in the replication of PEDV and TGEV, a double immunofluorescence
+3.4.
+PEDVofand
+TGEV
+Positive For
+and CV777
+NegativeVero
+Enterocytes
+staining
+APN
+andInfect
+virusBoth
+wasAPN
+performed.
+adapted strain, 0.040 ± 0.002% of APN
+positive
+cells
+and
+0.020
+±
+0.006%
+of
+APN
+negative
+cells
+were
+For CV777
+fecal suspension,
+To assess the role of APN in the replication of PEDV and infected.
+TGEV, a double
+immunofluorescence
+0.02 ± 0.02%
+of APN
+cells
+and 0.003 For
+± 0.001%
+APNadapted
+negativestrain,
+cells were
+For
+staining
+of APN
+and positive
+virus was
+performed.
+CV777ofVero
+0.040infected.
+± 0.002%
+ofTGEV
+APN
+Miller,
+4.0
+±
+2.6%
+of
+APN
+positive
+cells
+and
+1.1
+±
+0
+3%
+of
+APN
+negative
+cells
+were
+infected.
+For
+positive cells and 0.020 ± 0.006% of APN negative cells were infected. For CV777 fecal suspension,
+TGEV
+Purdue,
+morepositive
+infection
+was
+found
+negative
+(3.5 ±
+0.6%)
+than
+in APN
+positive
+0.02
+± 0.02%
+of APN
+cells
+and
+0.003in± APN
+0.001%
+of APNcells
+negative
+cells
+were
+infected.
+For
+TGEV
+cells
+(2.0
+±
+1.2%;
+Figure
+4).
+The
+results
+suggest
+that
+for
+PEDV
+and
+TGEV
+Miller,
+APN
+may
+be the
+Miller, 4.0 ± 2.6% of APN positive cells and 1.1 ± 0 3% of APN negative cells were infected. For TGEV
+predominant
+receptor,
+while
+TGEV
+Purdue
+mainly
+uses
+an
+additional
+receptor
+for
+virus
+infection.
+Purdue, more infection was found in APN negative cells (3.5 ± 0.6%) than in APN positive cells (2.0
+± 1.2%; Figure 4). The results suggest that for PEDV and TGEV Miller, APN may be the predominant
+receptor, while TGEV Purdue mainly uses an additional receptor for virus infection.
+
+Viruses 2020, 12, 402
+Viruses 2020, 12, 402
+
+9 of 18
+9 of 18
+
+Figure 4.4. Infection
+PEDV and
+and TGEV.
+TGEV. (A)
+(A) Double
+Double
+Figure
+Infection of
+of APN
+APN positive/negative
+positive/negative enterocytes
+enterocytes with
+with PEDV
+immunofluorescencestaining
+stainingofof
+APN
+(green)
+and
+PEDV/TGEV
+(red)
+in primary
+enterocytes.
+immunofluorescence
+APN
+(green)
+and
+PEDV/TGEV
+(red)
+in primary
+enterocytes.
+ScaleScale
+bar:
+bar:
+25 (B)
+µm.Percentage
+(B) Percentage
+of infected
+cells within
+the population
+of positive
+APN positive
+and negative
+cells.
+25
+µm.
+of infected
+cells within
+the population
+of APN
+and negative
+cells. Data
+Data
+are expressed
+as the± SD
+mean
+± SD
+of the
+results
+of three
+separate experiments.
+are
+expressed
+as the mean
+of the
+results
+of three
+separate
+experiments.
+Statistically Statistically
+significant
+significant between
+differences
+between
+APN
+and APN
+negative
+cells are
+differences
+APN
+positive
+andpositive
+APN negative
+cells
+are presented
+aspresented
+**p < 0.01.as **p < 0.01.
+
+Viruses 2020, 12, 402
+Viruses 2020, 12, 402
+
+10 of 18
+10 of 18
+
+3.5. Effect of NA Treatment of Enterocytes and TGEV on Virus Replication
+To assess
+the role ofofSAs
+as receptor
+determinants,
+3.5. Effect
+of NA Treatment
+Enterocytes
+and TGEV
+on Virusenterocytes
+Replication were pretreated with 50 mU/mL
+NA prior to inoculation with TGEV Miller and Purdue. Miller infected 1.0 ± 0.5% of the NA-treated
+To assess the role of SAs as receptor determinants, enterocytes were pretreated with 50 mU/mL
+enterocytes and 1.4 ± 0.4% of mock-treated cells. For Purdue, the percentage of infection was 2.3 ±
+NA prior to inoculation with TGEV Miller and Purdue. Miller infected 1.0 ± 0.5% of the NA-treated
+1.1% and 2.3 ± 0.9% for NA-treated and mock-treated cells, respectively. This implies that TGEV does
+enterocytes and 1.4 ± 0.4% of mock-treated cells. For Purdue, the percentage of infection was 2.3 ± 1.1%
+not depend on terminal SA residues on the enterocytes surface for infection. Since it has been reported
+and 2.3 ± 0.9% for NA-treated and mock-treated cells, respectively. This implies that TGEV does not
+that removal of SAs on the surface of coronaviruses improves binding and infection [21], the
+depend on terminal SA residues on the enterocytes surface for infection. Since it has been reported that
+replication of mock-treated, and NA-treated viruses was compared in untreated epithelial cells. NA
+removal of SAs on the surface of coronaviruses improves binding and infection [21], the replication of
+pretreatment of virus significantly enhanced infection from 1.4 ± 0.4% to 2.9 ± 0.5% for Miller. For
+mock-treated, and NA-treated viruses was compared in untreated epithelial cells. NA pretreatment
+Purdue, NA pretreatment of virus significantly increased infection from 2.3 ± 1.1% to 7.9 ± 2.1%
+of virus significantly enhanced infection from 1.4 ± 0.4% to 2.9 ± 0.5% for Miller. For Purdue, NA
+(Figure 5). These data show that removal of SA from TGEV promotes binding and replication of
+pretreatment of virus significantly increased infection from 2.3 ± 1.1% to 7.9 ± 2.1% (Figure 5). These
+TGEV in enterocytes.
+data show that removal of SA from TGEV promotes binding and replication of TGEV in enterocytes.
+
+Figure 5. Effect of neuraminidase N (NA) treatment of enterocytes or virus on the infection of TGEV
+Miller and Purdue in enterocytes. The percentage of infection was evaluated 24 h post inoculation.
+Data
+are expressed
+mean ± SD of N
+the(NA)
+results
+of threeofseparate
+experiments.
+Statistically
+significant
+Figure
+5. Effect ofasneuraminidase
+treatment
+enterocytes
+or virus on
+the infection
+of TGEV
+differences
+in Purdue
+comparison
+with data from
+mock treatment
+are presented
+as *p < 0.05.
+Miller and
+in enterocytes.
+The percentage
+of infection
+was evaluated
+24 h post inoculation.
+
+Data are expressed as mean ± SD of the results of three separate experiments. Statistically significant
+differences in comparison with data from mock treatment are presented as *p < 0.05.
+
+3.6. TGEV Infects Both SA Positive and Negative Enterocytes
+
+Double immunofluorescence staining was further performed to assess the role of SA on TGEV
+3.6. TGEV Infects
+SA Positive
+and Negative
+Enterocytes
+replication.
+TGEVBoth
+Miller
+could infect
+both SA
+positive cells (1.7 ± 0.3%) and SA negative cells
+(1.7 ± 0.2%). The TGEV Purdue replicated slightly better in SAs negative cells (4.5 ± 0.3%) compared
+Double immunofluorescence staining was further performed to assess the role of SA on TGEV
+to SAs positive cells (3.2 ± 0.8%; Figure 6).
+replication. TGEV Miller could infect both SA positive cells (1.7 ± 0.3%) and SA negative cells (1.7 ±
+0.2%). The TGEV Purdue replicated slightly better in SAs negative cells (4.5 ± 0.3%) compared to SAs
+positive cells (3.2 ± 0.8%; Figure 6).
+
+Viruses 2020, 12, 402
+Viruses 2020, 12, 402
+
+11 of 18
+11 of 18
+
+Figure 6. Infection of TGEV in sialic acid positive/negative enterocytes. (A) Double immunofluorescence
+Figure 6. Infection of TGEV in sialic acid positive/negative enterocytes. (A) Double
+staining of TGEV in primary enterocytes. Scale bar: 25 µm. (B) The percentage of infection among
+immunofluorescence staining of TGEV in primary enterocytes. Scale bar: 25 µm. (B) The percentage
+sialic acid positive and negative cells. Data are expressed as the mean ± SD of the results of three
+of infection among sialic acid positive and negative cells. Data are expressed as the mean ± SD of the
+separate experiments.
+results of three separate experiments.
+
+3.7. TGEV binds to APN Positive/Negative and SA Positive/Negative Enterocytes
+3.7. TGEV binds to APN Positive/Negative and SA Positive/Negative Enterocytes
+Primary enterocytes were inoculated with TGEV particles (m.o.i. = 10) at 4 ◦ C. The binding of TGEV
+Primary
+enterocytesand
+were
+with TGEV
+particles
+(m.o.i.
+10) at immunofluorescence
+4 °C. The binding of
+to APN
+positive/negative
+SAsinoculated
+positive/negative
+cells was
+examined
+by=double
+TGEV toNoAPN
+positive/negative
+andobserved
+SAs positive/negative
+cells was
+examined
+double
+staining.
+significant
+differences were
+between the percentage
+of APN
+positiveby
+cells
+with
+immunofluorescence
+staining.
+No
+significant
+differences
+were
+observed
+between
+the
+percentage
+of
+bound TGEV Miller (2.3 ± 0.7%) and the percentage of APN negative cells with bound TGEV Miller
+APN
+positive
+cells
+with
+bound
+TGEV
+Miller
+(2.3
+±
+0.7%)
+and
+the
+percentage
+of
+APN
+negative
+cells
+(1.9 ± 0.2%; p = 0.49). The percentage of APN positive cells with bound TGEV Purdue (1.5 ± 0.7%)
+withlower
+bound
+TGEV
+Miller (1.9of± APN
+0.2%;negative
+p = 0.49).
+Thewith
+percentage
+of APN
+positive
+cells
+with
+bound
+was
+than
+the percentage
+cells
+bound TGEV
+Purdue
+(3.9 ±
+0.7%),
+but
+was
+TGEV
+Purdue
+(1.5
+±
+0.7%)
+was
+lower
+than
+the
+percentage
+of
+APN
+negative
+cells
+with
+bound
+not significantly different (p = 0.07). The percentage of Miller particles that colocalized with TGEV
+APN
+Purdue
+(3.9was
+± 0.7%),
+but was higher
+not significantly
+different (p =particles
+0.07). The
+of Miller
+particles
+(65
+± 11%)
+significantly
+than non-colocalized
+(35percentage
+± 11%). The
+percentage
+of
+that
+colocalized
+with
+APN
+(65
+±
+11%)
+was
+significantly
+higher
+than
+non-colocalized
+particles
+(35
+Purdue particles that colocalized with APN (33 ± 2%) was significantly lower than non-colocalized±
+11%). The
+of Purdue
+particles that colocalized with APN (33 ± 2%) was significantly lower
+particles
+(67percentage
+± 2%; Figure
+7).
+than non-colocalized particles (67 ± 2%; Figure 7).
+The percentage of SA negative cells with bound TGEV Miller (4.3 ± 0.3%) and with bound TGEV
+Purdue (5.0 ± 0.9%) was significantly higher than the percentage of SA positive cells with bound
+TGEV Miller (0.9 ± 0.4%) and with bound TGEV Purdue (2.1 ± 0.3%). The percentage of TGEV Miller
+particles (29 ± 13%) and TGEV Purdue (32 ± 12%) that colocalized with SA was significantly lower
+than the particles that did not colocalize, with Miller at 71 ± 13% and Purdue at 68 ± 12% (Figure 8).
+
+Viruses 2020, 12, 402
+Viruses 2020, 12, 402
+
+12 of 18
+12 of 18
+
+Figure 7. TGEV binds to APN positive/negative enterocytes. Primary enterocytes were inoculated at
+4 ◦Figure
+C with7.TGEV
+= 10). (A) Doubleenterocytes.
+immunofluorescence
+staining ofwere
+TGEV
+particles at
+TGEVparticles
+binds to(m.o.i.
+APN positive/negative
+Primary enterocytes
+inoculated
+bound
+APN
+positive/negative
+cells.
+Scale
+bar:
+10 µm.
+(B) The percentage of
+cells with
+boundparticles
+virus
+4 °C to
+with
+TGEV
+particles (m.o.i.
+= 10).
+(A)
+Double
+immunofluorescence
+staining
+of TGEV
+particles
+panel).
+The percentage
+of APN
+particles
+wasof
+counted
+based
+on five
+bound (left
+to APN
+positive/negative
+cells.
+Scalecolocalized
+bar: 10 µm.TGEV
+(B) The
+percentage
+cells with
+bound
+virus
+random
+fields
+(right
+panel).
+Data
+are
+expressed
+as
+the
+mean
+±
+SD
+of
+the
+results
+of
+three
+separate
+particles (left panel). The percentage of APN colocalized TGEV particles was counted based on five
+experiments.
+Statistically
+significant
+are indicated
+as *p± <SD
+0.05
+< 0.001.
+random fields
+(right panel).
+Data differences
+are expressed
+as the mean
+of and
+the ***p
+results
+of three separate
+
+experiments. Statistically significant differences are indicated as *p < 0.05 and ***p < 0.001.
+
+The percentage of SA negative cells with bound TGEV Miller (4.3 ± 0.3%) and with bound TGEV
+Purdue (5.0 ± 0.9%) was significantly higher than the percentage of SA positive cells with bound
+TGEV Miller (0.9 ± 0.4%) and with bound TGEV Purdue (2.1 ± 0.3%). The percentage of TGEV Miller
+particles (29 ± 13%) and TGEV Purdue (32 ± 12%) that colocalized with SA was significantly lower
+than the particles that did not colocalize, with Miller at 71 ± 13% and Purdue at 68 ± 12% (Figure 8).
+
+Viruses 2020, 12, 402
+Viruses 2020, 12, 402
+
+13 of 18
+13 of 18
+
+Figure 8. TGEV binds to sialic acid (SA) positive/negative enterocytes. Primary enterocytes were
+inoculated at 4 ◦ C with TGEV particles (m.o.i. = 10). (A) Double immunofluorescence staining of TGEV
+Figure 8. TGEV binds to sialic acid (SA) positive/negative enterocytes. Primary enterocytes were
+particles bound to SA positive/negative cells. Scale bar: 10 µm. (B) The percentage of cells with bound
+inoculated at 4 °C with TGEV particles (m.o.i. = 10). (A) Double immunofluorescence staining of
+virus particles (left panel). The percentage of SA colocalized TGEV particles was counted based on
+TGEV particles bound to SA positive/negative cells. Scale bar: 10 µm. (B) The percentage of cells with
+five random fields (right panel). Data are expressed as the mean ± SD of the results of three separate
+bound virus particles (left panel). The percentage of SA colocalized TGEV particles was counted based
+experiments. Statistically significant differences are indicated as *p < 0.05.
+on five random fields (right panel). Data are expressed as the mean ± SD of the results of three separate
+experiments. Statistically significant differences are indicated as *p < 0.05.
+4. Discussion
+
+Porcine epithelial cells of the small intestines are the target cells for PEDV and TGEV in vivo.
+4. Discussion
+These cells show a high surface expression of APN, and APN has been reported to be the cellular
+Porcine
+epithelial
+cells of[7,9].
+the small
+intestines
+thewith
+target
+cells for PEDV
+TGEV inwere
+vivo.
+receptor
+for PEDV
+and TGEV
+However,
+Veroare
+cells
+undetectable
+APNand
+expression
+These
+cells
+show
+a
+high
+surface
+expression
+of
+APN,
+and
+APN
+has
+been
+reported
+to
+be
+the
+cellular
+historically used for PEDV propagation questioning the role of APN as a cellular receptor for PEDV [22].
+foroverexpression
+PEDV and TGEV
+[7,9]. However,
+Vero cells withcells
+undetectable
+APN expression
+were
+Inreceptor
+addition,
+of porcine
+APN in non-susceptible
+did not robustly
+support PEDV
+historically
+used
+for
+PEDV
+propagation
+questioning
+the
+role
+of
+APN
+as
+a
+cellular
+receptor
+for
+PEDV
+infection, and knock-out of APN in susceptible cells did not abrogate PEDV infection [13]. The present
+[22]. was
+In addition,
+overexpression
+of role
+porcine
+APN
+non-susceptible
+cells did
+support
+study
+performed
+to determine the
+of APN
+in in
+PEDV
+and TGEV infection
+innot
+theirrobustly
+target primary
+PEDV enterocytes.
+infection, and
+ofaAPN
+in infection
+susceptible
+cells did
+not
+abrogate
+PEDV infection
+The
+porcine
+Weknock-out
+found that
+higher
+of PEDV
+and
+TGEV
+was correlated
+with a[13].
+higher
+present
+study
+was
+performed
+to
+determine
+the
+role
+of
+APN
+in
+PEDV
+and
+TGEV
+infection
+in
+their
+APN expression. However, both PEDV and TGEV did not only infect APN positive enterocytes, but
+target primary porcine enterocytes. We found that a higher infection of PEDV and TGEV was
+correlated with a higher APN expression. However, both PEDV and TGEV did not only infect APN
+
+Viruses 2020, 12, 402
+
+14 of 18
+
+also APN negative cells. Our results demonstrated that PEDV and TGEV may use another additional
+unknown receptor for entry in primary enterocytes.
+The epithelium of the small intestines is continuously and rapidly renewed in a process involving
+cell generation and migration from the multi-potent stem cells in the crypts to the differentiated cells at
+the tips of the villi within 2–3 days. In our study, after three days cultivation, the primary enterocytes
+were positive for sucrase and iso-maltase, which are considered as differentiation markers for epithelial
+cells [19]. However, the expression of aminopeptidase N was only around 11%, indicating that the
+primary enterocytes are not fully mature at three days cultivation. Therefore, we analyzed APN
+expression in enterocytes at a later time point (seven days cultivation). A significantly higher expression
+of APN was detected at seven days cultivation compared to three days cultivation. Interestingly, the
+seven-day-cultured enterocytes with a higher APN expression showed significantly higher infection
+to TGEV than that of enterocytes cultured for three days. This agrees with the fact that the virus
+mainly infects and destroys mature enterocytes lining the villi of small intestines [23]. However, the
+infection efficiency of PEDV in intestinal epithelial cells was still low, indicating that other factors than
+APN need to be considered for PEDV infection. Therefore, several positive enterocyte differentiation
+factors were tested. Hydrocortisone plays an important role in the metabolism of proteins, lipids, and
+carbohydrates, and is a known promoter for differentiation of cultured cells. Hydrocortisone was found
+to be a critical factor for the differentiation of skeletal muscle, osteoblasts, and endothelial cells [24].
+Sorrell and colleagues demonstrated that hydrocortisone significantly upregulated the expression of
+APN in human dermal fibroblasts [25]. Besides, Wnt signaling is required for the formation of normal
+crypt-villus units of intestines, and stimulates the differentiation of intestinal secretory epithelial
+cells [26]. Activated Wnt signaling has also been shown to promote mesenchymal differentiation [27].
+The original rationale for including intestinal contents in our primary cell cultures was trying to mimic
+the in vivo situation in the intestinal tract. Intestinal contents contain a large number of enzymes, such
+as: Amylase, which digests carbohydrates to monosaccharides; pancreatic enzymes, which digest
+proteins into amino acids; and lipase which digests fats. It has been demonstrated that intestinal
+contents play an important role in virus infection. The proteases (trypsin) in the intestinal contents
+activate rotavirus infection by cleaving the outer capsid protein VP4 [28]. The propagation of porcine
+enteric calicivirus (PEC) on a cell line critically relies on the presence of intestinal contents in the
+culture medium [29]. Chang et al. demonstrated that the bile salts in intestinal contents are essential
+for growth of PEC by inducing the protein kinase A (PKA) signaling pathway [30]. In our study, the
+intestinal contents collected from the upper duodenum promoted the expression of APN and enhanced
+the infection of both TGEV and PEDV, especially the CV777 Vero adapted strain. Further investigation
+is needed to determine which growth-promoting factor in the intestinal contents is responsible for the
+increase of coronavirus infection.
+To date, coronaviruses use four different proteins as cellular receptors. Mouse hepatitis virus
+(MHV) initiates the infection by binding to the carcinoembryonic cell adhesion molecule 1 on hepatocyte
+membranes and intestinal brush border membranes [31]. Next, APN was found to act as a receptor
+for porcine, feline, canine, and human coronaviruses [6]. The receptors for the highly pathogenic
+human respiratory viruses SARS-CoV type 1 and type 2 as well as Middle East respiratory syndrome
+coronavirus are angiotensin-converting enzyme 2 (ACE2) and dipeptidyl peptidase 4 (DPP 4) [32,33].
+Cong and colleagues proved that the porcine small intestine epithelial cell line was more susceptible to
+PEDV when a high expression level of APN was present, and that interference with APN expression
+in epithelial cells inhibited PEDV infection, demonstrating that APN serves as an essential receptor
+for PEDV [12]. In addition, a transgenic mouse model expressing porcine APN was proven to be
+susceptible to PEDV, which confirmed that APN plays a role as the cellular receptor for PEDV [34]. In
+our study, we found that the higher infection of PEDV in enterocytes is correlated with higher APN
+expression. Both aged enterocytes and enterocytes treated with differentiation factors expressed more
+APN and were more susceptible to PEDV, which indicates that APN may play role in PEDV infection
+in enterocytes. Moreover, we found that the APN was expressed at the apical surface of enterocytes
+
+Viruses 2020, 12, 402
+
+15 of 18
+
+and PEDV infected 40 times more enterocytes at the apical surface than at the basolateral surface
+(supplementary Figure S1). These results were in agreement with the previous finding that PEDV
+enters polarized cells via the apical membrane [12]. Our results indicate that APN facilitates the entry
+of PEDV into primary enterocytes. Shirato and colleagues indicated that APN may promote PEDV
+replication in porcine kidney cell line, CPK cells via its protease activity [14]. How APN facilitates
+PEDV infection in enterocytes should be further investigated. However, due to the fact that other
+molecules besides APN will also be expressed at the apical plasma membrane during differentiation,
+they may also contribute to the higher susceptibility of differentiated enterocytes. Recently, increasingly
+more data has been published that show that APN is not a cellular receptor for PEDV. Overexpression
+of APN in non-susceptible cells did not confer susceptibility of the cells to PEDV and knocking out
+APN in susceptible cells did not abrogate PEDV infection, which indicates that APN is not required
+as a cellular receptor for PEDV in vitro [13,14,22]. Furthermore, APN knockout pigs retained their
+susceptibility to PEDV confirming that PEDV may use another additional receptor in pigs [35]. In
+agreement with these findings, we found that PEDV can infect APN negative primary enterocytes,
+which further confirmed that a cellular receptor different from APN exists in enterocytes for PEDV
+replication. The primary enterocytes isolated and cultured in our study are not 100% positive for
+APN, as we not only get the villi epithelial cells, but also the crypt epithelial cells during our isolation
+procedure. By immunofluorescence staining of ileum tissue of a three-day-old piglet, we observed
+that the villi epithelial cells are APN positive, while the crypt epithelial cells are APN negative (data
+not shown). As PEDV has been shown to infect goblet cells and crypt stem cells in addition to villous
+mature enterocytes [36], we believe that PEDV may also use another cellular receptor besides APN
+to infect intestinal cells. Taken together, our results indicate that although APN could significantly
+promote PEDV infection in enterocytes, an additional cellular receptor exists in enterocytes for PEDV
+replication. Since ACE2 is expressed in the gut epithelial cells, it will be tested in the near future if it
+can function as a PEDV receptor.
+In addition to PEDV, APN has been identified as a major cellular receptor for TGEV. In the present
+study, it was shown that a higher expression of APN significantly increased the replication of TGEV in
+enterocytes, indicating that APN plays an important role as a cellular receptor for TGEV. Whitworth
+and colleagues demonstrated that APN knockout pigs were resistant to TGEV infection, indicating
+that APN is the sole functional receptor for TGEV [35]. However, we found that except APN positive
+enterocytes, TGEV could also infect APN negative enterocytes, suggesting that an additional receptor
+also exists in enterocytes for TGEV. The result obtained in our in vitro experiment may not fully reflect
+the in vivo experiments, as the in vivo situation is composed of a complex set of cells and tissues. The
+Purdue strain used in our study has been passaged 114 times in primary kidney cells and a nucleotide
+mutation (T to G at nucleotide position 1753), which causes a serine (S) to alanine (A) at aa 585 [37,38].
+This mutation may be correlated with the cell adaptation and also it may result in a broader cell tropism
+of the adapted strain, which may explain that the virus is able to grow more efficiently in APN negative
+cells. Purdue has been proven to infect primary colon epithelial cells and porcine myofibroblasts, which
+are both negative for APN [19]. In vivo, TGEV shows a higher cell tropism to villous enterocytes of
+newborn piglets compared to older pigs and causes only high mortality in the early life of piglets. Since
+APN is present on enterocytes from both newborn and older pigs, the age-dependent susceptibility
+to TGEV infection may be caused by an additional receptor that is specifically present in newborn
+piglets. Taken together, we hypothesize that APN is the determinant cellular receptor for TGEV, but an
+additional receptor exists in young piglets. Apart from APN, TGEV also uses SA as an attachment
+mediator on the cells. Shahwan and colleagues have shown that NA treatment of jejunum epithelial
+cryosections did not reduce the TGEV Spike protein binding in vitro and were doubting on the role
+of SA during infection [39]. In our study, removal of SA from intestinal cells had no effect on TGEV
+infection, showing that terminal SA residues are not receptor determinants for TGEV. Removal of SA
+from TGEV virions significantly enhanced the viral infectivity in vitro. This indicates that SA on the
+virion surface masks the binding site of the viral protein to cellular receptors. Removal of SA from
+
+Viruses 2020, 12, 402
+
+16 of 18
+
+virions facilitates TGEV to bind to its functional receptor on the enterocyte membrane. To confirm the
+role of APN and SA in TGEV infection in primary enterocytes, a binding assay was performed in this
+study. The results demonstrated that both TGEV Miller and Purdue could bind to APN positive and
+SA positive cells. Meanwhile, Miller and Purdue could also bind to APN negative and SA negative
+enterocytes. Furthermore, our study showed that APN and SA double-negative enterocytes could be
+infected by TGEV Miller and Purdue (supplementary Figure S2), which suggests that besides APN and
+SA, TGEV can use another cellular receptor for the replication in enterocytes. Further investigation
+will focus on identifying this unknow receptor. A binding assay for PEDV could not be conducted due
+to the low titer of the virus stock.
+5. Conclusions
+Based on our previously established primary enterocyte co-culture system, which is very relevant
+for the in vivo situation, it was shown that a higher expression of APN on the enterocytes resulted in
+a higher infectivity of TGEV and PEDV. However, TGEV and PEDV could also infect APN negative
+enterocytes, indicating that an additional receptor exists in enterocytes besides APN. TGEV did not
+show binding activity on SAs on the surface of enterocytes. These new insights stimulate the search for
+unknown receptors for PEDV and TGEV, which can assist further research on antiviral intervention.
+Supplementary Materials: The following are available online at http://www.mdpi.com/1999-4915/12/4/402/s1,
+Supplementary Figure S1: Aminopeptidase N (APN) expression in the apical and the basolateral surfaces of
+enterocytes, Supplementary Figure S2: Immunofluorescence staining of transmissible gastroenteritis virus (TGEV)
+infection in both aminopeptidase N (APN) and sialic acid (SA) positive/negative enterocytes.
+Author Contributions: Conceptualization: T.C., S.T., and H.J.N.; Data curation: T.C. and S.T.; Formal analysis:
+H.J.N.; Investigation: T.C., J.X., and W.V.d.B.; Methodology: S.T. and H.J.N.; Resources: T.C. and H.J.N.; Writing
+original draft: T.C., S.T., and J.X.; Reviewing and editing of the manuscript: H.J.N. All authors have read and
+agreed to the published version of the manuscript.
+Funding: This research was funded by the China Scholarship Council (201406910003).
+Acknowledgments: We are grateful to E. Cox for supplying the antibody against APN. We also thanks L. Enjuanes
+for supplying the antibody against PEDV. Special thanks go to Marthe Pauwels for the excellent technical assistance.
+Conflicts of Interest: The authors declare no conflict of interest.
+
+References
+1.
+2.
+3.
+4.
+5.
+
+6.
+7.
+8.
+9.
+
+Gallagher, T.M.; Buchmeier, M.J. Coronavirus spike proteins in viral entry and pathogenesis. Virology 2001,
+279, 371–374. [CrossRef]
+Rottier, P.J. The coronavirus membrane glycoprotein. In The Coronaviridae; Springer: Berlin/Heidelberg,
+Germany, 1995; pp. 115–139.
+De Haan, C.A.; Smeets, M.; Vernooij, F.; Vennema, H.; Rottier, P.J. Mapping of the coronavirus membrane
+protein domains involved in interaction with the spike protein. J. Virol. 1999, 73, 7441–7452. [CrossRef]
+Ortego, J.; Ceriani, J.E.; Patino, C.; Plana, J.; Enjuanes, L. Absence of E protein arrests transmissible
+gastroenteritis coronavirus maturation in the secretory pathway. Virology 2007, 368, 296–308. [CrossRef]
+Nieto-Torres, J.L.; DeDiego, M.L.; Verdia-Baguena, C.; Jimenez-Guardeno, J.M.; Regla-Nava, J.A.;
+Fernandez-Delgado, R.; Castano-Rodriguez, C.; Alcaraz, A.; Torres, J.; Aguilella, V.M.; et al. Severe
+acute respiratory syndrome coronavirus envelope protein ion channel activity promotes virus fitness and
+pathogenesis. PLoS Pathog. 2014, 10, e1004077. [CrossRef]
+Tresnan, D.B.; Levis, R.; Holmes, K.V. Feline aminopeptidase N serves as a receptor for feline, canine, porcine,
+and human coronaviruses in serogroup I. J. Virol. 1996, 70, 8669–8674. [CrossRef]
+Delmas, B.; Gelfi, J.; L’Haridon, R.; Sjöström, H.; Laude, H. Aminopeptidase N is a major receptor for the
+enteropathogenic coronavirus TGEV. Nature 1992, 357, 417. [CrossRef]
+Oh, J.S.; Song, D.S.; Park, B.K. Identification of a putative cellular receptor 150 kDa polypeptide for porcine
+epidemic diarrhea virus in porcine enterocytes. J. Vet. Sci. 2003, 4, 269–275. [CrossRef]
+Li, B.; Ge, J.; Li, Y. Porcine aminopeptidase N is a functional receptor for the PEDV coronavirus. Virology
+2007, 365, 166–172. [CrossRef]
+
+Viruses 2020, 12, 402
+
+10.
+11.
+
+12.
+
+13.
+14.
+
+15.
+
+16.
+17.
+18.
+
+19.
+
+20.
+
+21.
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+27.
+28.
+
+17 of 18
+
+Yeager, C.L.; Ashmun, R.A.; Williams, R.K.; Cardellichio, C.B.; Shapiro, L.H.; Look, A.T.; Holmes, K.V.
+Human aminopeptidase N is a receptor for human coronavirus 229E. Nature 1992, 357, 420–422. [CrossRef]
+Delmas, B.; Gelfi, J.; Kut, E.; Sjostrom, H.; Noren, O.; Laude, H. Determinants Essential for the Transmissible
+Gastroenteritis Virus-Receptor Interaction Reside within a Domain of Aminopeptidase-N That Is Distinct
+from the Enzymatic Site. J. Virol. 1994, 68, 5216–5224. [CrossRef]
+Cong, Y.Y.; Li, X.X.; Bai, Y.Y.; Lv, X.N.; Herrler, G.; Enjuanes, L.; Zhou, X.D.; Qu, B.; Meng, F.D.; Cong, C.C.;
+et al. Porcine aminopeptidase N mediated polarized infection by porcine epidemic diarrhea virus in target
+cells. Virology 2015, 478, 1–8. [CrossRef] [PubMed]
+Li, W.; Luo, R.; He, Q.; van Kuppeveld, F.J.; Rottier, P.J.; Bosch, B.-J. Aminopeptidase N is not required for
+porcine epidemic diarrhea virus cell entry. Virus Res. 2017, 235, 6–13. [CrossRef] [PubMed]
+Shirato, K.; Maejima, M.; Islam, M.T.; Miyazaki, A.; Kawase, M.; Matsuyama, S.; Taguchi, F. Porcine
+aminopeptidase N is not a cellular receptor of porcine epidemic diarrhea virus, but promotes its infectivity
+via aminopeptidase activity. J. Gen. Virol. 2016, 97, 2528–2539. [CrossRef]
+Krempl, C.; Schultze, B.; Laude, H.; Herrler, G. Point mutations in the S protein connect the sialic acid
+binding activity with the enteropathogenicity of transmissible gastroenteritis coronavirus. J. Virol. 1997, 71,
+3285–3287. [CrossRef]
+Liu, C.; Tang, J.; Ma, Y.; Liang, X.; Yang, Y.; Peng, G.; Qi, Q.; Jiang, S.; Li, J.; Du, L. Receptor usage and cell
+entry of porcine epidemic diarrhea coronavirus. J. Virol. 2015, 89, 6121–6125. [CrossRef]
+Schwegmann-Weßels, C.; Herrler, G. Sialic acids as receptor determinants for coronaviruses. Glycoconj. J.
+2006, 23, 51–58. [CrossRef]
+Deng, F.; Ye, G.; Liu, Q.; Navid, M.; Zhong, X.; Li, Y.; Wan, C.; Xiao, S.; He, Q.; Fu, Z. Identification and
+comparison of receptor binding characteristics of the spike protein of two porcine epidemic diarrhea virus
+strains. Viruses 2016, 8, 55. [CrossRef]
+Cui, T.; Theuns, S.; Desmarets, L.M.; Xie, J.; De Gryse, G.M.; Yang, B.; Van den Broeck, W.; Nauwynck, H.J.
+Establishment of porcine enterocyte/myofibroblast co-cultures for the growth of porcine rota-and
+coronaviruses. Sci. Rep. 2018, 8, 15195. [CrossRef]
+Glorieux, S.; Van den Broeck, W.; van der Meulen, K.M.; Van Reeth, K.; Favoreel, H.W.; Nauwynck, H.J. In
+Vitro culture of porcine respiratory nasal mucosa explants for studying the interaction of porcine viruses
+with the respiratory tract. J. Virol. Methods 2007, 142, 105–112. [CrossRef]
+Desmarets, L.M.; Theuns, S.; Roukaerts, I.D.; Acar, D.D.; Nauwynck, H.J. Role of sialic acids in feline enteric
+coronavirus infections. J. Gen. Virol. 2014, 95, 1911–1918. [CrossRef]
+Ji, C.-M.; Wang, B.; Zhou, J.; Huang, Y.-W. Aminopeptidase-N-independent entry of porcine epidemic
+diarrhea virus into Vero or porcine small intestine epithelial cells. Virology 2018, 517, 16–23. [CrossRef]
+[PubMed]
+Thomas, J.T.; Chen, Q.; Gauger, P.C.; Giménez-Lirola, L.G.; Sinha, A.; Harmon, K.M.; Madson, D.M.;
+Burrough, E.R.; Magstadt, D.R.; Salzbrenner, H.M. Effect of porcine epidemic diarrhea virus infectious doses
+on infection outcomes in naive conventional neonatal and weaned pigs. PLoS ONE 2015, 10, e0139266.
+[CrossRef] [PubMed]
+Furihata, T.; Kawamatsu, S.; Ito, R.; Saito, K.; Suzuki, S.; Kishida, S.; Saito, Y.; Kamiichi, A.; Chiba, K.
+Hydrocortisone enhances the barrier properties of HBMEC/ciβ, a brain microvascular endothelial cell line,
+through mesenchymal-to-endothelial transition-like effects. Fluids Barriers CNS 2015, 12, 7. [CrossRef]
+[PubMed]
+Sorrell, J.M.; Brinon, L.; Baber, M.A.; Caplan, A.I. Cytokines and glucocorticoids differentially regulate
+APN/CD13 and DPPIV/CD26 enzyme activities in cultured human dermal fibroblasts. Arch. Dermatol. Res.
+2003, 295, 160–168. [CrossRef]
+Pinto, D.; Gregorieff, A.; Begthel, H.; Clevers, H. Canonical Wnt signals are essential for homeostasis of the
+intestinal epithelium. Genes Dev. 2003, 17, 1709–1713. [CrossRef]
+Etheridge, S.L.; Spencer, G.J.; Heath, D.J.; Genever, P.G. Expression profiling and functional analysis of wnt
+signaling mechanisms in mesenchymal stem cells. Stem Cells 2004, 22, 849–860. [CrossRef]
+Crawford, S.E.; Mukherjee, S.K.; Estes, M.K.; Lawton, J.A.; Shaw, A.L.; Ramig, R.F.; Prasad, B.V. Trypsin
+cleavage stabilizes the rotavirus VP4 spike. J. Virol. 2001, 75, 6052–6061. [CrossRef]
+
+Viruses 2020, 12, 402
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+18 of 18
+
+Chang, K.-O.; Kim, Y.; Green, K.Y.; Saif, L.J. Cell-culture propagation of porcine enteric calicivirus mediated
+by intestinal contents is dependent on the cyclic AMP signaling pathway. Virology 2002, 304, 302–310.
+[CrossRef]
+Chang, K.-O.; Sosnovtsev, S.V.; Belliot, G.; Kim, Y.; Saif, L.J.; Green, K.Y. Bile acids are essential for porcine
+enteric calicivirus replication in association with down-regulation of signal transducer and activator of
+transcription 1. Proc. Natl. Acad. Sci. USA 2004, 101, 8733–8738. [CrossRef]
+Williams, R.K.; Jiang, G.-S.; Holmes, K.V. Receptor for mouse hepatitis virus is a member of the
+carcinoembryonic antigen family of glycoproteins. Proc. Natl. Acad. Sci. USA 1991, 88, 5533–5536.
+[CrossRef]
+van Doremalen, N.; Miazgowicz, K.L.; Milne-Price, S.; Bushmaker, T.; Robertson, S.; Scott, D.; Kinne, J.;
+McLellan, J.S.; Zhu, J.; Munster, V.J. Host species restriction of Middle East respiratory syndrome coronavirus
+through its receptor, dipeptidyl peptidase 4. J. Virol. 2014, 88, 9220–9232. [CrossRef] [PubMed]
+Li, F.; Li, W.; Farzan, M.; Harrison, S.C. Structure of SARS coronavirus spike receptor-binding domain
+complexed with receptor. Science 2005, 309, 1864–1868. [CrossRef] [PubMed]
+Park, J.-E.; Park, E.-S.; Yu, J.-E.; Rho, J.; Paudel, S.; Hyun, B.-H.; Yang, D.-K.; Shin, H.-J. Development of
+transgenic mouse model expressing porcine aminopeptidase N and its susceptibility to porcine epidemic
+diarrhea virus. Virus Res. 2015, 197, 108–115. [CrossRef] [PubMed]
+Whitworth, K.M.; Rowland, R.R.; Petrovan, V.; Sheahan, M.; Cino-Ozuna, A.G.; Fang, Y.; Hesse, R.;
+Mileham, A.; Samuel, M.S.; Wells, K.D. Resistance to coronavirus infection in amino peptidase N-deficient
+pigs. Transgenic Res. 2019, 28, 21–32. [CrossRef]
+Jung, K.; Saif, L.J. Goblet cell depletion in small intestinal villous and crypt epithelium of conventional
+nursing and weaned pigs infected with porcine epidemic diarrhea virus. Res. Vet. Sci. 2017, 110, 12–15.
+[CrossRef]
+Callebaut, P.; Pensaert, M.; Hooyberghs, J. A competitive inhibition ELISA for the differentiation of serum
+antibodies from pigs infected with transmissible gastroenteritis virus (TGEV) or with the TGEV-related
+porcine respiratory coronavirus. Vet. Microbiol. 1989, 20, 9–19. [CrossRef]
+Zhang, X.; Hasoksuz, M.; Spiro, D.; Halpin, R.; Wang, S.; Stollar, S.; Janies, D.; Hadya, N.; Tang, Y.; Ghedin, E.
+Complete genomic sequences, a key residue in the spike protein and deletions in nonstructural protein 3b
+of US strains of the virulent and attenuated coronaviruses, transmissible gastroenteritis virus and porcine
+respiratory coronavirus. Virology 2007, 358, 424–435. [CrossRef]
+Shahwan, K.; Hesse, M.; Mork, A.-K.; Herrler, G.; Winter, C. Sialic acid binding properties of soluble
+coronavirus spike (S1) proteins: Differences between infectious bronchitis virus and transmissible
+gastroenteritis virus. Viruses 2013, 5, 1924–1933. [CrossRef]
+© 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+
+

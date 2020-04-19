@@ -1,0 +1,93 @@
+Habib et al. BMC Infectious Diseases
+(2019) 19:870
+https://doi.org/10.1186/s12879-019-4555-5
+
+RESEARCH ARTICLE
+
+Open Access
+
+Clinical outcomes among hospital patients
+with Middle East respiratory syndrome
+coronavirus (MERS-CoV) infection
+Abdulrahman Mohammed G. Habib1, Mohamed Abd Elghafour Ali1, Baha R. Zouaoui1, Mustafa Ahmed H. Taha1,
+Bassem Sahsah Mohammed2 and Nazmus Saquib1*
+
+
+Background: Mortality is high among patients with Middle East Respiratory Syndrome Coronavirus (MERS-CoV)
+infection. We aimed to determine hospital mortality and the factors associated with it in a cohort of MERS-CoV
+patients.
+Methods: We reviewed hospital records of confirmed cases (detection of virus by polymerase chain reaction from
+respiratory tract samples) of MERS-CoV patients (n = 63) admitted to Buraidah Central Hospital in Al-Qassim, Saudi
+Arabia between 2014 and 2017. We abstracted data on demography, vital signs, associated conditions presented on
+admission, pre-existing chronic diseases, treatment, and vital status. Bi-variate comparisons and multiple logistic
+regressions were the choice of data analyses.
+Results: The mean age was 60 years (SD = 18.2); most patients were male (74.6%) and Saudi citizens (81%). All but
+two patients were treated with Ribavirin plus Interferon. Hospital mortality was 25.4%. Patients who were admitted
+with septic shock and/or organ failure were significantly more likely to die than patients who were admitted with
+pneumonia and/or acute respiratory distress syndrome (OR = 47.9, 95% CI = 3.9, 585.5, p-value 0.002). Age, sex, and
+presence of chronic conditions were not significantly associated with mortality.
+Conclusion: Hospital mortality was 25%; septic shock/organ failure at admittance was a significant predictor of
+mortality.
+Keywords: Ribavirin, Interferon alpha, MERS-CoV, Mortality
+
+The Middle East Respiratory Syndrome Coronavirus
+(MERS-CoV) infection is a recent and fatal disease, detected first in Saudi Arabia, where the majority of cases
+have so far occurred. Subsequently, it spread through
+the Arabian Peninsula and into neighbouring Middle
+Eastern countries before it became a global concern,
+reaching as far as the Korean Peninsula. By February
+2018, its presence was detected in 27 countries worldwide, with 2144 recorded cases, out of which 750 resulted in death [1]. MERS-CoV is a contagious disease
+caused by C lineage of β-coronavirus. The infection can
+occur either through exposure with an infected animal
+or human [2]. Dromedary camels are believed to have
+been the carrier of MERS-CoV for decades as camels of
+the Middle Eastern region appear to be the only zoonotic host able to transmit infection to humans [3].
+There is evidence of super spreading of infection (i.e., a
+single patient infects a disproportionate number of contacts) in MERS-CoV, and therefore, healthcare workers
+who provide support to infected patients are particularly
+vulnerable [4]. The disease exhibits a wide range of presentations at diagnosis, e.g., from no symptoms to subtle
+signs of pneumonia to multi-organ failure, and has the
+capacity to progress rapidly to cause death [5, 6]. At
+present, there is no effective vaccine available to prevent
+this fatal infection [1].
+
+There have been both animal and human studies on
+treatment efficacy for MERS-CoV infection. A common
+form of treatment is antiviral drugs that target specific
+parts of the S protein in MERS-CoV. These are known
+as anti-MERS-CoV neutralizing monoclonal antibodies
+(mAbs), anti-dipeptidyl peptidase 4 (DPP4) mAbs, peptidic fusion inhibitors, siRNA, and others [7]. MERSCoV binds with DPP4, which is found on the surface of
+cells in the lungs and kidneys. Protein-targeting mAbs in
+mice were not reported to have given in vivo protection
+from MERS-CoV; nevertheless, mAbs variants, including
+mersmab1, 2E6 and 4C2, were found to prevent entry
+into DPP4 cells and effectively neutralise live MERSCoV infection in mice [8, 9]. DPP4 antagonists target
+the receptor-binding domain (RBD), competing with and
+inhibiting MERS-CoV infection. The DPP4 antagonists
+used in ferrets were found to be highly protective against
+MERS-CoV entry [10]. Multiple RBD-mAbs were found
+to elicit protective and therapeutic abilities against
+MERS-CoV infectivity in humanised DPP4 mice and
+other variants, as well as in rhesus monkeys [8, 11–13].
+The drugs that have been tested in humans included
+Interferon (alpha and beta), antiviral nucleoside analogues (Ribavirin), serine protease inhibitors (Camostat),
+immunosuppressant (cyclosporine, mycophenolate mofetil), monoclonal antibodies, and broad-spectrum antivirals (Nitazoxanide) [14]. In one study, multiple regimens
+were tested including mycophenolate mofetil, Interferon
+alpha and beta with or without ribavirin combination,
+and hydrocortisone [15]. Similarly, the efficacy of
+Interferon-beta with lopinavir-ritonavir has been the
+focus of an on-going clinical trial [16]. The most widely
+tested regimen, however, has been Ribavirin in combination with Interferon. This regimen has been found effective in reducing the virus replication ‘in vitro’ [17]. It
+has also modulated the host response and improved the
+clinical outcome in animal experiments [18].
+Clinical outcomes of MERS-Cov patients varied substantially among previous studies. For example, hospital
+mortality was as low as 4% in one study [19] but as high
+as 100% in another study [20]. In a majority of studies,
+the mortality ranged between 20 and 60% [6, 21–28].
+Small sample sizes (5, 14, 20, and 31) in some of the included studies likely contributed in the variation of the
+morality estimate [6, 20, 21, 29]. Additionally, the mortality rate was influenced by the patients’ demography
+(e.g., age), physical conditions at admission (e.g., fever,
+shock, organ failure etc.), pre-existing diseases such diabetes or hypertension, or choice of treatment [26, 30].
+We, therefore, present data of a larger clinical study
+(n = 63) of confirmed cases of MERS-CoV patients who
+were admitted to a referral hospital in the Al-Qassim region of Saudi Arabia between 2014 and 2017. 

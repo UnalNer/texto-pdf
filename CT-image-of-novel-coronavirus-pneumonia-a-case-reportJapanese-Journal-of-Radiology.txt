@@ -1,0 +1,64 @@
+﻿Japanese Journal of Radiology
+
+CT image of novel coronavirus pneumonia: a case report
+Xiangmin Zhang1,2 · Wei Song1,2 · Xingli Liu1,2 · Liang Lyu1,2
+Received: 14 February 2020 / Accepted: 2 March 2020
+
+Objective Knowledge of CT characteristics of COVID-19 pneumonia might be helpful to the early diagnosis and treatment
+of patients, and to control the spread of infection.
+Methods The chest CT images of the patient were collected to describe the CT manifestations and characteristics, and they
+were compared with the previous studies.
+Results Multiple patchy ground-glass opacities (GGOs) were seen in bilateral lung, mostly in subpleural areas. They progressed within 3 days, and nodular GGOs were also seen together with subpleural patchy GGOs.
+Conclusion Our case of COVID-19 pneumonia showed multiple subpleural GGOs in bilateral lung, rapid progression, and
+it also accompanied nodular GGOs on chest CT. These findings were consistent with the previous reports, and they might
+be useful for early detection and evaluation of severity of COVID-19 pneumonia.
+Keywords COVID-19 pneumonia · Ground-glass opacities · CT
+
+Department of Radiology, The First People’s Hospital
+of Yunnan Province, No. 157 Jinbi Road, Kunming 650032,
+Yunnan, China
+
+
+COVID-19 pneumonia is infected by seventh known
+coronaviruses, named 2019-nCoV. 2019-ncov is a kind of
+virus which has homologous recombination between bat
+coronavirus and unknown source coronavirus. Its recombination takes place in spike protein S, which can recognize
+cell surface receptors, and get into cells to proliferation
+by membrane fusion [3]. Fever is the main clinical symptom of COVID-19 pneumonia patients, followed by dry
+cough, muscle ache or fatigue. Besides these, headache,
+and hemoptysis and diarrhea may occur in some cases.
+The incubation is required in some patients, and it takes
+about 7–10 days, and the severe patients can progress to
+ARDS [4]. The clinical symptoms of COVID-19 pneumonia are the same as the common upper respiratory tract
+infection, but the chest CT has certain specificity [1, 2]. As
+medical evidence, CT diagnosis was written in “Diagnosis and Treatment of Pneumonia Infected by 2019-nCoV
+(trial implementation 5th Edition)” published by National
+Health Commission of the People’s Republic of China [5].
+However, it is difficult to distinguish COVID-19 pneumonia from other viral pneumonia on CT findings alone. It
+is still necessary to clear and definite the epidemiological history, and it should be diagnosed by real-time RTPCR. There is no specific drug for the treatment of NCP
+patients. Based on past experience in the treatment of
+SARS and MERS, some antiviral drugs such as Lopinavir
+
+Japanese Journal of Radiology
+Fig. 1  a Chest CT on admission
+shows multiple ground-glass
+opacities in bilateral lungs,
+mainly in the subpleural areas.
+b: CT image of 3 days later
+shows marked progression of
+multiple ground-glass opacities in subpleural areas. c, d
+High resolution CT images at
+the same period of a and b,
+respectively. They show nodular
+ground-glass opacities in the
+subpleural areas in upper lobe
+of left lung, and they significantly progressed within 3 days
+
+and Ritonavir may play a positive effect in the treatment of
+NCP patients, while the curative effect still needs further
+research [6].
+In conclusion, our case of COVID-19 pneumonia showed
+multiple subpleural GGOs in bilateral lung, rapid progression, and it also accompanied nodular GGOs on chest CT.
+These findings were consistent with the previous reports,
+and they might be useful for early detection and evaluation
+of severity of COVID-19 pneumonia.

@@ -1,0 +1,84 @@
+﻿
+BioScience Trends. 2020; 14(1):72-73.
+
+Letter
+
+DOI: 10.5582/bst.2020.01047
+
+Breakthrough: Chloroquine phosphate has shown apparent
+efficacy in treatment of COVID-19 associated pneumonia in
+clinical studies
+Jianjun Gao1,*, Zhenxue Tian2, Xu Yang2
+
+
+Department of Pharmacology, School of Pharmacy, Qingdao University, Qingdao, China;
+Department of Pharmacy, Qingdao Municipal Hospital, Qingdao, China.
+
+The coronavirus disease 2019 (COVID-19) virus is spreading rapidly, and scientists are endeavoring
+to discover drugs for its efficacious treatment in China. Chloroquine phosphate, an old drug for
+treatment of malaria, is shown to have apparent efficacy and acceptable safety against COVID-19
+associated pneumonia in multicenter clinical trials conducted in China. The drug is recommended
+to be included in the next version of the Guidelines for the Prevention, Diagnosis, and Treatment
+of Pneumonia Caused by COVID-19 issued by the National Health Commission of the People's
+Republic of China for treatment of COVID-19 infection in larger populations in the future.
+
+Keywords COVID-19, SARS-CoV-2, 2019-nCoV, pneumonia, chloroquine
+
+The coronavirus disease 2019 (COVID-19) virus,
+emerged in December 2019, has spread rapidly,
+with cases now confirmed in multiple countries. As
+of February 16, 2020, the virus has caused 70,548
+infections and 1,770 deaths in mainland China and 413
+infections in Japan (1). A great deal of effort has been
+made to find effective drugs against the virus in China (2).
+On February 17, 2020, the State Council of China held
+a news briefing indicating that chloroquine phosphate,
+an old drug for treatment of malaria, had demonstrated
+marked efficacy and acceptable safety in treating
+COVID-19 associated pneumonia in multicenter clinical
+trials conducted in China (3).
+In the early in vitro studies, chloroquine was found
+to block COVID-19 infection at low-micromolar
+concentration, with a half-maximal effective
+concentration (EC50) of 1.13 μM and a half-cytotoxic
+concentration (CC50) greater than 100 μM (4). A number
+of subsequent clinical trials (ChiCTR2000029939,
+ChiCTR2000029935, ChiCTR2000029899,
+ChiCTR2000029898, ChiCTR2000029868,
+ChiCTR2000029837, ChiCTR2000029826,
+ChiCTR2000029803, ChiCTR2000029762,
+ChiCTR2000029761, ChiCTR2000029760,
+ChiCTR2000029740, ChiCTR2000029609,
+ChiCTR2000029559, and ChiCTR2000029542) have
+been quickly conducted in China to test the efficacy
+and safety of chloroquine or hydroxychloroquine in the
+treatment of COVID-19 associated pneumonia in more
+
+than 10 hospitals in Wuhan, Jingzhou, Guangzhou,
+Beijing, Shanghai, Chongqing, and Ningbo (5). Thus far,
+results from more than 100 patients have demonstrated
+that chloroquine phosphate is superior to the control
+treatment in inhibiting the exacerbation of pneumonia,
+improving lung imaging findings, promoting a virusnegative conversion, and shortening the disease
+course according to the news briefing. Severe adverse
+reactions to chloroquine phosphate were not noted in
+the aforementioned patients. Given these findings, a
+conference was held on February 15, 2020; participants
+including experts from government and regulatory
+authorities and organizers of clinical trials reached
+an agreement that chloroquine phosphate has potent
+activity against COVID-19. The drug is recommended
+for inclusion in the next version of the Guidelines for
+the Prevention, Diagnosis, and Treatment of Pneumonia
+Caused by COVID-19 issued by the National Health
+Commission of the People's Republic of China.
+Chloroquine is used to prevent and treat malaria
+and is efficacious as an anti-inflammatory agent
+for the treatment of rheumatoid arthritis and lupus
+erythematosus. Studies revealed that it also has potential
+broad-spectrum antiviral activities by increasing
+endosomal pH required for virus/cell fusion, as well as
+interfering with the glycosylation of cellular receptors of
+SARS-CoV (6,7). The anti-viral and anti-inflammatory
+activities of chloroquine may account for its potent
+efficacy in treating patients with COVID-19 pneumonia.

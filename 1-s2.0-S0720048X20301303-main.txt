@@ -1,0 +1,81 @@
+﻿European Journal of Radiology 126 (2020) 108941
+
+Contents lists available at ScienceDirect
+
+European Journal of Radiology
+journal homepage: www.elsevier.com/locate/ejrad
+
+CT manifestations of coronavirus disease-2019: A retrospective analysis of
+73 cases by disease severity
+
+T
+
+Kai-Cai Liua,1, Ping Xub,*,1, Wei-Fu Lvc,*,1, Xiao-Hui Qiud,1, Jin-Long Yaoe,1, Jin-Feng Guf,1,
+Wei Weic,1
+a
+Infection Hospital, Anhui Provincial Hospital, the First Aﬃliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of China,
+Hefei, Anhui Province 230022, China
+b
+Department of Respiratory, Hefei Second People's Hospital, Hefei Hospital Aﬃliated to Anhui Medical University, 1 Guangde Road, Hefei, Anhui Province 230011, China
+c
+Department of Radiology, Anhui Provincial Hospital, the First Aﬃliated Hospital of USTC, Division of Life Sciences and Medicine, University of Science and Technology of
+China, 4 Lujiang Road, Hefei, Anhui Province 230001, China
+d
+Department of Radiology, Bo Zhou People's Hospital, 3 Xiyi Avenue, Qiaocheng District, Bozhou, Anhui Province 236800, China
+e
+Department of Radiology, Tongling People's Hospital, 468 Bijiashan Road, Tongling, Anhui Province 244000, China
+f
+Department of Radiology, Fuyang Second People's Hospital, 450 Linquan Road, Yingzhou District, Fuyang, Anhui Province 236015, China
+
+A R T I C LE I N FO
+
+A B S T R A C T
+
+Keywords:
+Coronavirus disease-2019
+Pneumonia
+Computer tomography
+X-ray
+Diagnosis
+
+Purpose: To report CT features of coronavirus disease-2019 (COVID-19) in patients with various disease severity.
+Methods: The CT manifestations and clinical data of 73 patients with COVID-19 were retrospectively collected in
+6 hospitals from Jan 21 to Feb 3, 2020. We analyzed the initial and follow-up CT features of patients with disease
+severity, according to the Guidelines for the Diagnosis and Treatment of New Coronavirus Pneumonia.
+Results: Six patients (8%) were diagnosed as mild type pneumonia; these patients had no obvious abnormal CT
+ﬁndings or manifested mild changes of lung infection. All 43 patients (59 %) with common type presented
+unique or multiple ground-glass opacities (GGO) in the periphery of the lungs, with or without interlobular
+septal thickening. In the 21 patients (29 %) with severe type, extensive GGO and pulmonary consolidation were
+found in 16 cases (16/21, 76 %) and 5 cases (24 %), respectively. An extensive "white lung", with atelectasis and
+pleural eﬀusion were found in critical type patients (3, 4%). On the resolutive phase of the disease, CT abnormalities showed complete resolution, or demonstrated residual linear opacities.
+Conclusions: Diﬀerent CT features are seen according to disease severity, which can help COVID-19 stratiﬁcation.
+
+Coronavirus Disease-2019 (COVID-19) is an acute infectious disease
+mainly involving the respiratory system, which was recently found in
+humans [1]. The ﬁrst patient was found in Wuhan, Hubei Province,
+China on December 12, 2019. The symptoms of patients were fever,
+fatigue, dry-cough and the patients gradually developed severe dyspnea. The majority of them had a good prognosis [2,3], while a mortality rate of 2.1 % has been recently reported [4]. The average incubation period of the disease was found to be 6.4 days [5]. At present,
+the diagnosis relies on reverse transcription-polymerase chain reaction
+(RT-PCR) or gene sequencing of sputum, throat swab or lower respiratory tract secretion [6]. However, these methods are time-consuming and do not allow assessing the disease severity. Chest CT
+
+scanning can provide rapid screening and assess the severity. In this
+study, we report the CT characteristics of patients with COVID-19 of
+various severity to provide a more comprehensive overview of the
+disease, in order to help the clinical diagnosis and management.
+2. Materials and methods
+2.1. Study population
+This retrospective study was approved by our Institutional Ethics
+Committee. The data of patients were collected from 6 hospitals in
+Anhui province, China from Jan 21 to Feb 3, 2020. The electronic
+medical records were reviewed and analyzed. Seventy-three patients
+with proven COVID-19 were enrolled in this study, including 41 males
+and 32 females; aged 5–86 years, with mean age of (41.6 ± 14.5)
+years. The diagnosis of COVID-19 was made in accordance with the
+Guidelines for the Diagnosis and Treatment of New Coronavirus
+Pneumonia (ﬁfth edition) formulated by the National Health
+Commission of the People's Republic of China [7]. The CT images and
+clinical data of all patients were collected. Among the 73 patients, 54
+(74 %) had the travel history to or from Wuhan, 16 (22 %) had a history
+of close contact with the local COVID-19 patients before the illness
+onset, and the remaining 3 patients denied any contact or travel history.
+All patients were administered with anti-viral and supportive treatment, and prevention of complications based on their clinical condition.

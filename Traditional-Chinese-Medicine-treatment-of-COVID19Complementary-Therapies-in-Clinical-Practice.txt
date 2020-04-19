@@ -1,0 +1,279 @@
+Complementary Therapies in Clinical Practice 39 (2020) 101165
+
+Contents lists available at ScienceDirect
+
+Complementary Therapies in Clinical Practice
+journal homepage: http://www.elsevier.com/locate/ctcp
+
+Traditional Chinese Medicine treatment of COVID-19
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords
+Pneumonia
+COVID-19
+Traditional Chinese medicine
+
+A new kind of Pneumonia caused by new corona virus has been widespread in China since winter of 2019. No
+effective treatment for this disease was verified, so the morbidity and mortality rate were supposed higher than
+flu. The Traditional Chinese Medicine is widely used in clinical practice in China, but many other countries of the
+world to deal with diseases that remain clinically challenging.
+
+This new viral pneumonia was named COVID-19, and declared as
+Public Health Emergency of International Concern by the World Health
+Organization (WHO) on January 30, 2020. When the COVID-19 broke
+out, tens of thousands of Chinese people were infected, especially in
+Wuhan, the capital city of Hubei Province [1], where the infection rate
+was extremely high. At present, the cumulative number of diagnoses
+worldwide is 645,957. Chinese government made relevant decisions
+quickly to control the spread of the epidemic disease. For example, on
+January 20, 2020, Chinese government classified COVID-19 as a Class B
+infectious disease and treated it as Class A [2].
+Supportive therapies are mainly used in clinical practice, such as
+oxygen therapy, antiviral therapy and corticosteroid therapy, because
+there is no specific effective treatment [3]. According to past experi­
+ences in the treatment of infectious diseases in China, Traditional Chi­
+nese Medicine, including herbal formulas, can be used to prevent and
+treat such infectious disease [4,5]. Therefore, Traditional Chinese
+Medicine (TCM) is widely used in the treatment of COVID-19 in China
+promptly. Here we introduce the herbal formulas that are commonly
+used in Chinese hospitals.
+1. Prevention
+According to clinical manifestations of patients who infected with
+COVID-19, it can be classified as “wet, heat, congestion”, in their lungs.
+In Traditional Chinese Medicine, we believe that lungs are delicate, so
+the disease first affects lungs’ function.
+“Wet” refers to the factor with sticky and heavy turbidity that can
+cause a long course of disease and damage the function of the body.
+“Hot” refers to the factor with hot, dry, and rising turbidity that can
+cause disease. “Congestion” is a causative factor that can congest blood
+circulation and cause symptoms such as pain.
+Traditional Chinese medicine believes that Qi is the basic substance
+that constitutes the human body and maintains basic functions. We
+divide Qi into the healthy Qi and the pathogenic Qi. The healthy Qi
+refers to substances that maintain the normal operation of our body. The
+pathogenic Qi refers to substances that can harm the health of our body.
+Therefore, the aim of preventive treatment of TCM is to protect
+lungs. Yupingfeng San, a kind of preventative patent medicine, is chosen
+because of the nature of the lungs’ diseases, listed in Table 1. Yupingfeng
+
+San is an ancient herbal medicine in TCM and used to protect lung Qi
+and avoid pathogenic Qi. In this medicine, there are three herbs:
+Astragalus, Fangfeng and Atractylodes. Astragalus can improve lung Qi
+and can reduce phlegm. Fangfeng can relieve the pathogenic Qi, remove
+dampness and relieve pain. Atractylodes enhances the spleen Qi, which
+can affect our digestion and absorption. Previous studies has shown that
+Yupingfeng San could regulate the body’s immune function.
+These medicinal herbs should be mixed and boiled together with
+1000ml pure water for about 15 minutes after boiling to get about 600ml
+tincture. Each tincture may be subdivided into three doses and taken
+orally 200ml once, three times a day.
+2. Treatment of mild infection
+Patients with mild infection often has fever, sweat, headache, thirst,
+cough, sore throat, red tongue tip, thin white or pale yellow coating and
+floating pulse. We base on above symptoms to diagnose if a patient is a
+mild one. According to theories of Traditional Chinese Medical, patho­
+genic Qi hurts lung Qi. If the lung Qi does not work properly, it will cause
+lung heat and dampness and some typical symptoms, including fever,
+cough, sore throat and fatigue. So we used the method of “clearing lung
+heat and dampness” to treat it. Two types of prescriptions, called Sangju
+yin and Yinqiao san, are commonly used in clinical treatment, and are
+shown in Table 2. The main function of these two prescriptions is to clear
+lung heat, expel phlegm, relieve cough, regulate the patient’s lungs and
+restore normal lung function. Clinically, we chose Yinqiao san for pa­
+tients who had high fever and Sangju yin for patients who had severe
+cough.
+These medicinal herbs should be mixed and boiled together with
+1000ml pure water for about 15 minutes after boiling to get about 600ml
+tincture. Each tincture may be subdivided into three doses and taken
+200ml orally once, three times a day.
+From some studies, we found that Yinqiao san may have antibacte­
+rial and antiviral functions, and can be used to enhance the immune
+function of upper respiratory tract [6]. These two prescriptions can be
+used to treat patients with mild infection of COVID-19.
+
+https://doi.org/10.1016/j.ctcp.2020.101165
+Received 3 March 2020; Received in revised form 29 March 2020; Accepted 30 March 2020
+Available online 1 April 2020
+1744-3881/© 2020 Elsevier Ltd. All rights reserved.
+
+J. Xu and Y. Zhang
+
+Complementary Therapies in Clinical Practice 39 (2020) 101165
+
+Table 1
+Herb prescriptions of Yupingfeng San.
+Yupingfeng San
+
+Astragalus 20g
+
+Table 3
+Two types of herb prescriptions for severe patients.
+Fangfeng 15g
+
+Atractylodes 15g
+
+Table 2
+Two types of prescriptions for mild patients.
+Sangju
+yin
+
+Yinqiao
+san
+
+Mulberry
+leaf 15g
+
+Chrysanthemum
+10g
+
+Forsythia 10g
+
+Almond 9g
+
+Mint 6g
+
+Chinese bellflower
+6g
+
+Reed root 15g
+
+Licorice 3g
+
+Forsythia
+15g
+Bamboo
+leaves 6g
+Burdock 6g
+
+Chinese bellflower
+6g
+Licorice 3g
+
+Honeysuckle
+15g
+Nepeta 6g
+
+Mint 6g
+
+Maxinshigan
+Tang
+
+Ephedra 15g
+
+Almond 10g
+
+Plaster 20g
+
+Licorice 9g
+
+Baihegujin
+Tang
+
+Shudihuang
+15g
+Xuanshen
+10g
+Beimu 6g
+
+Dihuang 15g
+
+Angelica 15g
+
+Chinese
+bellflower 6g
+Licorice 3g
+
+Ophiopogon
+6g
+
+White
+peony 6g
+Lily 6g
+
+for COVID-19, so we use it during the outbreak of COVID-19, and it
+works very well clinically.
+There is no effective treatment for COVID-19 until now. However,
+during the treatment of Covid-19 in China, we found that the inter­
+vention of traditional Chinese medicine can reduce the severe symptoms
+of patients. The empirical therapy of Traditional Chinese Medicine is
+been widely used in Chinese hospitals now, and this therapy might be
+useful for people all around the world.
+
+Light
+tempeh 5g
+
+3. Treatment of severe infection
+
+Appendix A. Supplementary data
+
+In the early course of treatment for COVID-19, if the infection cannot
+be controlled, worse respiratory failure, multiple organ failure, and
+death will occur, then serious infection should be considered. These
+infectious patients have following main manifestations: high fever,
+cough, phlegm, difficult breathing, sweating, chest tightness, fatigue,
+nausea, bloating, red or dark red tongue, yellow coating and slippery or
+weak pulse. We base on the above symptoms to diagnose if patients are
+severe ones.
+According to TCM, if early treatments are not effective, patients are
+improperly treated, or the pathogenic Qi is too strong, the healthy Qi
+(especially the lung Qi) will be damaged severely and lungs will not
+work. Therefore, more and more sputum will be produced and patients
+cannot breathe anymore. Maxingshigan tang(decoction) and Baihegujin
+tang are shown in Table 3 and could be used to benefit the healthy Qi,
+expel the pathogenic Qi and help the lung to expel sputum and get air.
+These medicinal herbs should be boiled together with 1000ml pure
+water for about 30 minutes after boiling to get about 600ml tincture.
+Each tincture may be subdivided into three doses and taken orally 200ml
+once, three times a day.
+Maxinshigan tang is mainly used to clear lung fever and reduce
+phlegm. Baihegujin tang can invigorate the lung Qi. We should mix the
+two prescriptions together when severe infection happens to benefit the
+healthy Qi and expel the pathogenic Qi.
+
+Supplementary data to this article can be found online at https://doi.
+org/10.1016/j.ctcp.2020.101165.
+References
+[1] N. Chen, M. Zhou, X. Dong, J. Qu, F. Gong, Y. Han, et al., Epidemiological and
+clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan,
+China: a descriptive study, Lancet 395 (10223) (2020) 507–513.
+[2] National Health Commission of the People’s Republic of China, Announcement of
+the National Health Commission of the People’s Republic of China (No. 1 in 2020),
+2020/1/20.
+[3] World Health Organization, Q&A on Coronaviruses, 2020/2/2.
+[4] W.Y. Wang, J. Yang, An overview of the thoughts and methods of epidemic pre­
+vention in ancient Chinese Medicine, Jilin J Tradit Chin Med (Chin) 31 (2011)
+197–199.
+[5] N. Joseph, G. Lu, Hygiene and preventive medicine in ancient China, J History Med
+All Sci 17 (1962) 429–478.
+[6] L. Liu, N. Lei, Q. Lin, L. Wang, H. Yan, X. Duan, The effects and mechanism of
+Yinqiao Powder on upper respiratory tract infection, Int. J. Biotechnol. Wellness Ind.
+4 (2015) 57–60.
+[7] J. Liu, E. Manheimer, Y. Shi, C. Gluud, Chinese herbal medicine for severe acute
+respiratory syndrome: a systematic review and meta-analysis, J. Alternative Compl.
+Med. 10 (2004) 1041–1051.
+[8] World Health Organization, SARS: Clinical Trials on Treatment Using a Combination
+of Traditional Chinese Medicine and Western Medicine, 2004. Geneva, Switzerland.
+[9] National Administration of Traditional Chinese Medicine, Prevention program of
+traditional Chinese medicine for 2009 H1N1 influenza, Chin Comm Doctors (Chin)
+25 (2009) 13.
+
+4. Discussion
+
+Jia Xu*, Yunfei Zhang
+Sichuan Integrative Medicine Hospital, Chengdu, Sichuan Province, China
+
+In 2003, a lot of descriptions of Traditional Chinese Medicine were
+used to prevent and treat SARS([7,8]). In 2009, National Administration
+of Traditional Chinese Medicine of China issued a Traditional Chinese
+Medicine program for treatment of H1N1 infection [9]. Based on these
+experiences, we believe that Traditional Chinese Medicine is effective
+
+*
+Corresponding author.
+E-mail address: 519836711@qq.com (J. Xu).
+
+2
+
+

@@ -1,0 +1,188 @@
+﻿Human Vaccines & Immunotherapeutics
+
+ISSN: 2164-5515 (Print) 2164-554X (Online) Journal homepage: https://www.tandfonline.com/loi/khvi20
+
+COVID-19, an emerging coronavirus infection:
+advances and prospects in designing and
+developing vaccines, immunotherapeutics, and
+therapeutics
+Kuldeep Dhama, Khan Sharun, Ruchi Tiwari, Maryam Dadar, Yashpal Singh
+Malik, Karam Pal Singh & Wanpen Chaicumpa
+To cite this article: Kuldeep Dhama, Khan Sharun, Ruchi Tiwari, Maryam Dadar, Yashpal Singh
+Malik, Karam Pal Singh & Wanpen Chaicumpa (2020): COVID-19, an emerging coronavirus
+infection: advances and prospects in designing and developing vaccines, immunotherapeutics, and
+therapeutics, Human Vaccines & Immunotherapeutics, DOI: 10.1080/21645515.2020.1735227
+To link to this article: https://doi.org/10.1080/21645515.2020.1735227
+
+
+MINI-REVIEW
+
+COVID-19, an emerging coronavirus infection: advances and prospects in designing
+and developing vaccines, immunotherapeutics, and therapeutics
+Kuldeep Dhama a, Khan Sharun
+and Wanpen Chaicumpaf
+Ruchi Tiwaric, Maryam Dadard, Yashpal Singh Malike, Karam Pal Singha,
+Division of Pathology, ICAR-Indian Veterinary Research Institute, Bareilly, India; bDivision of Surgery, ICAR-Indian Veterinary Research Institute,
+Bareilly, India; cDepartment of Veterinary Microbiology and Immunology, College of Veterinary Sciences, Deen Dayal Upadhayay Pashu Chikitsa
+Vigyan Vishwavidyalay Evum Go-Anusandhan Sansthan (DUVASU), Mathura, India; dRazi Vaccine and Serum Research Institute, Agricultural
+Research, Education and Extension Organization (AREEO), Karaj, Iran; eDivision of Biological Standardization, ICAR-Indian Veterinary Research
+Institute, Bareilly, India; fCenter of Research Excellence on Therapeutic Proteins and Antibody Engineering, Department of Parasitology, Faculty of
+Medicine Siriraj Hospital, Mahidol University, Bangkok, Thailand
+
+The novel coronavirus infection (COVID-19 or Coronavirus disease 2019) that emerged from Wuhan,
+Hubei province of China has spread to many countries worldwide. Efforts have been made to develop
+vaccines against human coronavirus (CoV) infections such as MERS and SARS in the past decades.
+However, to date, no licensed antiviral treatment or vaccine exists for MERS and SARS. Most of the
+efforts for developing CoV vaccines and drugs target the spike glycoprotein or S protein, the major
+inducer of neutralizing antibodies. Although a few candidates have shown efficacy in in vitro studies, not
+many have progressed to randomized animal or human trials, hence may have limited use to counter
+COVID-19 infection. This article highlights ongoing advances in designing vaccines and therapeutics to
+counter COVID-19 while also focusing on such experiences and advances as made with earlier SARS- and
+MERS-CoVs, which together could enable efforts to halt this emerging virus infection.
+
+Coronaviruses (CoVs) are positive-sense, single-stranded RNA
+viruses of the family Coronaviridae (subfamily Coronavirinae)
+that infect a wide host range to produce diseases ranging from
+common cold to severe/fatal illnesses. The novel virus was initially
+named “2019-nCoV” which was changed to “SARS-CoV-2” by
+the Coronavirus Study Group (CSG) of International Committee
+on Taxonomy of Viruses (ICTV), since it was found to be the
+sister virus of severe acute respiratory syndrome coronavirus
+(SARS-CoV).1 The ongoing coronavirus threat that emerged in
+China has rapidly spread to other countries and has been declared
+as a global health emergency by the World Health Organization
+(WHO). Many nations are diverting their best efforts for the
+implementation of appropriate preventive and control strategies.
+Neither vaccines nor direct-acting antiviral drugs are available for
+the treatment of human and animal coronavirus infections.2-4
+Many efforts have been directed to develop vaccines against
+human CoV infections in recent decades, but a limiting factor is
+the degree of cross-protection rendered by these vaccines due to
+their extensive sequence diversity.5 Various vaccines, immunotherapeutics, and drug options have been explored during the
+recent threats of Zika, Ebola, and Nipah viruses6-8 as well as
+against previous CoVs including SARS- and MERS-CoVs.3,5,9-12
+These valuable options can be exploited for their potency, efficacy,
+and safety along with expediting other ongoing research2,4,13-15
+
+KEYWORDS
+
+Emerging coronavirus;
+COVID-19; vaccines;
+therapeutics; drugs
+
+so as to discover valuable modalities for tackling the
+emerging COVID-19, but as yet there is no effective vaccine or
+therapeutic, for which intense efforts are ongoing.
+Most of the therapeutic options that are available for
+managing COVID-19 are based on previous experiences in
+treating SARS- and MERS-CoV. A major reason for the lack
+of approved and commercially available vaccines or therapeutic agents against these CoVs might be the relative lack of
+interest among the pharmaceutical companies.13 These are
+outbreak scenarios: the demand for drugs or vaccines lasts
+only for a period while the outbreak lasts. The number of
+affected people will also be a small proportion of the global
+drug and vaccine market. So by the time a new drug or
+vaccine is developed, there might not be any patients for
+clinical trials and also no meaningful market for newly discovered drugs. According to WHO guidelines, infected
+patients will receive supportive care including oxygen therapy,
+fluid therapy, and antibiotics for treating secondary bacterial
+infections. The WHO also recommends the isolation of
+patients suspected or confirmed for COVID-19.16 The major
+therapeutic drugs that might be effective in managing
+COVID-19 include remdesivir, lopinavir/ritonavir alone or
+in combination with interferon-β, convalescent plasma, and
+mAbs.17 Nevertheless, before utilizing these drugs for
+COVID-19 pneumonia patients, clinical efficacy, and safety
+studies should be conducted.
+
+This article describes advances in designing vaccines and
+therapeutics to counter COVID-19 while also discussing
+experiences with SARS- and MERS-CoVs, which together
+could pave ways in the right direction to halt this emerging
+virus.
+Multiple strategies are adopted in the development of CoV vaccines; most of these target the surface-exposed spike (S) glycoprotein or S protein as the major inducer of neutralizing antibodies.
+Several S-protein-based strategies have been attempted for developing CoV vaccines, e.g., use of full-length S protein or
+S1-receptor-binding domain (RBD) and expression in virus-like
+particles (VLP), DNA, or viral vectors5,9,18-21 The S protein molecule contains two subunits, S1 and S2. The S1 subunit has an RBD
+that interacts with its host cell receptor, angiotensin-converting
+enzyme 2 (ACE2), whereas the S2 subunit mediates fusion
+between the virus and host cell membranes for releasing viral
+RNA into the cytoplasm for replication.19 Hence, S-proteinbased vaccines should induce antibodies that block not only viral
+receptor binding but also virus genome uncoating. It has been
+shown that the C-terminal domain of the S1 subunit of porcine
+Deltacoronavirus constitutes the immunodominant region, and
+the immune response to this region shows the most potent neutralizing effect.22 The S protein has a major role in the induction of
+protective immunity during infection with SARS-CoV by eliciting
+neutralizing-antibodies and T-cell responses.19 Thus, full-length
+or appropriate parts of the S glycoprotein are believed to be the
+most promising candidate CoV vaccine composition. It was also
+reported that neither the absence nor presence of the other structural proteins affects S protein immunogenicity or its binding to
+the ACE2 receptor that is a critical initial step for virus to access
+into the host cell.23,24 Due to the superior ability of RBD to induce
+neutralizing antibody, both recombinant proteins that contain
+RBD and the recombinant vectors that encode RBD can be used
+for developing the effective SARS-CoV vaccines.18
+Recombinant adenovirus-based vaccine expressing MERSCoV S protein induces systemic IgG, secretory IgA, and lungresident memory T-cell responses when administered intranasally
+into BALB/c mice and provide long-lasting neutralizing immunity
+to MERS spike pseudotyped virus, thereby suggesting that the
+vaccine may confer protection against MERS-CoV.24
+Furthermore, rabies virus (RV) as a viral vector as well as Grampositive enhancer matrix (GEM) as a bacterial vector has been
+used to express MERS-CoV S protein. The immune responses to
+these vaccine candidates were evaluated in BALB/c mice for
+cellular and humoral immune responses, which showed that RVbased vaccine stimulates significantly higher levels of cellular
+immunity and earlier antibody responses in comparison to the
+GEM particle vector.12
+The possibility of developing a universal CoV vaccine was
+assessed based on the similarity in T-cell epitopes of SARSand MERS-CoV that confirmed the potential for crossreactivity among CoVs.25 SARS-CoV-2 shares high genetic
+similarity with the SARS-CoV26 such that vaccines developed
+for SARS-CoV may exhibit cross-reactivity to SARS-CoV-2.
+The comparative evaluation performed on full-length
+S protein sequences of SARS-CoV-2 and SARS-CoV identified
+that the most variable residues were located in the S1 subunit
+of S protein, the critical CoV vaccine target.27 These findings
+suggest that the specific neutralizing antibodies that are effective against the SARS-CoV might not be effective against the
+SARS-CoV-2. Even though the S protein of SARS-CoV-2 has
+key mutations compared to the SARS-CoV, they will still act
+as a viable target for vaccine development.28 Likewise, the
+close similarity of SARS-CoV-2 to the SARS-CoV suggests
+that the receptor of SARS-CoV-2 might be the same as that
+of SARS-CoV receptor (ACE2).29
+Immuno-informatics approach can be used for the identification of epitopes for inclusion in COVID-19 vaccine candidates. Recently, immuno-informatics was used to identify
+significant cytotoxic T lymphocyte (CTL) and B-cell epitopes
+in SARS-CoV-2 S protein. The interactions between these
+epitopes and their corresponding MHC class I molecules
+were studied further by using molecular dynamics simulations
+and found that the CTL epitopes bind with MHC class
+I peptide-binding grooves via multiple contacts, thus indicating their potential for generating immune responses.30 Such
+epitopes may possess the ideal characteristics to become part
+of COVID-19 vaccine candidates. The nucleocapsid (N) protein as well as the potential B cell epitopes of the E protein of
+MERS-CoV has been suggested as probable immunoprotective targets that induce both T-cell and neutralizing
+antibody responses.31,32 Reverse genetic strategies have been
+successfully used in live-attenuated vaccines to inactivate the
+exonuclease effects of non-structural protein 14 (nsp14) or to
+delete the envelope protein in SARS.5 Avian infectious bronchitis virus (IBV) is a chicken CoV. It was suggested that
+avian live virus IBV vaccine (strain H) might be useful for
+SARS33 given that protection provided by strain H is based on
+neutralizing antibody production as well as other immune
+responses. Hence, avian IBV vaccine may be considered
+another option for COVID-19 after evaluating its safety in
+monkeys.34
+Scientists of Rocky Mountain Laboratories are collaborating with Oxford University to develop a chimpanzee adenovirus-vectored COVID-19 vaccine candidate.35 The Coalition
+for Epidemic Preparedness Innovations (CEPI) recently
+announced the initiation of three programs aimed to develop
+COVID-19 vaccines by utilizing established vaccine
+platforms.36 Among the three programs, two are continuations of previously initiated partnerships. CEPI collaborated
+with Inovio in 2018 to developing DNA vaccine candidates
+for MERS ($56 M funding). The vaccine in development
+utilizes DNA Medicines’ platform for delivering synthetic
+genes into cells for translation into antigenic proteins, which
+elicit T-cell and antibody responses. CEPI has collaborated
+with The University of Queensland in 2019 to develop the
+molecular clamp vaccine platform against multiple viral
+pathogens including MERS-CoV ($10 M funding). The vaccine platform functions by synthesizing viral surface proteins
+that get attached to the host cells and clamp them into shape.
+This facilitates easier recognition of antigens by the immune
+system.36 Other than these ongoing programs, CEPI has
+announced funding to Moderna for comparing mRNA therapeutics and vaccines. They will design and manufacture an
+mRNA vaccine in collaboration with the Vaccine Research
+

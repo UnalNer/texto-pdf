@@ -1,0 +1,1098 @@
+Hindawi
+Advances in Virology
+Volume 2020, Article ID 6212643, 7 pages
+https://doi.org/10.1155/2020/6212643
+
+Research Article
+Molecular Diagnosis of Pneumonia Using Multiplex Real-Time
+PCR Assay RespiFinder SMART 22 FAST in a Group of
+Moroccan Infants
+
+®
+
+Kenza Hattouﬁ ,1,2 Houssain Tligui,3 Majdouline Obtel,4 Sobha El Ftouh,3
+Aicha Kharbach,2,5 and Amina Barkat 1,2
+1
+
+National Reference Center in Neonatology and Nutrition, Children’s Hospital, University Hospital Centre IBN SINA,
+Rabat, Morocco
+2
+Research Team on Health and Nutrition of Mother and Child, Faculty of Medicine and Pharmacy, Mohammed V University,
+Rabat, Morocco
+3
+Medical Research Laboratory, Children’s Hospital, University Hospital Centre Ibn Sina, Rabat, Morocco
+4
+Department of Public Health, Laboratory of Biostatistics, Clinical Research and Epidemiology,
+Faculty of Medicine and Pharmacy, Mohammed V University, Rabat, Morocco
+5
+Gynaecology-Obstetrics and Endocrinology Department, Maternity Souissi, University Hospital Center IBN SINA,
+University Mohammed V, Rabat, Morocco
+Correspondence should be addressed to Kenza Hattouﬁ; kenzahattouﬁ@gmail.com
+Received 3 August 2019; Accepted 25 January 2020; Published 18 February 2020
+Academic Editor: Jay C. Brown
+Copyright © 2020 Kenza Hattouﬁ et al. This is an open access article distributed under the Creative Commons Attribution License,
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Background. In Morocco, pediatric pneumonia remains a serious public health problem, as it constitutes the ﬁrst cause of
+mortality due to infectious diseases. The etiological diagnosis of acute respiratory tract infections is diﬃcult. Therefore, it is
+necessary to use Multiplex real-time polymerase chain reaction assay tests in a routine setting for exact and fast identiﬁcation.
+Objectives. In this paper, we present the clinical results of pediatric pneumonia and describe their etiology by using molecular
+diagnosis. Study design: Tracheal secretion was collected from infants presenting respiratory distress isolated or associated with
+systemic signs, attending the unit of Neonatology between December 1, 2016, and Mai 31, 2018. Samples were tested with the
+multiplex RespiFinder SMART 22 FAST which potentially detects 18 viruses and 4 bacteria. Results. Of the 86 infants considered
+in this study (mean age 31 ± 19 days) suspected of acute respiratory tract infections, 71 (83%) were positive for one or multiple
+viruses or/and bacteria. The majority of acute respiratory tract infections had a viral origin (95%): respiratory syncytial viruses (A
+and B) (49%), rhinovirus (21%), coronaviruses 229E (11%), humain metapneumovirus (5%), inﬂuenza A (3%), inﬂuenza H1N1
+(1%), adenovirus (2%), and parainﬂuenza virus type 4 (2%). Among our patients, 6% had Mycoplasma pneumoniae. Coinfections
+were not associated with severe respiratory symptoms. Conclusion. The clinical spectrum of respiratory infections is complex and
+often nonspeciﬁc. Thus, the early and fast detection of related causative agents is crucial. The use of multiplex real time polymerase
+chain reaction may help choose an accurate treatment, reduce the overall use of unnecessary antibiotics, preserve intestinal ﬂora,
+and decrease nosocomial infection by reducing the length of hospitalization.
+
+®
+
+1. Introduction
+According to the World Health Organization (WHO),
+pneumonia is deﬁned as acute respiratory tract infections
+(RTIs) which aﬀect the lungs tissue (bronchi, bronchioles,
+and alveolar tissue) [1]. In Morocco, pediatric pneumonia
+
+remains a serious public health problem and constitutes the
+ﬁrst cause of mortality due to infectious diseases [2].
+Pneumonia is a major cause of childhood morbidity and
+mortality worldwide. The WHO estimates that the 1.4
+million children who die annually are under 5 years of age,
+where the greatest risk of death is in the neonatal period [3].
+
+2
+The epidemiology and etiology of pneumonia vary from
+country to country and from region to region. In developing
+countries, the incidence of pneumonia among children
+under 5 years of age is 0.29 episodes per child/year, compared to 0.05 episodes per child/year in developed countries
+[4, 5].
+Pneumonia is caused by a variety of microorganisms
+(viruses, bacteria, or fungi). Viruses are the most common
+causative agents for children under 5 years of age, especially
+respiratory syncytial virus (RSV), rhinovirus (RV), inﬂuenza
+(IV), parainﬂuenza viruses (PIV), and adenovirus (ADV)
+[6, 7]. At least 26 viruses have now been associated with
+pneumonia. Their distribution varies by season, geographic
+region, and age group (4). Considering the frequency of viral
+infection, antibacterial therapy is often employed inadequately and unnecessarily [8].
+The etiological diagnosis of pneumonia is diﬃcult, due to
+the similarity in clinical presentation and also due to the
+overlap of the symptoms between viruses and bacteria, or
+between diﬀerent viruses [9]. For this reason, the use of
+Multiplex real-time polymerase chain reaction (PCR) assays
+tests in a routine setting for exact and fast identiﬁcation
+appears to be necessary. They detect a wide range of viral and
+bacterial pathogens simultaneously in a single reaction, with
+higher sensitivity and speciﬁcity in hours [10].
+The aim of this study is to present the clinical results of
+pediatric pneumonia and describing their epidemiology and
+etiology among infants who live in Morocco and admitted to
+a neonatology unit.
+
+2. Materials and Methods
+2.1. Design and Population of the Study. This prospective
+study was conducted from December 1, 2016, to May 31,
+2018, at the National Reference Center for Neonatology and
+Nutrition and Medical Research Laboratory at Children’s
+Hospital of Rabat. We included in this study 86 infants
+admitted with respiratory distress isolated or associated with
+systemic signs.
+2.2. Inclusion Criteria. Infants, regardless of their gestational
+age or geographical origin, whose actual age was less than 4
+months, hospitalized for suspicion of pneumonia.
+Inclusion criteria were based on diagnosis by clinical
+symptoms (respiratory symptoms). The infants were
+recruited if they presented with symptoms associated with
+the WHO’s deﬁnition of clinical pneumonia. They are deﬁned as having a history of cough, raised respiratory rate, or
+chest wall indrawing [2, 11].
+
+Advances in Virology
+clinical evaluation of patient, as well as information regarding the patient’s family members.
+The studied data are as follows:
+(i) Epidemiological data: age, sex, and socioeconomic
+status
+(ii) Environment of the patient, home conditions, and
+health history
+(iii) Clinical data: symptoms and evolution
+(iv) Paraclinical data: biological analysis (complete
+blood count, C-reactive protein (CRP), RT-PCR),
+chest X-rays (interpreted by pediatricians)
+2.5. Collected Samples. The tracheal secretion (TS) samples
+were collected in the ﬁrst 12 hours of hospitalization and
+transferred from the neonatology department to the medical
+research laboratory at Children’s Hospital in Rabat.
+The collection of TS was performed according to the
+standard procedure, that is, by using a tracheal aspiration
+probe. This was introduced until resistance was encountered
+and retracted by approximately 2 cm. This was followed by
+the release of the vacuum, and the probe was delicately
+removed using turning movements, from which the secretion was aspirated into a sterile collector tube.
+2.6. Laboratory Methods. The samples were analyzed
+according to the manufacturer’s instructions by using the
+RespiFinder SMART 22 FAST. This assay can detect and
+diﬀerentiate simultaneously 22 respiratory pathogens: 18
+viruses (inﬂuenza viruses A and B, inﬂuenza virus A H1N1,
+respiratory syncytial viruses (RSV) A and B, parainﬂuenza
+viruses 1, 2, 3 and 4, rhinovirus (RV)/enterovirus, coronaviruses (Cor) (229E, NL63, OC43, and HKU1), human
+metapneumovirus (hMPV)), adenovirus (ADV), bocavirus
+(BoV), and 4 bacteria (Legionella pneumophila, Bordetella
+pertussis, Mycoplasma pneumoniae, and Chlamydophila
+pneumoniae) [12].
+175 μl of TS samples were eluted in 40 μl of elution
+buﬀer. The assays comprised a preampliﬁcation step, which
+combines reverse transcriptase and multiplex target ampliﬁcation PCR, followed by a probe hybridization step, a
+probe ligation step, and a probe ampliﬁcation step. The
+Internal Ampliﬁcation Control (IAC) was added at the
+beginning of the procedure to diﬀerentiate between samples
+with true-negative results and samples with false- negative
+results due to PCR failure. Targets are detected using capillary electrophoresis [13].
+
+®
+
+2.3. Exclusion Criteria. All newborns aged between 0 and 9
+days and infants with transient respiratory distress or respiratory distress of cardiac, neurological, or malformative
+origin, were excluded from this study.
+
+2.7. Statistical Analysis. Statistical analysis was performed
+with the Package for the Social Sciences (SPSS.18) and
+analyzed by using the software RChi2 of Pearson. A p value
+<0.05 was considered statistically signiﬁcant.
+
+2.4. Data Collection. All data were entered into sheet containing epidemiological, clinical, paraclinical data, and
+
+2.8. Ethical Consideration. The parents of all participants have
+given informed written consent. The protocol of the study was
+
+Advances in Virology
+
+3
+
+Table 1: General characteristics of the recruited patients (December 1, 2016, to May 31, 2018; N � 86).
+Patient’s variables
+Gender
+M
+F
+Age in hospitalization
+10–30 days
+>30 days–<4 months
+Socioeconomic status
+Low
+Middle
+High
+Family history
+Asthma
+Eczema
+Health history
+Prematurity
+Gastroesophageal reﬂux
+Intensive care/oxygen therapy
+Bronchopulmonary dysplasia
+Congenital heart disease
+Environment of the patient
+Smokers at home
+Pets at home
+Home conditions
+Airy and sunny habitat
+Humidity
+
+n (%)
+
+Positives cases n (%)
+
+Negatives Cases n (%)
+
+p
+
+46 (53)
+40 (47)
+
+44 (95.7)
+27 (67.5)
+
+2 (4.3)
+13 (32.5)
+
+0.001
+
+60 (70)
+26 (30)
+
+50 (83)
+21 (80)
+
+10 (17)
+5 (20)
+
+0.4
+
+39 (45)
+46 (54)
+1 (1)
+
+29 (74.4)
+41 (98.1)
+1 (100)
+
+10 (25.6)
+5 (10.9)
+0
+
+0.1
+
+3 (3)
+2 (2)
+
+3 (100)
+2 (100)
+
+0
+0
+
+0.5
+0.6
+
+14 (16)
+1 (1)
+9 (10)
+3 (3)
+1 (1)
+
+9 (64.3)
+1 (100)
+4 (44.4)
+3 (100)
+1 (100)
+
+5 (35.7)
+0
+5 (55.6)
+0
+0
+
+0.04
+0.8
+0.007
+0.5
+0.8
+
+11 (13)
+4 (5)
+
+11 (100)
+3 (75)
+
+0
+1 (25)
+
+0.1
+0.5
+
+42 (49)
+44 (51)
+
+36 (85.7)
+35 (79.5)
+
+6 (14.3)
+9 (20.5)
+
+0.3
+
+approved by the ethics committee of the biomedical research of
+the Faculty of Medicine and Pharmacy in Rabat, Morocco.
+
+3. Results
+The subjects of this study were a total of the 86 infants. They
+presented with respiratory symptoms and suspicion of pneumonia. Among them, 46 (53%) were male and 40 (47%) were
+female, and the sex ratio was 1.15. The mean age was 31 ± 19
+days. 54% of the patients were of middle socioeconomic status,
+45% had low socioeconomic status, while only one of them was
+of a high socioeconomic status. According to the parents, 4 (5%)
+families had a pet at home, 44 (51%) had dampness at home,
+and 11 (13%) had lived with smokers (Table 1).
+All patients included in this study were conscious and had at
+least one respiratory symptom with a high frequency of dyspnea,
+representing 95% of the cases. Cough, rhinorrhea, and fever
+were frequent with 67%, 62%, and 38%, respectively (Table 2).
+84% of our patients performed chest X-ray , where 62% were
+abnormal. 91% of the cases with abnormal chest X-rays results
+showed a conﬁrmed infection (p < 0.004) using the RT-PCR
+technique (Table 3). Mean duration of hospitalization was 6 ± 5
+days; the length of stay of the dead infants was not included, and
+it was 10 ± 4 days. During this period, 3% of deaths and 10% of
+complications by nosocomial infection were detected.
+The results of multiplex RT-PCR showed the presence of 7
+types of viruses and one species of bacteria. At least, one
+pathogen was detected in 71/86 of the samples (83%). The most
+prevalent virus was RSV, detected in 46/86 of the samples
+(51%), where type A and B represented 59% and 41%, respectively. In the total of the samples, IV A represented 4%
+
+whose one patients had a subtype of IV H1N1, RV was detected
+in 20/86 (23%) of samples, ADV was detected in 2/86 (2%) of
+samples, Cor229E in 10/86 (12%) of samples, hMPV was
+detected in 5/86 (6%) samples, and PIV4 was detected in 2/86
+(2%) of samples. 6% of the patients had Mycoplasma pneumoniae. Coinfection was seen in 22 specimens representing
+26% of all samples (22/86) and 31% of positive samples (22/71).
+In the case of co-infection with two viruses, 19 samples were
+positive. Coinfection virus/bacteria were detected in 4 cases.
+The most frequently detected coinfection combinations were
+RSV/rhino (n � 7) and RSV/Cor229E (n � 6) (Table 4).
+According to our study, the seasonality distribution of
+viruses varies, the graphic shows that viral infections are
+essentially present in the coldest season (autumn and
+winter), when the seasonality of some respiratory viruses is
+not well established. RSV A and B were the most prevalent
+viruses; they appeared frequently in September and December. The cases with IV A were detected in January,
+February, and July; inﬂuenza H1N1 was detected in February. Cor229E was most predominant in May. RV was
+detected during the study without any pick. The other viruses hMPV, ADV, and PIV4 were less frequent (Figure 1).
+We compared the epidemiological, clinical, and radiological characteristics between the positive (83%) and negative
+samples (17%). The proportion of positives in males was 62%
+(44/71, p < 0.001). The rate of prematurity presented 64.3% in
+the positives cases (p < 0.04). For the rest of the general
+characteristics (including age, socioeconomic status, and environment of the patient), the comparison between the two
+groups does not show any signiﬁcance (Table 1). Most clinical
+signs and symptoms were present in both groups, with a higher
+
+4
+
+Advances in Virology
+Table 2: Clinical characteristics of hospitalized patients (December 1, 2016, to May 31, 2018; N � 86).
+
+Functional signs
+Dyspnea
+Cough
+Rhinorrhea
+Fever
+Refusal to breastfeed
+Vomiting
+Diarrhea
+Convulsion
+Physical signs
+Tone:
+Normal
+Hypotonic
+Polypnea
+Tachycardia
+Bradycardia
+MAP: normal
+SaO2:
+Normal
+Desaturation
+CRT:
+<3
+>3
+Pallor
+Cyanosis
+Jaundice
+Labored breathing
+Intercostal recession
+Supraclavicular recession
+Suprasternal recession
+Nasal ﬂaring
+Rales
+Wheezing
+Rhonchi
+Crackles
+Cardiovascular signs
+Heart murmur
+Abdominal signs
+Hepatomegaly
+
+n (%)
+
+Positives cases n (%)
+
+Negatives cases n (%)
+
+p
+
+82 (95)
+58 (67)
+53 (62)
+33 (38)
+26 (30)
+8 (9)
+2 (2)
+1 (1)
+
+67 (81.7)
+47 (81)
+42 (79.2)
+29 (87.9)
+22 (84.6)
+8 (100)
+2 (100)
+0 (0)
+
+15 (18.3)
+11 (19)
+11 (10.8)
+4 (12.1)
+4 (15.4)
+0 (0)
+0 (0)
+1 (100)
+
+0.4
+0.4
+0.2
+0.2
+0.5
+0.2
+0.6
+0.1
+
+61 (71)
+25 (29)
+56 (65)
+28 (33)
+3 (3)
+86 (100)
+
+52 (85.2)
+19 (76)
+45 (80.4)
+22 (78.6)
+1 (33.3)
+
+9 (14.8)
+6 (24)
+11 (19.6)
+6 (21.4)
+2 (66.7)
+
+0.2
+
+81 (94)
+5 (6)
+
+68 (84)
+3 (60)
+
+13 (16)
+2 (40)
+
+0.2
+
+85 (99)
+0
+6 (7)
+16 (19)
+6 (7)
+
+71 (83)
+0
+5 (83.3)
+13 (81.2)
+3 (50)
+
+14 (17)
+1 (100)
+1 (16.7)
+3 (18.8)
+3 (50)
+
+0.1
+0.7
+0.5
+0.06
+
+38
+34
+25
+20
+
+(60)
+(54)
+(40)
+(32)
+
+30 (78.9)
+30 (88.2)
+21 (84)
+20 (100)
+
+8 (21.1)
+4 (11.8)
+4 (16)
+0
+
+0.4
+0.1
+0.4
+0.006
+
+28 (32)
+33 (38)
+3 (3)
+
+24 (85.7)
+25 (75.8)
+2 (66.7)
+
+4 (14.3)
+8 (24.4)
+1 (33.3)
+
+0.4
+0.1
+0.4
+
+3 (3)
+
+3 (100)
+
+0
+
+0.5
+
+1 (3)
+
+1 (100)
+
+0
+
+0.8
+
+0.3
+0.3
+0.07
+
+MAP: mean arterial pressure, CRT: capillary reﬁll time.
+
+Table 3: The chest X-ray results (December 1, 2016, to May 31, 2018; N � 74).
+Chest X-ray, abnormal
+Primary lung focus
+Thoracic hyperinﬂation
+Bronchiectasis
+Horizontalisation of ribs
+Cardiomegaly
+
+n (%)
+46 (62)
+33 (45)
+15 (20)
+10 (14)
+5 (7)
+2 (3)
+
+Positives cases n (%)
+42 (91.3)
+29 (87.9)
+15 (100)
+10 (100)
+5 (100)
+2 (100)
+
+frequency in the positive group. The diﬀerence was not statistically signiﬁcant. Nasal ﬂaring was present only in positive
+cases with a p < 0.006 (Table 2).
+
+4. Discussion
+The human respiratory tract is exposed to viral and
+bacterial infections. Pneumonia is the major clinical
+
+Negatives cases n (%)
+4 (8.7)
+4 (12.1)
+0
+0
+0
+0
+
+p
+0.005
+0.2
+0.04
+0.1
+0.3
+0.6
+
+presentation of lower acute respiratory tract infection,
+which is considered as the major cause of hospitalization
+among children worldwide. The mortality and morbidity
+rate is higher especially during the ﬁrst years of life
+[14–16].
+Several laboratory techniques are used to detect agents
+responsible for RTIs, including immunoﬂuorescence, enzyme immunoassays, isolation in culture, and molecular
+
+Advances in Virology
+
+5
+
+Table 4: Biological results of hospitalized patients (December 1,
+2016, to May 31, 2018).
+n
+19
+
+%
+27
+
+5
+23
+
+7
+33
+
+15
+10
+
+21
+14
+
+42
+71
+27
+19
+20
+10
+5
+3
+1
+2
+2
+
+49
+83
+31
+22
+23
+12
+6
+3
+1
+2
+2
+
+5
+48
+1
+22
+3
+1
+1
+1
+1
+4
+5
+1
+1
+2
+1
+1
+
+6
+68
+1
+27
+4
+1
+1
+1
+1
+6
+7
+1
+1
+3
+1
+1
+
+RSV: respiratory syncytial virus, RV: rhinovirus, Cor 229E: coronaviruses
+229E, hMPV: human metapneumovirus, IVA:inﬂuenza A, IV H1N1 : inﬂuenza H1N1, ADV: adenovirus, PIV 4: parainﬂuenza viruse type 4,
+M. pneumoniae: Mycoplasma pneumoniae.
+
+biology. The current molecular methods can detect a large
+panel of viruses, and bacteria also can make the etiological
+diagnosis more eﬃcient, in contrast to traditional methods
+which are less sensitive and most of which are not suitable
+for rapid diagnosis [17–19]. At Children’s Hospital in Rabat
+CHR, RTIs are frequent, especially the acute lower RTIs;
+they represented a large proportion of all-cause consultations [2]. Therefore, their precise diagnosis is necessary [19].
+Currently, a large variety of molecular assays was developed
+and commercialized [20]. Ruuskanen et al. reported that the
+evidence of viral infection is present in 49% of pediatric cases
+using molecular diagnostics [4, 21].
+We studied for the ﬁrst time, prospective data regarding
+etiology of acute respiratory tract infection in service of
+neonatology CHR. We evaluated the performance of
+RespiFinder SMART 22 FAST in 86 Moroccan infants with
+
+®
+
+10
+Number of viruses detected
+
+Anemia (N � 70)
+Leucocytes (N � 70)
+Leukocytosis
+Leukopenia
+Platelets (N � 70)
+Thrombocytosis
+Thrombocytopenia
+C-reactive protein (CRP)
+High CRP (>20 mg/dL)
+Positive viral detection (N � 86)
+RSV-A
+RSV-B
+RV
+Cor229E
+hMPV
+IV A
+IV H1N1
+ADV
+PIV 4
+Positive bacterial detection (N � 86)
+M. pneumoniae
+Single viral detection (N � 71)
+Single bacterial detection (N � 71)
+Coinfection (N � 71)
+RSV-A-RV
+RSV-A-Cor 229E
+RSV-A-hMPV
+RSV-A-IV A
+RSV-A-hMPV-M. pneumoniae
+RSV-B-RV
+RSV-B-Cor 229E
+RV-Cor 229E
+RV-hMPV
+RV-M. pneumoniae
+hMPV-ADV
+IV A-M. pneumoniae
+
+12
+
+8
+
+6
+
+4
+
+2
+
+0
+Dec Jan
+2016
+
+Feb
+
+Mar
+
+Oct
+
+Jan
+
+Feb May Jul
+
+2017
+
+Sep
+
+2018
+Years and months
+
+RSV-A
+RSV-B
+RV
+Cor229E
+
+Hmpv
+IV A
+IVH1N1
+
+ADV
+PIV4
+M. pneumoniae
+
+Figure 1: Detection of viruses and bacteria during the study period
+(2016–2018).
+
+clinically suspected pneumonia. A very high percentage of
+our samples were positive (83%). The majority of our patients had viral infections. Additionally, most viruses in the
+test panel were detected (RSV, RV, Cor 229E, hMPV, IVA,
+IV A H1N1, ADV, and PIV4). Dabisch-Ruthe et al. reported
+that there is a higher clinical sensitivity of the RespiFinder19 in the detection of virus. They found Respiratory viruses
+in 64% of the Tracheal secretion (TS) samples [12]. This high
+positivity is similar to other studies in which molecular
+methods were performed [2, 22–24].
+In this study, the most prevalent pathogen was RSV A/B.
+It was detected in 53% of samples. According to several
+studies, RSV (A and B) is known as the most common cause
+of pneumonia in infants and young children worldwide [25].
+Hall CB et al. suggest that RSV has the greatest disease
+burden both in hospitalized children and in outpatients,
+especially in children under 5 years of age [26]. This higher
+proportion in infants is due to maternal antibodies that are
+ineﬀective in preventing RSV infections [24]. A systematic
+review realized by Shi et al. in 2015 estimated that 30 million
+episodes of acute lower respiratory infection caused by RSV
+were about a third in the ﬁrst year of the life among children
+aged less than 4 years in low-income and middle-income
+countries. They also estimated 2.8 million episodes in highincome countries [27]. The second virus detected in the
+study was RV with 23%. The human RV is the most frequent
+causative agents of both upper and lower respiratory tract
+infections and the main causative agents of the common
+cold. It causes severe ARIs in infants and young children
+
+6
+[28, 29]. ADV was detected in 2% of cases; it is one of the
+major causes of lower respiratory tract infection in children
+aged more than 2 years and in adults, but rarely in
+newborns and infants [30]. Inﬂuenza A accounted for 4%
+of virus-detection-positive samples. According to the
+results of a study published in Morocco by Ezzine et al.
+during both seasons (2016/2017-2017/2018), inﬂuenza
+infections in ARIs cases aﬀects especially adults aged more
+than 65 years (20.7%) and children aged between 5 and 15
+years (36%), while children aged less than two years had a
+low rate (4.4%) [31]. The IV is known for its seasonal
+outbreaks of ARI during a few weeks in winter [29].
+According to a study realized in Brazil by Canela et al.,
+among children aged between 0 and 18 years, the virus
+positivity is higher with frequency of IV H1N1 (38%) [32].
+PIV subtype 4 was detected in 2% of our cases, and it has
+been reported to be a much less frequent cause of ARIs
+[33]. The group of coronavirus is heterogeneous (HCoV
+229E, OC43, NL63, and HKU1) [34]. In our study, we
+detected only Cor229E. The clinical symptoms of coronavirus and other newly discovered viruses involved in
+RTIs (human bocavirus and hMPV) are similar to the
+other respiratory viruses and are recognized frequently at
+young age [13]. Our results are similar to those of other
+studies conducted among children and infants [35, 36].
+Our etiological results coincide with those of a study
+realized at Toulouze University Hospital among children
+suﬀering from ARIs; there samples were analyzed using
+the RespiFinder 15 assay, the prevalence of virus was
+88.7% and the RSV was the most frequently detected
+39.5% [9]. Regarding bacteria, only 6% of our patients had
+Mycoplasma pneumoniae, while 81% of the cases have
+been treated with antibiotic. The low prevalence of bacteria may be explained by the use of antibiotics as an
+urgent act used in cases suspected with ARTs. Beckmann
+and Hirsch detected Mycoplasma pneumoniae in 2.1%
+among pediatric and adult patients [36].
+According to several studies, the incidence of coinfections depends on diﬀerent populations and test panels
+[37]. Bruijnesteijn van Coppenraet et al. reported that the
+molecular assays revealed a high frequency of double
+infections. Speciﬁcally, coronaviruses (75%), RSV (58%),
+and RV (46%) were frequently detected as mixed infection
+[8]. The current study shows coinfection in 31% of positive
+samples, with a high frequency in the combinations between RSV/rhino and RSV/Cor229E. Several studies had
+pointed out that clinical severity is associated with
+coinfection with more than one virus [8, 37, 38]. Another
+study reported that coinfection was not associated with an
+increase in the clinical severity [39]. Our results did not
+show a signiﬁcant diﬀerence in clinical severity between
+coinfection and single infection. Also, clinical presentation of diﬀerent causative agents was often similar. The
+association of viral detection with clinical characteristics
+shows a predominance of respiratory signs specially
+(dyspnea, polypnea, cyanosis, labored breathing, wheezing, and Rhonch). Our clinical symptoms and signs
+concurred with those of the study realized by Singh S et al.
+among infants aged less than 2 months [40].
+
+Advances in Virology
+
+5. Conclusion
+The clinical spectrum of respiratory infections is complex
+and often nonspeciﬁc. Therefore early and rapid detection of
+related causative agents is crucial. Multiplex RT-PCR assays
+for respiratory infections are not used in routine diagnosis in
+Morocco. Their use in the near future may help pediatricians
+choose an appropriate treatment, reduce the overall use of
+unnecessary antibiotics, stop their use in patients infected
+with virus, initiate antiviral therapy and preserve intestinal
+ﬂora, and help to decrease nosocomial infection by reducing
+the length of hospitalization, which would also decrease
+management costs. Multiplex RT-PCR assays for respiratory
+infections are likely to be the subject of future studies on
+larger samples and diﬀerent age groups.
+
+Data Availability
+The data used to support the ﬁndings of this study are included within the article.
+
+Conflicts of Interest
+The authors declare they have no conﬂicts of interest regarding the publication of this article.
+
+References
+[1] T. Lynch, L. Bialy, J. D. Kellner et al., “A systematic review on
+the diagnosis of pediatric bacterial pneumonia: when gold is
+bronze,” PLoS One, vol. 5, no. 8, Article ID e11989, 2010.
+[2] I. Jroundi, C. Mahraoui, R. Benmessaoud et al., “The epidemiology and aetiology of infections in children admitted
+with clinical severe pneumonia to a university hospital in
+Rabat, Morocco,” Journal of Tropical Pediatrics, vol. 60, no. 4,
+pp. 270–278, 2014.
+[3] L. Liu, H. L. Johnson, S. Cousens et al., “Global, regional, and
+national causes of child mortality: an updated systematic
+analysis for 2010 with time trends since 2000,” The Lancet,
+vol. 379, no. 9832, pp. 2151–2161, 2012.
+[4] O. Ruuskanen, E. Lahti, L. C. Jennings, and D. R. Murdoch,
+“Viral pneumonia,” The Lancet, vol. 377, no. 9773,
+pp. 1264–1275, 2011.
+[5] I. Rudan, C. Boschi-Pinto, Z. Biloglav, K Mulholland, and
+H. Campbell, “Epidemiology and etiology of childhood
+pneumonia,” Bulletin of the World Health Organization,
+vol. 86, no. 5, pp. 408–416, 2008.
+[6] S. Olofsson, R. Brittain-Long, L. M. Andersson, J. Westin, and
+M. Lindh, “PCR for detection of respiratory viruses: seasonal
+variations of virus infections,” Expert Review of Anti-infective
+Therapy, vol. 9, no. 8, pp. 615–626, 2011.
+[7] C. Cabello, M. Manjarrez, R. Olvera, J. Villalba, L. Valle, and
+I. Paramo, “Frequency of viruses associated with acute respiratory infections in children younger than ﬁve years of age
+at a locality of Mexico City,” Memórias Do Instituto Oswaldo
+Cruz, vol. 101, no. 1, pp. 21–24, 2006.
+[8] L. E. S. Bruijnesteijn van Coppenraet, C. M. A. Swanink,
+A. A. van Zwet et al., “Comparison of two commercial
+molecular assays for simultaneous detection of respiratory
+viruses in clinical samples using two automatic electrophoresis detection systems,” Journal of Virological Methods,
+vol. 169, no. 1, pp. 188–192, 2010.
+
+Advances in Virology
+[9] C. Mengelle, J. M. Mansuy, A. Pierre et al., “The use of a
+multiplex real-time PCR assay for diagnosing acute respiratory viral infections in children attending an emergency unit,”
+Journal of Clinical Virology, vol. 61, no. 3, pp. 411–417, 2014.
+[10] S. Pillet, M. Lardeux, J. Dina et al., “Comparative evaluation of six
+commercialized multiplex PCR kits for the diagnosis of respiratory infections,” PLoS One, vol. 8, no. 8, pp. 172–174, 2013.
+[11] E. K. Mulholland, E. A. F. Simoes, M. O. D. Costales,
+E. J. Mcgrath, E. M. Manalac, and S. Gove, “Standardized
+diagnosis of pneumonia in developing countries,” The Pediatric Infectious Disease Journal, vol. 11, no. 2, pp. 77–81, 1992.
+[12] M. Dabisch-Ruthe, T. Vollmer, O. Adams, KnabbeC, and all,
+“Comparison of three multiplex PCR assays for the detection
+of respiratory viral infections: evaluation of xTAG respiratory
+virus panel fast assay, RespiFinder 19 assay and RespiFinder
+SMART 22 assay,” BMC Infectious Diseases, vol. 12, no. 1,
+p. 163, 2012.
+[13] M. Reijans, G. Dingemans, C. H. Klaassen et al., “RespiFinder:
+a new multiparameter test to diﬀerentially identify ﬁfteen
+respiratory viruses,” Journal of Clinical Microbiology, vol. 46,
+no. 4, pp. 1232–1240, 2008.
+[14] R. B. Martins Júnior, S. Carney, D. Goldemberg et al., “Detection of respiratory viruses by real-time polymerase chain
+reaction in outpatients with acute respiratory infection,”
+Memórias Do Instituto Oswaldo Cruz, vol. 109, no. 6,
+pp. 716–721, 2014.
+[15] World Health Organization/United Nations (WHO/UN)
+Children’s Fund, Global Action Plan for Prevention and
+Control of Pneumonia (GAPP), World Health Organization
+and the United Nations Children’s Fund, Geneva, Switzerland, 2009.
+[16] C. S. Khor, I. C. Sam, P. S. Hooi, K. F. Quek, and Y. F. Chan,
+“Epidemiology and seasonality of respiratory viral infections
+in hospitalized children in Kuala Lumpur, Malaysia: a retrospective study of 27 years,” BMC Pediatrics, vol. 12, no. 1,
+p. 32, 2012.
+[17] World Health Organization, CDC Protocol of Real Time RT-PCR
+for Swine Inﬂ Uenza A (H1N1), WHO, Atlanta, Georgia, 2009.
+[18] S. Goktas and M. Cem Sirin, “Prevalence and seasonal distribution of respiratory viruses during the 2014-2015 season in
+istanbul,” Jundishapur Journal of Microbiology, vol. 9, no. 9,
+Article ID e39132, 2016.
+[19] J. B. Mahony, “Detection of respiratory viruses by molecular
+methods,” Clinical Microbiology Reviews, vol. 21, no. 4,
+pp. 716–747, 2008.
+[20] M. Raymaeker, B. De Rijke, I. Pauli, A.-M. Van den Abeele,
+and R. Cartuyvels, “Timely diagnosis of respiratory tract
+infections: evaluation of the performance of the Respiﬁnder
+assay compared to the xTAG Respiratory Viral Panel assay,”
+Journal of Clinical Virology, vol. 52, no. 4, pp. 314–316, 2011.
+[21] E. Vallières and C. Renaud, “Clinical and economical impact
+of multiplex respiratory virus assays,” Diagnostic Microbiology
+and Infectious Disease, vol. 76, no. 3, pp. 255–261, 2013.
+[22] A. Ruohola, M. Waris, T. Allander, T. Ziegler, T. Heikkinen,
+and O. Ruuskanen, “Viral etiology of common cold in children, Finland,” Emerging Infectious Diseases, vol. 15, no. 2,
+pp. 344–346, 2009.
+[23] N. Bhat, R. Tokarz, K. Jain et al., “A Prospec-tive Study of
+Agents associated with acute respiratory infection among
+youngAmerican Indian children,” The Pediatric Infectious
+Disease Journal, vol. 32, pp. e324–333, 2013.
+[24] A. A. Sonawane, J. Shastri, S. B. Bavdekar, and Bavdekar,
+“Respiratory pathogens in infants diagnosed with acute lower
+respiratory tract infection in a tertiary care hospital of western
+
+7
+
+[25]
+
+[26]
+[27]
+
+[28]
+
+[29]
+[30]
+
+[31]
+
+[32]
+
+[33]
+
+[34]
+
+[35]
+
+[36]
+
+[37]
+[38]
+
+[39]
+[40]
+
+India using multiplex real time PCR,” The Indian Journal of
+Pediatrics, vol. 86, no. 5, pp. 433–438, 2019.
+H. Nair, D. J. Nokes, B. D. Gessner et al., “Global burden of
+acute lower respiratory infections due to respiratory syncytial
+virus in young children: a systematic review and metaanalysis,” The Lancet, vol. 375, no. 9725, pp. 1545–1555, 2010.
+C. B. Hall, G. A. Weinberg, M. K. Iwane et al., “The burden of
+respiratory syncytial virus infection in young children,” New
+England Journal of Medicine, vol. 360, no. 6, pp. 588–598, 2009.
+T. Shi, D. A. McAllister, K. L. O’Brien et al., “Global, regional,
+and national disease burden estimates of acute lower respiratory infections due to respiratory syncytial virus in young
+children in 2015: a systematic review and modelling study,”
+The Lancet, vol. 390, no. 10098, pp. 946–958, 2017.
+E. Kieninger, O. Fuchs, P. Latzin, U. Frey, and N. Regamey,
+“Rhinovirus infections in infancy and early childhood,” European Respiratory Journal, vol. 41, no. 2, pp. 443–452, 2013.
+J. O. Wishaupt, F. G. A. Versteegh, and N. G. Hartwig, “PCR
+testing for paediatric acute respiratory tract infections,”
+Paediatric Respiratory Reviews, vol. 16, no. 1, pp. 43–48, 2015.
+M. A. Pretorius, S. A. Madhi, C. Cohen et al., “Respiratory
+viral coinfections identiﬁed by a 10-plex real-time reversetranscription polymerase chain reaction assay in patients
+hospitalized with severe acute respiratory illness–South
+Africa, 2009-2010,” The Journal of Infectious Diseases, vol. 206,
+no. suppl_1, pp. S159–S165, 2012.
+H. Ezzine, I. Cherkaoui, H. Oumzi et al., “Epidemiologie de la
+grippe et facteurs de risque d’infection Respiratoire Aigue
+sévère au Maroc saisons 2016/2017 et 2017/2018,” Bullettin
+d’Epidémiologie et de santé Publique, vol. 56, pp. 27–33, 2018.
+L. N. P. Canela, M. C. D. Magalhães-Barbosa, C. E. Raymundo
+et al., “Viral detection proﬁle in children with severe acute
+respiratory infection,” The Brazilian Journal of Infectious
+Diseases, vol. 22, no. 5, pp. 402–411, 2018.
+G. Billaud, F. Morﬁn, A. Vabret et al., “Human parainﬂuenza
+virus type 4 infections: a report of 20 cases from 1998 to 2002,”
+Journal of Clinical Virology, vol. 34, no. 1, pp. 48–51, 2005.
+P. C. Y. Woo, S. K. P. Lau, C.-M. Chu et al., “Characterization
+and complete genome sequence of a novel coronavirus,
+coronavirus HKU1, from patients with pneumonia,” Journal
+of Virology, vol. 79, no. 2, pp. 884–895, 2005.
+F. de-Paris, C. Beck, M. R. Pires, R. P. D. Santos,
+R. D. S. Kuchenbecker, and A. L. Barth, “Viral epidemiology
+of respiratory infections among children at a tertiary hospital
+in Southern Brazil,” Revista da Sociedade Brasileira de
+Medicina Tropical, vol. 47, no. 2, pp. 223–226, 2014.
+C. Beckmann and H. H. Hirsch, “Comparing luminex
+NxTAG-respiratory pathogen panel and RespiFinder-22 for
+multiplex detection of respiratory pathogens,” Journal of
+Medical Virology, vol. 88, no. 8, pp. 1319–1324, 2016.
+P. D. Sly and C. M. Jones, “Viral co-detection in infants
+hospitalized with respiratory disease: is it important to detect?,” Journal de Pediatria, vol. 87, no. 4, pp. 277–280, 2011.
+G. Cilla, E. Oñate, E. G. Perez-Yarza, M. Montes, D. Vicente,
+and E. Perez-Trallero, “Viruses in community-acquired
+pneumonia in children aged less than 3 years old: high rate of
+viral coinfection,” Journal of Medical Virology, vol. 80, no. 10,
+pp. 1843–1849, 2008.
+M. De Paulis, A. E. Gilio, A. A. Ferraro et al., “Severity of viral
+coinfection in hospitalized infants with respiratory syncytial virus
+infection,” Jornal de Pediatria, vol. 87, no. 5, pp. 307–313, 2011.
+S. Singhi, A. Dhawan, S. Kataria, and B. N. Walia, “Clinical
+signs of pneumonia in infants under 2 months,” Archives of
+Disease in Childhood, vol. 70, no. 5, pp. 413–417, 1994.
+
+

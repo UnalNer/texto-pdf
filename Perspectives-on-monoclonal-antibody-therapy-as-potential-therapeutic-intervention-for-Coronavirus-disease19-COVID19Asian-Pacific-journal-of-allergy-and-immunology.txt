@@ -1,0 +1,528 @@
+﻿REVIEW ARTICLE
+
+Asian Pacific Journal of
+
+Allergy and Immunology
+
+Perspectives on monoclonal antibody therapy
+as potential therapeutic intervention
+for Coronavirus disease-19 (COVID-19)
+Balamurugan Shanmugaraj,1,2 Konlavat Siriwattananon,1,2 Kittikhun Wangkanont,3 Waranyoo Phoolcharoen1,2
+
+Abstract
+Last decade witnessed the outbreak of many life-threatening human pathogens including Nipah, Ebola, Chikungunya,
+Zika, Middle East respiratory syndrome coronavirus (MERS-CoV), Severe Acute respiratory syndrome coronavirus
+(SARS-CoV) and more recently novel coronavirus (2019-nCoV or SARS-CoV-2). The disease condition associated with
+novel coronavirus, referred to as Coronavirus disease (COVID-19). The emergence of novel coronavirus in 2019 in
+Wuhan, China marked the third highly pathogenic coronavirus infecting humans in the 21st century. The continuing
+emergence of coronaviruses at regular intervals poses a significant threat to human health and economy. Ironically, even
+after a decade of research on coronavirus, still there are no licensed vaccines or therapeutic agents to treat coronavirus
+infection which highlights an urgent need to develop effective vaccines or post-exposure prophylaxis to prevent future
+epidemics. Several clinical, genetic and epidemiological features of COVID-19 resemble SARS-CoV infection. Hence,
+the research advancements on SARS-CoV treatment might help scientific community in quick understanding of this
+virus pathogenesis and develop effective therapeutic/prophylactic agents to treat and prevent this infection. Monoclonal antibodies represent the major class of biotherapeutics for passive immunotherapy to fight against viral infection.
+The therapeutic potential of monoclonal antibodies has been well recognized in the treatment of many diseases. Here, we
+summarize the potential monoclonal antibody based therapeutic intervention for COVID-19 by considering the existing
+knowledge on the neutralizing monoclonal antibodies against similar coronaviruses SARS-CoV and MERS-CoV. Further
+research on COVID-19 pathogenesis could identify appropriate therapeutic targets to develop specific anti-virals against
+this newly emerging pathogen.
+Key words: Coronavirus; Emerging threat; Monoclonal Antibody, Immunotherapy, Infectious diseases; Viruses; Zoonoses
+
+Corresponding author:
+Waranyoo Phoolcharoen
+E-mail: Waranyoo.P@chula.ac.th
+
+From:
+1
+Research unit for Plant-produced Pharmaceuticals,
+Chulalongkorn University, Bangkok, Thailand
+2
+Department of Pharmacognosy and Pharmaceutical Botany,
+Faculty of Pharmaceutical Sciences, Chulalongkorn University,
+Bangkok, Thailand
+3
+Department of Biochemistry, Faculty of Science,
+Chulalongkorn University, Bangkok, Thailand
+
+Introduction
+
+In December 2019, cases of pneumonia of unknown cause
+were reported in Wuhan, Hubei Province, China which was later confirmed to be caused by novel coronavirus SARS-CoV-2.
+The clinical condition caused by novel coronavirus is referred
+to as COVID-19.1-4 Coronaviruses (CoVs) are a large family
+of viruses that are phenotypically and genotypically diverse.
+CoVs are enveloped viruses containing single-stranded positive-sense RNA that belongs to Coronaviridae family of the
+Orthocoronavirinae subfamily which can cause illness in birds,
+mammals and humans. The viral genome is about 27-32 kb,
+which encodes for both structural and non-structural proteins.
+
+The structural proteins such as membrane (M), envelope (E)
+protein, nucleocapsid (N) protein and spike protein (S) play a
+major role in virus entry and virus replication in the host cell.5-8
+Two highly pathogenic coronaviruses of zoonotic origin such
+as SARS-CoV and MERS-CoV were identified earlier which
+causes widespread epidemics and fatality in many countries.
+SARS-CoV-2 is the third known highly pathogenic human
+coronavirus infection in the last two decades after MERS-CoV
+and SARS-CoV.3 Although it is believed to be originated from
+bats, the exact source of SARS-CoV-2, animal reservoir and
+enzootic patterns of transmission still remain uncertain.
+10
+
+Potential therapeutic intervention for COVID-19
+
+The COVID-19 symptoms have reportedly ranged from
+mild to severe that can ultimately lead to death. The symptoms usually appear 2-14 days after viral exposure which includes fever, cough, shortness of breath and pneumonia. The
+severe cases showed respiratory, hepatic, gastrointestinal and
+neurological complications that can leads to mortality. The
+transmission of COVID-19 is reported to be human-to-human
+transmission via., respiratory droplets or direct contact with
+the infected patients.1-3,6,9-13 The virus spreads to more than 20
+countries within short period and nearly 73,000 infected cases of COVID-19 with a total of 1,870 deaths were reported as
+of February 18, 2020. The numbers of infected cases and death
+associated with COVID-19 is increasing daily. More number
+of infected cases has been reported in China, followed by Singapore, Hong Kong Thailand, Korea, Japan, Taiwan, Malaysia,
+Vietnam, Australia, Germany, USA, France, UAE, UK, Canada, Italy, Philippines, India, Spain, Finland, Sweden, Belgium,
+Nepal, Sri Lanka, Egypt, and Cambodia.13
+Significant efforts have been made to develop therapeutic
+interventions against coronavirus infection. Major research
+has been focused on identifying anti-viral molecules targeting
+the spike protein as it mediates viral entry, and their potential
+in inducing host immune responses and eliciting protective
+antibody responses in infected individuals. In this review, we
+highlight the therapeutic potential of neutralizing antibodies
+that showed promising efficacy against SARS-CoV or MERSCoV which might have the potential for the therapy and prophylaxis of SARS-CoV-2.
+
+intervention strategies including vaccines, monoclonal antibodies, peptides, interferon therapies and small-molecule drugs
+to combat SARS-CoV-2, it may require several months to test
+its efficacy in vitro/in vivo and also it largely depends on the
+results of the clinical trials. Even though this virus is newly
+identified, the clinical and genetic features showed similarity
+with SARS-CoV.3 Their similarities would make it easier to utilize the existing knowledge and adapt the available vaccines or
+therapeutic models developed against other coronaviruses to
+target the unique aspects of SARS-CoV-2.
+Immunotherapy is regarded as an effective method for
+clinical treatment of infectious diseases. The use of monoclonal antibodies is a new era in infectious disease prevention
+which overcomes many drawbacks associated with serum
+therapy and intravenous immunoglobulins preparations in
+terms of specificity, purity, low risk of blood-borne pathogen
+contamination and safety. Monoclonal antibodies are versatile
+class of pharmaceuticals that have been successfully used by
+pharmaceutical industry which can provide an efficient therapeutic intervention with a highly specific treatment against
+particular disease.20-23 Many monoclonal antibodies against
+viruses are developed in recent years and some are in clinical
+pipeline.24-26
+CoV infection starts with the interaction of receptor binding domain located in the S protein and target receptor on the
+host cell surface such as Angiotensin converting enzyme 2
+(ACE2) for SARS-CoV and dipeptidyl peptidase-4 (DPP4) for
+MERS-CoV.27 The effective treatment options against SARSCoV-2 can either based on the use of broad-spectrum anti-viral drugs or by using specific therapeutic molecules that can
+directly interrupt any stages of the viral lifecycle or the receptor proteins located in the host cell surface to restrain the virus binding thereby blocking the virus attachment and entry.
+This can be achieved by using peptidic fusion inhibitors, antiSARS-CoV-2 neutralizing monoclonal antibodies, anti-ACE2
+monoclonal antibodies and protease inhibitors. The spike protein present on the viral membrane plays a vital role in virus
+entry and is the principal antigenic component responsible for
+inducing host immune response.28 Hence, it has been considered as a key target to develop potential effective therapeutics
+against coronavirus infection. The receptor-binding motif located in the receptor-binding domain (RBD) of S1 sub-unit of
+spike protein interacts with the cell receptor and mediates the
+virus attachment with the host cells.29 Similar to SARS-CoV,
+SARS-CoV-2 utilizes host receptor, angiotensin-converting
+enzyme 2 (ACE2) for its attachment and entry (Figure 1).30-32
+Hence the therapies for SARS-CoV can be extrapolated to use
+for SARS-CoV-2. The specific neutralizing monoclonal antibodies either against receptor-binding domain (RBD) in spike
+protein or specific antibody that binds to ACE2 could effectively block the virus entry (Figure 2). The structure of SARSCoV-2, SARS-CoV and MERS-CoV spike protein and monoclonal antibody interaction sites are shown in figures 3, 4, and
+5. The protein structure figures were generated by PyMOL.
+As both SARS-CoV and SARS-CoV-2 uses same host cell surface receptor, potential blocking agents or strategies tested to
+prevent SARS entry could be evaluated against SARS-CoV-2.
+Coughlin and Prabhakar, (2012) reported a series of human
+monoclonal antibodies targeting the RBD region of S protein
+
+Therapeutic Intervention for COVID-19
+Neither an effective vaccines nor anti-viral therapeutic
+agents have been approved to treat COVID-19 or any other
+human CoV infection till date. The current approach to coronavirus disease management focuses on supportive care. Rapid public health interventions with antibodies, anti-virals or
+novel vaccine strategies are highly essential to contain the
+virus and disease transmission. Passive antibody therapy can
+be considered as a way to limit COVID-19 epidemics. Passive immunization of antibody that can recognize epitopic
+regions in the foreign virus particle can reduce the virus replication and disease severity. Antibodies for passive immunotherapy can be isolated from the blood of the infected patients
+or it can be manufactured in the laboratory. Immunotherapy
+by transferring the convalescent sera to infected patients may
+be effective in humans in neutralizing the virus and prevent
+further infection. Based on the existing evidence and prior
+experience in treating other viral infections such as influenza,
+SARS, MERS and Ebola, the early administration of convalescent plasma or hyper-immune immunoglobulin from patients
+that contains significant antibody titers can likely reduce the
+viral load and disease mortality.14-19 However, the key challenges such as availability of sufficient donors, clinical condition, viral kinetics, and host interactions of SARS-CoV-2 needs
+to be elucidated before considering convalescent plasma as a
+therapeutic option. However, there is an urgent need to consider novel therapies for treating clinically advanced conditions in order to reduce mortality, virus spread and to mitigate
+the potential future outbreaks. Although researchers are in
+the process of developing specific preventive and therapeutic
+11
+
+Asian Pac J Allergy Immunol 2020;38:10-18 DOI 10.12932/AP-200220-0773
+
+SARS-CoV
+
+MERS-CoV
+
+SARS-CoV-2
+
+Receptor ACE2
+
+Receptor DPP4
+
+Receptor ACE2
+
+Figure 1. Graphical representation of SARS-CoV, MERS-CoV, SARS-CoV-2 and its cellular receptor.
+The schematic representation shows the envelope spike proteins of SARS-CoV and MERS-CoV that binds to host receptor angiotensin-converting enzyme 2 (ACE2) and dipeptidyl peptidase 4 (DPP4), respectively. Similar like SARS-CoV, novel coronavirus
+SARS-CoV-2 uses ACE2 as its receptor for host entry. Binding between receptor binding domain in spike protein and the cellular
+receptor mediates membrane fusion and initiate the virus life cycle.
+
+SARS-CoV-2
+
+Neutralizing mAb
+
+Spike Protein
+
+Receptor ACE2
+
+Host cell
+
+Viral RNA release
+
+Fusion
+
+Endosomal membrane
+fusion
+Figure 2. Schematic representation of SARS-CoV-2 neutralization mechanism.
+Interaction of spike protein and the cellular receptor is required for membrane fusion and entry into the target cell. The monoclonal
+antibodies targeting spike protein of SARS-CoV-2 could potentially inhibit the virus binding to its cellular receptor thereby preventing its entry into the cell.
+
+12
+
+
+• Binding to N-terminal domain of S protein of MERS-CoV
+• Blocking the interaction of S1 subunit protein with cellular receptor DPP4 in vitro.
+
+used for passive immunotherapy. Monoclonal antibody cocktail may exhibit more potent anti-virus activity that could increase the effectiveness of the treatment and prevent the viral
+escape.34-36 Although, several monoclonal antibodies showed
+promising result in neutralizing SARS-CoV and MERS-CoV
+infection, the large-scale production of monoclonal antibodies
+is labor intensive, expensive and time consuming which outweighs the monoclonal antibody clinical application especially
+monoclonal antibodies against emerging pathogen. The recent
+advancement in the therapeutic protein production platforms
+could make the monoclonal antibody production at lower
+production costs and affordable. The sequences of monoclonal
+antibodies that are effective against SARS-CoV could be cloned
+and expressed in suitable expression system such as mammalian, yeast or plant and recombinant monoclonal antibodies
+could be tested against SARS-CoV-2. Plant expression system
+could be considered for the rapid production of monoclonal
+antibodies in a short time with the affordable cost which is
+one of the major advantages to be considered especially during
+epidemic situation.37-40
+
+
+MERS and SARS. Further detailed understanding of the virus
+pathogenesis might increase the opportunities for the realistic
+design of therapeutics specific to novel coronavirus.
+
+Author Contributions
+
+All authors have made a considerable, direct and intellectual
+contribution to the work, and approved it for publication.
+
+Acknowledgement
+
+Author (BS) would like to acknowledge the Second Century
+Fund (C2F), Chulalongkorn University, for providing the fellowship.
+
+Conflict of Interest
+
+The authors declare that no conflict of interest.
+
+References
+1.
+
+Concluding Remarks
+
+2.
+
+The need to treat the emerging novel coronavirus that causes global impact throws spotlight on developing monoclonal
+antibody-based passive immunotherapy to provide a quick
+response. Even though there is a major progress towards the
+development of monoclonal antibody therapy for coronavirus
+infection, no monoclonal antibodies have yet been successfully marketed. The increasing understanding on MERS-CoV
+and SARS-CoV in recent years might galvanize the research
+community to make significant progress in the COVID-2019
+therapeutic design in an accelerated time by utilizing the existing anti-viral regimen that showed promising results against
+
+
+Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, et al. Clinical characteristics
+of 138 hospitalized patients with 2019 novel coronavirus-infected
+pneumonia in Wuhan, China. JAMA[Preprint]. 2020 [cited 2020 Feb 18]:
+[9 p.]. Available from: https//doi.org/10.1001/jama.2020.1585
+Li Q, Guan X, Wu P, Wang X, Zhou L, Tong Y, et al. Early transmission
+dynamics in Wuhan, China, of novel coronavirus–infected pneumonia.
+N Engl J Med [Preprint]. 2020 [cited 2020 Feb 16]: [9 p.]. Available from:
+https://doi.org/10.1056/NEJMoa2001316
+Gralinski LE, Menachery VD. Return of the coronavirus: 2019-nCoV.
+Viruses. 2020;12(135).
+World Health Organization [Internet]. Geneva; World Health Organization;
+c2020 [cited 2020 Feb 18]. Coronavirus disease (COVID-19) outbreak;
+[about 2 screens]. Available from: https://www.who.int/emergencies/
+diseases/novel-coronavirus-2019
+Masters PS. The molecular biology of coronaviruses. Adv Virus Res.
+2006;66:193-292.
+Banerjee A, Kulcsar K, Misra V, Frieman M, Mossman K. Bats and
+Coronaviruses. Viruses. 2019;11(41).
+
+Potential therapeutic intervention for COVID-19
+
+
+
+Li F. Structure, function, and evolution of coronavirus spike proteins. Annu
+Rev Virol. 2016;3(1):237-61.
+Kruse RL. Therapeutic strategies in an outbreak scenario to treat the novel
+coronavirus originating in Wuhan, China. F1000Res. 2020;9(72).
+Carlos WG, Cruz CSD, Cao B, Pasnick S, Jamil S. Novel Wuhan
+(2019-nCoV) coronavirus. Am J Respir Crit Care Med. 2020;201(4):7-8.
+Lai C-C, Shih T-P, Ko W-C, Tang H-J, Hsueh P-R. Severe acute respiratory
+syndrome coronavirus 2 (SARS-CoV-2) and coronavirus disease-2019
+(COVID-19): the epidemic and the challenges. Int J Antimicrob Agents.
+2020; 105924.
+Zhang L, Liu Y. Potential interventions for novel coronavirus in China: a
+systematic review. J Med Virol [Preprint]. 2020 [cited 2020 Feb 18]: [ 36 p.].
+Available from: https://doi.org/10.1002/jmv.25707
+Coleman CM, Frieman MB. Coronaviruses: important emerging human
+pathogens. J Virol. 2014;88(10):5209-12.
+World Health Organization [Internet]. Geneva; World Health Organization;
+c2020 [cited 2020 Feb 18]. Coronavirus disease 2019 (COVID-19) situation
+report – 29; [7 screens]. Available from: https://www.who.int/docs/default
+-source/coronaviruse/situation-reports/20200218-sitrep-29-covid-19.pdf
+?sfvrsn=6262de9e_2
+Mupapa K, Massamba M, Kibadi K, Kuvula K, Bwaka A, Kipasa M, et
+al. Treatment of Ebola hemorrhagic fever with blood transfusions from
+convalescent patients. International Scientific and Technical Committee. J
+Infect Dis. 1999;179:18-23.
+Yeh K-M, Chiueh T-S, Siu LK, Lin J-C, Chan PKS, Peng M-Y, et al.
+Experience of using convalescent plasma for severe acute respiratory
+syndrome among healthcare workers in a Taiwan hospital. J Antimicrob
+Chemother. 2005;56(5):919-22.
+Luke TC, Kilbane EM, Jackson JL, Hoffman SL. Meta-analysis: convalescent
+blood products for Spanish influenza pneumonia: a future H5N1 treatment?
+Ann Intern Med. 2006;145(8):599-609.
+Chan K-H, Chan JF-W, Tse H, Chen H, Lau CC-Y, Cai J-P, et al.
+Cross-reactive antibodies in convalescent SARS patients’ sera
+against the emerging novel human coronavirus EMC (2012) by both
+immunofluorescent and neutralizing antibody tests. J Infect. 2013;67(2):
+130-40.
+Mair-Jenkins J, Saavedra-Campos M, Baillie JK, Cleary P, Khaw F-M, Lim
+WS, et al. The effectiveness of convalescent plasma and hyperimmune
+immunoglobulin for the treatment of severe acute respiratory infections of
+viral etiology: a systematic review and exploratory meta-analysis. J Infect
+Dis. 2015;211(1):80-90.
+Arabi Y, Balkhy H, Hajeer AH, Bouchama A, Hayden FG, Al‐Omari A, et
+al. Feasibility, safety, clinical, and laboratory effects of convalescent plasma
+therapy for patients with Middle East respiratory syndrome coronavirus
+infection: a study protocol. Springerplus. 2015;4(709).
+Sui J, Li W, Roberts A, Matthews LJ, Murakami A, Vogel L, et al.
+Evaluation of human monoclonal antibody 80R for immunoprophylaxis of
+severe acute respiratory syndrome by an animal study, epitope mapping,
+and analysis of spike variants. J Virol. 2005;79(10):5900-6.
+Bayry J, Lacroix-Desmazes Sb, Kazatchkine MD, Kaveri SV. Monoclonal
+antibody and intravenous immunoglobulin therapy for rheumatic
+diseases: rationale and mechanisms of action. Nat Clin Pract Rheumatol.
+2007;3(5):262-72.
+Both L, Banyard AC, Dolleweerd CV, Wright E, Ma JK-C, Fooks AR.
+Monoclonal antibodies for prophylactic and therapeutic use against viral
+infections. Vaccine. 2013;31(12):1553-9.
+Marasco WA, Sui J. The growth and potential of human antiviral
+monoclonal antibody therapeutics. Nat Biotechnol. 2007;25(12):1421-34.
+Davey RT Jr, Dodd L, Proschan MA, Neaton J, Neuhaus Nordwall J,
+Koopmeiners JS, et al. A randomized, controlled trial of ZMapp for Ebola
+Virus infection. N Engl J Med. 2016;375(15):1448-56.
+Gupta P, Kamath AV, Park S, Chiu H, Lutman J, Maia M, et al. Preclinical
+pharmacokinetics of MHAA4549A, a human monoclonal antibody to
+influenza A virus, and the prediction of its efficacious clinical dose for
+the treatment of patients hospitalized with influenza A. MAbs. 2016;8(5):
+991-7.
+Caskey M, Klein F, Lorenzi JCC, Seaman MS, West AP Jr, Buckley N, et
+al. Viraemia suppressed in HIV-1-infected humans by broadly neutralizing
+antibody 3BNC117. Nature. 2015;522(7557):487-91.
+Raj VS, Mou H, Smits SL, Dekkers DH, Muller MA, Dijkman R, et al.
+Dipeptidyl peptidase 4 is a functional receptor for the emerging human
+coronavirus-EMC. Nature. 2013;495(7440):251-4.
+
+28. Du L, Yang Y, Zhou Y, Lu L, Li F, Jiang S. MERS-CoV spike protein: a key
+target for antivirals. Expert Opin Ther Targets. 2017;21(2):131-43.
+29. Song Z, Xu Y, Bao L, Zhang L, Yu P, Qu Y, et al. From SARS to MERS,
+thrusting coronaviruses into the spotlight. Viruses. 2019;11(1)(59).
+30. Li W, Moore MJ, Vasilieva N, Sui J, Wong SK, Berne MA, et al.
+Angiotensin-converting enzyme 2 is a functional receptor for the SARS
+coronavirus. Nature. 2003;426(6965):450-4.
+31. Li F, Li W, Farzan M, Harrison SC. Structure of SARS coronavirus spike
+receptor- binding domain complexed with receptor. Science. 2005;
+309(5742):1864-8.
+32. Wan Y, Shang J, Graham R, Baric RS, Li F. Receptor recognition by
+novel coronavirus from Wuhan: An analysis based on decade-long
+structural studies of SARS. J Virol [Preprint]. 2020 [cited 2020 Feb 18]:
+[25 p.] Availbale from: https://jvi.asm.org/content/jvi/early/2020/01/23/
+JVI.00127-20.full.pdf
+33. Coughlin MM, Prabhakar BS. Neutralizing human monoclonal antibodies
+to Severe acute respiratory syndrome coronavirus: target, mechanism of
+action and therapeutic potential. Rev Med Virol. 2012;22(1):2-17.
+34. Schroeder HW Jr, Cavacini L. Structure and function of immunoglobulins.
+J Allergy Clin Immunol. 2010;125:41-52.
+35. Dimitrov DS. Therapeutic proteins. Methods Mol Biol. 2012;899:1-26.
+36. Sparrow E, Friede M, Sheikh M, Torvaldsen S. Therapeutic antibodies for
+infectious diseases. Bull World Health Organ. 2017;95(3):235-7.
+37. Demurtas OC, Massa S, Illiano E, Martinis DD, Chan PKS, Bonito PD, et al.
+Antigen production in plant to tackle infectious diseases flare up: the case
+of SARS. Plant Sci. 2016;7(54).
+38. Hiatt A, Whaley KJ, Zeitlin L. Plant-derived monoclonal antibodies for
+prevention and treatment of infectious disease. Microbiol Spectr. 2014;2(1).
+39. Sainsbury F. Innovation in plant-based transient protein expression for
+infectious disease prevention and preparedness. Curr Opin Biotechnol.
+2019;6(61):110-5.
+40. Shanmugaraj B, Malla A, Phoolcharoen W. Emergence of Novel
+Coronavirus 2019-nCoV: Need for Rapid Vaccine and Biologics
+Development. Pathogens. 2020;9(148).
+41. Sui J, Li W, Murakami A, Tamin A, Matthews LJ, Wong SK, et al. Potent
+neutralization of severe acute respiratory syndrome (SARS) coronavirus
+by a human mAb to S1 protein that blocks receptor association. Proc Natl
+Acad Sci U S A. 2004;101(8):2536-41.
+42. Berry JD, Hay K, Rini JM, Yu M, Wang L, plummer FA, et al. Neutralizing
+epitopes of the SARS-CoV S-protein cluster independent of repertoire,
+antigen structure or mAb technology. MAbs. 2010;2(1):53-66.
+43. van den Brink EN, ter Meulen J, Cox F, Jongeneelen MAC, Thijsse A,
+Throsby M, et al. Molecular and biological characterization of human
+monoclonal antibodies binding to the spike and nucleocapsid proteins
+of Severe acute respiratory syndrome coronavirus. J Virol. 2005;79(3):
+1635-44.
+44. ter Meulen J, van den Brink EN, Poon LLM, Marissen WE, Leung CSW,
+Cox F, et al. Human monoclonal antibody combination against SARS
+coronavirus: synergy and coverage of escape mutants. PLoS Med.
+2006;3(7):1071-9.
+45. ter Meulen J, Bakker ABH, van den Brink EN, Weverling GJ, Martina BEE,
+Haagmans BL, et al. Human monoclonal antibody as prophylaxis for SARS
+coronavirus infection in ferrets. Lancet. 2004;363(9427):2139-41.
+46. Zhu Z, Chakraborti S, He Y, Roberts A, Sheahan T, Xiao X, et al. Potent
+cross-reactive neutralization of SARS coronavirus isolates by human
+monoclonal antibodies. Proc Natl Acad Sci U S A. 2007;104(29):12123-8.
+47. Ng O-W, Keng C-T, Leung CS-W, Peiris JSM, Poon LLM, Tan Y-J.
+Substitution at aspartic acid 1128 in the SARS coronavirus spike
+glycoprotein mediates escape from a S2 domain-targeting neutralizing
+monoclonal antibody. PLoS One. 2014;9(7).
+48. Lip K-M, Shen S, Yang X, Keng C-T, Zhang A, Oh H-LJ, et al. Monoclonal
+antibodies targeting the HR2 domain and the region immediately upstream
+of the HR2 of the S protein neutralize in vitro infection of Severe acute
+respiratory syndrome coronavirus. J Virol. 2006;80(2):941-50.
+49. Greenough TC, Babcock GJ, Roberts A, Hernandez HJ, Thomas WD,
+Coccia JA, et al. Development and characterization of a Severe acute
+respiratory syndrome-associated coronavirus-neutralizing human
+monoclonal antibody that provides effective immunoprophylaxis in mice. J
+Infect Dis. 2005;191(4):507-14.
+50. Elshabrawy HA, Coughlin MM, Baker SC, Prabhakar BS. Human
+monoclonal antibodies against highly conserved HR1 and HR2 domains
+of the SARS-CoV spike protein are more broadly neutralizing. PLoS One.
+2012;7(11).
+
+17
+
+Asian Pac J Allergy Immunol 2020;38:10-18 DOI 10.12932/AP-200220-0773
+
+66. Niu P, Zhang S, Zhou P, Huang B, Deng Y, Qin K, et al. Ultrapotent human
+neutralizing antibody repertoires against Middle East respiratory syndrome
+coronavirus from a recovered patient. J Infect Dis. 2018;218(8):1249-60.
+67. Chen Z, Bao L, Chen C, Zou T, Xue Y, Li F, et al. Human Neutralizing
+Monoclonal Antibody Inhibition of Middle East Respiratory Syndrome
+Coronavirus Replication in the Common Marmoset. J Infect Dis. 2017;
+215(12):1807-15.
+68. de Wit E, Rasmussen AL, Falzarano D, Bushmaker T, Feldmann F,
+Brining DL, et al. Middle East respiratory syndrome coronavirus (MERSCoV) causes transient lower respiratory tract infection in rhesus macaques.
+Proc Natl Acad Sci U S A. 2013;110(41):598-603.
+69. Zhou H, Chen Y, Zhang S, Niu P, Qin K, Jia W, et al. Structural definition
+of a neutralization epitope on the N-terminal domain of MERS-CoV spike
+glycoprotein. Nat Commun. 2019;10(3068).
+70. Wang N, Rosen O, Wang L, Turner HL, Stevens LJ, Corbett KS, et
+al. Structural Definition of a Neutralization-sensitive Epitope on the
+MERS-CoV S1-NTD. Cell Rep. 2019;28(13):3395-405.
+71. Wrapp D, Wang N, Corbett KS, Goldsmith JA, Hsieh C-L, Abiona
+O, et al. Cryo-EM structure of the 2019-nCoV spike in the prefusion
+conformation. BioRxiv [Preprint]. 2020 [cited 2020 Feb 20]: [30 p.]. Available from: https://www.biorxiv.org/content/10.1101/2020.02.11.944462v1.
+full.pdf
+72. Kirchdoerfer RN, Wang N, Pallesen J, Wrapp D, Turner HL, Cottrell CA,
+et al. Stabilized coronavirus spikes are resistant to conformational changes
+induced by receptor recognition or proteolysis. Sci Rep. 2018;8(1).
+73. Hwang WC, Lin Y, Santelli E, Sui J, Jaroszewski L, Stec B, et al. Structural
+basis of neutralization by a human anti-severe acute respiratory syndrome
+spike protein antibody, 80R. J Biol Chem. 2006;281(45):34610-6.
+74. Pak JE, Sharon C, Satkunarajah M, Auperin TC, Cameron CM, Kelvin
+DJ, et al. Structural insights into immune recognition of the severe acute
+respiratory syndrome coronavirus S protein receptor binding domain.
+J Mol Biol. 2009;388(4):815-23.
+75. Prabakaran P, Gan J, Feng Y, Zhu Z, Choudhry V, Xiao X, et al. Structure
+of Severe Acute Respiratory Syndrome Coronavirus Receptor-binding
+Domain Complexed with Neutralizing Antibody. J Biol Chem. 2006;
+281(23):25829-15836.
+76. Yuan Y, Cao D, Zhang Y, Ma J, Qi J, Wang Q, et al. Cryo-EM structures
+of MERS-CoV and SARS-CoV spike glycoproteins reveal the dynamic
+receptor binding domains. Nat Commun. 2017;8(15092).
+77. Lu G, Hu Y, Wang Q, Qi J, Gao F, Li Y, et al. Molecular basis of binding
+between novel human coronavirus MERS-CoV and its receptor CD26.
+Nature. 2013;500(7461):227-31.
+78. Ying T, Prabakaran P, Du L, Shi W, Feng Y, Wang Y, et al. Junctional and
+allele-specific residues are critical for MERS-CoV neutralization by an
+exceptionally potent germline-like antibody. Nat Commun. 2015;6(8223).
+
+51. Walls AC, Xiong X, Park Y-J, Tortorici MA, Snijder J, Quispe J, et al.
+Unexpected Receptor Functional Mimicry Elucidates Activation of
+Coronavirus Fusion. Cell. 2019;176(5):1026-39.
+52. Xu J, Jia W, Wang P, Zhang S, Shi X, Wang X. Antibodies and vaccines
+against Middle East respiratory syndrome coronavirus. Emerg Microbes
+Infect. 2019;8(1):841-56.
+53. Rabaan AA, Alahmed SH, Bazzi AM, Alhani HM. A review of candidate
+therapies for Middle East respiratory syndrome from a molecular
+perspective. J Med Microbiol. 2017;66(9):1261-74.
+54. Jiang L, Wang N, Zuo T, Shi X, Poon K-MV, Wu Y, et al. Potent
+neutralization of MERS-CoV by human neutralizing monoclonal
+antibodies to the viral spike glycoprotein. Sci Transl Med. 2014;6(234):
+234-59.
+55. Ying T, Li H, Lu L, Dimitrov DS, Jiang S. Development of human
+neutralizing monoclonal antibodies for prevention and therapy of
+MERS-CoV infections. Microbes Infect. 2015;17(2):142-8.
+56. Zhang S, Zhou P, Wang P, Li Y, Jiang L, Jia W, et al. Structural definition
+of a unique neutralization epitope on the Receptor-binding domain of
+MERS-CoV spike glycoprotein. Cell Rep. 2018;24(2):441-52.
+57. Yu X, Zhang S, Jiang L, Cui Y, Li D, Wang D, et al. Structural basis for the
+neutralization of MERS-CoV by a human monoclonal antibody MERS-27.
+Sci Rep. 2015;5(13133).
+58. Li Y, Wan Y, Liu P, Zhao J, Lu G, Qi J, et al. A humanized neutralizing
+antibody against MERS-CoV targeting the receptor-binding domain of the
+spike protein. Cell Res. 2015;25(11):1237-49.
+59. van Doremalen N, Falzarano D, Ying T, de Wit E, Bushmaker T,
+Feldmann F, et al. Efficacy of antibody-based therapies against Middle East
+respiratory syndrome coronavirus (MERS-CoV) in common marmosets.
+Antiviral Res. 2017;143:30-7.
+60. Houser KV, Gretebeck L, Ying T, Wang Y, Vogel L, Lamirande EW, et
+al. Prophylaxis with a Middle East respiratory syndrome coronavirus
+(MERS-CoV)-specific human monoclonal antibody protects rabbits from
+MERS-CoV infection. J Infect Dis. 2016;213(10):1557-61.
+61. Ying T, Du L, Ju TW, Prabakaran P, Lau CCY, Lu L, et al. Exceptionally
+potent neutralization of Middle East respiratory syndrome coronavirus by
+human monoclonal antibodies. J Virol. 2014;88(14):796-805.
+62. Wang L, Shi W, Joyce MG, Modjarrad K, Zhang Y, Leung K, et al.
+Evaluation of candidate vaccine approaches for MERS-CoV. Nat Commun.
+2015;6(7712).
+63. Pallesena J, Wang N, Corbett KS, Wrapp D, Kirchdoerfer RN, Turner HL,
+et al. Immunogenicity and structures of a rationally designed prefusion
+MERS-CoV spike antigen. Proc Natl Acad Sci U S A. 2017;114(35):7348-57.
+64. Wang L, Shi W, Chappell JD, Joyce MG, Zhang Y, Kanekiyo M, et al.
+Importance of neutralizing monoclonal antibodies targeting multiple
+antigenic sites on the Middle East respiratory syndrome coronavirus spike
+glycoprotein to avoid neutralization escape. J Virol. 2018;92(10).
+65. Niu P, Zhao G, Deng Y, Sun S, Wang W, Zhou Y, et al. A novel human
+mAb (MERS-GD27) provides prophylactic and postexposure efficacy in
+MERS-CoV susceptible mice. Sci China Life Sci. 2018;61(10):1280-2.
+
+18
+
+
